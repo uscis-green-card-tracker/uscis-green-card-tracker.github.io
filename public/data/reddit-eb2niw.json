@@ -92,6 +92,26 @@
       }
     },
     {
+      "id": "t3_1u5l3oh",
+      "title": "Does anyone with a master in healthcare that has received I-140 approved recently to share the timeline with me? I’m still in process and I applied for PP recently.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u5l3oh/does_anyone_with_a_master_in_healthcare_that_has/",
+      "author": "/u/Tasty_Rain5085",
+      "publishedAt": "2026-06-14T13:24:37+00:00",
+      "excerpt": "",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1u57sg9",
       "title": "Searching for EB2 NIW lawyer/paralegal",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u57sg9/searching_for_eb2_niw_lawyerparalegal/",
@@ -429,34 +449,14 @@
       }
     },
     {
-      "id": "t3_1u45gti",
-      "title": "USCIS Hold Policies Update: My interpretation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u45gti/uscis_hold_policies_update_my_interpretation/",
-      "author": "/u/Present-Bike8556",
-      "publishedAt": "2026-06-12T19:41:41+00:00",
-      "excerpt": "USCIS is now saying that, for the time being, the hold policies affected by the recent federal court order are no longer in effect. In simple terms, if a petition or application was being held only because of those policies, it should no longer remain frozen for that reason and should return to normal USCIS processing.…",
+      "id": "t3_1u4a4rn",
+      "title": "No updates",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u4a4rn/no_updates/",
+      "author": "/u/EarPresent718",
+      "publishedAt": "2026-06-12T22:47:08+00:00",
+      "excerpt": "I applied for my EB2 on February 28, 2026, and then on April 17 went for PP. My profile is an MD currently doing my residency in pediatrics, in Texas, US. Prior to my residency, I studied a PhD in medical science and built a career in cancer drug discovery with 20+ publications and 530+ citations. The fact that I am on…",
       "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u47p78",
-      "title": "URGENT: LAWYER NEEDED FOR RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u47p78/urgent_lawyer_needed_for_rfe/",
-      "author": "/u/Vsi2023",
-      "publishedAt": "2026-06-12T21:08:32+00:00",
-      "excerpt": "Hi everyone, I DIY'd and filed my EB2 NIW petition and I am looking for a lawyer in case of RFE. I know several people have gotten approved without RFE and even responded to RFE by with lawyers, but I wanted to ask which lawyers offer response to RFE that I can contact. Thank you",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-14T11:23:08.305Z",
+  "syncedAt": "2026-06-14T13:28:14.485Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
