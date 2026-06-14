@@ -335,23 +335,6 @@
       }
     },
     {
-      "id": "t3_1u4yetc",
-      "title": "EB-2 NIW AAO decision review",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u4yetc/eb2_niw_aao_decision_review/",
-      "author": "/u/Admirable-Weekend-11",
-      "publishedAt": "2026-06-13T18:30:24+00:00",
-      "excerpt": "Here is a recent AAO decision that focuses on prong two of Dhanasar. While the petitioner presented a strong proposed endeavor, they were found to not be well-positioned to pursue their proposed endeavor. Here is a link to a review of the AAO decision: https://immigrationjason.substack.com/p/eb-2-niw-aao-decision-revie…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1u55y0o",
       "title": "Will a PhD in Corrosion Engineering hurt my I-140 (NIW) timeline due to low citation rates?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u55y0o/will_a_phd_in_corrosion_engineering_hurt_my_i140/",
@@ -378,6 +361,23 @@
       "author": "/u/Worried_Win_2478",
       "publishedAt": "2026-06-13T23:13:16+00:00",
       "excerpt": "Got all RFE’s on all 3 prongs & created evidence map. Looking for help from experts to take a look & provide feedback to make sure their no gaps",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u4yetc",
+      "title": "EB-2 NIW AAO decision review",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u4yetc/eb2_niw_aao_decision_review/",
+      "author": "/u/Admirable-Weekend-11",
+      "publishedAt": "2026-06-13T18:30:24+00:00",
+      "excerpt": "Here is a recent AAO decision that focuses on prong two of Dhanasar. While the petitioner presented a strong proposed endeavor, they were found to not be well-positioned to pursue their proposed endeavor. Here is a link to a review of the AAO decision: https://immigrationjason.substack.com/p/eb-2-niw-aao-decision-revie…",
       "topics": [
         "i140"
       ],
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-14T20:59:54.017Z",
+  "syncedAt": "2026-06-14T22:15:41.556Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
