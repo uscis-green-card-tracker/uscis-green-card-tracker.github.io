@@ -55,6 +55,27 @@
       }
     },
     {
+      "id": "t3_1u5nnzu",
+      "title": "Request for Evidence (Please Share Your Story)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u5nnzu/request_for_evidence_please_share_your_story/",
+      "author": "/u/OldActuary1368",
+      "publishedAt": "2026-06-14T15:10:43+00:00",
+      "excerpt": "Hey Guys! I have a question regarding RFE. I found that on my I-485 a couple of days ago (still waiting for official document) on my account. Case timeline: PD: 11/04/2024 (I-140 approved 12/03/2024) RD: 03/12/2026 (I-693 filed with I-485) Biometrics: 04/16/2026 Case Transfer: 05/13/2026 (non-local FO) Active Review St…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": "03/12/2026",
+        "priorityDate": "11/04/2024",
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1u5e18x",
       "title": "Am I tripping or are field offices processing I-485 NIW filed in February 2026 or later faster than cases filed before February 2026?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u5e18x/am_i_tripping_or_are_field_offices_processing/",
@@ -447,26 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1u4a4rn",
-      "title": "No updates",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u4a4rn/no_updates/",
-      "author": "/u/EarPresent718",
-      "publishedAt": "2026-06-12T22:47:08+00:00",
-      "excerpt": "I applied for my EB2 on February 28, 2026, and then on April 17 went for PP. My profile is an MD currently doing my residency in pediatrics, in Texas, US. Prior to my residency, I studied a PhD in medical science and built a career in cancer drug discovery with 20+ publications and 530+ citations. The fact that I am on…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-14T13:28:14.485Z",
+  "syncedAt": "2026-06-14T15:42:38.227Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
