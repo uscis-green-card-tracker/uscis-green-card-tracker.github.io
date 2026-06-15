@@ -72,17 +72,14 @@
       }
     },
     {
-      "id": "t3_1u6n4w5",
-      "title": "EB2 NIW I-140 approval (WeGreened)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u6n4w5/eb2_niw_i140_approval_wegreened/",
-      "author": "/u/PuzzledSuggestion566",
-      "publishedAt": "2026-06-15T17:25:16+00:00",
-      "excerpt": "Hello everyone! I'm happy to share that my EB-2 NIW I-140 petition has been approved. I found other people's timelines and profiles very helpful during my journey, so I'd like to share mine as well. Case Details and Timeline Category: EB-2 NIW Country: Rest of World (ROW) Attorney: Chen Immigration & Attorneys (WeGreen…",
+      "id": "t3_1u6szvb",
+      "title": "Any advice on getting independent letters of support",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u6szvb/any_advice_on_getting_independent_letters_of/",
+      "author": "/u/KeepOnKeepinOn96",
+      "publishedAt": "2026-06-15T20:51:53+00:00",
+      "excerpt": "I am in the process of putting together my petition. I have been trying to get some independent ones, folks I have not worked with and I keep striking out. Super stressed since my case is an industry profile and I don't have citations etc either. &#x200B; Any advice on how to go about it?",
       "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -102,6 +99,26 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u6n4w5",
+      "title": "EB2 NIW I-140 approval (WeGreened)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u6n4w5/eb2_niw_i140_approval_wegreened/",
+      "author": "/u/PuzzledSuggestion566",
+      "publishedAt": "2026-06-15T17:25:16+00:00",
+      "excerpt": "Hello everyone! I'm happy to share that my EB-2 NIW I-140 petition has been approved. I found other people's timelines and profiles very helpful during my journey, so I'd like to share mine as well. Case Details and Timeline Category: EB-2 NIW Country: Rest of World (ROW) Attorney: Chen Immigration & Attorneys (WeGreen…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -149,24 +166,6 @@
       }
     },
     {
-      "id": "t3_1u6qxa8",
-      "title": "Degree equivalency evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u6qxa8/degree_equivalency_evaluation/",
-      "author": "/u/Icy_Lock6940",
-      "publishedAt": "2026-06-15T19:37:21+00:00",
-      "excerpt": "I'm a recent medical graduate receiving my medical doctor degree (Lekarz), and ECE evaluated it as equivalent to \" at least a bachelor's degree \". I thought I could claim EB2 Niw through an advanced degree after studying medicine for 6 years, but I guess not. But seriously, will this be problematic for my EB2 petition …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1u6p2h1",
       "title": "Does anyone who reviewed journals or conferences and file his/her NIW EB2 with Chen",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u6p2h1/does_anyone_who_reviewed_journals_or_conferences/",
@@ -200,25 +199,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u6omav",
-      "title": "75 COC Applicants",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u6omav/75_coc_applicants/",
-      "author": "/u/Ordinary-Poetry9310",
-      "publishedAt": "2026-06-15T18:17:48+00:00",
-      "excerpt": "Hello, Those of you are from 75 COC and got a recent 3rd FTAO after non-local FO transfer, are you guys getting any silent update after the third FTAO within 2/3 days? Or, did you see any next day silent update after the 3rd FTAO then H008 in the next 24H? Please kindly share your timelines if you received a 3rd FTAO r…",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -296,6 +276,24 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1u6qxa8",
+      "title": "Degree equivalency evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u6qxa8/degree_equivalency_evaluation/",
+      "author": "/u/Icy_Lock6940",
+      "publishedAt": "2026-06-15T19:37:21+00:00",
+      "excerpt": "I'm a recent medical graduate receiving my medical doctor degree (Lekarz), and ECE evaluated it as equivalent to \" at least a bachelor's degree \". I thought I could claim EB2 Niw through an advanced degree after studying medicine for 6 years, but I guess not. But seriously, will this be problematic for my EB2 petition …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -467,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-15T20:45:33.185Z",
+  "syncedAt": "2026-06-15T22:55:44.619Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
