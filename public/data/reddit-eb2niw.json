@@ -35,12 +35,29 @@
       }
     },
     {
-      "id": "t3_1u7k7cz",
-      "title": "Oct 2025 Filer - AOS Approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7k7cz/oct_2025_filer_aos_approved/",
-      "author": "/u/No_Deer154",
-      "publishedAt": "2026-06-16T17:30:56+00:00",
-      "excerpt": "The I-485 took approximately seven and a half months from the receipt date to approval. I filed the adjustment-of-status application myself. Thank you to everyone who shared timelines, answered questions, and offered encouragement. I hope my timeline helps others who are still waiting. Please feel free to ask questions…",
+      "id": "t3_1u7y61i",
+      "title": "NIW Denied",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7y61i/niw_denied/",
+      "author": "/u/NeurobiologicalMelee",
+      "publishedAt": "2026-06-17T02:51:53+00:00",
+      "excerpt": "Adding another data point for academic researchers. My proposed endeavor is research in brain diseases (more specific in the petition). Received the denial notice a few weeks ago after more than a year after RFE response and upgraded with PP. There are a few gems in the denial notice: Exceptional ability: >4/6 criteria…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u7zdtp",
+      "title": "i-485 Approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7zdtp/i485_approved/",
+      "author": "/u/Ordinary-Poetry9310",
+      "publishedAt": "2026-06-17T03:50:31+00:00",
+      "excerpt": "PD Feb, 2025 RD 03/30 Bio 04/23 Silents 05/05, 05/22, 6/6 (Transferred to LA) 3rd FTAO 6/12 Silents 6/15 7:34 PM PST , 6/16 12:00 PM PST Approved 7:28 PM PST I got approval 8 hours 28 mins after the last silent update. EB2 NIW, ROW, F1 STEM OPT, 75 COC, Single",
       "topics": [
         "approval",
         "i485",
@@ -49,9 +66,29 @@
       ],
       "signals": {
         "blockNumber": null,
-        "receiptDate": null,
+        "receiptDate": "03/30",
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1u7xjou",
+      "title": "Approved after RFE on Prong 2 and 3",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7xjou/approved_after_rfe_on_prong_2_and_3/",
+      "author": "/u/Sag24ar",
+      "publishedAt": "2026-06-17T02:22:23+00:00",
+      "excerpt": "Hi everyone! I have been a lurker in this sub for a very long time now, probably since early 2023. I have learned so much from all of you. I see everyone being incredibly polite, helpful and supportive, and today I am thrilled to finally share my own EB2-NIW experience. Timeline Filed: 11-17-2025 Upgraded to PP: 12-15-…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -75,18 +112,23 @@
       }
     },
     {
-      "id": "t3_1u7gitt",
-      "title": "July 26 Visa Bulletin Out",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7gitt/july_26_visa_bulletin_out/",
-      "author": "/u/SkyVast7757",
-      "publishedAt": "2026-06-16T15:19:41+00:00",
-      "excerpt": "DOF and FAD remain current for EB2 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-july-2026.html",
-      "topics": [],
+      "id": "t3_1u7k7cz",
+      "title": "Oct 2025 Filer - AOS Approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7k7cz/oct_2025_filer_aos_approved/",
+      "author": "/u/No_Deer154",
+      "publishedAt": "2026-06-16T17:30:56+00:00",
+      "excerpt": "The I-485 took approximately seven and a half months from the receipt date to approval. I filed the adjustment-of-status application myself. Thank you to everyone who shared timelines, answered questions, and offered encouragement. I hope my timeline helps others who are still waiting. Please feel free to ask questions…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": false
+        "mentionsCountry75": true
       }
     },
     {
@@ -110,6 +152,21 @@
       }
     },
     {
+      "id": "t3_1u7gitt",
+      "title": "July 26 Visa Bulletin Out",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7gitt/july_26_visa_bulletin_out/",
+      "author": "/u/SkyVast7757",
+      "publishedAt": "2026-06-16T15:19:41+00:00",
+      "excerpt": "DOF and FAD remain current for EB2 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-july-2026.html",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1u7gibi",
       "title": "July VB is out",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7gibi/july_vb_is_out/",
@@ -117,6 +174,104 @@
       "publishedAt": "2026-06-16T15:19:12+00:00",
       "excerpt": "",
       "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u81rdb",
+      "title": "NIW Approval Timeline & Strategy (Civil Engineering)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u81rdb/niw_approval_timeline_strategy_civil_engineering/",
+      "author": "/u/Diligent_Scene5580",
+      "publishedAt": "2026-06-17T05:56:25+00:00",
+      "excerpt": "I’m sharing my I-140 NIW approval experience to provide some data for others currently navigating the process. My petition was approved on June 9, 2026. &#x200B; Background I am a Senior Researcher in Civil Engineering. My research focuses on pavement analysis, specifically to improve infrastructure reliability and opt…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u7x8ir",
+      "title": "I140 RFE approval?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7x8ir/i140_rfe_approval/",
+      "author": "/u/Sub_Tri",
+      "publishedAt": "2026-06-17T02:07:48+00:00",
+      "excerpt": "Has anyone recently received rfe in 3 prongs? And got accepted later on?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u81p1r",
+      "title": "Approved after RFE with EP?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u81p1r/approved_after_rfe_with_ep/",
+      "author": "/u/Dumb_Dinosaur534",
+      "publishedAt": "2026-06-17T05:52:39+00:00",
+      "excerpt": "Lately we have seen a lot of negativity regarding EP. Wanna know the success rate of EP after getting RFE these days. (i140)",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u7us43",
+      "title": "Filing I-485 with pending I-140 under new Policy Memo",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7us43/filing_i485_with_pending_i140_under_new_policy/",
+      "author": "/u/med_guy14",
+      "publishedAt": "2026-06-17T00:14:27+00:00",
+      "excerpt": "Would you hold off filing for I-485 right now with a pending EB2-NIW I-140 (premium processing) after the May 2026 Policy Memo by the USCIS? I am from ROW and would like to file for I-485 as it is current for June/July. I won’t get a decision on my I-140 until late July since my RD for I-140 is May 21, 2026. Would like…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u7yyl7",
+      "title": "Do I stand a chance for EB2-NIW? An agent approached saying I do.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7yyl7/do_i_stand_a_chance_for_eb2niw_an_agent/",
+      "author": "/u/bawaniht",
+      "publishedAt": "2026-06-17T03:29:28+00:00",
+      "excerpt": "Do it stand a chance? An agent said I should try for EB2-NIW and I stand a chance. MBA in IT - 2024 - 7 GPA BSC in IT - 2011 - 6 GPA I'm a Technical Project Manager and serial founder with 17+ years of experience across Healthcare SaaS, PropTech, E-Commerce, Logistics, and FinTech. Started as a .NET developer and Micro…",
+      "topics": [
+        "i140",
+        "question"
+      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -143,14 +298,33 @@
       }
     },
     {
-      "id": "t3_1u7qf8n",
-      "title": "Using AI to Judge RFE Response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7qf8n/using_ai_to_judge_rfe_response/",
-      "author": "/u/maradonepoleon",
-      "publishedAt": "2026-06-16T21:15:42+00:00",
-      "excerpt": "Hi Everyone, &#x200B; Recently I have received RFE for my application. I am thinking about using AI tools to polish my rfe response and judge the response. &#x200B; Have you used this approach? Could you please share your recommendations of how to use AI ( Chat gpt/ gemini...) to prepare a solid response? &#x200B; Than…",
+      "id": "t3_1u7ye55",
+      "title": "Any body got denied with data Centre or mission critical projects?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7ye55/any_body_got_denied_with_data_centre_or_mission/",
+      "author": "/u/RichConclusion8528",
+      "publishedAt": "2026-06-17T03:02:22+00:00",
+      "excerpt": "Has any body got denied for mission critical projects?",
       "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u7we2y",
+      "title": "I140 approved after receiving rfe???",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7we2y/i140_approved_after_receiving_rfe/",
+      "author": "/u/Sub_Tri",
+      "publishedAt": "2026-06-17T01:28:11+00:00",
+      "excerpt": "Has anyone recently received an RFE with the 3-prong test and gotten approved? What should we focus on to strengthen the documentation? Chen Law Firm has provided me with a template, and I have already written my personal statement. Do they use the same document I submitted, or do they only use it as reference to fill …",
+      "topics": [
+        "approval",
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -180,16 +354,33 @@
       }
     },
     {
-      "id": "t3_1u7tiqt",
-      "title": "Number of Recommendation letter for RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7tiqt/number_of_recommendation_letter_for_rfe/",
-      "author": "/u/Broad_One4686",
-      "publishedAt": "2026-06-16T23:19:34+00:00",
-      "excerpt": "Hi all I got 1 dependent + 4 independent recommendation letters for RFE response, But my lawyer said, it is not recommended to have the number of independent letter over 2 or 3. because strong case doesn't need it, so maybe I need to except some letters. Do you think it is really related with Approval rate??",
+      "id": "t3_1u7qf8n",
+      "title": "Using AI to Judge RFE Response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7qf8n/using_ai_to_judge_rfe_response/",
+      "author": "/u/maradonepoleon",
+      "publishedAt": "2026-06-16T21:15:42+00:00",
+      "excerpt": "Hi Everyone, &#x200B; Recently I have received RFE for my application. I am thinking about using AI tools to polish my rfe response and judge the response. &#x200B; Have you used this approach? Could you please share your recommendations of how to use AI ( Chat gpt/ gemini...) to prepare a solid response? &#x200B; Than…",
       "topics": [
-        "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u7vit9",
+      "title": "Timeline for Chan",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7vit9/timeline_for_chan/",
+      "author": "/u/Kooky_Librarian7052",
+      "publishedAt": "2026-06-17T00:47:48+00:00",
+      "excerpt": "Just want to know what’s others experience with Chan? I sent an email to ask some questions and they did not reply for a week. They only reply when I email them again to follow up. And how long does it take for them to contact you for payment after you sign? Are they generally responsive? I decided to go with them beca…",
+      "topics": [
         "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -207,76 +398,6 @@
       "publishedAt": "2026-06-16T15:35:50+00:00",
       "excerpt": "The June 2026 Visa Bulletin is out, and if you’re on H1B tracking EB2/EB3, here is a helpful tool to make the movement easier to follow: 👉 EBtracker Visa Bulletin You can: Track EB2/EB3 by country (India, China, ROW) Compare Final Action vs Filing Dates Quickly spot stalls and retrogressions See month-to-month changes…",
       "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u7st95",
-      "title": "Desperately Need Help [Extraordinary Ability Criteria]",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7st95/desperately_need_help_extraordinary_ability/",
-      "author": "/u/NecessaryTravel8034",
-      "publishedAt": "2026-06-16T22:50:05+00:00",
-      "excerpt": "For EB2-NIW extraordinary ability, I am planning to argue: &#x200B; An official academic record [BSc Degree] Evidence of membership in a professional association Evidence of recognition for achievements [Citations/ papers/ peer reviews] &#x200B; 2 Questions - &#x200B; Would IEEE/ACM membership count for #2? The Subject…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u7saqx",
-      "title": "I’m on 46 th business day since NSC received my RFE response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7saqx/im_on_46_th_business_day_since_nsc_received_my/",
-      "author": "/u/Remote-Question-6842",
-      "publishedAt": "2026-06-16T22:28:36+00:00",
-      "excerpt": "I’m freaking out",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u7r2zc",
-      "title": "Any information on processing times for Boston FO (non-local)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7r2zc/any_information_on_processing_times_for_boston_fo/",
-      "author": "/u/PerformanceOk1888",
-      "publishedAt": "2026-06-16T21:40:45+00:00",
-      "excerpt": "The title. Found out today I had been transferred to Boston from NBC. Don't see many EB people who were/are being adjudicated from there. But saw this FO is extremely busy with marriage-based cases and their interviews. Chat GPT says, for EB transfers to non-local offices, timelines are almost the same because transfer…",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u7onbv",
-      "title": "July Visa Bulletin",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7onbv/july_visa_bulletin/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-06-16T20:08:52+00:00",
-      "excerpt": "The State Department has just released the July 2026 Visa Bulletin. USCIS has announced that family-based applicants may continue using the Dates of Filing chart to determine when they can file for an adjustment of status. Employment-based applicants must continue using the Final Action Dates chart. Employment-based ca…",
-      "topics": [
-        "lawyer"
-      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -304,105 +425,12 @@
       }
     },
     {
-      "id": "t3_1u7k0r5",
-      "title": "EB2 NIW adjustment of status on OPT Grace Period?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7k0r5/eb2_niw_adjustment_of_status_on_opt_grace_period/",
-      "author": "/u/MysteriousTeam2117",
-      "publishedAt": "2026-06-16T17:24:40+00:00",
-      "excerpt": "Hello everyone, Has anyone filed their green card application and received their green card during their grace period after completing OPT? I am scared to file for AOS in the grace period. If, for some reason, my I-485 gets denied or any other problem arises, I won't have an underlying status. Or is it better to risk i…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u70wlo",
-      "title": "EB2-NIW I-140 Approval (Animal Science) – Profile , timeline and experience with Chen immigration",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u70wlo/eb2niw_i140_approval_animal_science_profile/",
-      "author": "/u/True_Bike4327",
-      "publishedAt": "2026-06-16T02:24:23+00:00",
-      "excerpt": "Just wanted to share my NIW approval timeline and profile to help others on a similar path. Field: Animal & Poultry Sciences / Veterinary Nutrition Degree: M.S. (Animal & Poultry Sciences) from US university Position at filing: Veterinary Intern Research focus: Sustainable feed, livestock nutrition, animal health 5 pee…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1u7hbnz",
-      "title": "Biometric",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7hbnz/biometric/",
-      "author": "/u/InfiniteDirection281",
-      "publishedAt": "2026-06-16T15:48:54+00:00",
-      "excerpt": "Hello, is there any May I-485 filers who haven’t received biometric notice yet? My receipt is May 1. Do you submit an inquiry if not receive the notice within 2months? Thank you!",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u7geq3",
-      "title": "Is it really taking 26 months for I-140?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7geq3/is_it_really_taking_26_months_for_i140/",
-      "author": "/u/Unstoppable999",
-      "publishedAt": "2026-06-16T15:15:39+00:00",
-      "excerpt": "I was wondering if it is really taking 26 months for a decision? Has anybody gotten their decision from late 2024 Sept-Dec?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u7ga8h",
-      "title": "Can I Ask Emma about FTA0 Event? did they answer? (I485)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7ga8h/can_i_ask_emma_about_fta0_event_did_they_answer/",
-      "author": "/u/Intrinsic137",
-      "publishedAt": "2026-06-16T15:11:14+00:00",
-      "excerpt": "Can I Ask Emma about FTA0 Event directly? did they answer normally!",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u7esli",
-      "title": "Title: PhD Candidate in Neuroscience/Psychology (Parkinson's Research) – Realistic EB-2 NIW Chances?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7esli/title_phd_candidate_in_neurosciencepsychology/",
-      "author": "/u/hiraya-manawari96",
-      "publishedAt": "2026-06-16T14:15:28+00:00",
-      "excerpt": "&#x200B; Looking for a realistic assessment of my EB-2 NIW profile. &#x200B; Background: &#x200B; - Canadian citizen - MA completed in Psychology - Currently a PhD candidate in Psychology/Neuroscience at a Canadian University - Research focus: Parkinson's disease, neuroimaging, motor prediction, dance-based neurorehabi…",
+      "id": "t3_1u7tiqt",
+      "title": "Number of Recommendation letter for RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7tiqt/number_of_recommendation_letter_for_rfe/",
+      "author": "/u/Broad_One4686",
+      "publishedAt": "2026-06-16T23:19:34+00:00",
+      "excerpt": "Hi all I got 1 dependent + 4 independent recommendation letters for RFE response, But my lawyer said, it is not recommended to have the number of independent letter over 2 or 3. because strong case doesn't need it, so maybe I need to except some letters. Do you think it is really related with Approval rate??",
       "topics": [
         "approval",
         "i140",
@@ -417,14 +445,14 @@
       }
     },
     {
-      "id": "t3_1u7d6j9",
-      "title": "Steps after becoming DQ",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7d6j9/steps_after_becoming_dq/",
-      "author": "/u/ConstructionSharp798",
-      "publishedAt": "2026-06-16T13:12:43+00:00",
-      "excerpt": "I just got DQ yesterday from the NVC I’d like to know what are the next steps after and how long does it take to get the interview letter/appointment after becoming DQ?",
+      "id": "t3_1u7st95",
+      "title": "Desperately Need Help [Extraordinary Ability Criteria]",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7st95/desperately_need_help_extraordinary_ability/",
+      "author": "/u/NecessaryTravel8034",
+      "publishedAt": "2026-06-16T22:50:05+00:00",
+      "excerpt": "For EB2-NIW extraordinary ability, I am planning to argue: &#x200B; An official academic record [BSc Degree] Evidence of membership in a professional association Evidence of recognition for achievements [Citations/ papers/ peer reviews] &#x200B; 2 Questions - &#x200B; Would IEEE/ACM membership count for #2? The Subject…",
       "topics": [
-        "timeline",
+        "i140",
         "question"
       ],
       "signals": {
@@ -432,31 +460,10 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u6xifw",
-      "title": "Any October 2025 Filers Waiting for their I-485?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u6xifw/any_october_2025_filers_waiting_for_their_i485/",
-      "author": "/u/MBAngineer",
-      "publishedAt": "2026-06-15T23:51:15+00:00",
-      "excerpt": "So sick and tired of waiting, while hundreds of cases continue to get approved with PD of mid to late 2025 / March-April 2026 I-485 RD - they already have an advantage of over 1.5+ years. No shade on those getting approved, but on the process and how random it is. Just wanted to see if there are any other October 2025 …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     }
   ],
-  "syncedAt": "2026-06-17T00:09:19.413Z",
+  "syncedAt": "2026-06-17T06:00:52.011Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
