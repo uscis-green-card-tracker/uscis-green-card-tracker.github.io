@@ -35,6 +35,23 @@
       }
     },
     {
+      "id": "t3_1u8pari",
+      "title": "I built this in 2023 while researching my NIW petition. Just relaunched v2 - 13,000+ AAO decisions in plain English, free for anyone navigating employment-based immigration",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8pari/i_built_this_in_2023_while_researching_my_niw/",
+      "author": "/u/mundus01",
+      "publishedAt": "2026-06-17T22:52:04+00:00",
+      "excerpt": "I spent months reviewing over 1,000 USCIS AAO decisions while trying to self-petition for my NIW some years back. I noticed patterns. So I built a tool to make those patterns searchable for everyone. I first launched CaseReviewer in 2023. This is v2, a full rebuild with a new design, faster search, and much more data. …",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1u8l13a",
       "title": "EB2 NIW RFE (Industry Profile) – Looking for Advice",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8l13a/eb2_niw_rfe_industry_profile_looking_for_advice/",
@@ -79,6 +96,24 @@
       "author": "/u/Bitter_Comfort_6434",
       "publishedAt": "2026-06-17T20:08:21+00:00",
       "excerpt": "Where can one find current administration's focus areas for NIW?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u8q9w5",
+      "title": "RFE XM2623",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8q9w5/rfe_xm2623/",
+      "author": "/u/amira1909",
+      "publishedAt": "2026-06-17T23:34:01+00:00",
+      "excerpt": "Hello, has anyone had any experiences with the officer XM2623 from TSC? Thank you,",
       "topics": [
         "i140",
         "question"
@@ -144,24 +179,6 @@
       }
     },
     {
-      "id": "t3_1u8ncab",
-      "title": "I140 tracker prediction",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8ncab/i140_tracker_prediction/",
-      "author": "/u/Electronic-Ice-4611",
-      "publishedAt": "2026-06-17T21:33:09+00:00",
-      "excerpt": "My priority date is Dec 31, 2024. I was tracking the case on trackmyi140 website and till yesterday it showed that my case would have a response in October. Today it shows that the response on my case would be around jan 2028. How accurate is the prediction model this website uses? Do you guys recommend upgrading to pr…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1u7xjou",
       "title": "Approved after RFE on Prong 2 and 3",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7xjou/approved_after_rfe_on_prong_2_and_3/",
@@ -173,6 +190,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u8ncab",
+      "title": "I140 tracker prediction",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8ncab/i140_tracker_prediction/",
+      "author": "/u/Electronic-Ice-4611",
+      "publishedAt": "2026-06-17T21:33:09+00:00",
+      "excerpt": "My priority date is Dec 31, 2024. I was tracking the case on trackmyi140 website and till yesterday it showed that my case would have a response in October. Today it shows that the response on my case would be around jan 2028. How accurate is the prediction model this website uses? Do you guys recommend upgrading to pr…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -298,23 +333,6 @@
       }
     },
     {
-      "id": "t3_1u8gc3c",
-      "title": "Predictions for USCIS August 2026 Visa Bulletin",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8gc3c/predictions_for_uscis_august_2026_visa_bulletin/",
-      "author": "/u/InstructionMain8249",
-      "publishedAt": "2026-06-17T17:15:47+00:00",
-      "excerpt": "As many of you know, the USCIS July 2026 Visa Bulletin is out ( https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-july-2026.html ), and EB2-ROW remains current. However, the July Visa Bulletin was prepared based on demand received by June 2–3, before the June 4 decision to …",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1u8eclf",
       "title": "Ascend Immigration",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8eclf/ascend_immigration/",
@@ -358,6 +376,23 @@
       "publishedAt": "2026-06-17T09:51:56+00:00",
       "excerpt": "Hi folks, I am new here and currently looking for the best resources supporting self-filing. I was wondering if there is a repo somewhere out there with complete filing documents - including PE, recommendation letters, etc. This would really help me to understand what is needed and what the format should be. Appreciate…",
       "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u8gc3c",
+      "title": "Predictions for USCIS August 2026 Visa Bulletin",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8gc3c/predictions_for_uscis_august_2026_visa_bulletin/",
+      "author": "/u/InstructionMain8249",
+      "publishedAt": "2026-06-17T17:15:47+00:00",
+      "excerpt": "As many of you know, the USCIS July 2026 Visa Bulletin is out ( https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-july-2026.html ), and EB2-ROW remains current. However, the July Visa Bulletin was prepared based on demand received by June 2–3, before the June 4 decision to …",
+      "topics": [
+        "question"
+      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -424,48 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1u7oy2z",
-      "title": "Approved NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u7oy2z/approved_niw/",
-      "author": "/u/Artistic-Cup-4413",
-      "publishedAt": "2026-06-16T20:19:29+00:00",
-      "excerpt": "Hi everyone, Wanted to share that my EB2-NIW petition got approved (prepared and filed with Chen). My timeline: PD: 11/17/2024 Upgrade to Premium processing: 4/24/26 Approved without RFE: 5/29/26 Texas processing center My profile: Neuroscientist with a PhD in Biomedical Engineering (US institution), working in Alzheim…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "11/17/2024",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u83uxi",
-      "title": "Premium Processing timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u83uxi/premium_processing_timeline/",
-      "author": "/u/omaratef3221",
-      "publishedAt": "2026-06-17T07:57:57+00:00",
-      "excerpt": "I have applied on premium processing on 15 May 2026. Today marks the 23rd business day. Do responses usually comes around this period or most people receive the responses towards the end of the 45 business days ? Sorry if the question feels dumb, I am kind of stressed about it. Beside, I am planning to do IVP and from …",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-17T22:03:24.365Z",
+  "syncedAt": "2026-06-18T00:07:30.790Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
