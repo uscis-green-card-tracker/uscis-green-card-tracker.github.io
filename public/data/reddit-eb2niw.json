@@ -108,23 +108,6 @@
       }
     },
     {
-      "id": "t3_1u9pqty",
-      "title": "For NIW, evidence is stronger when each document has a job",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9pqty/for_niw_evidence_is_stronger_when_each_document/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-06-19T02:31:37+00:00",
-      "excerpt": "One mistake I see in NIW discussions is treating evidence like a pile. More letters. More certificates. More screenshots. More publications. More explanations. But USCIS is not just counting documents. The question is whether each document helps prove a specific part of the case. I would sort evidence into buckets befo…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1u9a5zy",
       "title": "NIW Approved After RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9a5zy/niw_approved_after_rfe/",
@@ -145,15 +128,14 @@
       }
     },
     {
-      "id": "t3_1u9o8cq",
-      "title": "Need help with NIW PE (Robust AI/ Trustworthy AI)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9o8cq/need_help_with_niw_pe_robust_ai_trustworthy_ai/",
-      "author": "/u/Beautiful_Baker_2233",
-      "publishedAt": "2026-06-19T01:18:06+00:00",
-      "excerpt": "Need ideas. Please do reach out to connect if you're on a similar track. My difficulty is that I am not a PhD, and atm on OPT. P.S. Any attorney at Chen who has handled Robust AI/ Trustworthy AI PE before?",
+      "id": "t3_1u9pq7d",
+      "title": "A quick test for whether your NIW proposed endeavor is too broad",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9pq7d/a_quick_test_for_whether_your_niw_proposed/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-06-19T02:30:50+00:00",
+      "excerpt": "A lot of NIW cases start to get weaker before the evidence is even discussed. The problem is usually the proposed endeavor. If the proposed endeavor reads like a job title, a field, or a general ambition, the officer has too much room to say the work is important only to one employer or only to the applicant's career. …",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -164,18 +146,13 @@
       }
     },
     {
-      "id": "t3_1u9qeeb",
-      "title": "I-485 Timeline: GC within 12 months? Should I file EAD too?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9qeeb/i485_timeline_gc_within_12_months_should_i_file/",
-      "author": "/u/RKabirx",
-      "publishedAt": "2026-06-19T03:03:16+00:00",
-      "excerpt": "Hi all, I am planning to submit my I-485 in July and trying understand the realistic I-485 timeline/trend. I am hoping to change jobs around August 2027, so I am wondering how likely it is to have the GC in hand within about 12 months after filing. For those who recently filed I-485, how long did it take from filing to…",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline",
-        "question"
-      ],
+      "id": "t3_1u9rruy",
+      "title": "Long Holiday Weekend",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9rruy/long_holiday_weekend/",
+      "author": "/u/Spirited_Might8204",
+      "publishedAt": "2026-06-19T04:12:29+00:00",
+      "excerpt": "Hi All, Just a remainder that today June 19 is a holiday on the U.S so is a long holiday weekened and we won't get updates until Monday 22.",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -201,15 +178,34 @@
       }
     },
     {
-      "id": "t3_1u9pq7d",
-      "title": "A quick test for whether your NIW proposed endeavor is too broad",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9pq7d/a_quick_test_for_whether_your_niw_proposed/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-06-19T02:30:50+00:00",
-      "excerpt": "A lot of NIW cases start to get weaker before the evidence is even discussed. The problem is usually the proposed endeavor. If the proposed endeavor reads like a job title, a field, or a general ambition, the officer has too much room to say the work is important only to one employer or only to the applicant's career. …",
+      "id": "t3_1u9qeeb",
+      "title": "I-485 Timeline: GC within 12 months? Should I file EAD too?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9qeeb/i485_timeline_gc_within_12_months_should_i_file/",
+      "author": "/u/RKabirx",
+      "publishedAt": "2026-06-19T03:03:16+00:00",
+      "excerpt": "Hi all, I am planning to submit my I-485 in July and trying to understand the realistic I-485 timeline/trend. I am hoping to change jobs around August 2027, so I am wondering how likely it is to have the GC in hand within about 12 months after filing. For those who recently filed I-485, how long did it take from filing…",
       "topics": [
-        "i140",
+        "approval",
+        "i485",
+        "timeline",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1u9pqty",
+      "title": "For NIW, evidence is stronger when each document has a job",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9pqty/for_niw_evidence_is_stronger_when_each_document/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-06-19T02:31:37+00:00",
+      "excerpt": "One mistake I see in NIW discussions is treating evidence like a pile. More letters. More certificates. More screenshots. More publications. More explanations. But USCIS is not just counting documents. The question is whether each document helps prove a specific part of the case. I would sort evidence into buckets befo…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -238,13 +234,17 @@
       }
     },
     {
-      "id": "t3_1u9rruy",
-      "title": "Long Holiday Weekend",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9rruy/long_holiday_weekend/",
-      "author": "/u/Spirited_Might8204",
-      "publishedAt": "2026-06-19T04:12:29+00:00",
-      "excerpt": "Hi All, Just a remainder that today June 19 is a holiday on the U.S so is a long holiday weekened and we won't get updates until Monday 22.",
-      "topics": [],
+      "id": "t3_1u9o8cq",
+      "title": "Need help with NIW PE (Robust AI/ Trustworthy AI)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9o8cq/need_help_with_niw_pe_robust_ai_trustworthy_ai/",
+      "author": "/u/Beautiful_Baker_2233",
+      "publishedAt": "2026-06-19T01:18:06+00:00",
+      "excerpt": "Need ideas. Please do reach out to connect if you're on a similar track. My difficulty is that I am not a PhD, and atm on OPT. P.S. Any attorney at Chen who has handled Robust AI/ Trustworthy AI PE before?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -344,6 +344,25 @@
       }
     },
     {
+      "id": "t3_1u98c67",
+      "title": "Do you think EB-2 ROW will remain current (“C”)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u98c67/do_you_think_eb2_row_will_remain_current_c/",
+      "author": "/u/Interesting_Hawk_392",
+      "publishedAt": "2026-06-18T14:48:51+00:00",
+      "excerpt": "I’m trying to decide whether I should file my I-485 as soon as possible while it is current, or whether EB-2 ROW is likely to remain current for a while. I understand that no one can predict the Visa Bulletin with certainty, but I’d like to hear how others are reading the current situation. Do you think EB-2 ROW may re…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1u9esqu",
       "title": "How long?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9esqu/how_long/",
@@ -404,45 +423,6 @@
       }
     },
     {
-      "id": "t3_1u8ueuo",
-      "title": "EB2-NIW I-140 Approved w/o RFE (NSC, PP, PhD in Computer Science)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8ueuo/eb2niw_i140_approved_wo_rfe_nsc_pp_phd_in/",
-      "author": "/u/gowarkratos",
-      "publishedAt": "2026-06-18T02:45:28+00:00",
-      "excerpt": "Hi everyone, I wanted to share that my EB2-NIW I-140 petition was approved w/o RFE. My case was originally received at the Nebraska Service Center in December 2024. I upgraded it to premium in April 2026, and it was approved after 42 business days (18 months total). Timeline: I-140 received: December 2024 Upgraded to P…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u98c67",
-      "title": "Do you think EB-2 ROW will remain current (“C”)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u98c67/do_you_think_eb2_row_will_remain_current_c/",
-      "author": "/u/Interesting_Hawk_392",
-      "publishedAt": "2026-06-18T14:48:51+00:00",
-      "excerpt": "I’m trying to decide whether I should file my I-485 as soon as possible while it is current, or whether EB-2 ROW is likely to remain current for a while. I understand that no one can predict the Visa Bulletin with certainty, but I’d like to hear how others are reading the current situation. Do you think EB-2 ROW may re…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1u97qe0",
       "title": "Is there anyone who got approved after RFE without Officer ID in your RFE from USCIS?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1u97qe0/is_there_anyone_who_got_approved_after_rfe/",
@@ -461,9 +441,29 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1u8ueuo",
+      "title": "EB2-NIW I-140 Approved w/o RFE (NSC, PP, PhD in Computer Science)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8ueuo/eb2niw_i140_approved_wo_rfe_nsc_pp_phd_in/",
+      "author": "/u/gowarkratos",
+      "publishedAt": "2026-06-18T02:45:28+00:00",
+      "excerpt": "Hi everyone, I wanted to share that my EB2-NIW I-140 petition was approved w/o RFE. My case was originally received at the Nebraska Service Center in December 2024. I upgraded it to premium in April 2026, and it was approved after 42 business days (18 months total). Timeline: I-140 received: December 2024 Upgraded to P…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-06-19T08:29:29.181Z",
+  "syncedAt": "2026-06-19T12:40:55.588Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
