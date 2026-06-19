@@ -55,6 +55,44 @@
       }
     },
     {
+      "id": "t3_1uacofc",
+      "title": "Timeline for EB2-NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uacofc/timeline_for_eb2niw/",
+      "author": "/u/kalapatharobserver",
+      "publishedAt": "2026-06-19T20:22:27+00:00",
+      "excerpt": "Hello all! Sharing my EB2-NIW timeline. There's been a lot of scrutiny lately, so I wanted to put this out there in case it helps anyone see light at the end of the tunnel. I work in cybersecurity, employed by a large company in the US. No Master's. No papers. No citations. Just a software engineer who made the case fo…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uaff04",
+      "title": "Card Produced?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uaff04/card_produced/",
+      "author": "/u/Weekly-Woodpecker493",
+      "publishedAt": "2026-06-19T22:15:49+00:00",
+      "excerpt": "Those of you who got approved on June 17,2026, did you get the card produced notification? Or, is it so early? Thanks in advance.",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uac448",
       "title": "Looking for Advice on Next Steps for an officer with 34.7% approval rate",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uac448/looking_for_advice_on_next_steps_for_an_officer/",
@@ -103,26 +141,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uacofc",
-      "title": "Timeline for EB2-NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uacofc/timeline_for_eb2niw/",
-      "author": "/u/kalapatharobserver",
-      "publishedAt": "2026-06-19T20:22:27+00:00",
-      "excerpt": "Hello all! Sharing my EB2-NIW timeline. There's been a lot of scrutiny lately, so I wanted to put this out there in case it helps anyone see light at the end of the tunnel. I work in cybersecurity, employed by a large company in the US. No Master's. No papers. No citations. Just a software engineer who made the case fo…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -439,28 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1u9o8cq",
-      "title": "Need help with NIW PE (Robust AI/ Trustworthy AI)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9o8cq/need_help_with_niw_pe_robust_ai_trustworthy_ai/",
-      "author": "/u/Beautiful_Baker_2233",
-      "publishedAt": "2026-06-19T01:18:06+00:00",
-      "excerpt": "Need ideas. Please do reach out to connect if you're on a similar track. My difficulty is that I am not a PhD, and atm on OPT. P.S. Any attorney at Chen who has handled Robust AI/ Trustworthy AI PE before?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-19T21:01:28.929Z",
+  "syncedAt": "2026-06-19T22:43:50.914Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
