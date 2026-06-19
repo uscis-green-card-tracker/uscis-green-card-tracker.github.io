@@ -55,6 +55,25 @@
       }
     },
     {
+      "id": "t3_1uac448",
+      "title": "Looking for Advice on Next Steps for an officer with 34.7% approval rate",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uac448/looking_for_advice_on_next_steps_for_an_officer/",
+      "author": "/u/Competitive-Iron4960",
+      "publishedAt": "2026-06-19T20:00:19+00:00",
+      "excerpt": "Hi everyone, I'm looking for some honest opinions and advice because I'm feeling quite lost and anxious at this point. I-140 EB2-NIW filed: July 2024 Premium Processing RFE issued: November 2025 (all 3 prongs) RFE response received by USCIS: February 13, 2026 It has now been more than 4 months (124 days) since USCIS re…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ua1i4y",
       "title": "Quantifying Prospective Impact for a Non-Research EB-2 NIW Endeavor",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ua1i4y/quantifying_prospective_impact_for_a_nonresearch/",
@@ -65,6 +84,45 @@
         "approval",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uacpin",
+      "title": "Credential Evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uacpin/credential_evaluation/",
+      "author": "/u/HelpSeeker10",
+      "publishedAt": "2026-06-19T20:23:42+00:00",
+      "excerpt": "I’m filing an EB-2 NIW through Chen Immigration and need to choose a NACES credential evaluation agency. Chen recommends any NACES member except TEC. I have a 1.5-year thesis-based MSc in Biochemistry from Bangladesh. For Canadian immigration, WES Canada evaluated it as equivalent to a 4-year Canadian bachelor’s degree…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uacofc",
+      "title": "Timeline for EB2-NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uacofc/timeline_for_eb2niw/",
+      "author": "/u/kalapatharobserver",
+      "publishedAt": "2026-06-19T20:22:27+00:00",
+      "excerpt": "Hello all! Sharing my EB2-NIW timeline. There's been a lot of scrutiny lately, so I wanted to put this out there in case it helps anyone see light at the end of the tunnel. I work in cybersecurity, employed by a large company in the US. No Master's. No papers. No citations. Just a software engineer who made the case fo…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -400,63 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1u8x1bj",
-      "title": "Don’t go with Manifest Law, save your money",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u8x1bj/dont_go_with_manifest_law_save_your_money/",
-      "author": "/u/Sea_Tourist_833",
-      "publishedAt": "2026-06-18T04:59:58+00:00",
-      "excerpt": "The whole process is already intensive, and working with Manifest makes it even worse. They ask clients to upload documents to their portal. I uploaded everything with detailed explanation documents as well. I doubt the attorney even looked at it. Letters of recommendation are taking forever and the quality is really b…",
-      "topics": [
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u9mzpn",
-      "title": "RFE status",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9mzpn/rfe_status/",
-      "author": "/u/OutrageousTrain2477",
-      "publishedAt": "2026-06-19T00:19:03+00:00",
-      "excerpt": "Hello my case just changed from “RFE received” to “Case is still being processed”. Does that mean a decision will be out very soon? Can someone share your experience?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u98c67",
-      "title": "Do you think EB-2 ROW will remain current (“C”)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u98c67/do_you_think_eb2_row_will_remain_current_c/",
-      "author": "/u/Interesting_Hawk_392",
-      "publishedAt": "2026-06-18T14:48:51+00:00",
-      "excerpt": "I’m trying to decide whether I should file my I-485 as soon as possible while it is current, or whether EB-2 ROW is likely to remain current for a while. I understand that no one can predict the Visa Bulletin with certainty, but I’d like to hear how others are reading the current situation. Do you think EB-2 ROW may re…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-19T19:25:37.201Z",
+  "syncedAt": "2026-06-19T21:01:28.929Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
