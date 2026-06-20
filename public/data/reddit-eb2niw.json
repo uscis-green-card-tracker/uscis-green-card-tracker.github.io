@@ -35,6 +35,63 @@
       }
     },
     {
+      "id": "t3_1ub55f5",
+      "title": "Expedited EAD request for Dependent",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ub55f5/expedited_ead_request_for_dependent/",
+      "author": "/u/zillur-av",
+      "publishedAt": "2026-06-20T19:25:10+00:00",
+      "excerpt": "Hi there, Is it possible to request for expedited EAD for the dependent when the primary is in STEM OPT? I see some stories where EAD approval takes years. my EAD will expire in December so I may lose my job as well. I was thinking if my spouse gets her EAD before mine expire, at least she can work to support the famil…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1ub6o3v",
+      "title": "NIW Application Question",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ub6o3v/niw_application_question/",
+      "author": "/u/IndependentDream9624",
+      "publishedAt": "2026-06-20T20:28:51+00:00",
+      "excerpt": "I am considering filing an EB-2 NIW as a self-petition. Currently, my evidence includes recommendation letters, customer appreciations, and records of travel. I work in the elections industry. Has anyone received NIW approval with similar evidence? What additional documents or evidence made your case stronger? Are reco…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ub644v",
+      "title": "should i give it a try?? young public health professional",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ub644v/should_i_give_it_a_try_young_public_health/",
+      "author": "/u/Zestyclose_Stop2449",
+      "publishedAt": "2026-06-20T20:04:56+00:00",
+      "excerpt": "Hey! I have been seeing a lot of folks post profiles but not as many in public health and I’m trying to gauge when would be a good time to give this a try. I have been in the U.S. for over 11 years under a pending asylum case and am thinking of exploring this option. I recognise that I’m pretty early in my career but I…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ub3fyn",
       "title": "Effect of changing address in pending I-140",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ub3fyn/effect_of_changing_address_in_pending_i140/",
@@ -410,59 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1u9k7dd",
-      "title": "Before answering an NIW RFE, build an evidence map",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9k7dd/before_answering_an_niw_rfe_build_an_evidence_map/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-06-18T22:16:45+00:00",
-      "excerpt": "When someone gets an NIW RFE, the first instinct is usually to gather more documents. That is understandable, but it can create a bulky response that still does not answer the officer. A better first step is to build an evidence map. I would make a table with four columns: Officer objection What the original petition a…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u9rruy",
-      "title": "Long Holiday Weekend",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9rruy/long_holiday_weekend/",
-      "author": "/u/Spirited_Might8204",
-      "publishedAt": "2026-06-19T04:12:29+00:00",
-      "excerpt": "Hi All, Just a remainder that today June 19 is a holiday on the U.S so is a long holiday weekened and we won't get updates until Monday 22.",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1u9pq7d",
-      "title": "A quick test for whether your NIW proposed endeavor is too broad",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9pq7d/a_quick_test_for_whether_your_niw_proposed/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-06-19T02:30:50+00:00",
-      "excerpt": "A lot of NIW cases start to get weaker before the evidence is even discussed. The problem is usually the proposed endeavor. If the proposed endeavor reads like a job title, a field, or a general ambition, the officer has too much room to say the work is important only to one employer or only to the applicant's career. …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-20T19:09:09.953Z",
+  "syncedAt": "2026-06-20T21:04:09.407Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
