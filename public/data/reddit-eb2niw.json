@@ -35,14 +35,14 @@
       }
     },
     {
-      "id": "t3_1uayj8i",
-      "title": "Has someone submitted EB2 NIW I-140 petition to USCIS from B1/B2 or TN visa and got approved within the US?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uayj8i/has_someone_submitted_eb2_niw_i140_petition_to/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-06-20T14:52:00+00:00",
-      "excerpt": "",
+      "id": "t3_1ub3fyn",
+      "title": "Effect of changing address in pending I-140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ub3fyn/effect_of_changing_address_in_pending_i140/",
+      "author": "/u/Upper-Finish202",
+      "publishedAt": "2026-06-20T18:15:26+00:00",
+      "excerpt": "I know for I-485 changing address means they kind of \"start over\" the process (move to different field office, re-schedule interviews etc). I am wondering what happens with regard to I-140. My situation is that I am about to upgrade my I-140 to PP but I also plan to move states in two weeks form now. Should I do PP rig…",
       "topics": [
-        "approval",
+        "i485",
         "i140",
         "question"
       ],
@@ -63,6 +63,25 @@
       "topics": [
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uayj8i",
+      "title": "Has someone submitted EB2 NIW I-140 petition to USCIS from B1/B2 or TN visa and got approved within the US?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uayj8i/has_someone_submitted_eb2_niw_i140_petition_to/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-06-20T14:52:00+00:00",
+      "excerpt": "",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -441,29 +460,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1u9a5zy",
-      "title": "NIW Approved After RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1u9a5zy/niw_approved_after_rfe/",
-      "author": "/u/Other-Swimming6929",
-      "publishedAt": "2026-06-18T15:57:42+00:00",
-      "excerpt": "My NIW was approved after an RFE, and I wanted to share my timeline in case it helps others. This community provided me with a lot of useful information throughout the process. Field: Inorganic Chemistry Research Area: Electrochemistry, Catalysis, and Energy Materials Service Center: TSC PD: 11/02/2025 Upgraded to PP: …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "11/02/2025",
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-20T17:15:30.373Z",
+  "syncedAt": "2026-06-20T19:09:09.953Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
