@@ -73,6 +73,24 @@
       }
     },
     {
+      "id": "t3_1ubak13",
+      "title": "PP refund after 45 biz days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubak13/pp_refund_after_45_biz_days/",
+      "author": "/u/Actual_Way2685",
+      "publishedAt": "2026-06-20T23:21:35+00:00",
+      "excerpt": "Just wondering if anyone has received any refund if their case was processed longer than 45 biz days with PP. I saw many people saying this, but do they really proceed refund?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ub55f5",
       "title": "Expedited EAD request for Dependent",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ub55f5/expedited_ead_request_for_dependent/",
@@ -302,6 +320,23 @@
       }
     },
     {
+      "id": "t3_1uam5h0",
+      "title": "I filled an EB-2 NIW I-140 under PP. I received an RFE on Prongs 1 and 3 and submitted my response, which USCIS has had for over 30 business days.My background: cardiologist and family medicine specialist with 14 years of experience. Endeavour Community-base cardiovascular diseases prevention",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uam5h0/i_filled_an_eb2_niw_i140_under_pp_i_received_an/",
+      "author": "/u/ernestou1981",
+      "publishedAt": "2026-06-20T03:39:47+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uac448",
       "title": "Looking for Advice on Next Steps for an officer with 34.7% approval rate",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uac448/looking_for_advice_on_next_steps_for_an_officer/",
@@ -312,23 +347,6 @@
         "approval",
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uam5h0",
-      "title": "I filled an EB-2 NIW I-140 under PP. I received an RFE on Prongs 1 and 3 and submitted my response, which USCIS has had for over 30 business days.My background: cardiologist and family medicine specialist with 14 years of experience. Endeavour Community-base cardiovascular diseases prevention",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uam5h0/i_filled_an_eb2_niw_i140_under_pp_i_received_an/",
-      "author": "/u/ernestou1981",
-      "publishedAt": "2026-06-20T03:39:47+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -447,28 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uacpin",
-      "title": "Credential Evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uacpin/credential_evaluation/",
-      "author": "/u/HelpSeeker10",
-      "publishedAt": "2026-06-19T20:23:42+00:00",
-      "excerpt": "I’m filing an EB-2 NIW through Chen Immigration and need to choose a NACES credential evaluation agency. Chen recommends any NACES member. I have a 1.5-year thesis-based MSc in Biochemistry from Bangladesh. For Canadian immigration, WES Canada evaluated it as equivalent to a 4-year Canadian bachelor’s degree, so I’m he…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-20T22:57:47.630Z",
+  "syncedAt": "2026-06-21T00:04:03.856Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
