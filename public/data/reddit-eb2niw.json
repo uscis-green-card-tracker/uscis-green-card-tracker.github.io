@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1ubuksd",
+      "title": "Current approval rate?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubuksd/current_approval_rate/",
+      "author": "/u/Late_Emphasis3137",
+      "publishedAt": "2026-06-21T16:36:47+00:00",
+      "excerpt": "I’m wondering what the current approval rate is?",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ube715",
       "title": "EB2 NIW Approval - Industry Scientist - PP at TSC without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ube715/eb2_niw_approval_industry_scientist_pp_at_tsc/",
@@ -46,6 +64,25 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ubuhl4",
+      "title": "How long before receipt number reflects with online NIW filing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubuhl4/how_long_before_receipt_number_reflects_with/",
+      "author": "/u/LRB_",
+      "publishedAt": "2026-06-21T16:33:12+00:00",
+      "excerpt": "https://preview.redd.it/a7vhfnm0yn8h1.png?width=1005&format=png&auto=webp&s=b340f4b98bbcf7812069c77e6a1a32b0380dc540",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -151,14 +188,15 @@
       }
     },
     {
-      "id": "t3_1ubak13",
-      "title": "PP refund after 45 biz days",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubak13/pp_refund_after_45_biz_days/",
-      "author": "/u/Actual_Way2685",
-      "publishedAt": "2026-06-20T23:21:35+00:00",
-      "excerpt": "Just wondering if anyone has received any refund if their case was processed longer than 45 biz days with PP. I saw many people saying this, but do they really proceed refund?",
+      "id": "t3_1ubfpk8",
+      "title": "Lawyer Suggestions to Review my Profile and Endeavour for Eb2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubfpk8/lawyer_suggestions_to_review_my_profile_and/",
+      "author": "/u/shehroze12",
+      "publishedAt": "2026-06-21T03:42:05+00:00",
+      "excerpt": "Hello, Can anyone suggest any Lawyer who can help with eb2-niw endeavour review?",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -169,15 +207,14 @@
       }
     },
     {
-      "id": "t3_1ubfpk8",
-      "title": "Lawyer Suggestions to Review my Profile and Endeavour for Eb2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubfpk8/lawyer_suggestions_to_review_my_profile_and/",
-      "author": "/u/shehroze12",
-      "publishedAt": "2026-06-21T03:42:05+00:00",
-      "excerpt": "Hello, Can anyone suggest any Lawyer who can help with eb2-niw endeavour review?",
+      "id": "t3_1ubak13",
+      "title": "PP refund after 45 biz days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubak13/pp_refund_after_45_biz_days/",
+      "author": "/u/Actual_Way2685",
+      "publishedAt": "2026-06-20T23:21:35+00:00",
+      "excerpt": "Just wondering if anyone has received any refund if their case was processed longer than 45 biz days with PP. I saw many people saying this, but do they really proceed refund?",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -430,49 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uahkwn",
-      "title": "I-485 June/July 2025 filers who are still waiting?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uahkwn/i485_junejuly_2025_filers_who_are_still_waiting/",
-      "author": "/u/Last_Lawfulness_1907",
-      "publishedAt": "2026-06-19T23:53:01+00:00",
-      "excerpt": "Hello everyone, I just wanted to check how many EB2-NIW based I-485 applicants are still waiting for a decision. Approved I-140 (NIW) PD 10/2023, I-485 RD 07/2025, 75 COC. I know my case was transferred to LA FO in December 2025, but it was later transferred back to the local field office after I applied for emergency …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": "07/20",
-        "priorityDate": "10/20",
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1uardzy",
-      "title": "EB 2_ NIW CHANCES AS AN ARCHITECT, SHOULD I APPLY AFTER MBA ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uardzy/eb_2_niw_chances_as_an_architect_should_i_apply/",
-      "author": "/u/DarKGoku822",
-      "publishedAt": "2026-06-20T08:36:45+00:00",
-      "excerpt": "Hi everyone, I’m trying to understand if I have a realistic chance for EB-2 NIW and would appreciate honest feedback. My profile: 6 years of experience in 3D visualization and architect work Bachelor’s in Architecture Moving toward B2B business development & market representation Planning to build a B2B agency for inte…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-21T15:06:26.545Z",
+  "syncedAt": "2026-06-21T17:18:36.992Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
