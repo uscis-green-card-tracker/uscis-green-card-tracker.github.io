@@ -55,6 +55,24 @@
       }
     },
     {
+      "id": "t3_1ubmofq",
+      "title": "EB2-NIW applicants from the Islamabad Embassy?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubmofq/eb2niw_applicants_from_the_islamabad_embassy/",
+      "author": "/u/No_Funny_26",
+      "publishedAt": "2026-06-21T10:30:14+00:00",
+      "excerpt": "EB2-NIW applicants: Has anyone recently received an IL or gone through interviews at the Islamabad Embassy? Kindly share your experiences.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ubieob",
       "title": "Inquiry about EB-2 NIW For H-1B Working Professional!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubieob/inquiry_about_eb2_niw_for_h1b_working_professional/",
@@ -83,6 +101,27 @@
       "topics": [
         "approval",
         "i485",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ubhhuo",
+      "title": "i-485 Notice error",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubhhuo/i485_notice_error/",
+      "author": "/u/Own_You6976",
+      "publishedAt": "2026-06-21T05:19:52+00:00",
+      "excerpt": "Hi everyone, need some advice. My I-485 (EB-2 NIW) got approved 2 days back, and I just saw the approval notice online. Everything looks correct (name, A-number, receipt number) except the priority date - it shows 10/26/2023, but my actual I-140 priority date is 10/11/2024. Card hasn't arrived yet. Has anyone dealt wit…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
         "timeline",
         "question"
       ],
@@ -139,27 +178,6 @@
       "excerpt": "Just wondering if anyone has received any refund if their case was processed longer than 45 biz days with PP. I saw many people saying this, but do they really proceed refund?",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ubhhuo",
-      "title": "i-485 Notice error",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubhhuo/i485_notice_error/",
-      "author": "/u/Own_You6976",
-      "publishedAt": "2026-06-21T05:19:52+00:00",
-      "excerpt": "Hi everyone, need some advice. My I-485 (EB-2 NIW) got approved 2 days back, and I just saw the approval notice online. Everything looks correct (name, A-number, receipt number) except the priority date - it shows 10/26/2023, but my actual I-140 priority date is 10/11/2024. Card hasn't arrived yet. Has anyone dealt wit…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -452,29 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uacofc",
-      "title": "Timeline for EB2-NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uacofc/timeline_for_eb2niw/",
-      "author": "/u/kalapatharobserver",
-      "publishedAt": "2026-06-19T20:22:27+00:00",
-      "excerpt": "Hello all! Sharing my EB2-NIW timeline. There's been a lot of scrutiny lately, so I wanted to put this out there in case it helps anyone see light at the end of the tunnel. I work in cybersecurity, employed by a large company in the US. No Master's. No papers. No citations. Just a software engineer who made the case fo…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-21T09:35:19.631Z",
+  "syncedAt": "2026-06-21T12:04:54.775Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
