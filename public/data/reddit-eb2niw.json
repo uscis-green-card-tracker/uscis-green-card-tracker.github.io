@@ -53,6 +53,24 @@
       }
     },
     {
+      "id": "t3_1uc08e7",
+      "title": "Value yourself.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc08e7/value_yourself/",
+      "author": "/u/JohnSmith13230",
+      "publishedAt": "2026-06-21T20:23:38+00:00",
+      "excerpt": "So, I made my I140 petition for myself. To be honest, I really recommend doing it with an immigration lawyer. I entered with premium process and received a heavy RFE with the 3 prongs. I answered in the most honest way possible, with all the evidence of my reality. But I need to tell you something, I feel very good abo…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ube715",
       "title": "EB2 NIW Approval - Industry Scientist - PP at TSC without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ube715/eb2_niw_approval_industry_scientist_pp_at_tsc/",
@@ -64,6 +82,23 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ubyyf6",
+      "title": "Anybody has a sample of Testimonial letter, from PI to outlining my research projects for next 4 years? Please help.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubyyf6/anybody_has_a_sample_of_testimonial_letter_from/",
+      "author": "/u/Rare_Bee_8751",
+      "publishedAt": "2026-06-21T19:31:34+00:00",
+      "excerpt": "",
+      "topics": [
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -426,47 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ub3fyn",
-      "title": "Effect of changing address in pending I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ub3fyn/effect_of_changing_address_in_pending_i140/",
-      "author": "/u/Upper-Finish202",
-      "publishedAt": "2026-06-20T18:15:26+00:00",
-      "excerpt": "I know for I-485 changing address means they kind of \"start over\" the process (move to different field office, re-schedule interviews etc). I am wondering what happens with regard to I-140. My situation is that I am about to upgrade my I-140 to PP but I also plan to move states in two weeks form now. Should I do PP rig…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uayj8i",
-      "title": "Has someone submitted EB2 NIW I-140 petition to USCIS from B1/B2 or TN visa and got approved within the US?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uayj8i/has_someone_submitted_eb2_niw_i140_petition_to/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-06-20T14:52:00+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-21T19:14:54.653Z",
+  "syncedAt": "2026-06-21T21:04:50.595Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
