@@ -35,13 +35,14 @@
       }
     },
     {
-      "id": "t3_1uc08e7",
-      "title": "Value yourself.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc08e7/value_yourself/",
-      "author": "/u/JohnSmith13230",
-      "publishedAt": "2026-06-21T20:23:38+00:00",
-      "excerpt": "So, I made my I140 petition for myself. To be honest, I really recommend doing it with an immigration lawyer. I entered with premium process and received a heavy RFE with the 3 prongs. I answered in the most honest way possible, with all the evidence of my reality. But I need to tell you something, I feel very good abo…",
+      "id": "t3_1ucbhyy",
+      "title": "I built a dashboard for Reddit NIW data points in the past two years",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbhyy/i_built_a_dashboard_for_reddit_niw_data_points_in/",
+      "author": "/u/x_shawn",
+      "publishedAt": "2026-06-22T05:11:51+00:00",
+      "excerpt": "I found myself spending quite a bit time reading those approve or denial but honestly there should be a better way. I used Claude Haiku model that burned through half of my Claude Max usage to classify each data points on this subreddit in the past 2 years with a lot of testing on the accuracy back and forth on a numbe…",
       "topics": [
+        "approval",
         "i140",
         "lawyer"
       ],
@@ -53,32 +54,15 @@
       }
     },
     {
-      "id": "t3_1uc4b2n",
-      "title": "Need a reviewer for my rfe",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc4b2n/need_a_reviewer_for_my_rfe/",
-      "author": "/u/AmaOhenewaa",
-      "publishedAt": "2026-06-21T23:19:52+00:00",
-      "excerpt": "Hello family, I received an rfe on all three prongs and I have draft of my rfe response ready and looking for someone who would be able to review my work. Unfortunately I am low on finances and would be happy if I could get someone who is willing to help with the review at no charge. Thank you so much and I appreciate …",
+      "id": "t3_1uc08e7",
+      "title": "Value yourself.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc08e7/value_yourself/",
+      "author": "/u/JohnSmith13230",
+      "publishedAt": "2026-06-21T20:23:38+00:00",
+      "excerpt": "So, I made my I140 petition for myself. To be honest, I really recommend doing it with an immigration lawyer. I entered with premium process and received a heavy RFE with the 3 prongs. I answered in the most honest way possible, with all the evidence of my reality. But I need to tell you something, I feel very good abo…",
       "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ubuksd",
-      "title": "Current approval rate?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubuksd/current_approval_rate/",
-      "author": "/u/Late_Emphasis3137",
-      "publishedAt": "2026-06-21T16:36:47+00:00",
-      "excerpt": "I’m wondering what the current approval rate is?",
-      "topics": [
-        "approval",
-        "question"
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -108,14 +92,49 @@
       }
     },
     {
-      "id": "t3_1uc2umo",
-      "title": "Confused by Wegreened Refusing to Take My Case",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc2umo/confused_by_wegreened_refusing_to_take_my_case/",
-      "author": "/u/Funny_Marzipan_5909",
-      "publishedAt": "2026-06-21T22:14:10+00:00",
-      "excerpt": "I recently got rejected by Wegreened and this is the second time. I’m honestly confused about why they wouldn’t even take my case. Endeavor is AI-related. For background, I earned my PhD from a top US university and am currently a postdoc at another top US institution in AI. My PhD advisor is a member of the National A…",
+      "id": "t3_1ucbjmf",
+      "title": "Suggestion for lawyer - INA 245(K) claimed for I-485 employment case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbjmf/suggestion_for_lawyer_ina_245k_claimed_for_i485/",
+      "author": "/u/Virtual-Quarter3311",
+      "publishedAt": "2026-06-22T05:14:29+00:00",
+      "excerpt": "Hi All, can anyone suggest experienced lawyers to get consultation if you claimed INA 245(k) for EB employment case. I want to understand if it comes up in interviews and can they twist it into misrepresentation if you had subsequent visa entry.",
       "topics": [
-        "lawyer",
+        "i485",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uc4b2n",
+      "title": "Need a reviewer for my rfe",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc4b2n/need_a_reviewer_for_my_rfe/",
+      "author": "/u/AmaOhenewaa",
+      "publishedAt": "2026-06-21T23:19:52+00:00",
+      "excerpt": "Hello family, I received an rfe on all three prongs and I have draft of my rfe response ready and looking for someone who would be able to review my work. Unfortunately I am low on finances and would be happy if I could get someone who is willing to help with the review at no charge. Thank you so much and I appreciate …",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uc69dd",
+      "title": "MBA in Project Management – How Should I Pick the Right Endeavor for Profile Building (EB-2 NIW / Career Growth)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc69dd/mba_in_project_management_how_should_i_pick_the/",
+      "author": "/u/JeffTTG",
+      "publishedAt": "2026-06-22T00:50:22+00:00",
+      "excerpt": "Hi everyone, I am currently pursuing an MBA in Project Management and trying to be strategic about my long-term career and profile building. My background includes: 14+ years in sales, marketing, business development, and operations Experience running call centers and lead generation businesses Experience in renewable …",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -126,14 +145,33 @@
       }
     },
     {
-      "id": "t3_1uc3sht",
-      "title": "Traveling with pending I-140.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc3sht/traveling_with_pending_i140/",
-      "author": "/u/Remarkable-Order1307",
-      "publishedAt": "2026-06-21T22:56:19+00:00",
-      "excerpt": "Hi everyone, My I-140 petition was filed in April 2026 under regular (non-premium) processing. I am currently maintaining valid F-1 status, my SEVIS record is active, my I-20 is valid, and my F-1 visa is valid until 2030. I'm a bit confused about international travel while my I-140 is pending. Is it generally okay to t…",
+      "id": "t3_1ubuksd",
+      "title": "Current approval rate?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubuksd/current_approval_rate/",
+      "author": "/u/Late_Emphasis3137",
+      "publishedAt": "2026-06-21T16:36:47+00:00",
+      "excerpt": "I’m wondering what the current approval rate is?",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ucbtu8",
+      "title": "EB2-NIW Profile.. Need Opinions:",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbtu8/eb2niw_profile_need_opinions/",
+      "author": "/u/Kind_Medium6774",
+      "publishedAt": "2026-06-22T05:30:04+00:00",
+      "excerpt": "BS in Electronics Engineering - Pakistan MS In Nano science and Nanotechnology (Top 50 univ in world) Publications: 2 (19 citations) but back from 2014 (published during my MS) Work Experience: Working in industry as an Automation projects engineer (in biggest US food industry) with fortune 100 companies for over 13+ y…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -162,15 +200,66 @@
       }
     },
     {
-      "id": "t3_1uc69dd",
-      "title": "MBA in Project Management – How Should I Pick the Right Endeavor for Profile Building (EB-2 NIW / Career Growth)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc69dd/mba_in_project_management_how_should_i_pick_the/",
-      "author": "/u/JeffTTG",
-      "publishedAt": "2026-06-22T00:50:22+00:00",
-      "excerpt": "Hi everyone, I am currently pursuing an MBA in Project Management and trying to be strategic about my long-term career and profile building. My background includes: 14+ years in sales, marketing, business development, and operations Experience running call centers and lead generation businesses Experience in renewable …",
+      "id": "t3_1ucb63j",
+      "title": "Online filing is much much better than paper filing...",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucb63j/online_filing_is_much_much_better_than_paper/",
+      "author": "/u/Broad-Bathroom-6317",
+      "publishedAt": "2026-06-22T04:54:16+00:00",
+      "excerpt": "I filed my NIW with 300 pages printed documents two years ago and recently found out that we can now file NIW and EB1A with online filing. I followed an online guide to do that for my EB1A and found it really convenient. I got my receipt number two days after I filed it online. When I filed two years ago, I made a mist…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uc3sht",
+      "title": "Traveling with pending I-140.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc3sht/traveling_with_pending_i140/",
+      "author": "/u/Remarkable-Order1307",
+      "publishedAt": "2026-06-21T22:56:19+00:00",
+      "excerpt": "Hi everyone, My I-140 petition was filed in April 2026 under regular (non-premium) processing. I am currently maintaining valid F-1 status, my SEVIS record is active, my I-20 is valid, and my F-1 visa is valid until 2030. I'm a bit confused about international travel while my I-140 is pending. Is it generally okay to t…",
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ubyyf6",
+      "title": "Anybody has a sample of Testimonial letter, from PI to outlining my research projects for next 4 years? Please help.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubyyf6/anybody_has_a_sample_of_testimonial_letter_from/",
+      "author": "/u/Rare_Bee_8751",
+      "publishedAt": "2026-06-21T19:31:34+00:00",
+      "excerpt": "",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uby14k",
+      "title": "Iranians-Non-researcher EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uby14k/iraniansnonresearcher_eb2_niw/",
+      "author": "/u/galaviani",
+      "publishedAt": "2026-06-21T18:54:27+00:00",
+      "excerpt": "hi, I need advice from fellow Iranian non-researchers who want to apply for EB2-NIW specially after everything that has happened in 2026 regarding the policies imposed upon Iranians’ cases. I have bachelor and masters in industrial engineering and I’m getting my MBA right now. I have three years of marketing PhD resear…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -218,40 +307,6 @@
       }
     },
     {
-      "id": "t3_1ubyyf6",
-      "title": "Anybody has a sample of Testimonial letter, from PI to outlining my research projects for next 4 years? Please help.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubyyf6/anybody_has_a_sample_of_testimonial_letter_from/",
-      "author": "/u/Rare_Bee_8751",
-      "publishedAt": "2026-06-21T19:31:34+00:00",
-      "excerpt": "",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uby14k",
-      "title": "Iranians-Non-researcher EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uby14k/iraniansnonresearcher_eb2_niw/",
-      "author": "/u/galaviani",
-      "publishedAt": "2026-06-21T18:54:27+00:00",
-      "excerpt": "hi, I need advice from fellow Iranian non-researchers who want to apply for EB2-NIW specially after everything that has happened in 2026 regarding the policies imposed upon Iranians’ cases. I have bachelor and masters in industrial engineering and I’m getting my MBA right now. I have three years of marketing PhD resear…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ubuhl4",
       "title": "How long before receipt number reflects with online NIW filing?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubuhl4/how_long_before_receipt_number_reflects_with/",
@@ -271,14 +326,13 @@
       }
     },
     {
-      "id": "t3_1ubieob",
-      "title": "Inquiry about EB-2 NIW For H-1B Working Professional!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubieob/inquiry_about_eb2_niw_for_h1b_working_professional/",
-      "author": "/u/JackieChan90s",
-      "publishedAt": "2026-06-21T06:12:02+00:00",
-      "excerpt": "I am a working professional in renewable energy industry (utility scale PV solar, wind and BESS) as an Electrical Engineer. I have total 8+ years of experience: 3 years from back my home country and 5+ years here in the US. I hold a MS degree in Electrical Engineering and have PE license. My employer is currently worki…",
+      "id": "t3_1ubk0rz",
+      "title": "Since when has the online filing for form I-140 been back??",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubk0rz/since_when_has_the_online_filing_for_form_i140/",
+      "author": "/u/owuraku_ababio",
+      "publishedAt": "2026-06-21T07:48:01+00:00",
+      "excerpt": "I remember they limited it to organizations somewhere in May. But I just realised that it appears to have been back and now available.",
       "topics": [
-        "approval",
         "i140",
         "question"
       ],
@@ -290,13 +344,14 @@
       }
     },
     {
-      "id": "t3_1ubk0rz",
-      "title": "Since when has the online filing for form I-140 been back??",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubk0rz/since_when_has_the_online_filing_for_form_i140/",
-      "author": "/u/owuraku_ababio",
-      "publishedAt": "2026-06-21T07:48:01+00:00",
-      "excerpt": "I remember they limited it to organizations somewhere in May. But I just realised that it appears to have been back and now available.",
+      "id": "t3_1ubieob",
+      "title": "Inquiry about EB-2 NIW For H-1B Working Professional!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubieob/inquiry_about_eb2_niw_for_h1b_working_professional/",
+      "author": "/u/JackieChan90s",
+      "publishedAt": "2026-06-21T06:12:02+00:00",
+      "excerpt": "I am a working professional in renewable energy industry (utility scale PV solar, wind and BESS) as an Electrical Engineer. I have total 8+ years of experience: 3 years from back my home country and 5+ years here in the US. I hold a MS degree in Electrical Engineering and have PE license. My employer is currently worki…",
       "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -365,25 +420,6 @@
       }
     },
     {
-      "id": "t3_1ubfpk8",
-      "title": "Lawyer Suggestions to Review my Profile and Endeavour for Eb2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubfpk8/lawyer_suggestions_to_review_my_profile_and/",
-      "author": "/u/shehroze12",
-      "publishedAt": "2026-06-21T03:42:05+00:00",
-      "excerpt": "Hello, Can anyone suggest any Lawyer who can help with eb2-niw endeavour review?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ubak13",
       "title": "PP refund after 45 biz days",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubak13/pp_refund_after_45_biz_days/",
@@ -402,51 +438,15 @@
       }
     },
     {
-      "id": "t3_1ubh4yr",
-      "title": "Can you provide your country if you have applied for EB2 NIW I-140? I’m from Mexico 😜!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubh4yr/can_you_provide_your_country_if_you_have_applied/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-06-21T04:59:57+00:00",
-      "excerpt": "",
+      "id": "t3_1ubfpk8",
+      "title": "Lawyer Suggestions to Review my Profile and Endeavour for Eb2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubfpk8/lawyer_suggestions_to_review_my_profile_and/",
+      "author": "/u/shehroze12",
+      "publishedAt": "2026-06-21T03:42:05+00:00",
+      "excerpt": "Hello, Can anyone suggest any Lawyer who can help with eb2-niw endeavour review?",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ub7tq2",
-      "title": "Hi everyone. I received a RFE from officer XM2545 from NSC. Do you have any experience with this officer? Thanks!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ub7tq2/hi_everyone_i_received_a_rfe_from_officer_xm2545/",
-      "author": "/u/Brilliant_Pitch_3254",
-      "publishedAt": "2026-06-20T21:18:24+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ubbp0l",
-      "title": "Premium processing for I-765",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubbp0l/premium_processing_for_i765/",
-      "author": "/u/SPjean",
-      "publishedAt": "2026-06-21T00:15:55+00:00",
-      "excerpt": "Hello, can someone do premium processing for I-765 after I-140 got approved?",
-      "topics": [
-        "approval",
-        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -457,7 +457,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-22T02:46:34.875Z",
+  "syncedAt": "2026-06-22T08:49:15.957Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
