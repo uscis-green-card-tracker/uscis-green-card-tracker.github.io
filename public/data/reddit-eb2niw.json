@@ -35,16 +35,17 @@
       }
     },
     {
-      "id": "t3_1ucbhyy",
-      "title": "I built a dashboard for Reddit NIW data points in the past two years",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbhyy/i_built_a_dashboard_for_reddit_niw_data_points_in/",
-      "author": "/u/x_shawn",
-      "publishedAt": "2026-06-22T05:11:51+00:00",
-      "excerpt": "I found myself spending quite a bit time reading those approve or denial but honestly there should be a better way. I used Claude Haiku model that burned through half of my Claude Max usage to classify each data points on this subreddit in the past 2 years with a lot of testing on the accuracy back and forth on a numbe…",
+      "id": "t3_1ucvhl5",
+      "title": "NIW approved | PP without RFE | May 2026",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucvhl5/niw_approved_pp_without_rfe_may_2026/",
+      "author": "/u/ChessboardPanda",
+      "publishedAt": "2026-06-22T20:10:08+00:00",
+      "excerpt": "Hey! This subreddit was incredibly helpful to me while I was building my case, so I wanted to share my experience hoping it will help someone else. I didn't have any publications and my evidence was mostly my patent and open source work. Timeline Service Center: Nebraska Service Center (NSC) Received Date (Received): M…",
       "topics": [
         "approval",
         "i140",
-        "lawyer"
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -64,6 +65,62 @@
         "i140",
         "lawyer",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ucbhyy",
+      "title": "I built a dashboard for Reddit NIW data points in the past two years",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbhyy/i_built_a_dashboard_for_reddit_niw_data_points_in/",
+      "author": "/u/x_shawn",
+      "publishedAt": "2026-06-22T05:11:51+00:00",
+      "excerpt": "I found myself spending quite a bit time reading those approve or denial but honestly there should be a better way. I used Claude Haiku model that burned through half of my Claude Max usage to classify each data points on this subreddit in the past 2 years with a lot of testing on the accuracy back and forth on a numbe…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ucs47q",
+      "title": "Consular processing Interview next month",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucs47q/consular_processing_interview_next_month/",
+      "author": "/u/mrecovery",
+      "publishedAt": "2026-06-22T18:07:08+00:00",
+      "excerpt": "Hey guys, My EB-2 NIW consular processing interview is coming up at the London Embassy, and I was wondering what experiences others have had with the process. What kind of questions were you asked during the interview? Were the questions mostly focused on your petition and background, or did they go into more detail? A…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ucwcy9",
+      "title": "May PP updates?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucwcy9/may_pp_updates/",
+      "author": "/u/Puzzleheaded_Big7161",
+      "publishedAt": "2026-06-22T20:41:41+00:00",
+      "excerpt": "Has anyone who filed PP in May received a decision yet?",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -94,15 +151,86 @@
       }
     },
     {
-      "id": "t3_1ucs47q",
-      "title": "Consular processing Interview next month",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucs47q/consular_processing_interview_next_month/",
-      "author": "/u/mrecovery",
-      "publishedAt": "2026-06-22T18:07:08+00:00",
-      "excerpt": "Hey guys, My EB-2 NIW consular processing interview is coming up at the London Embassy, and I was wondering what experiences others have had with the process. What kind of questions were you asked during the interview? Were the questions mostly focused on your petition and background, or did they go into more detail? A…",
+      "id": "t3_1ucwktu",
+      "title": "Applying for EB2",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucwktu/applying_for_eb2/",
+      "author": "/u/Suspicious_Toe_8362",
+      "publishedAt": "2026-06-22T20:49:50+00:00",
+      "excerpt": "Hi I am applying for EB2 NIW. Which of the firms should I go with among the following: - Ellis Porter - Sedaghat Law - Manifest Law - Chen Immigrations Please advice in terms of cost and lawyer efficiency as well! Thank you in advance.",
       "topics": [
         "i140",
-        "lawyer",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ucwcd0",
+      "title": "green card after h1b?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucwcd0/green_card_after_h1b/",
+      "author": "/u/Middle_Champion_3804",
+      "publishedAt": "2026-06-22T20:41:04+00:00",
+      "excerpt": "Country of origin: Saudi Arabia Job: clinical dietitian in intestinal failure in nyc (Master’s degree only graduated 2018). Without going into too many details, it’s a niche position and requires managing TPN (life-sustaining IV nutrition) for patients pre and post intestinal transplant. A portion of my work is applica…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ucv6dd",
+      "title": "Eb2 submission",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucv6dd/eb2_submission/",
+      "author": "/u/LocalAlarm5819",
+      "publishedAt": "2026-06-22T19:58:54+00:00",
+      "excerpt": "Hi guys, what’s the best way to submit the petition? Online or paper submission? Thanks",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ucuuoq",
+      "title": "No status change after receiving RFE response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucuuoq/no_status_change_after_receiving_rfe_response/",
+      "author": "/u/No-Butterscotch4246",
+      "publishedAt": "2026-06-22T19:46:57+00:00",
+      "excerpt": "Hello, I sent my RFE response which was received on 17th June. Today is 22nd june and I see no change in the status. Is this common?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uct5be",
+      "title": "Has anyone successfully changed from F-2 to F-1 while I-485 was pending?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uct5be/has_anyone_successfully_changed_from_f2_to_f1/",
+      "author": "/u/Chance-Dance-7509",
+      "publishedAt": "2026-06-22T18:44:58+00:00",
+      "excerpt": "My wife is in F-2 status and has been admitted to a PhD program with Teaching Assistantship (TA) starting Fall 2026 (August 31st). Her I-485 is pending alongside NIW-based principal applicant, me (PD Feb 2024, submitted on Oct 2025). We are trying to understand possible options if the green card is not approved before …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -330,137 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ubuksd",
-      "title": "Current approval rate?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubuksd/current_approval_rate/",
-      "author": "/u/Late_Emphasis3137",
-      "publishedAt": "2026-06-21T16:36:47+00:00",
-      "excerpt": "I’m wondering what the current approval rate is?",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ucbtu8",
-      "title": "EB2-NIW Profile.. Need Opinions:",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbtu8/eb2niw_profile_need_opinions/",
-      "author": "/u/Kind_Medium6774",
-      "publishedAt": "2026-06-22T05:30:04+00:00",
-      "excerpt": "BS in Electronics Engineering - Pakistan MS In Nano science and Nanotechnology (Top 50 univ in world) Publications: 2 (19 citations) but back from 2014 (published during my MS) Work Experience: Working in industry as an Automation projects engineer (in biggest US food industry) with fortune 100 companies for over 13+ y…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uc7bd6",
-      "title": "Can i start an eb2 niw process at the start of my master's degree journey?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc7bd6/can_i_start_an_eb2_niw_process_at_the_start_of_my/",
-      "author": "/u/sstthh0123",
-      "publishedAt": "2026-06-22T01:41:43+00:00",
-      "excerpt": "Is there a possibility that I get a green card before the degree is complete? I'm from a small country in Southeast Asia.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uc3sht",
-      "title": "Traveling with pending I-140.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc3sht/traveling_with_pending_i140/",
-      "author": "/u/Remarkable-Order1307",
-      "publishedAt": "2026-06-21T22:56:19+00:00",
-      "excerpt": "Hi everyone, My I-140 petition was filed in April 2026 under regular (non-premium) processing. I am currently maintaining valid F-1 status, my SEVIS record is active, my I-20 is valid, and my F-1 visa is valid until 2030. I'm a bit confused about international travel while my I-140 is pending. Is it generally okay to t…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ubyyf6",
-      "title": "Anybody has a sample of Testimonial letter, from PI to outlining my research projects for next 4 years? Please help.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ubyyf6/anybody_has_a_sample_of_testimonial_letter_from/",
-      "author": "/u/Rare_Bee_8751",
-      "publishedAt": "2026-06-21T19:31:34+00:00",
-      "excerpt": "",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uc3d48",
-      "title": "Case Is Still Being Processed By USCIS significance",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc3d48/case_is_still_being_processed_by_uscis/",
-      "author": "/u/Sadiul_Alam",
-      "publishedAt": "2026-06-21T22:36:35+00:00",
-      "excerpt": "My PD is on June 2 and its on PP from June 3; the USCIS online portal updated to \"Case Is Still Being Processed By USCIS\" on June 8. Does this mean anything like the result is coming in two weeks or something? or it will most likely take 43-45 BDs as with most other cases? Thank you!",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ube715",
-      "title": "EB2 NIW Approval - Industry Scientist - PP at TSC without RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ube715/eb2_niw_approval_industry_scientist_pp_at_tsc/",
-      "author": "/u/Adamcfc101",
-      "publishedAt": "2026-06-21T02:22:40+00:00",
-      "excerpt": "Hi all, Have been part of this sub for a while, I am super grateful to have my approval today, earlier than I thought and without RFE, so sharing my datapoint incase its useful for anyone else. I'll say upfront I do think I had a strong profile so this shouldnt dissuade anyone who \"has less\" - hitting the 3 prongs in a…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-22T18:39:45.679Z",
+  "syncedAt": "2026-06-22T21:27:29.774Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
