@@ -55,19 +55,21 @@
       }
     },
     {
-      "id": "t3_1ud32ry",
-      "title": "RFE challenges all 3 prongs",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud32ry/rfe_challenges_all_3_prongs/",
-      "author": "/u/Dazzling-Flower3802",
-      "publishedAt": "2026-06-23T01:16:52+00:00",
-      "excerpt": "PD 02/25 PP on 04/26 RFE on 06/26 So sad and stressed right now 😞 My background is civil engineering PhD, got my degree after filing for NIW but my advanced degree is recognized in the RFE. I have 4 paper, 1 first author (2 now), and ~35 citation at time of filing. My officer states my DOE/DOD grant were insufficient …",
+      "id": "t3_1ud4u5j",
+      "title": "How long does it take for I-140 premium processing receipt to arrive?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud4u5j/how_long_does_it_take_for_i140_premium_processing/",
+      "author": "/u/wolowizz137",
+      "publishedAt": "2026-06-23T02:37:45+00:00",
+      "excerpt": "Hey folks my I-140 was filed on Jun 17th and I have still not received any notification of receipt. What are the timelines you guys observed?",
       "topics": [
-        "i140"
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
-        "priorityDate": "02/25",
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -92,21 +94,55 @@
       }
     },
     {
-      "id": "t3_1ucbhyy",
-      "title": "I built a dashboard for Reddit NIW data points in the past two years",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbhyy/i_built_a_dashboard_for_reddit_niw_data_points_in/",
-      "author": "/u/x_shawn",
-      "publishedAt": "2026-06-22T05:11:51+00:00",
-      "excerpt": "I found myself spending quite a bit time reading those approve or denial but honestly there should be a better way. I used Claude Haiku model that burned through half of my Claude Max usage to classify each data points on this subreddit in the past 2 years with a lot of testing on the accuracy back and forth on a numbe…",
+      "id": "t3_1ud96do",
+      "title": "NIW I-140 petition and dependent converting from F2 to F1",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud96do/niw_i140_petition_and_dependent_converting_from/",
+      "author": "/u/Radiant_Zebra_8199",
+      "publishedAt": "2026-06-23T06:21:07+00:00",
+      "excerpt": "Hi, I am planning to submit NIW based I-140 petition soon. My spouse is currently on F-2 but she is planning to start school in January 2027 with a potential admission in hand. She plans to convert from F-2 to F-1 through USCIS premium processing after getting the admission and funding confirmation. If I submit the I-1…",
       "topics": [
-        "approval",
         "i140",
-        "lawyer"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ud8ugq",
+      "title": "People worked/working with CHEN !",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud8ugq/people_workedworking_with_chen/",
+      "author": "/u/SuperbKoala970",
+      "publishedAt": "2026-06-23T06:02:25+00:00",
+      "excerpt": "Is there anyone who got lawyer with initials DK ? How was your experience?",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ud32ry",
+      "title": "RFE challenges all 3 prongs",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud32ry/rfe_challenges_all_3_prongs/",
+      "author": "/u/Dazzling-Flower3802",
+      "publishedAt": "2026-06-23T01:16:52+00:00",
+      "excerpt": "PD 02/25 PP on 04/26 RFE on 06/26 So sad and stressed right now 😞 My background is civil engineering PhD, got my degree after filing for NIW but my advanced degree is recognized in the RFE. I have 4 paper, 1 first author (2 now), and ~35 citation at time of filing. My officer states my DOE/DOD grant were insufficient …",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "02/25",
         "mentionsCountry75": false
       }
     },
@@ -148,18 +184,16 @@
       }
     },
     {
-      "id": "t3_1ud0jaj",
-      "title": "I-765 Expedite Timeline? Silent update on both I-765 & I-485 last week",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud0jaj/i765_expedite_timeline_silent_update_on_both_i765/",
-      "author": "/u/cysn",
-      "publishedAt": "2026-06-22T23:25:01+00:00",
-      "excerpt": "Hi everyone, I’m trying to gauge how much longer I might be waiting for a response (approval, denial, or fax request) on my I-765 expedite request. For context, I'm an EB2 NIW filer adjusting status concurrently. I submitted the expedite based on severe financial loss / compelling public interest due to an upcoming tra…",
+      "id": "t3_1ucbhyy",
+      "title": "I built a dashboard for Reddit NIW data points in the past two years",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbhyy/i_built_a_dashboard_for_reddit_niw_data_points_in/",
+      "author": "/u/x_shawn",
+      "publishedAt": "2026-06-22T05:11:51+00:00",
+      "excerpt": "I found myself spending quite a bit time reading those approve or denial but honestly there should be a better way. I used Claude Haiku model that burned through half of my Claude Max usage to classify each data points on this subreddit in the past 2 years with a lot of testing on the accuracy back and forth on a numbe…",
       "topics": [
         "approval",
-        "i485",
         "i140",
-        "timeline",
-        "question"
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -215,6 +249,27 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ud0jaj",
+      "title": "I-765 Expedite Timeline? Silent update on both I-765 & I-485 last week",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud0jaj/i765_expedite_timeline_silent_update_on_both_i765/",
+      "author": "/u/cysn",
+      "publishedAt": "2026-06-22T23:25:01+00:00",
+      "excerpt": "Hi everyone, I’m trying to gauge how much longer I might be waiting for a response (approval, denial, or fax request) on my I-765 expedite request. For context, I'm an EB2 NIW filer adjusting status concurrently. I submitted the expedite based on severe financial loss / compelling public interest due to an upcoming tra…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -373,24 +428,6 @@
       }
     },
     {
-      "id": "t3_1uc08e7",
-      "title": "Value yourself.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc08e7/value_yourself/",
-      "author": "/u/JohnSmith13230",
-      "publishedAt": "2026-06-21T20:23:38+00:00",
-      "excerpt": "So, I made my I140 petition for myself. To be honest, I really recommend doing it with an immigration lawyer. I entered with premium process and received a heavy RFE with the 3 prongs. I answered in the most honest way possible, with all the evidence of my reality. But I need to tell you something, I feel very good abo…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ud2dw6",
       "title": "I-485 Traffic Violations — What I Learned (EB-2 NIW)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud2dw6/i485_traffic_violations_what_i_learned_eb2_niw/",
@@ -410,51 +447,15 @@
       }
     },
     {
-      "id": "t3_1uclc3s",
-      "title": "How long is “too long” to hear back",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uclc3s/how_long_is_too_long_to_hear_back/",
-      "author": "/u/bigBiggergirl",
-      "publishedAt": "2026-06-22T13:58:37+00:00",
-      "excerpt": "I mailed my petition package to the Elgin lockbox earlier this month and got confirmation from USPS that it was picked up. But i still haven’t heard anything from USCIS— no receipt, no payment removed from account yet… it’s been total silence. Do i need to reach out to them for an update? Or is still a waiting game? An…",
-      "topics": [
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uckkvf",
-      "title": "timeline for decision eb2NIW India_Aug 2025 PD",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uckkvf/timeline_for_decision_eb2niw_india_aug_2025_pd/",
-      "author": "/u/RightAd905",
-      "publishedAt": "2026-06-22T13:27:22+00:00",
-      "excerpt": "Any idea or recent experiences with the timeline for an EB2 NIW (India) with a PD of Aug 2025?",
+      "id": "t3_1uc08e7",
+      "title": "Value yourself.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uc08e7/value_yourself/",
+      "author": "/u/JohnSmith13230",
+      "publishedAt": "2026-06-21T20:23:38+00:00",
+      "excerpt": "So, I made my I140 petition for myself. To be honest, I really recommend doing it with an immigration lawyer. I entered with premium process and received a heavy RFE with the 3 prongs. I answered in the most honest way possible, with all the evidence of my reality. But I need to tell you something, I feel very good abo…",
       "topics": [
         "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uchgsh",
-      "title": "USCIS HOLD",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uchgsh/uscis_hold/",
-      "author": "/u/Resident_Rain_4481",
-      "publishedAt": "2026-06-22T11:00:54+00:00",
-      "excerpt": "Is the USCIS adjudication hold being lifted for everyone affected, or only for people who are currently inside the U.S.?",
-      "topics": [
-        "question"
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -464,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-23T02:13:03.531Z",
+  "syncedAt": "2026-06-23T06:39:32.089Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
