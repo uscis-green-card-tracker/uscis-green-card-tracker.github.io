@@ -74,24 +74,6 @@
       }
     },
     {
-      "id": "t3_1udpxn3",
-      "title": "Before adding more NIW evidence, ask what job each document has",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udpxn3/before_adding_more_niw_evidence_ask_what_job_each/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-06-23T18:51:57+00:00",
-      "excerpt": "A common NIW mistake is thinking the petition gets stronger every time another document is added. More evidence helps only when each document has a clear job. Before adding a new exhibit, I would ask: Does this prove the proposed endeavor is specific? Does this prove the endeavor matters beyond one employer or one care…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1udogdb",
       "title": "I-485 Service Request Help",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1udogdb/i485_service_request_help/",
@@ -111,15 +93,105 @@
       }
     },
     {
+      "id": "t3_1udtg0v",
+      "title": "Employment verification letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udtg0v/employment_verification_letter/",
+      "author": "/u/HonestAd4920",
+      "publishedAt": "2026-06-23T21:02:44+00:00",
+      "excerpt": "I am planning to apply for adjustment of status, and as part of my DIY checklist, an employment verification letter is mentioned. To clarify, my current employment is, for the most part, not directly related to my proposed endeavor. How should I go about requesting an employment verification letter? Would having curren…",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1udt9so",
+      "title": "personal statement revision",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udt9so/personal_statement_revision/",
+      "author": "/u/Conloc27",
+      "publishedAt": "2026-06-23T20:56:17+00:00",
+      "excerpt": "Hi folks, I need to revise my personal statement for RFEs because it is too broad. I already narrowed it down, but should I keep 2-3 sub-areas and plan them? Or just one main direction (narrow enough) is ok? Thanks.",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1udsiwy",
+      "title": "Expert letter in cybersecurity and AI",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udsiwy/expert_letter_in_cybersecurity_and_ai/",
+      "author": "/u/Top_Alternative6677",
+      "publishedAt": "2026-06-23T20:27:55+00:00",
+      "excerpt": "Looking for an expert who can give me an expert letter on cybersecurity and AI PE dealing with threat detection, critical infrastructure, zero trust systems. I got an RFE and my lawyer recommended to get an expert letter so I’m trying to see if someone can help me with one. It would mean a lot. I’m more than happy to p…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1udlhxe",
       "title": "i140 and suggestions",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1udlhxe/i140_and_suggestions/",
       "author": "/u/lol_logix",
       "publishedAt": "2026-06-23T16:11:29+00:00",
-      "excerpt": "Anyone recently got their i140 approval without PP among the Jan / Feb / March 2024 filers? I am trying to decide whether I should go for PP or not. It has been very frustrating. I am debating whether to do PP or not. Like idk if I get the decision, whether it is because of PP or not. Also, has anyone filed for i485 co…",
+      "excerpt": "Anyone recently got their i140 (EB2 NIW) approval without PP among the Jan / Feb / March 2024 filers? I am trying to decide whether I should go for PP or not. It has been very frustrating. I am debating whether to do PP or not. Like idk if I get the decision, whether it is because of PP or not. Also, has anyone filed f…",
       "topics": [
         "approval",
         "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1udr1yw",
+      "title": "Add new techniques to make new personal statment more specific",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udr1yw/add_new_techniques_to_make_new_personal_statment/",
+      "author": "/u/Conloc27",
+      "publishedAt": "2026-06-23T19:32:26+00:00",
+      "excerpt": "Hi folks, Has anyone experienced revising a personal statement in response to an RFE? For Prong 1, USCIS stated that my proposed endeavor was too broad because it focused on exploring various AI techniques to address a particular problem. I am considering narrowing it down to a specific AI technique (X) that I worked o…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1udpxn3",
+      "title": "Before adding more NIW evidence, ask what job each document has",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udpxn3/before_adding_more_niw_evidence_ask_what_job_each/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-06-23T18:51:57+00:00",
+      "excerpt": "A common NIW mistake is thinking the petition gets stronger every time another document is added. More evidence helps only when each document has a clear job. Before adding a new exhibit, I would ask: Does this prove the proposed endeavor is specific? Does this prove the endeavor matters beyond one employer or one care…",
+      "topics": [
         "i140",
         "question"
       ],
@@ -142,6 +214,23 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1udguut",
+      "title": "Help with law firm selection",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udguut/help_with_law_firm_selection/",
+      "author": "/u/AngriMushroom",
+      "publishedAt": "2026-06-23T13:15:20+00:00",
+      "excerpt": "Please help a friend select the best law firm given your current understanding or experience. One offer is from EP and the other from Husch Blackwell. EP: Attorney fees: $6000 with no refund offer and one free refile. Husch Blackwell: Attorney fees: $5080 with unlimited free refiling. No refund confirmation yet. ETA: I…",
+      "topics": [
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -264,14 +353,17 @@
       }
     },
     {
-      "id": "t3_1udguut",
-      "title": "Help with law firm selection",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udguut/help_with_law_firm_selection/",
-      "author": "/u/AngriMushroom",
-      "publishedAt": "2026-06-23T13:15:20+00:00",
-      "excerpt": "Please help a friend select the best law firm given your current understanding or experience. One offer is from EP and the other from Husch Blackwell. EP: Attorney fees: $6000 with no refund offer and one free refile. Husch Blackwell: Attorney fees: $5080 with unlimited free refiling. No refund confirmation yet. ETA: I…",
+      "id": "t3_1uda8pb",
+      "title": "Time to receive RFE letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uda8pb/time_to_receive_rfe_letter/",
+      "author": "/u/InsuranceReasonable7",
+      "publishedAt": "2026-06-23T07:23:26+00:00",
+      "excerpt": "Hi all! My i140 case status updated to “RFE requested” today. I am curious how long does it take for me or my lawyer (Chen) to receive the RFE in mail? Does the lawyer get the letter via email/online account? Filed: 04/26 (with PP) RFE status updated today. Thank you!",
       "topics": [
-        "lawyer"
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -336,26 +428,6 @@
       }
     },
     {
-      "id": "t3_1uda8pb",
-      "title": "Time to receive RFE letter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uda8pb/time_to_receive_rfe_letter/",
-      "author": "/u/InsuranceReasonable7",
-      "publishedAt": "2026-06-23T07:23:26+00:00",
-      "excerpt": "Hi all! My i140 case status updated to “RFE requested” today. I am curious how long does it take for me or my lawyer (Chen) to receive the RFE in mail? Does the lawyer get the letter via email/online account? Filed: 04/26 (with PP) RFE status updated today. Thank you!",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ud96do",
       "title": "NIW I-140 petition and dependent converting from F2 to F1",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud96do/niw_i140_petition_and_dependent_converting_from/",
@@ -390,83 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ud8ugq",
-      "title": "People worked/working with CHEN !",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ud8ugq/people_workedworking_with_chen/",
-      "author": "/u/SuperbKoala970",
-      "publishedAt": "2026-06-23T06:02:25+00:00",
-      "excerpt": "Is there anyone who got lawyer with initials DK ? How was your experience?",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ucs47q",
-      "title": "Consular processing Interview next month",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucs47q/consular_processing_interview_next_month/",
-      "author": "/u/mrecovery",
-      "publishedAt": "2026-06-22T18:07:08+00:00",
-      "excerpt": "Hey guys, My EB-2 NIW consular processing interview is coming up at the London Embassy, and I was wondering what experiences others have had with the process. What kind of questions were you asked during the interview? Were the questions mostly focused on your petition and background, or did they go into more detail? A…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ucbhyy",
-      "title": "I built a dashboard for Reddit NIW data points in the past two years",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucbhyy/i_built_a_dashboard_for_reddit_niw_data_points_in/",
-      "author": "/u/x_shawn",
-      "publishedAt": "2026-06-22T05:11:51+00:00",
-      "excerpt": "I found myself spending quite a bit time reading those approve or denial but honestly there should be a better way. I used Claude Haiku model that burned through half of my Claude Max usage to classify each data points on this subreddit in the past 2 years with a lot of testing on the accuracy back and forth on a numbe…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ucwcy9",
-      "title": "May PP updates?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucwcy9/may_pp_updates/",
-      "author": "/u/Puzzleheaded_Big7161",
-      "publishedAt": "2026-06-22T20:41:41+00:00",
-      "excerpt": "Has anyone who filed PP in May received a decision yet?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-23T19:03:18.966Z",
+  "syncedAt": "2026-06-23T21:24:00.159Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
