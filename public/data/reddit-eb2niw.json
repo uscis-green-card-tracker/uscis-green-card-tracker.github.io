@@ -55,6 +55,25 @@
       }
     },
     {
+      "id": "t3_1udv7i8",
+      "title": "Approved I-765",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udv7i8/approved_i765/",
+      "author": "/u/Top_Reason2009",
+      "publishedAt": "2026-06-23T22:12:11+00:00",
+      "excerpt": "Filed form I-485 with I-765 and I-131 on April 27th 2026 based on Eb2 niw approved. biometrics: may 20th done june1st: silent update on I485 multiple live emma agents said interview waived case is at NBC still. Even today june 17th: silent update on I-131. june 19th: 2nd FTAO on I-131 june 22: Approved I-131 on same da…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1udndsq",
       "title": "NIW denied - DIY refiling",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1udndsq/niw_denied_diy_refiling/",
@@ -203,6 +222,25 @@
       }
     },
     {
+      "id": "t3_1udj2vt",
+      "title": "Banned countries",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udj2vt/banned_countries/",
+      "author": "/u/Manu_Elom",
+      "publishedAt": "2026-06-23T14:42:57+00:00",
+      "excerpt": "Anyone from one of the 39 countries affected by the USCIS adjudication hold receive an I-140 approval recently? Trying to see whether USCIS has resumed adjudicating these cases.",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ucvhl5",
       "title": "NIW approved | PP without RFE | May 2026",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucvhl5/niw_approved_pp_without_rfe_may_2026/",
@@ -306,25 +344,6 @@
         "i485",
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1udj2vt",
-      "title": "Banned countries",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udj2vt/banned_countries/",
-      "author": "/u/Manu_Elom",
-      "publishedAt": "2026-06-23T14:42:57+00:00",
-      "excerpt": "Anyone from one of the 39 countries affected by the USCIS adjudication hold receive an I-140 approval recently? Trying to see whether USCIS has resumed adjudicating these cases.",
-      "topics": [
-        "approval",
-        "i140",
         "question"
       ],
       "signals": {
@@ -444,27 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ucz8kd",
-      "title": "Personal Statement Revise",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucz8kd/personal_statement_revise/",
-      "author": "/u/Conloc27",
-      "publishedAt": "2026-06-22T22:31:29+00:00",
-      "excerpt": "Hi folk, I am currently revising my personal statement and have a question regarding the opening paragraph. In the first paragraph, we typically state: “My proposed endeavor is [....].” Should I restate the proposed endeavor exactly as it appeared in the original filing, without any substantive changes, or would it be …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-23T21:24:00.159Z",
+  "syncedAt": "2026-06-23T22:59:40.782Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
