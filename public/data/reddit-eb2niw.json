@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1udxdi7",
-      "title": "Approved I-140 Today After RFE on all three prongs",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udxdi7/approved_i140_today_after_rfe_on_all_three_prongs/",
-      "author": "/u/AC-617",
-      "publishedAt": "2026-06-23T23:42:13+00:00",
-      "excerpt": "Hi everyone, I wanted to give back to the community and share my timeline and profile. I had zero academic papers, so hopefully, this helps other non-traditional applicants! Background & Profile: Industry: Information Technology (15 years of US experience). Education: BS in Information Systems, MS in Computer Informati…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ue6dcw",
       "title": "I-485 Approved: Timeline",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ue6dcw/i485_approved_timeline/",
@@ -74,6 +55,25 @@
       }
     },
     {
+      "id": "t3_1udxdi7",
+      "title": "Approved I-140 Today After RFE on all three prongs",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udxdi7/approved_i140_today_after_rfe_on_all_three_prongs/",
+      "author": "/u/AC-617",
+      "publishedAt": "2026-06-23T23:42:13+00:00",
+      "excerpt": "Hi everyone, I wanted to give back to the community and share my timeline and profile. I had zero academic papers, so hopefully, this helps other non-traditional applicants! Background & Profile: Industry: Information Technology (15 years of US experience). Education: BS in Information Systems, MS in Computer Informati…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1udzx49",
       "title": "I-140 NIW Denied",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1udzx49/i140_niw_denied/",
@@ -83,6 +83,25 @@
       "topics": [
         "i140",
         "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uedpnm",
+      "title": "I485 application plus supporting documents copy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uedpnm/i485_application_plus_supporting_documents_copy/",
+      "author": "/u/just_for_fun_5001",
+      "publishedAt": "2026-06-24T13:35:35+00:00",
+      "excerpt": "Can we request a copy of the applied I485 form and the supporting documents attested with the form, like birth affidavits and so on? If yes, how do you do it and how long does it take to get a copy?",
+      "topics": [
+        "i485",
         "timeline",
         "question"
       ],
@@ -447,29 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1udlhxe",
-      "title": "i140 and suggestions",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udlhxe/i140_and_suggestions/",
-      "author": "/u/lol_logix",
-      "publishedAt": "2026-06-23T16:11:29+00:00",
-      "excerpt": "Anyone recently got their i140 (EB2 NIW) approval without PP among the Jan / Feb / March 2024 filers? I am trying to decide whether I should go for PP or not. It has been very frustrating. I am debating whether to do PP or not. Like idk if I get the decision, whether it is because of PP or not. Also, has anyone filed f…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-24T11:38:12.684Z",
+  "syncedAt": "2026-06-24T14:06:14.713Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
