@@ -54,6 +54,26 @@
       }
     },
     {
+      "id": "t3_1ue6dcw",
+      "title": "I-485 Approved: Timeline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ue6dcw/i485_approved_timeline/",
+      "author": "/u/J523561",
+      "publishedAt": "2026-06-24T07:09:23+00:00",
+      "excerpt": "This subreddit has helped me a lot since I filed my I-485, and I want to help those who’re still waiting for their cases to be approved. Timeline: Category : EB-2 NIW Underlying Status: H-1B Priority Date: June 2024 Application sent on (carrier): 10/3/2025 Application delivered: 10/6/2025 Receipt Notice: 10/16/2025 Bio…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1udzx49",
       "title": "I-140 NIW Denied",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1udzx49/i140_niw_denied/",
@@ -65,6 +85,25 @@
         "lawyer",
         "timeline",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1udv7i8",
+      "title": "Approved I-765",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udv7i8/approved_i765/",
+      "author": "/u/Top_Reason2009",
+      "publishedAt": "2026-06-23T22:12:11+00:00",
+      "excerpt": "Filed form I-485 with I-765 and I-131 on April 27th 2026 based on Eb2 niw approved. biometrics: may 20th done june1st: silent update on I485 multiple live emma agents said interview waived case is at NBC still. Even today june 17th: silent update on I-131. june 19th: 2nd FTAO on I-131 june 22: Approved I-131 on same da…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -113,16 +152,16 @@
       }
     },
     {
-      "id": "t3_1udv7i8",
-      "title": "Approved I-765",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udv7i8/approved_i765/",
-      "author": "/u/Top_Reason2009",
-      "publishedAt": "2026-06-23T22:12:11+00:00",
-      "excerpt": "Filed form I-485 with I-765 and I-131 on April 27th 2026 based on Eb2 niw approved. biometrics: may 20th done june1st: silent update on I485 multiple live emma agents said interview waived case is at NBC still. Even today june 17th: silent update on I-131. june 19th: 2nd FTAO on I-131 june 22: Approved I-131 on same da…",
+      "id": "t3_1ue6wwl",
+      "title": "NIW denied twice. stay with Chen or switch to Ellis Porter?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ue6wwl/niw_denied_twice_stay_with_chen_or_switch_to/",
+      "author": "/u/SoggyClue",
+      "publishedAt": "2026-06-24T07:41:46+00:00",
+      "excerpt": "posting on behalf of a friend: I’m trying to decide what to do next with my NIW case and would appreciate practical advice from people who have been through something similar. My I-140 NIW has been denied twice. I currently have an unlimited refile contract with Chen , but lately I’ve been increasingly concerned becaus…",
       "topics": [
-        "approval",
-        "i485",
-        "i140"
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -427,47 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1udpxn3",
-      "title": "Before adding more NIW evidence, ask what job each document has",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1udpxn3/before_adding_more_niw_evidence_ask_what_job_each/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-06-23T18:51:57+00:00",
-      "excerpt": "A common NIW mistake is thinking the petition gets stronger every time another document is added. More evidence helps only when each document has a clear job. Before adding a new exhibit, I would ask: Does this prove the proposed endeavor is specific? Does this prove the endeavor matters beyond one employer or one care…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ucvhl5",
-      "title": "NIW approved | PP without RFE | May 2026",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ucvhl5/niw_approved_pp_without_rfe_may_2026/",
-      "author": "/u/ChessboardPanda",
-      "publishedAt": "2026-06-22T20:10:08+00:00",
-      "excerpt": "Hey! This subreddit was incredibly helpful to me while I was building my case, so I wanted to share my experience hoping it will help someone else. I didn't have any publications and my evidence was mostly my patent and open source work. Timeline Service Center: Nebraska Service Center (NSC) Received Date (Received): M…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-24T04:57:31.050Z",
+  "syncedAt": "2026-06-24T08:19:54.183Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
