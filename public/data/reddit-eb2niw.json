@@ -55,6 +55,25 @@
       }
     },
     {
+      "id": "t3_1uevfs7",
+      "title": "My 10 month ordeal",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevfs7/my_10_month_ordeal/",
+      "author": "/u/termmonkey",
+      "publishedAt": "2026-06-25T00:52:11+00:00",
+      "excerpt": "Used Manifest Law for my EB2-NIW. It dragged on for almost a year. Took time to do this writeup so you know what you are signing up for! Before anyone asks - yes, I have used AI for thought coherence but have written each and every word of it! TL;DR Paid Manifest a lot of money to handle my EB2-NIW. I did my part fast …",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uewcrw",
       "title": "I-485 Approved after almost 8 months",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewcrw/i485_approved_after_almost_8_months/",
@@ -71,25 +90,6 @@
         "blockNumber": null,
         "receiptDate": "10/27/25",
         "priorityDate": "11/30/2023",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uevfs7",
-      "title": "My 10 month ordeal",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevfs7/my_10_month_ordeal/",
-      "author": "/u/termmonkey",
-      "publishedAt": "2026-06-25T00:52:11+00:00",
-      "excerpt": "Used Manifest Law for my EB2-NIW. It dragged on for almost a year. Took time to do this writeup so you know what you are signing up for! Before anyone asks - yes, I have used AI for thought coherence but have written each and every word of it! TL;DR Paid Manifest a lot of money to handle my EB2-NIW. I did my part fast …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -115,12 +115,63 @@
       }
     },
     {
+      "id": "t3_1uexk8r",
+      "title": "Premium Processing Stats",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uexk8r/premium_processing_stats/",
+      "author": "/u/crazyquy",
+      "publishedAt": "2026-06-25T02:32:08+00:00",
+      "excerpt": "I pulled some statistics on premium processing cases in my current block and neighboring blocks. I used a sample dataset and excluded all cases that exceeded the 45-business-day premium processing deadline. While this isn’t perfect, it should be reasonably representative of current trends. RFE Timing Approved Denied To…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ueqjll",
       "title": "NIW petition based on a startup",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueqjll/niw_petition_based_on_a_startup/",
       "author": "/u/RelationshipMuch2161",
       "publishedAt": "2026-06-24T21:27:18+00:00",
       "excerpt": "For those who filed an NIW petition based on a startup or business that did not yet exist at the time of filing (only a business plan and proposed endeavor), what evidence did you submit in response to an RFE? I'm concerned because I may not be able to show many clients, secure an investor, or hire employees at this st…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ueym6y",
+      "title": "Looking for some guidance, Civil Engineer degree, working in Software",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueym6y/looking_for_some_guidance_civil_engineer_degree/",
+      "author": "/u/Strong-Evening1137",
+      "publishedAt": "2026-06-25T03:22:33+00:00",
+      "excerpt": "Hi folks, interested to see if anyone has any takes on my profile/ if it's worth trying. - Civil engineering degrees - Bachelor of Engineering - Master of Science - 4 Publications (2 first author), ~ 92 citations in the Civil Engineering/Environmental space - Approximately 6YOE in the software space (last 4 in a well k…",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uevj72",
+      "title": "RFE on National Importance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevj72/rfe_on_national_importance/",
+      "author": "/u/Tricky_Stop_488",
+      "publishedAt": "2026-06-25T00:56:34+00:00",
+      "excerpt": "I received an RFE on national importance. I am from a social science background. Though the officer accepts national merit+ well-positioned criteria, s/he asked to submit \" a detailed description of the proposed endeavor and why it is of national importance. Documentary evidence that supports the petitioner’s statement…",
       "topics": [
         "i140",
         "question"
@@ -174,24 +225,6 @@
       }
     },
     {
-      "id": "t3_1uexk8r",
-      "title": "Premium Processing Stats",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uexk8r/premium_processing_stats/",
-      "author": "/u/crazyquy",
-      "publishedAt": "2026-06-25T02:32:08+00:00",
-      "excerpt": "I pulled some statistics on premium processing cases in my current block and neighboring blocks. I used a sample dataset and excluded all cases that exceeded the 45-business-day premium processing deadline. While this isn’t perfect, it should be reasonably representative of current trends. RFE Timing Approved Denied To…",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uewasf",
       "title": "I-485 Receipt Notice Delay",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewasf/i485_receipt_notice_delay/",
@@ -211,13 +244,14 @@
       }
     },
     {
-      "id": "t3_1uevj72",
-      "title": "RFE on National Importance",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevj72/rfe_on_national_importance/",
-      "author": "/u/Tricky_Stop_488",
-      "publishedAt": "2026-06-25T00:56:34+00:00",
-      "excerpt": "I received an RFE on national importance. I am from a social science background. Though the officer accepts national merit+ well-positioned criteria, s/he asked to submit \" a detailed description of the proposed endeavor and why it is of national importance. Documentary evidence that supports the petitioner’s statement…",
+      "id": "t3_1uesqws",
+      "title": "RFE approval rates from lawfully",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uesqws/rfe_approval_rates_from_lawfully/",
+      "author": "/u/Numerous_Ad1951",
+      "publishedAt": "2026-06-24T22:55:09+00:00",
+      "excerpt": "It looks like the Lawfully app sent reports to users who participated by uploading the RFEs they received. Does anyone have the approval percentages or any of the statistics/data that were provided?",
       "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -250,6 +284,24 @@
       }
     },
     {
+      "id": "t3_1uemn0v",
+      "title": "Recommendation Letter outside USA",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uemn0v/recommendation_letter_outside_usa/",
+      "author": "/u/BlackberrySad1512",
+      "publishedAt": "2026-06-24T19:03:14+00:00",
+      "excerpt": "I am preparing to submit recommendation letter in my RFE response. I tried to reach out to the professors who cited my research. But only one of them agreed. However, this professor is from a university outside of the USA. Does the reco carry weight if the professor citing my research is from outside USA? Or they shoul…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ueu2hk",
       "title": "EB2 NIW Journey (Non STEM)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu2hk/eb2_niw_journey_non_stem/",
@@ -261,21 +313,6 @@
         "i140",
         "timeline"
       ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ueym6y",
-      "title": "Looking for some guidance, Civil Engineer degree, working in Software",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueym6y/looking_for_some_guidance_civil_engineer_degree/",
-      "author": "/u/Strong-Evening1137",
-      "publishedAt": "2026-06-25T03:22:33+00:00",
-      "excerpt": "Hi folks, interested to see if anyone has any takes on my profile/ if it's worth trying. - Civil engineering degrees - Bachelor of Engineering - Master of Science - 4 Publications (2 first author), ~ 92 citations in the Civil Engineering/Environmental space - Approximately 6YOE in the software space (last 4 in a well k…",
-      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -359,14 +396,13 @@
       }
     },
     {
-      "id": "t3_1uesqws",
-      "title": "RFE approval rates from lawfully",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uesqws/rfe_approval_rates_from_lawfully/",
-      "author": "/u/Numerous_Ad1951",
-      "publishedAt": "2026-06-24T22:55:09+00:00",
-      "excerpt": "It looks like the Lawfully app sent reports to users who participated by uploading the RFEs they received. Does anyone have the approval percentages or any of the statistics/data that were provided?",
+      "id": "t3_1uejkv6",
+      "title": "Need Suggestion on Recommendation letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uejkv6/need_suggestion_on_recommendation_letter/",
+      "author": "/u/Big-Face8592",
+      "publishedAt": "2026-06-24T17:12:58+00:00",
+      "excerpt": "Hello all, I have received RFE in prong 2 and 3. I initially did not submit any Letter of Recommendation (LOR), but I now want to submit some. For context, my PE was to research how green marketing strategies shape consumer behavior, to help businesses promote sustainable consumption more effectively. How many LORs (de…",
       "topics": [
-        "approval",
         "i140",
         "question"
       ],
@@ -414,42 +450,6 @@
       }
     },
     {
-      "id": "t3_1uemn0v",
-      "title": "Recommendation Letter outside USA",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uemn0v/recommendation_letter_outside_usa/",
-      "author": "/u/BlackberrySad1512",
-      "publishedAt": "2026-06-24T19:03:14+00:00",
-      "excerpt": "I am preparing to submit recommendation letter in my RFE response. I tried to reach out to the professors who cited my research. But only one of them agreed. However, this professor is from a university outside of the USA. Does the reco carry weight if the professor citing my research is from outside USA? Or they shoul…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uejkv6",
-      "title": "Need Suggestion on Recommendation letter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uejkv6/need_suggestion_on_recommendation_letter/",
-      "author": "/u/Big-Face8592",
-      "publishedAt": "2026-06-24T17:12:58+00:00",
-      "excerpt": "Hello all, I have received RFE in prong 2 and 3. I initially did not submit any Letter of Recommendation (LOR), but I now want to submit some. For context, my PE was to research how green marketing strategies shape consumer behavior, to help businesses promote sustainable consumption more effectively. How many LORs (de…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uev1m2",
       "title": "What time of the day did you receive a decision from USCIS?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uev1m2/what_time_of_the_day_did_you_receive_a_decision/",
@@ -467,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-25T07:33:34.080Z",
+  "syncedAt": "2026-06-25T10:34:04.869Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
