@@ -55,6 +55,24 @@
       }
     },
     {
+      "id": "t3_1ufj52e",
+      "title": "Need help to start NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufj52e/need_help_to_start_niw/",
+      "author": "/u/Ok_Archer_3308",
+      "publishedAt": "2026-06-25T18:58:05+00:00",
+      "excerpt": "I’m looking for some guidance on the EB-2 NIW process. I currently work as a Business Intelligence (BI) Analyst with about 6 years of professional experience in data analytics, primarily in healthcare. I also have two published research papers with a total of around 45 citations. Based on this profile, do you think I h…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uevfs7",
       "title": "My 10 month ordeal",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevfs7/my_10_month_ordeal/",
@@ -68,24 +86,6 @@
       ],
       "signals": {
         "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ufarlf",
-      "title": "IOE09373 Block not available in I140 Tracker",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufarlf/ioe09373_block_not_available_in_i140_tracker/",
-      "author": "/u/Spiritual_Tie2747",
-      "publishedAt": "2026-06-25T13:56:10+00:00",
-      "excerpt": "Its not available in I140 Tracker. Is that natural?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": "IOE09373",
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
@@ -112,15 +112,69 @@
       }
     },
     {
-      "id": "t3_1ufb3yz",
-      "title": "Will USCIS accept an RFE response that arrives a day or two late if it was mailed early?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufb3yz/will_uscis_accept_an_rfe_response_that_arrives_a/",
-      "author": "/u/Tight_Diamond_3323",
-      "publishedAt": "2026-06-25T14:09:02+00:00",
-      "excerpt": "Body: Filing my own EB-2 NIW I-140 RFE response (no attorney). Mailed Priority Express on June 21 , deadline is June 25 , correct Texas Service Center address, dated label + tracking. But it's moving slow and might not physically arrive until after the deadline. I know USCIS goes by received date , not postmark. My que…",
+      "id": "t3_1ufarlf",
+      "title": "IOE09373 Block not available in I140 Tracker",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufarlf/ioe09373_block_not_available_in_i140_tracker/",
+      "author": "/u/Spiritual_Tie2747",
+      "publishedAt": "2026-06-25T13:56:10+00:00",
+      "excerpt": "Its not available in I140 Tracker. Is that natural?",
       "topics": [
         "i140",
-        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": "IOE09373",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufgq7q",
+      "title": "Charlotte FO I-485 cases",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufgq7q/charlotte_fo_i485_cases/",
+      "author": "/u/Profile-110364",
+      "publishedAt": "2026-06-25T17:32:24+00:00",
+      "excerpt": "Hello there, I was wondering if there are any people who have had any sort of movement on their EB2 NIW cases at the Charlotte field office who filed since the beginning of 2026. Thanks for any insight.",
+      "topics": [
+        "i485",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufg9ua",
+      "title": "PP strategy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufg9ua/pp_strategy/",
+      "author": "/u/Hot_Cardiologist1847",
+      "publishedAt": "2026-06-25T17:16:16+00:00",
+      "excerpt": "HI Everyone, I am preparing my EB2 NIW petition and am trying to decide on the best processing strategy. I am aware that I can file premium processing directly, but I would like get some opinion on whether it is a good idea to file regular and then upgrade later.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufg06r",
+      "title": "RFE after I485 interview",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufg06r/rfe_after_i485_interview/",
+      "author": "/u/just_for_fun_5001",
+      "publishedAt": "2026-06-25T17:06:57+00:00",
+      "excerpt": "Well, I was issued an RFE after the interview today. The RFE was issued asking me to present a more authentic birth certificate. When I had applied, I had presented affidavits plus a local government letter stating that I was born on this and that time which the interviewer did not give any weights. Questions asked: Wh…",
+      "topics": [
+        "i485",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -131,15 +185,34 @@
       }
     },
     {
-      "id": "t3_1uf88is",
-      "title": "I dont have any publications or citations. Can I still qualify for the EB2-NIW?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uf88is/i_dont_have_any_publications_or_citations_can_i/",
-      "author": "/u/BeyondBorder",
-      "publishedAt": "2026-06-25T12:11:14+00:00",
-      "excerpt": "Most EB2-NIW aspirants we speak to misunderstood that you have to be a researcher or scientist with 100+ citations to qualify for the EB2-NIW. Working with hundreds of non-researcher profiles on their NIW journeys every day. Back to basics: the NIW is a pathway meant for the U.S. to attract well tenured, or professiona…",
+      "id": "t3_1uffu7v",
+      "title": "Need help: I-907 payment rejected and found a mistake on my I-140 filing. What now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uffu7v/need_help_i907_payment_rejected_and_found_a/",
+      "author": "/u/skipperzz007",
+      "publishedAt": "2026-06-25T17:01:09+00:00",
+      "excerpt": "I filed my I-140 and I-907 (Premium Processing) concurrently. My I-140 was accepted and I have received the official receipt notice (status: \"Case Was Received\"). However, the I-907 payment failed due to a funding error in my account. The Issues: Premium Processing: Since the I-907 failed, I understand I am now in the …",
       "topics": [
-        "approval",
+        "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufb3yz",
+      "title": "Will USCIS accept an RFE response that arrives a day or two late if it was mailed early?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufb3yz/will_uscis_accept_an_rfe_response_that_arrives_a/",
+      "author": "/u/Tight_Diamond_3323",
+      "publishedAt": "2026-06-25T14:09:02+00:00",
+      "excerpt": "Body: Filing my own EB-2 NIW I-140 RFE response (no attorney). Mailed Priority Express on June 21 , deadline is June 25 , correct Texas Service Center address, dated label + tracking. But it's moving slow and might not physically arrive until after the deadline. I know USCIS goes by received date , not postmark. My que…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -188,31 +261,14 @@
       }
     },
     {
-      "id": "t3_1uexk8r",
-      "title": "Premium Processing Stats",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uexk8r/premium_processing_stats/",
-      "author": "/u/crazyquy",
-      "publishedAt": "2026-06-25T02:32:08+00:00",
-      "excerpt": "I pulled some statistics on premium processing cases in my current block and neighboring blocks. I used a sample dataset and excluded all cases that exceeded the 45-business-day premium processing deadline. While this isn’t perfect, it should be reasonably representative of current trends. RFE Timing Approved Denied To…",
+      "id": "t3_1uf88is",
+      "title": "I dont have any publications or citations. Can I still qualify for the EB2-NIW?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uf88is/i_dont_have_any_publications_or_citations_can_i/",
+      "author": "/u/BeyondBorder",
+      "publishedAt": "2026-06-25T12:11:14+00:00",
+      "excerpt": "Most EB2-NIW aspirants we speak to misunderstood that you have to be a researcher or scientist with 100+ citations to qualify for the EB2-NIW. Working with hundreds of non-researcher profiles on their NIW journeys every day. Back to basics: the NIW is a pathway meant for the U.S. to attract well tenured, or professiona…",
       "topics": [
         "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uevj72",
-      "title": "RFE on National Importance",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevj72/rfe_on_national_importance/",
-      "author": "/u/Tricky_Stop_488",
-      "publishedAt": "2026-06-25T00:56:34+00:00",
-      "excerpt": "I received an RFE on national importance. I am from a social science background. Though the officer accepts national merit+ well-positioned criteria, s/he asked to submit \" a detailed description of the proposed endeavor and why it is of national importance. Documentary evidence that supports the petitioner’s statement…",
-      "topics": [
         "i140",
         "question"
       ],
@@ -265,16 +321,15 @@
       }
     },
     {
-      "id": "t3_1ueu2hk",
-      "title": "EB2 NIW Journey (Non STEM)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu2hk/eb2_niw_journey_non_stem/",
-      "author": "/u/Appropriate-Piano628",
-      "publishedAt": "2026-06-24T23:51:37+00:00",
-      "excerpt": "I’m documenting my EB-2 NIW journey here in case it helps someone else, or in case I need advice from the Reddit community along the way. Timeline: 6/19 (Fri): Package shipped via UPS 6/22 (Mon): Delivered to USCIS around 10:00 AM (per UPS tracking) 6/24 (Wed): Received the USCIS text/email notification with my receipt…",
+      "id": "t3_1uevj72",
+      "title": "RFE on National Importance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevj72/rfe_on_national_importance/",
+      "author": "/u/Tricky_Stop_488",
+      "publishedAt": "2026-06-25T00:56:34+00:00",
+      "excerpt": "I received an RFE on national importance. I am from a social science background. Though the officer accepts national merit+ well-positioned criteria, s/he asked to submit \" a detailed description of the proposed endeavor and why it is of national importance. Documentary evidence that supports the petitioner’s statement…",
       "topics": [
-        "approval",
         "i140",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -312,6 +367,42 @@
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ueu4rk",
+      "title": "Very helpful process to craft your cover letter.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu4rk/very_helpful_process_to_craft_your_cover_letter/",
+      "author": "/u/Independent-Mud-8424",
+      "publishedAt": "2026-06-24T23:54:24+00:00",
+      "excerpt": "With the help of Oscar's Green Card platform, I crafted my I-140 NIW petition cover letter from start to finish on my own. It has been way more simpler. I still haven't check and compared the resulting cover letter with the one I wrote following the course. I think I've found a couple of bugs, particularly when you mov…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ueu2hk",
+      "title": "EB2 NIW Journey (Non STEM)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu2hk/eb2_niw_journey_non_stem/",
+      "author": "/u/Appropriate-Piano628",
+      "publishedAt": "2026-06-24T23:51:37+00:00",
+      "excerpt": "I’m documenting my EB-2 NIW journey here in case it helps someone else, or in case I need advice from the Reddit community along the way. Timeline: 6/19 (Fri): Package shipped via UPS 6/22 (Mon): Delivered to USCIS around 10:00 AM (per UPS tracking) 6/24 (Wed): Received the USCIS text/email notification with my receipt…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -377,98 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ueu4rk",
-      "title": "Very helpful process to craft your cover letter.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu4rk/very_helpful_process_to_craft_your_cover_letter/",
-      "author": "/u/Independent-Mud-8424",
-      "publishedAt": "2026-06-24T23:54:24+00:00",
-      "excerpt": "With the help of Oscar's Green Card platform, I crafted my I-140 NIW petition cover letter from start to finish on my own. It has been way more simpler. I still haven't check and compared the resulting cover letter with the one I wrote following the course. I think I've found a couple of bugs, particularly when you mov…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ueym6y",
-      "title": "Looking for some guidance, Civil Engineer degree, working in Software",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueym6y/looking_for_some_guidance_civil_engineer_degree/",
-      "author": "/u/Strong-Evening1137",
-      "publishedAt": "2026-06-25T03:22:33+00:00",
-      "excerpt": "Hi folks, interested to see if anyone has any takes on my profile/ if it's worth trying. - Civil engineering degrees - Bachelor of Engineering - Master of Science - 4 Publications (2 first author), ~ 92 citations in the Civil Engineering/Environmental space - Approximately 6YOE in the software space (last 4 in a well k…",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ueyh5k",
-      "title": "How easy is it to report a change of address after paper-filing an I-485?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueyh5k/how_easy_is_it_to_report_a_change_of_address/",
-      "author": "/u/Upper-Finish202",
-      "publishedAt": "2026-06-25T03:15:41+00:00",
-      "excerpt": "Is it done electronically, or do I need to submit Form AR-11 by mail? I'm trying to decide whether the hassle and potential risk are significant enough to justify postponing my I-485 filing until after I move.",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ue6dcw",
-      "title": "I-485 Approved: Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ue6dcw/i485_approved_timeline/",
-      "author": "/u/J523561",
-      "publishedAt": "2026-06-24T07:09:23+00:00",
-      "excerpt": "This subreddit has helped me a lot since I filed my I-485, and I want to help those who’re still waiting for their cases to be approved. Timeline: Category : EB-2 NIW Underlying Status: H-1B Priority Date: June 2024 Application sent on (carrier): 10/3/2025 Application delivered: 10/6/2025 Receipt Notice: 10/16/2025 Bio…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1uey29t",
-      "title": "USCIS used derivative's email for principal applicant's cases",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uey29t/uscis_used_derivatives_email_for_principal/",
-      "author": "/u/exhi_bit",
-      "publishedAt": "2026-06-25T02:56:00+00:00",
-      "excerpt": "I filed EB2-NIW based I-485/I-765 as the principal applicant, and my spouse filed I-485 as a derivative. USCIS sent email notifications for all three cases to my spouse's email address. We received three separate receipt numbers (for my I-485, I-765, and my spouse's I-485), but I cannot add/access my cases in my USCIS …",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-25T16:15:40.210Z",
+  "syncedAt": "2026-06-25T19:01:32.793Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
