@@ -56,6 +56,62 @@
       }
     },
     {
+      "id": "t3_1ufpdxh",
+      "title": "Webber RFE Handling",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufpdxh/webber_rfe_handling/",
+      "author": "/u/Smart-Mycologist-151",
+      "publishedAt": "2026-06-25T22:59:06+00:00",
+      "excerpt": "I’m looking for feedback from anyone who has worked with Robert (Bob) Webber on an EB-2 NIW case, especially if you received an RFE. Since RFEs seem to be much more common these days, I’m particularly interested in hearing about your experience with how the firm handled the RFE. How thorough and strategic was their RFE…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufoh19",
+      "title": "NVC Fees",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufoh19/nvc_fees/",
+      "author": "/u/Far-Bet-706",
+      "publishedAt": "2026-06-25T22:20:21+00:00",
+      "excerpt": "Hello, good people, My lawyer paid the NVC fees on June 17, and today, June 26, the status is still in process. How many time it take for NVC to proceed and validate the payment? Thank you.",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufnrvx",
+      "title": "USMLE graduate planning residency + backup plan (MS in Health Informatics → NIW pathway)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufnrvx/usmle_graduate_planning_residency_backup_plan_ms/",
+      "author": "/u/Single-Pickle-8460",
+      "publishedAt": "2026-06-25T21:53:10+00:00",
+      "excerpt": "I am a physician who has successfully passed the USMLE exams and will be applying for residency this cycle. Alongside my residency application, I am also considering a backup plan. My backup plan is to pursue a Master’s in Health Informatics and later explore the NIW (National Interest Waiver) pathway. I am looking to …",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ufmjb2",
       "title": "Can An Immigration Law Firm Help with RFE Response for a Self-Petitioned Case",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufmjb2/can_an_immigration_law_firm_help_with_rfe/",
@@ -418,64 +474,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uevj72",
-      "title": "RFE on National Importance",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevj72/rfe_on_national_importance/",
-      "author": "/u/Tricky_Stop_488",
-      "publishedAt": "2026-06-25T00:56:34+00:00",
-      "excerpt": "I received an RFE on national importance. I am from a social science background. Though the officer accepts national merit+ well-positioned criteria, s/he asked to submit \" a detailed description of the proposed endeavor and why it is of national importance. Documentary evidence that supports the petitioner’s statement…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uesqws",
-      "title": "RFE approval rates from lawfully",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uesqws/rfe_approval_rates_from_lawfully/",
-      "author": "/u/Numerous_Ad1951",
-      "publishedAt": "2026-06-24T22:55:09+00:00",
-      "excerpt": "It looks like the Lawfully app sent reports to users who participated by uploading the RFEs they received. Does anyone have the approval percentages or any of the statistics/data that were provided?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ueqjll",
-      "title": "NIW petition based on a startup",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueqjll/niw_petition_based_on_a_startup/",
-      "author": "/u/RelationshipMuch2161",
-      "publishedAt": "2026-06-24T21:27:18+00:00",
-      "excerpt": "For those who filed an NIW petition based on a startup or business that did not yet exist at the time of filing (only a business plan and proposed endeavor), what evidence did you submit in response to an RFE? I'm concerned because I may not be able to show many clients, secure an investor, or hire employees at this st…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-25T21:21:40.910Z",
+  "syncedAt": "2026-06-25T23:07:40.181Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
