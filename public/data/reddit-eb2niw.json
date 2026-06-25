@@ -94,6 +94,25 @@
       }
     },
     {
+      "id": "t3_1uf88is",
+      "title": "I dont have any publications or citations. Can I still qualify for the EB2-NIW?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uf88is/i_dont_have_any_publications_or_citations_can_i/",
+      "author": "/u/BeyondBorder",
+      "publishedAt": "2026-06-25T12:11:14+00:00",
+      "excerpt": "Most EB2-NIW aspirants we speak to misunderstood that you have to be a researcher or scientist with 100+ citations to qualify for the EB2-NIW. Working with hundreds of non-researcher profiles on their NIW journeys every day. Back to basics: the NIW is a pathway meant for the U.S. to attract well tenured, or professiona…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uey4hd",
       "title": "EB2-NIW (Industry Applicant) – Looking for Profile Review from Those with NIW Experience",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uey4hd/eb2niw_industry_applicant_looking_for_profile/",
@@ -124,6 +143,26 @@
       "topics": [
         "approval",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uev82r",
+      "title": "Can you still file STEM OPT after receiving a C09 (I-485) EAD?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uev82r/can_you_still_file_stem_opt_after_receiving_a_c09/",
+      "author": "/u/Present-Version779",
+      "publishedAt": "2026-06-25T00:42:36+00:00",
+      "excerpt": "Has anyone applied for STEM OPT after receiving a C09 EAD from a pending I-485 with an approved I-140? My situation: F-1 on post-completion OPT Approved EB-2 NIW I-140 I-485 pending I-765 (C09) filed with I-485 Considering STEM OPT as a backup while waiting for the green card I'm particularly looking for people who: Al…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -205,17 +244,16 @@
       }
     },
     {
-      "id": "t3_1uev82r",
-      "title": "Can you still file STEM OPT after receiving a C09 (I-485) EAD?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uev82r/can_you_still_file_stem_opt_after_receiving_a_c09/",
-      "author": "/u/Present-Version779",
-      "publishedAt": "2026-06-25T00:42:36+00:00",
-      "excerpt": "Has anyone applied for STEM OPT after receiving a C09 EAD from a pending I-485 with an approved I-140? My situation: F-1 on post-completion OPT Approved EB-2 NIW I-140 I-485 pending I-765 (C09) filed with I-485 Considering STEM OPT as a backup while waiting for the green card I'm particularly looking for people who: Al…",
+      "id": "t3_1ueu2hk",
+      "title": "EB2 NIW Journey (Non STEM)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu2hk/eb2_niw_journey_non_stem/",
+      "author": "/u/Appropriate-Piano628",
+      "publishedAt": "2026-06-24T23:51:37+00:00",
+      "excerpt": "I’m documenting my EB-2 NIW journey here in case it helps someone else, or in case I need advice from the Reddit community along the way. Timeline: 6/19 (Fri): Package shipped via UPS 6/22 (Mon): Delivered to USCIS around 10:00 AM (per UPS tracking) 6/24 (Wed): Received the USCIS text/email notification with my receipt…",
       "topics": [
         "approval",
-        "i485",
         "i140",
-        "question"
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -293,25 +331,6 @@
       "topics": [
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ueu2hk",
-      "title": "EB2 NIW Journey (Non STEM)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu2hk/eb2_niw_journey_non_stem/",
-      "author": "/u/Appropriate-Piano628",
-      "publishedAt": "2026-06-24T23:51:37+00:00",
-      "excerpt": "I’m documenting my EB-2 NIW journey here in case it helps someone else, or in case I need advice from the Reddit community along the way. Timeline: 6/19 (Fri): Package shipped via UPS 6/22 (Mon): Delivered to USCIS around 10:00 AM (per UPS tracking) 6/24 (Wed): Received the USCIS text/email notification with my receipt…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -448,26 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uev1m2",
-      "title": "What time of the day did you receive a decision from USCIS?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uev1m2/what_time_of_the_day_did_you_receive_a_decision/",
-      "author": "/u/OutrageousTrain2477",
-      "publishedAt": "2026-06-25T00:34:24+00:00",
-      "excerpt": "Have they ever given out decision after work hours?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-25T10:34:04.869Z",
+  "syncedAt": "2026-06-25T13:10:45.217Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
