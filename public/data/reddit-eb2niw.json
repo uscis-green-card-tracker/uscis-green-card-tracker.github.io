@@ -74,6 +74,24 @@
       }
     },
     {
+      "id": "t3_1ufarlf",
+      "title": "IOE09373 Block not available in I140 Tracker",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufarlf/ioe09373_block_not_available_in_i140_tracker/",
+      "author": "/u/Spiritual_Tie2747",
+      "publishedAt": "2026-06-25T13:56:10+00:00",
+      "excerpt": "Its not available in I140 Tracker. Is that natural?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": "IOE09373",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uewcrw",
       "title": "I-485 Approved after almost 8 months",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewcrw/i485_approved_after_almost_8_months/",
@@ -90,6 +108,25 @@
         "blockNumber": null,
         "receiptDate": "10/27/25",
         "priorityDate": "11/30/2023",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufb3yz",
+      "title": "Will USCIS accept an RFE response that arrives a day or two late if it was mailed early?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufb3yz/will_uscis_accept_an_rfe_response_that_arrives_a/",
+      "author": "/u/Tight_Diamond_3323",
+      "publishedAt": "2026-06-25T14:09:02+00:00",
+      "excerpt": "Body: Filing my own EB-2 NIW I-140 RFE response (no attorney). Mailed Priority Express on June 21 , deadline is June 25 , correct Texas Service Center address, dated label + tracking. But it's moving slow and might not physically arrive until after the deadline. I know USCIS goes by received date , not postmark. My que…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -134,14 +171,13 @@
       }
     },
     {
-      "id": "t3_1uexk8r",
-      "title": "Premium Processing Stats",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uexk8r/premium_processing_stats/",
-      "author": "/u/crazyquy",
-      "publishedAt": "2026-06-25T02:32:08+00:00",
-      "excerpt": "I pulled some statistics on premium processing cases in my current block and neighboring blocks. I used a sample dataset and excluded all cases that exceeded the 45-business-day premium processing deadline. While this isn’t perfect, it should be reasonably representative of current trends. RFE Timing Approved Denied To…",
+      "id": "t3_1ufalys",
+      "title": "Veritas NIW - AI EB2-NIW powered platform",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufalys/veritas_niw_ai_eb2niw_powered_platform/",
+      "author": "/u/mathzdev",
+      "publishedAt": "2026-06-25T13:50:05+00:00",
+      "excerpt": "3 weeks of Veritas NIW. Quick recap. ↓ → Launched May 22 on one bet: an EB2-NIW tool that actually reasons about your case, not one that generates pretty templates. → 3 paying users. $0 paid ads. All organic. → One user's feedback literally rewrote our AI roadmap. In 3 weeks we shipped: AI-assisted petition letter draf…",
       "topics": [
-        "approval",
         "i140"
       ],
       "signals": {
@@ -152,51 +188,16 @@
       }
     },
     {
-      "id": "t3_1uev82r",
-      "title": "Can you still file STEM OPT after receiving a C09 (I-485) EAD?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uev82r/can_you_still_file_stem_opt_after_receiving_a_c09/",
-      "author": "/u/Present-Version779",
-      "publishedAt": "2026-06-25T00:42:36+00:00",
-      "excerpt": "Has anyone applied for STEM OPT after receiving a C09 EAD from a pending I-485 with an approved I-140? My situation: F-1 on post-completion OPT Approved EB-2 NIW I-140 I-485 pending I-765 (C09) filed with I-485 Considering STEM OPT as a backup while waiting for the green card I'm particularly looking for people who: Al…",
+      "id": "t3_1uexk8r",
+      "title": "Premium Processing Stats",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uexk8r/premium_processing_stats/",
+      "author": "/u/crazyquy",
+      "publishedAt": "2026-06-25T02:32:08+00:00",
+      "excerpt": "I pulled some statistics on premium processing cases in my current block and neighboring blocks. I used a sample dataset and excluded all cases that exceeded the 45-business-day premium processing deadline. While this isn’t perfect, it should be reasonably representative of current trends. RFE Timing Approved Denied To…",
       "topics": [
         "approval",
-        "i485",
-        "i140",
-        "question"
+        "i140"
       ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ueqjll",
-      "title": "NIW petition based on a startup",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueqjll/niw_petition_based_on_a_startup/",
-      "author": "/u/RelationshipMuch2161",
-      "publishedAt": "2026-06-24T21:27:18+00:00",
-      "excerpt": "For those who filed an NIW petition based on a startup or business that did not yet exist at the time of filing (only a business plan and proposed endeavor), what evidence did you submit in response to an RFE? I'm concerned because I may not be able to show many clients, secure an investor, or hire employees at this st…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ueym6y",
-      "title": "Looking for some guidance, Civil Engineer degree, working in Software",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueym6y/looking_for_some_guidance_civil_engineer_degree/",
-      "author": "/u/Strong-Evening1137",
-      "publishedAt": "2026-06-25T03:22:33+00:00",
-      "excerpt": "Hi folks, interested to see if anyone has any takes on my profile/ if it's worth trying. - Civil engineering degrees - Bachelor of Engineering - Master of Science - 4 Publications (2 first author), ~ 92 citations in the Civil Engineering/Environmental space - Approximately 6YOE in the software space (last 4 in a well k…",
-      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -244,6 +245,26 @@
       }
     },
     {
+      "id": "t3_1uev82r",
+      "title": "Can you still file STEM OPT after receiving a C09 (I-485) EAD?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uev82r/can_you_still_file_stem_opt_after_receiving_a_c09/",
+      "author": "/u/Present-Version779",
+      "publishedAt": "2026-06-25T00:42:36+00:00",
+      "excerpt": "Has anyone applied for STEM OPT after receiving a C09 EAD from a pending I-485 with an approved I-140? My situation: F-1 on post-completion OPT Approved EB-2 NIW I-140 I-485 pending I-765 (C09) filed with I-485 Considering STEM OPT as a backup while waiting for the green card I'm particularly looking for people who: Al…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ueu2hk",
       "title": "EB2 NIW Journey (Non STEM)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu2hk/eb2_niw_journey_non_stem/",
@@ -263,15 +284,15 @@
       }
     },
     {
-      "id": "t3_1uewasf",
-      "title": "I-485 Receipt Notice Delay",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewasf/i485_receipt_notice_delay/",
-      "author": "/u/Nomi_1189",
-      "publishedAt": "2026-06-25T01:32:22+00:00",
-      "excerpt": "My I-485 package delivered to Texas lockbox on June 9. No receipt notice, text/email, or fee deduction yet. Anyone else with a similar timeline? How long did it take to get your receipt? Thanks!",
+      "id": "t3_1uesqws",
+      "title": "RFE approval rates from lawfully",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uesqws/rfe_approval_rates_from_lawfully/",
+      "author": "/u/Numerous_Ad1951",
+      "publishedAt": "2026-06-24T22:55:09+00:00",
+      "excerpt": "It looks like the Lawfully app sent reports to users who participated by uploading the RFEs they received. Does anyone have the approval percentages or any of the statistics/data that were provided?",
       "topics": [
-        "i485",
-        "timeline",
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -282,15 +303,33 @@
       }
     },
     {
-      "id": "t3_1uesqws",
-      "title": "RFE approval rates from lawfully",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uesqws/rfe_approval_rates_from_lawfully/",
-      "author": "/u/Numerous_Ad1951",
-      "publishedAt": "2026-06-24T22:55:09+00:00",
-      "excerpt": "It looks like the Lawfully app sent reports to users who participated by uploading the RFEs they received. Does anyone have the approval percentages or any of the statistics/data that were provided?",
+      "id": "t3_1ueqjll",
+      "title": "NIW petition based on a startup",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueqjll/niw_petition_based_on_a_startup/",
+      "author": "/u/RelationshipMuch2161",
+      "publishedAt": "2026-06-24T21:27:18+00:00",
+      "excerpt": "For those who filed an NIW petition based on a startup or business that did not yet exist at the time of filing (only a business plan and proposed endeavor), what evidence did you submit in response to an RFE? I'm concerned because I may not be able to show many clients, secure an investor, or hire employees at this st…",
       "topics": [
-        "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uewasf",
+      "title": "I-485 Receipt Notice Delay",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewasf/i485_receipt_notice_delay/",
+      "author": "/u/Nomi_1189",
+      "publishedAt": "2026-06-25T01:32:22+00:00",
+      "excerpt": "My I-485 package delivered to Texas lockbox on June 9. No receipt notice, text/email, or fee deduction yet. Anyone else with a similar timeline? How long did it take to get your receipt? Thanks!",
+      "topics": [
+        "i485",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -332,6 +371,38 @@
         "i140",
         "question"
       ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ueu4rk",
+      "title": "Very helpful process to craft your cover letter.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueu4rk/very_helpful_process_to_craft_your_cover_letter/",
+      "author": "/u/Independent-Mud-8424",
+      "publishedAt": "2026-06-24T23:54:24+00:00",
+      "excerpt": "With the help of Oscar's Green Card platform, I crafted my I-140 NIW petition cover letter from start to finish on my own. It has been way more simpler. I still haven't check and compared the resulting cover letter with the one I wrote following the course. I think I've found a couple of bugs, particularly when you mov…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ueym6y",
+      "title": "Looking for some guidance, Civil Engineer degree, working in Software",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ueym6y/looking_for_some_guidance_civil_engineer_degree/",
+      "author": "/u/Strong-Evening1137",
+      "publishedAt": "2026-06-25T03:22:33+00:00",
+      "excerpt": "Hi folks, interested to see if anyone has any takes on my profile/ if it's worth trying. - Civil engineering degrees - Bachelor of Engineering - Master of Science - 4 Publications (2 first author), ~ 92 citations in the Civil Engineering/Environmental space - Approximately 6YOE in the software space (last 4 in a well k…",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -395,81 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uexyxl",
-      "title": "Filed I-485 in May BUT still waiting biometrics",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uexyxl/filed_i485_in_may_but_still_waiting_biometrics/",
-      "author": "/u/Specialist_Lynx7652",
-      "publishedAt": "2026-06-25T02:51:29+00:00",
-      "excerpt": "Has anyone who filed their I-485 in May received a biometrics appointment yet? Mine was filed on 5/4 and I'm still waiting. Thank you.",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uejkv6",
-      "title": "Need Suggestion on Recommendation letter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uejkv6/need_suggestion_on_recommendation_letter/",
-      "author": "/u/Big-Face8592",
-      "publishedAt": "2026-06-24T17:12:58+00:00",
-      "excerpt": "Hello all, I have received RFE in prong 2 and 3. I initially did not submit any Letter of Recommendation (LOR), but I now want to submit some. For context, my PE was to research how green marketing strategies shape consumer behavior, to help businesses promote sustainable consumption more effectively. How many LORs (de…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uewel6",
-      "title": "EB-2 NIW for foreign-trained physician in a non-clinical role without USMLE/ECFMG?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewel6/eb2_niw_for_foreigntrained_physician_in_a/",
-      "author": "/u/Upper_cah",
-      "publishedAt": "2026-06-25T01:37:19+00:00",
-      "excerpt": "Hi everyone, I’m a foreign-trained physician currently exploring the EB-2 NIW pathway. I’m trying to understand how USCIS tends to evaluate physicians whose proposed endeavor is not the clinical practice of medicine in the United States. My background is in medicine, emergency care coordination, clinical workflow manag…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uew82e",
-      "title": "HELP WITH RFE-",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uew82e/help_with_rfe/",
-      "author": "/u/Vsi2023",
-      "publishedAt": "2026-06-25T01:28:40+00:00",
-      "excerpt": "Hi everyone, I self filed, I am looking for a good lawyer/consultant that handles RFE. I have nor received an RFE yet, but given the extreme subjectivity of the NIW, and if I get RFE, I want to respond with a very knowledgeable consultant/lawyer. Preferably one who has STRONG experience with and has received approvals …",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-25T13:10:45.217Z",
+  "syncedAt": "2026-06-25T16:15:40.210Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
