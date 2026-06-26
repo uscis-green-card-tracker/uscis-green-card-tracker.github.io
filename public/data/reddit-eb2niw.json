@@ -220,6 +220,24 @@
       }
     },
     {
+      "id": "t3_1ufvoos",
+      "title": "I’m at 38 calendar days since I submitted my I-140 petition under PP for my EB2 NIW. I’m a self petitioner as a Sr. IT Systems Engineer (I’ve been working at the US for 13 years in high tech companies in Sr. Roles and performing critical projects) and the portal still shows:",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufvoos/im_at_38_calendar_days_since_i_submitted_my_i140/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-06-26T03:46:37+00:00",
+      "excerpt": "“Case is Still Being Processed by USCIS”. I’m still positive that I’ll get a direct approval!",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ufuxm0",
       "title": "After I-485 is filed, the strategy question changes",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufuxm0/after_i485_is_filed_the_strategy_question_changes/",
@@ -231,24 +249,6 @@
         "i485",
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ufvoos",
-      "title": "I’m at 38 calendar days since I submitted my I-140 petition under PP for my EB2 NIW. I’m a self petitioner as a Sr. IT Systems Engineer (I’ve been working at the US for 13 years in high tech companies in Sr. Roles and performing critical projects) and the portal still shows:",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufvoos/im_at_38_calendar_days_since_i_submitted_my_i140/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-06-26T03:46:37+00:00",
-      "excerpt": "“Case is Still Being Processed by USCIS”. I’m still positive that I’ll get a direct approval!",
-      "topics": [
-        "approval",
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -378,23 +378,6 @@
       }
     },
     {
-      "id": "t3_1ufnrvx",
-      "title": "USMLE graduate planning residency + backup plan (MS in Health Informatics → NIW pathway)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufnrvx/usmle_graduate_planning_residency_backup_plan_ms/",
-      "author": "/u/Single-Pickle-8460",
-      "publishedAt": "2026-06-25T21:53:10+00:00",
-      "excerpt": "I am a physician who has successfully passed the USMLE exams and will be applying for residency this cycle. Alongside my residency application, I am also considering a backup plan. My backup plan is to pursue a Master’s in Health Informatics and later explore the NIW (National Interest Waiver) pathway. I am looking to …",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ufg9ua",
       "title": "PP strategy",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufg9ua/pp_strategy/",
@@ -467,9 +450,29 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1uewcrw",
+      "title": "I-485 Approved after almost 8 months",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewcrw/i485_approved_after_almost_8_months/",
+      "author": "/u/cyptnyai",
+      "publishedAt": "2026-06-25T01:34:57+00:00",
+      "excerpt": "Hello everyone just wanted to share my timeline if this is helpful for anyone FO: San Bernardino (one of the slowest in the country) Non local PD 11/30/2023 RD 10/27/25 Biometrics:11/23/25 TD 01/22/26 Silent update 04/28/26 3rd FTA0 05/21/26 Silent update 06/02/26 Approval 06/24/26 (34 days after 3rd FTA0) EAD applicat…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": "10/27/25",
+        "priorityDate": "11/30/2023",
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-06-26T16:07:00.951Z",
+  "syncedAt": "2026-06-26T18:22:33.622Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
