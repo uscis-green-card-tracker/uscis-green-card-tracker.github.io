@@ -53,6 +53,24 @@
       }
     },
     {
+      "id": "t3_1ug5zzy",
+      "title": "Physician",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ug5zzy/physician/",
+      "author": "/u/IrritatingLecture",
+      "publishedAt": "2026-06-26T12:52:33+00:00",
+      "excerpt": "Physicians who self drafted their PE, Kindly shed some light on how your profiles were approved. What guidance would you offer ? My PE is AI in radiology. My publications are 4 with 3 citations and conference papers are 2 at RSNA and SIIM. One limited association with US based entity. Profile - MD in radiology.",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ufw14w",
       "title": "June 2026 - PP timelines Please",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufw14w/june_2026_pp_timelines_please/",
@@ -356,6 +374,25 @@
       }
     },
     {
+      "id": "t3_1uffu7v",
+      "title": "Need help: I-907 payment rejected and found a mistake on my I-140 filing. What now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uffu7v/need_help_i907_payment_rejected_and_found_a/",
+      "author": "/u/skipperzz007",
+      "publishedAt": "2026-06-25T17:01:09+00:00",
+      "excerpt": "I filed my I-140 and I-907 (Premium Processing) concurrently. My I-140 was accepted and I have received the official receipt notice (status: \"Case Was Received\"). However, the I-907 payment failed due to a funding error in my account. The Issues: Premium Processing: Since the I-907 failed, I understand I am now in the …",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uetmp0",
       "title": "So happy :)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uetmp0/so_happy/",
@@ -430,47 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ufjhvi",
-      "title": "I-140 PP filed around May 20 — any updates?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufjhvi/i140_pp_filed_around_may_20_any_updates/",
-      "author": "/u/Grand_Librarian_4658",
-      "publishedAt": "2026-06-25T19:10:39+00:00",
-      "excerpt": "Hi everyone, Did anyone file EB2-NIW I-140 Premium Processing around May 20 ? Please share your receipt date, service center, category, and status: approved, RFE, or pending. Thanks, and good luck to everyone waiting.",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ufj52e",
-      "title": "Need help to start NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufj52e/need_help_to_start_niw/",
-      "author": "/u/Ok_Archer_3308",
-      "publishedAt": "2026-06-25T18:58:05+00:00",
-      "excerpt": "I’m looking for some guidance on the EB-2 NIW process. I currently work as a Business Intelligence (BI) Analyst with about 6 years of professional experience in data analytics, primarily in healthcare. I also have two published research papers with a total of around 45 citations. Based on this profile, do you think I h…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-26T10:14:08.758Z",
+  "syncedAt": "2026-06-26T13:02:59.796Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
