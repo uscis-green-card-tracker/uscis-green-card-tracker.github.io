@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1ufsjfm",
+      "title": "NIW April PP, is anyone else still waiting?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufsjfm/niw_april_pp_is_anyone_else_still_waiting/",
+      "author": "/u/Life-Law4062",
+      "publishedAt": "2026-06-26T01:17:56+00:00",
+      "excerpt": "Hi everyone, I applied for PP with starting date of April 28th. It is 41 BDs and no updates. Anyone in the same situation? Block IOE09364, NSC",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": "IOE09364",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ufk4hn",
       "title": "OPT after I-485",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufk4hn/opt_after_i485/",
@@ -44,6 +62,25 @@
       "topics": [
         "approval",
         "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufmjb2",
+      "title": "Can An Immigration Law Firm Help with RFE Response for a Self-Petitioned Case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufmjb2/can_an_immigration_law_firm_help_with_rfe/",
+      "author": "/u/MostMission7837",
+      "publishedAt": "2026-06-25T21:05:36+00:00",
+      "excerpt": "Hi there, I self-petitioned my EB2-NIW case and received an RFE for all 3 prongs although Substantial Merit was accepted. Does anyone know if immigration law firms can help with RFE response? If so, please recommend which law firms help with such. Just a lil overwhelmed right now.",
+      "topics": [
         "i140",
         "lawyer",
         "question"
@@ -112,16 +149,14 @@
       }
     },
     {
-      "id": "t3_1ufmjb2",
-      "title": "Can An Immigration Law Firm Help with RFE Response for a Self-Petitioned Case",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufmjb2/can_an_immigration_law_firm_help_with_rfe/",
-      "author": "/u/MostMission7837",
-      "publishedAt": "2026-06-25T21:05:36+00:00",
-      "excerpt": "Hi there, I self-petitioned my EB2-NIW case and received an RFE for all 3 prongs although Substantial Merit was accepted. Does anyone know if immigration law firms can help with RFE response? If so, please recommend which law firms help with such. Just a lil overwhelmed right now.",
+      "id": "t3_1ufg9ua",
+      "title": "PP strategy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufg9ua/pp_strategy/",
+      "author": "/u/Hot_Cardiologist1847",
+      "publishedAt": "2026-06-25T17:16:16+00:00",
+      "excerpt": "HI Everyone, I am preparing my EB2 NIW petition and am trying to decide on the best processing strategy. I am aware that I can file premium processing directly, but I would like get some opinion on whether it is a good idea to file regular and then upgrade later.",
       "topics": [
-        "i140",
-        "lawyer",
-        "question"
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -131,14 +166,17 @@
       }
     },
     {
-      "id": "t3_1ufg9ua",
-      "title": "PP strategy",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufg9ua/pp_strategy/",
-      "author": "/u/Hot_Cardiologist1847",
-      "publishedAt": "2026-06-25T17:16:16+00:00",
-      "excerpt": "HI Everyone, I am preparing my EB2 NIW petition and am trying to decide on the best processing strategy. I am aware that I can file premium processing directly, but I would like get some opinion on whether it is a good idea to file regular and then upgrade later.",
+      "id": "t3_1ufg06r",
+      "title": "RFE after I485 interview",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufg06r/rfe_after_i485_interview/",
+      "author": "/u/just_for_fun_5001",
+      "publishedAt": "2026-06-25T17:06:57+00:00",
+      "excerpt": "Well, I was issued an RFE after the interview today. The RFE was issued asking me to present a more authentic birth certificate. When I had applied, I had presented affidavits plus a local government letter stating that I was born on this and that time which the interviewer did not give any weights. Questions asked: Wh…",
       "topics": [
-        "i140"
+        "i485",
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -185,6 +223,44 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ufarlf",
+      "title": "IOE09373 Block not available in I140 Tracker",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufarlf/ioe09373_block_not_available_in_i140_tracker/",
+      "author": "/u/Spiritual_Tie2747",
+      "publishedAt": "2026-06-25T13:56:10+00:00",
+      "excerpt": "Its not available in I140 Tracker. Is that natural?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": "IOE09373",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uewcrw",
+      "title": "I-485 Approved after almost 8 months",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewcrw/i485_approved_after_almost_8_months/",
+      "author": "/u/cyptnyai",
+      "publishedAt": "2026-06-25T01:34:57+00:00",
+      "excerpt": "Hello everyone just wanted to share my timeline if this is helpful for anyone FO: San Bernardino (one of the slowest in the country) Non local PD 11/30/2023 RD 10/27/25 Biometrics:11/23/25 TD 01/22/26 Silent update 04/28/26 3rd FTA0 05/21/26 Silent update 06/02/26 Approval 06/24/26 (34 days after 3rd FTA0) EAD applicat…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": "10/27/25",
+        "priorityDate": "11/30/2023",
         "mentionsCountry75": false
       }
     },
@@ -264,44 +340,6 @@
       }
     },
     {
-      "id": "t3_1uewcrw",
-      "title": "I-485 Approved after almost 8 months",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uewcrw/i485_approved_after_almost_8_months/",
-      "author": "/u/cyptnyai",
-      "publishedAt": "2026-06-25T01:34:57+00:00",
-      "excerpt": "Hello everyone just wanted to share my timeline if this is helpful for anyone FO: San Bernardino (one of the slowest in the country) Non local PD 11/30/2023 RD 10/27/25 Biometrics:11/23/25 TD 01/22/26 Silent update 04/28/26 3rd FTA0 05/21/26 Silent update 06/02/26 Approval 06/24/26 (34 days after 3rd FTA0) EAD applicat…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": "10/27/25",
-        "priorityDate": "11/30/2023",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ufarlf",
-      "title": "IOE09373 Block not available in I140 Tracker",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufarlf/ioe09373_block_not_available_in_i140_tracker/",
-      "author": "/u/Spiritual_Tie2747",
-      "publishedAt": "2026-06-25T13:56:10+00:00",
-      "excerpt": "Its not available in I140 Tracker. Is that natural?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": "IOE09373",
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ufgq7q",
       "title": "Charlotte FO I-485 cases",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufgq7q/charlotte_fo_i485_cases/",
@@ -311,26 +349,6 @@
       "topics": [
         "i485",
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ufg06r",
-      "title": "RFE after I485 interview",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufg06r/rfe_after_i485_interview/",
-      "author": "/u/just_for_fun_5001",
-      "publishedAt": "2026-06-25T17:06:57+00:00",
-      "excerpt": "Well, I was issued an RFE after the interview today. The RFE was issued asking me to present a more authentic birth certificate. When I had applied, I had presented affidavits plus a local government letter stating that I was born on this and that time which the interviewer did not give any weights. Questions asked: Wh…",
-      "topics": [
-        "i485",
-        "i140",
-        "timeline",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -416,6 +434,24 @@
       }
     },
     {
+      "id": "t3_1uevj72",
+      "title": "RFE on National Importance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevj72/rfe_on_national_importance/",
+      "author": "/u/Tricky_Stop_488",
+      "publishedAt": "2026-06-25T00:56:34+00:00",
+      "excerpt": "I received an RFE on national importance. I am from a social science background. Though the officer accepts national merit+ well-positioned criteria, s/he asked to submit \" a detailed description of the proposed endeavor and why it is of national importance. Documentary evidence that supports the petitioner’s statement…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uf88is",
       "title": "I dont have any publications or citations. Can I still qualify for the EB2-NIW?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uf88is/i_dont_have_any_publications_or_citations_can_i/",
@@ -433,50 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uevelm",
-      "title": "F-1 re-entry with pending EB-2 NIW I-140, no I-485 filed, valid visa until 2029",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uevelm/f1_reentry_with_pending_eb2_niw_i140_no_i485/",
-      "author": "/u/Affectionate_Bid425",
-      "publishedAt": "2026-06-25T00:50:39+00:00",
-      "excerpt": "Hi everyone, I’m currently on F-1 status with a valid F-1 visa stamp until 2029. My SEVIS is active, I have a valid I-20, and I’m registered for classes. I have a pending EB-2 NIW I-140, but I have not filed I-485. I also do not plan to file I-485 before my I-140 is approved. I’m considering a short trip abroad and the…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uev82r",
-      "title": "Can you still file STEM OPT after receiving a C09 (I-485) EAD?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uev82r/can_you_still_file_stem_opt_after_receiving_a_c09/",
-      "author": "/u/Present-Version779",
-      "publishedAt": "2026-06-25T00:42:36+00:00",
-      "excerpt": "Has anyone applied for STEM OPT after receiving a C09 EAD from a pending I-485 with an approved I-140? My situation: F-1 on post-completion OPT Approved EB-2 NIW I-140 I-485 pending I-765 (C09) filed with I-485 Considering STEM OPT as a backup while waiting for the green card I'm particularly looking for people who: Al…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-25T23:07:40.181Z",
+  "syncedAt": "2026-06-26T02:27:39.637Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
