@@ -76,26 +76,6 @@
       }
     },
     {
-      "id": "t3_1uglhms",
-      "title": "I-485 Approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uglhms/i485_approved/",
-      "author": "/u/Comfortable_Rip_4415",
-      "publishedAt": "2026-06-26T22:43:36+00:00",
-      "excerpt": "Hi everyone just sharing some good news I received today. From Nigeria Category: EB-2 NIW PD (I-140): Aug 13, 2024 I-140 Approval: Approved RD (AOS/I-485): Feb 3, 2026 Biometrics Notice: Feb 14, 2026 Biometrics Completed: Mar 6, 2026 Fingerprint Review (FTA0): Mar 6, 2026 Fingerprint Review Completed (FTA1): May 16, 20…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uh8ho2",
       "title": "I-485 Signature on employment verification letter",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uh8ho2/i485_signature_on_employment_verification_letter/",
@@ -107,6 +87,43 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uhdkv2",
+      "title": "Where are you filing from?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhdkv2/where_are_you_filing_from/",
+      "author": "/u/Late_Emphasis3137",
+      "publishedAt": "2026-06-27T20:50:09+00:00",
+      "excerpt": "View Poll",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uglhms",
+      "title": "I-485 Approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uglhms/i485_approved/",
+      "author": "/u/Comfortable_Rip_4415",
+      "publishedAt": "2026-06-26T22:43:36+00:00",
+      "excerpt": "Hi everyone just sharing some good news I received today. From Nigeria Category: EB-2 NIW PD (I-140): Aug 13, 2024 I-140 Approval: Approved RD (AOS/I-485): Feb 3, 2026 Biometrics Notice: Feb 14, 2026 Biometrics Completed: Mar 6, 2026 Fingerprint Review (FTA0): Mar 6, 2026 Fingerprint Review Completed (FTA1): May 16, 20…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -152,23 +169,6 @@
       }
     },
     {
-      "id": "t3_1ugoqfi",
-      "title": "RFE preparation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugoqfi/rfe_preparation/",
-      "author": "/u/No-Preference6643",
-      "publishedAt": "2026-06-27T01:05:03+00:00",
-      "excerpt": "I am seeking recommendations for independent experts in the field of Environmental Science who may be willing to provide expert letters in support of my EB-2 NIW proposed endeavor: “Developing and implementing a STEM-based environmental education initiative to increase scientific literacy, climate awareness, and sustai…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ugh9dr",
       "title": "EB-2 NIW as an Economics PhD candidate with no publications yet",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugh9dr/eb2_niw_as_an_economics_phd_candidate_with_no/",
@@ -179,6 +179,23 @@
         "approval",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ugoqfi",
+      "title": "RFE preparation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugoqfi/rfe_preparation/",
+      "author": "/u/No-Preference6643",
+      "publishedAt": "2026-06-27T01:05:03+00:00",
+      "excerpt": "I am seeking recommendations for independent experts in the field of Environmental Science who may be willing to provide expert letters in support of my EB-2 NIW proposed endeavor: “Developing and implementing a STEM-based environmental education initiative to increase scientific literacy, climate awareness, and sustai…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -214,6 +231,43 @@
       "topics": [
         "i485",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ugmhto",
+      "title": "Neither USCIS or NVC has my NIW case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugmhto/neither_uscis_or_nvc_has_my_niw_case/",
+      "author": "/u/kk4869",
+      "publishedAt": "2026-06-26T23:25:27+00:00",
+      "excerpt": "I filed my NIW petition, and it was approved last October. In my original I-140 petition, I selected consular processing. However, the approval notice (Form I-797) states that I will be adjusting status in the United States instead. I submitted two service inquiries to USCIS regarding this issue. In both responses (aro…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uglguj",
+      "title": "Receipt notice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uglguj/receipt_notice/",
+      "author": "/u/Public-Device9620",
+      "publishedAt": "2026-06-26T22:42:40+00:00",
+      "excerpt": "hi everyone. when can I expect to get receipt notice after my package is delivered/received at Texas lockbox ? not premium processing",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -267,43 +321,6 @@
       "excerpt": "When we talk about these kinds of visas, we're talking about a very broad range of professions and professionals. In your experience, which type of profile tends to have the best chances of approval? Academic profiles? Industry professionals? Or something else?",
       "topics": [
         "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ugmhto",
-      "title": "Neither USCIS or NVC has my NIW case",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugmhto/neither_uscis_or_nvc_has_my_niw_case/",
-      "author": "/u/kk4869",
-      "publishedAt": "2026-06-26T23:25:27+00:00",
-      "excerpt": "I filed my NIW petition, and it was approved last October. In my original I-140 petition, I selected consular processing. However, the approval notice (Form I-797) states that I will be adjusting status in the United States instead. I submitted two service inquiries to USCIS regarding this issue. In both responses (aro…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uglguj",
-      "title": "Receipt notice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uglguj/receipt_notice/",
-      "author": "/u/Public-Device9620",
-      "publishedAt": "2026-06-26T22:42:40+00:00",
-      "excerpt": "hi everyone. when can I expect to get receipt notice after my package is delivered/received at Texas lockbox ? not premium processing",
-      "topics": [
         "i140",
         "question"
       ],
@@ -446,27 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ug9wnd",
-      "title": "45 business days PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ug9wnd/45_business_days_pp/",
-      "author": "/u/CandidBlueberry6262",
-      "publishedAt": "2026-06-26T15:24:42+00:00",
-      "excerpt": "any approval story on 45 bdays. or more likely to get rfe. TSC",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-27T19:17:14.733Z",
+  "syncedAt": "2026-06-27T20:50:36.435Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
