@@ -96,6 +96,27 @@
       }
     },
     {
+      "id": "t3_1uheofa",
+      "title": "50 days no biometrics for I-485",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uheofa/50_days_no_biometrics_for_i485/",
+      "author": "/u/buckeyebooty",
+      "publishedAt": "2026-06-27T21:36:30+00:00",
+      "excerpt": "It’s been 50 days till my I-485 receipt date, yet no biometrics appointment been scheduled. I checked for silent updates and documents section in the USCIS portal, nothing. Anyone on the same boat? Is this normal timeline now or something is off? Approved NIW from ROW.",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uhdkv2",
       "title": "Where are you filing from?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhdkv2/where_are_you_filing_from/",
@@ -205,23 +226,6 @@
       }
     },
     {
-      "id": "t3_1ugkypz",
-      "title": "XM2616 3 prong RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugkypz/xm2616_3_prong_rfe/",
-      "author": "/u/parachute45",
-      "publishedAt": "2026-06-26T22:21:29+00:00",
-      "excerpt": "I received a disappointing RFE from this officer with a Profile: PE - cardiology related research MD and MS (both US schools) Currently working in an academic hospital as an attending Approx 40 citations, 7 publications (3 first author), numerous first author abstracts, 5 peer reviews Initially I had filed with 1 depen…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ugs4vp",
       "title": "Denver Field Office",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugs4vp/denver_field_office/",
@@ -269,6 +273,23 @@
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ugkypz",
+      "title": "XM2616 3 prong RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugkypz/xm2616_3_prong_rfe/",
+      "author": "/u/parachute45",
+      "publishedAt": "2026-06-26T22:21:29+00:00",
+      "excerpt": "I received a disappointing RFE from this officer with a Profile: PE - cardiology related research MD and MS (both US schools) Currently working in an academic hospital as an attending Approx 40 citations, 7 publications (3 first author), numerous first author abstracts, 5 peer reviews Initially I had filed with 1 depen…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -443,29 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ug7j59",
-      "title": "Any Mexicans here have had their I-140 petition approved? Please share your experience and timeline.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ug7j59/any_mexicans_here_have_had_their_i140_petition/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-06-26T13:54:09+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-27T20:50:36.435Z",
+  "syncedAt": "2026-06-27T21:54:12.036Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
