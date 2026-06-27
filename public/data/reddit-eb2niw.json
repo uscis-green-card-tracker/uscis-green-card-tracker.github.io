@@ -96,6 +96,66 @@
       }
     },
     {
+      "id": "t3_1uhggln",
+      "title": "How to know the approval ratio of a specific officer code?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhggln/how_to_know_the_approval_ratio_of_a_specific/",
+      "author": "/u/MagoFren1",
+      "publishedAt": "2026-06-27T22:52:30+00:00",
+      "excerpt": "Hi all, I see many ppl posts that officer XM- - - has approval ratio of xx%. How they know that?",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uhfgak",
+      "title": "EB-2 NIW Derivative I-485 After Principal Approval - Married Before Approval but I-485 Not Yet Filed",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhfgak/eb2_niw_derivative_i485_after_principal_approval/",
+      "author": "/u/ApprehensiveBasis594",
+      "publishedAt": "2026-06-27T22:08:57+00:00",
+      "excerpt": "Hi everyone, I’m hoping someone has experience with this situation. Here is our timeline: -My EB-2 NIW I-140 was approved. -I filed Form I-485 based on the approved NIW petition. -My wife and I had our marriage ceremony in St. Louis County Court on June 17, 2026 . -My Form I-485 was approved on June 27, 2026 . We are c…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uhfcy5",
+      "title": "EB-2 NIW I-140 Premium Processing (June 2026 Filers) – Any Updates?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhfcy5/eb2_niw_i140_premium_processing_june_2026_filers/",
+      "author": "/u/TW_alker1",
+      "publishedAt": "2026-06-27T22:05:07+00:00",
+      "excerpt": "Hi everyone, I’m an EB-2 NIW applicant and USCIS received my I-140 with Premium Processing on June 9, 2026 (Texas Service Center). I’m curious if anyone else who filed an I-140 with Premium Processing in June 2026 has already received an approval, RFE, or any other adjudication. If so, could you share: Receipt date Ser…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uheofa",
       "title": "50 days no biometrics for I-485",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uheofa/50_days_no_biometrics_for_i485/",
@@ -408,65 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ugho1r",
-      "title": "Chen vs Ellis Porter vs Arkell for EB-2 NIW – Which would you choose in current scenarios for my profile.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugho1r/chen_vs_ellis_porter_vs_arkell_for_eb2_niw_which/",
-      "author": "/u/Level-Commercial-511",
-      "publishedAt": "2026-06-26T20:13:24+00:00",
-      "excerpt": "I’m trying to decide which law firm to hire for my EB-2 NIW and would appreciate honest feedback. My profile: MS in Transportation Engineering Transportation Engineer Transportation safety research 4 publications + 1 USDOT technical report 14 citations Currently working on consultant firm as transportation engineer whe…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ugsui4",
-      "title": "How I write my national evidence and proposed endeavor in 5 min",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugsui4/how_i_write_my_national_evidence_and_proposed/",
-      "author": "/u/SimonTsui1022",
-      "publishedAt": "2026-06-27T04:25:56+00:00",
-      "excerpt": "The most difficult part of NIW petition (at least for me) is to find evidences for national importance and connect them to your proposed endeavors. The search for evidence and brainstorming for specific future endeavors can be painful and time-consuming. After being denied for my first attempt, I decided to prepare my …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ufux9b",
-      "title": "If your NIW RFE attacks all three prongs, start with the map",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ufux9b/if_your_niw_rfe_attacks_all_three_prongs_start/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-06-26T03:09:26+00:00",
-      "excerpt": "An RFE on all three Dhanasar prongs can feel like the officer rejected the whole person. But the response usually gets weaker when it turns into panic-document collection. I would start with a map before adding anything. For each objection, write: What exactly did the officer say? Which prong does it affect? What evide…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-27T21:54:12.036Z",
+  "syncedAt": "2026-06-27T22:54:44.100Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
