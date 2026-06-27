@@ -355,25 +355,6 @@
       }
     },
     {
-      "id": "t3_1ugsui4",
-      "title": "How I write my national evidence and proposed endeavor in 5 min",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugsui4/how_i_write_my_national_evidence_and_proposed/",
-      "author": "/u/SimonTsui1022",
-      "publishedAt": "2026-06-27T04:25:56+00:00",
-      "excerpt": "The most difficult part of NIW petition (at least for me) is to find evidences for national importance and connect them to your proposed endeavors. The search for evidence and brainstorming for specific future endeavors can be painful and time-consuming. After being denied for my first attempt, I decided to prepare my …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ugiew6",
       "title": "Need your assistance and help",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugiew6/need_your_assistance_and_help/",
@@ -401,6 +382,25 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ugsui4",
+      "title": "How I write my national evidence and proposed endeavor in 5 min",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugsui4/how_i_write_my_national_evidence_and_proposed/",
+      "author": "/u/SimonTsui1022",
+      "publishedAt": "2026-06-27T04:25:56+00:00",
+      "excerpt": "The most difficult part of NIW petition (at least for me) is to find evidences for national importance and connect them to your proposed endeavors. The search for evidence and brainstorming for specific future endeavors can be painful and time-consuming. After being denied for my first attempt, I decided to prepare my …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-27T17:57:49.454Z",
+  "syncedAt": "2026-06-27T19:17:14.733Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
