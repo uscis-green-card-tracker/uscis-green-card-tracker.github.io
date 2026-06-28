@@ -76,6 +76,27 @@
       }
     },
     {
+      "id": "t3_1uheofa",
+      "title": "50 days no biometrics for I-485",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uheofa/50_days_no_biometrics_for_i485/",
+      "author": "/u/buckeyebooty",
+      "publishedAt": "2026-06-27T21:36:30+00:00",
+      "excerpt": "It’s been 50 days till my I-485 receipt date, yet no biometrics appointment been scheduled. I checked for silent updates and documents section in the USCIS portal, nothing. Anyone on the same boat? Is this normal timeline now or something is off? Approved NIW from ROW.",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uh8ho2",
       "title": "I-485 Signature on employment verification letter",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uh8ho2/i485_signature_on_employment_verification_letter/",
@@ -144,27 +165,6 @@
       "excerpt": "Hi everyone, I’m an EB-2 NIW applicant and USCIS received my I-140 with Premium Processing on June 9, 2026 (Texas Service Center). I’m curious if anyone else who filed an I-140 with Premium Processing in June 2026 has already received an approval, RFE, or any other adjudication. If so, could you share: Receipt date Ser…",
       "topics": [
         "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uheofa",
-      "title": "50 days no biometrics for I-485",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uheofa/50_days_no_biometrics_for_i485/",
-      "author": "/u/buckeyebooty",
-      "publishedAt": "2026-06-27T21:36:30+00:00",
-      "excerpt": "It’s been 50 days till my I-485 receipt date, yet no biometrics appointment been scheduled. I checked for silent updates and documents section in the USCIS portal, nothing. Anyone on the same boat? Is this normal timeline now or something is off? Approved NIW from ROW.",
-      "topics": [
-        "approval",
-        "i485",
         "i140",
         "timeline",
         "question"
@@ -269,6 +269,23 @@
       }
     },
     {
+      "id": "t3_1ugkypz",
+      "title": "XM2616 3 prong RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugkypz/xm2616_3_prong_rfe/",
+      "author": "/u/parachute45",
+      "publishedAt": "2026-06-26T22:21:29+00:00",
+      "excerpt": "I received a disappointing RFE from this officer with a Profile: PE - cardiology related research MD and MS (both US schools) Currently working in an academic hospital as an attending Approx 40 citations, 7 publications (3 first author), numerous first author abstracts, 5 peer reviews Initially I had filed with 1 depen…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ugoqfi",
       "title": "RFE preparation",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugoqfi/rfe_preparation/",
@@ -342,23 +359,6 @@
       }
     },
     {
-      "id": "t3_1ugkypz",
-      "title": "XM2616 3 prong RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugkypz/xm2616_3_prong_rfe/",
-      "author": "/u/parachute45",
-      "publishedAt": "2026-06-26T22:21:29+00:00",
-      "excerpt": "I received a disappointing RFE from this officer with a Profile: PE - cardiology related research MD and MS (both US schools) Currently working in an academic hospital as an attending Approx 40 citations, 7 publications (3 first author), numerous first author abstracts, 5 peer reviews Initially I had filed with 1 depen…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ugjqsi",
       "title": "RFE received",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugjqsi/rfe_received/",
@@ -413,25 +413,6 @@
       }
     },
     {
-      "id": "t3_1ugw0xv",
-      "title": "PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugw0xv/pp/",
-      "author": "/u/HyenaJumpy5732",
-      "publishedAt": "2026-06-27T07:18:39+00:00",
-      "excerpt": "Hi i will submit my file soon In sha Allah. My lawyer suggested me not to go with PP now. People are getting RFE for PP. Any suggestions for me?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ugkziw",
       "title": "EB-2 NIW I-485 transferred from NBC to Tampa FO (non-local)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugkziw/eb2_niw_i485_transferred_from_nbc_to_tampa_fo/",
@@ -443,6 +424,25 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ugw0xv",
+      "title": "PP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugw0xv/pp/",
+      "author": "/u/HyenaJumpy5732",
+      "publishedAt": "2026-06-27T07:18:39+00:00",
+      "excerpt": "Hi i will submit my file soon In sha Allah. My lawyer suggested me not to go with PP now. People are getting RFE for PP. Any suggestions for me?",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -470,7 +470,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-28T02:33:15.930Z",
+  "syncedAt": "2026-06-28T06:54:38.255Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
