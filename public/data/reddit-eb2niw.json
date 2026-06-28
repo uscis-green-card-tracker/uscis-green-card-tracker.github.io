@@ -55,6 +55,24 @@
       }
     },
     {
+      "id": "t3_1uhy8f2",
+      "title": "Anyone filed Premium Processing after responding to an RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhy8f2/anyone_filed_premium_processing_after_responding/",
+      "author": "/u/BalogunDodondawa",
+      "publishedAt": "2026-06-28T14:07:47+00:00",
+      "excerpt": "For those who received an RFE on an I-140, did you (or could you) upgrade to premium processing after submitting your RFE response? Just trying to understand if that’s something USCIS allows/honors at that stage, and if so, did the 45 day clock actually start ticking and lead to a faster decision, or did it not really …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uh11v5",
       "title": "I-485 Approved (65 days) EB-2 NIW (ROW)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uh11v5/i485_approved_65_days_eb2_niw_row/",
@@ -452,28 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ugw0xv",
-      "title": "PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ugw0xv/pp/",
-      "author": "/u/HyenaJumpy5732",
-      "publishedAt": "2026-06-27T07:18:39+00:00",
-      "excerpt": "Hi i will submit my file soon In sha Allah. My lawyer suggested me not to go with PP now. People are getting RFE for PP. Any suggestions for me?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-28T13:16:18.680Z",
+  "syncedAt": "2026-06-28T15:11:22.285Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
