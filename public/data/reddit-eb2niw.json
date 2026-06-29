@@ -94,6 +94,24 @@
       }
     },
     {
+      "id": "t3_1uimymy",
+      "title": "Islamabad Embassy NIW interview after pause?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uimymy/islamabad_embassy_niw_interview_after_pause/",
+      "author": "/u/No_Funny_26",
+      "publishedAt": "2026-06-29T08:49:17+00:00",
+      "excerpt": "Related to EB2-NIW: Has anyone recently gone through an interview there? What are the latest visa updates for NIW cases after the pause? Which documents were checked? What questions were asked during the interview? Please share your experiences.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uigije",
       "title": "EB2-NIW ROW - 2 months after interview and still pending. Normal?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uigije/eb2niw_row_2_months_after_interview_and_still/",
@@ -112,25 +130,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1uiaiyj",
-      "title": "Everyones getting approved except me.. Why?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uiaiyj/everyones_getting_approved_except_me_why/",
-      "author": "/u/Radiant-Yak-3843",
-      "publishedAt": "2026-06-28T22:17:34+00:00",
-      "excerpt": "It seems like everyone is getting their niw or eb1a approved. But even with good profile, I have received denials multiple times. And rfes. Why?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
       }
     },
     {
@@ -165,6 +164,25 @@
         "i140",
         "lawyer",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uiaiyj",
+      "title": "Everyones getting approved except me.. Why?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uiaiyj/everyones_getting_approved_except_me_why/",
+      "author": "/u/Radiant-Yak-3843",
+      "publishedAt": "2026-06-28T22:17:34+00:00",
+      "excerpt": "It seems like everyone is getting their niw or eb1a approved. But even with good profile, I have received denials multiple times. And rfes. Why?",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -457,31 +475,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uhfgak",
-      "title": "EB-2 NIW Derivative I-485 After Principal Approval - Married Before Approval but I-485 Not Yet Filed",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhfgak/eb2_niw_derivative_i485_after_principal_approval/",
-      "author": "/u/ApprehensiveBasis594",
-      "publishedAt": "2026-06-27T22:08:57+00:00",
-      "excerpt": "Hi everyone, I’m hoping someone has experience with this situation. Here is our timeline: -My EB-2 NIW I-140 was approved. -I filed Form I-485 based on the approved NIW petition. -My wife and I had our marriage ceremony in St. Louis County Court on June 17, 2026 . -My Form I-485 was approved on June 27, 2026 . We are c…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-29T05:22:38.749Z",
+  "syncedAt": "2026-06-29T10:22:02.351Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
