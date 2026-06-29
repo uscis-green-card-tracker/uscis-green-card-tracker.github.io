@@ -52,6 +52,24 @@
       }
     },
     {
+      "id": "t3_1uj910g",
+      "title": "Biometrics appointment",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uj910g/biometrics_appointment/",
+      "author": "/u/Euphoric_One_245",
+      "publishedAt": "2026-06-29T23:49:45+00:00",
+      "excerpt": "For my EB-2 NIW biometrics appointment, what documents and materials should I bring? Could you please advise me with a checklist of everything I need?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uirwdz",
       "title": "Mass Silent update on June 28?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uirwdz/mass_silent_update_on_june_28/",
@@ -63,6 +81,23 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uj1s0x",
+      "title": "Visa number retrogressed",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uj1s0x/visa_number_retrogressed/",
+      "author": "/u/Holiday-Local5149",
+      "publishedAt": "2026-06-29T19:09:13+00:00",
+      "excerpt": "Have yo been told there's no visa number for you and you are wondering why because you're in ROW and current for FAD? The possible reason is that your country has exhausted its 7% visa allocation for the fiscal year. If you're from a country with high demand for GC, your county's 7% annual visa allocation might have be…",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -197,23 +232,6 @@
       "excerpt": "I am currently pursuing my Master's degree in Civil Engineering in the USA, having completed my bachelor's degree here as well. I am an EIT-licensed engineer and am currently writing my Master's thesis, with plans to publish around 2 papers. I came to the USA in 2021. Additionally, I have completed two internships, inc…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uj1s0x",
-      "title": "Visa number retrogressed",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uj1s0x/visa_number_retrogressed/",
-      "author": "/u/Holiday-Local5149",
-      "publishedAt": "2026-06-29T19:09:13+00:00",
-      "excerpt": "Have yo been told there's no visa number for you and you are wondering why because you're in ROW and current for FAD? The possible reason is that your country has exhausted its 7% visa allocation for the fiscal year. If you're from a country with high demand for GC, your county's 7% annual visa allocation might have be…",
-      "topics": [
         "question"
       ],
       "signals": {
@@ -447,29 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1uiicmr",
-      "title": "Chen Timeline for RFE response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uiicmr/chen_timeline_for_rfe_response/",
-      "author": "/u/InsuranceReasonable7",
-      "publishedAt": "2026-06-29T04:30:01+00:00",
-      "excerpt": "How long did Chen take to file the response for your RFE? Assuming they don’t need any new materials for the response.",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-29T22:45:49.401Z",
+  "syncedAt": "2026-06-29T23:53:36.395Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
