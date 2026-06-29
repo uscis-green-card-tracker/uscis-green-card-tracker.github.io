@@ -77,17 +77,31 @@
       }
     },
     {
-      "id": "t3_1uiia93",
-      "title": "I-485 approval timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uiia93/i485_approval_timeline/",
-      "author": "/u/Chemical-Dingo-287",
-      "publishedAt": "2026-06-29T04:26:34+00:00",
-      "excerpt": "Thank you everyone here for sharing your stories and journey, it keeps me going through this time. My i-485 just got approved today 06/28/2026. I'm on J1 visa as a postdoctoral fellow and was under 2-year home residency requirement. I'm sharing here my journey: My PD is 05/27/2025 with self-petition under EB2 NIW categ…",
+      "id": "t3_1uj1s0x",
+      "title": "Visa number retrogressed",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uj1s0x/visa_number_retrogressed/",
+      "author": "/u/Holiday-Local5149",
+      "publishedAt": "2026-06-29T19:09:13+00:00",
+      "excerpt": "Have yo been told there's no visa number for you and you are wondering why because you're in ROW and current for FAD? The possible reason is that your country has exhausted its 7% visa allocation for the fiscal year. If you're from a country with high demand for GC, your county's 7% annual visa allocation might have be…",
       "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uj1mvs",
+      "title": "Anyone here who has experience with Colombo & Hurd, pls share experience and reviews",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uj1mvs/anyone_here_who_has_experience_with_colombo_hurd/",
+      "author": "/u/kanwal_uae",
+      "publishedAt": "2026-06-29T19:04:04+00:00",
+      "excerpt": "&#x200B;",
+      "topics": [
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -284,6 +298,26 @@
       }
     },
     {
+      "id": "t3_1uih50h",
+      "title": "Should I give NIW a try?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uih50h/should_i_give_niw_a_try/",
+      "author": "/u/Liverpoolgurl101",
+      "publishedAt": "2026-06-29T03:27:50+00:00",
+      "excerpt": "So I have went through plenty of posts here and I recently got approved from EP (one free refiling but no refunds - 6k) and Manifest but I wanted to ask the community here if this is something that realistically makes sense for me. Here is my bg: Industry professional working in operations/AI Automation with an almost …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1uigije",
       "title": "EB2-NIW ROW - 2 months after interview and still pending. Normal?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uigije/eb2niw_row_2_months_after_interview_and_still/",
@@ -383,26 +417,6 @@
       }
     },
     {
-      "id": "t3_1uih50h",
-      "title": "Should I give NIW a try?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uih50h/should_i_give_niw_a_try/",
-      "author": "/u/Liverpoolgurl101",
-      "publishedAt": "2026-06-29T03:27:50+00:00",
-      "excerpt": "So I have went through plenty of posts here and I recently got approved from EP (one free refiling but no refunds - 6k) and Manifest but I wanted to ask the community here if this is something that realistically makes sense for me. Here is my bg: Industry professional working in operations/AI Automation with an almost …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1uhqyx1",
       "title": "I-140 approval",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhqyx1/i140_approval/",
@@ -457,28 +471,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ui44c8",
-      "title": "Filing I-485 on F-1 before H-1B takes effect: Can I later travel without Advance Parole?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ui44c8/filing_i485_on_f1_before_h1b_takes_effect_can_i/",
-      "author": "/u/Upper-Finish202",
-      "publishedAt": "2026-06-28T18:03:15+00:00",
-      "excerpt": "Current visa: F1 Approved H-1B change of status: Effective October 1 Suppose I file I-485 right now. Does this mean that after my H-1B kicks in, I will be able to travel without advance parole? Or is the ability to travel without abandoning the I-485 determined by the visa status on the I-485 filing date?",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-29T17:27:04.094Z",
+  "syncedAt": "2026-06-29T19:42:44.585Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
