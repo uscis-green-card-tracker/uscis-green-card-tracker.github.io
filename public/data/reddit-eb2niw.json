@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1uianmf",
-      "title": "NIW with no LOR or RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uianmf/niw_with_no_lor_or_rfe/",
-      "author": "/u/fg0mes",
-      "publishedAt": "2026-06-28T22:23:06+00:00",
-      "excerpt": "Hey guys, finally my turn! Just want to add my experience to the pool in case it helps anybody, as this community helped me a lot too! PD : 04/28/26, filled with PP Office : Nebraska Approved : 06/26/26 Profile: Education: International MD (one of 75 countries) Current status and position: Postdoc Research at a private…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "04/28/26",
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1uiaiyj",
       "title": "Everyones getting approved except me.. Why?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uiaiyj/everyones_getting_approved_except_me_why/",
@@ -88,6 +69,25 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uianmf",
+      "title": "NIW with no LOR or RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uianmf/niw_with_no_lor_or_rfe/",
+      "author": "/u/fg0mes",
+      "publishedAt": "2026-06-28T22:23:06+00:00",
+      "excerpt": "Hey guys, finally my turn! Just want to add my experience to the pool in case it helps anybody, as this community helped me a lot too! PD : 04/28/26, filled with PP Office : Nebraska Approved : 06/26/26 Profile: Education: International MD (one of 75 countries) Current status and position: Postdoc Research at a private…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "04/28/26",
+        "mentionsCountry75": true
       }
     },
     {
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-06-28T22:54:23.592Z",
+  "syncedAt": "2026-06-29T00:00:47.452Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
