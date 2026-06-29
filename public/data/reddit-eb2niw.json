@@ -55,6 +55,27 @@
       }
     },
     {
+      "id": "t3_1uirwdz",
+      "title": "Mass Silent update on June 28?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uirwdz/mass_silent_update_on_june_28/",
+      "author": "/u/EB1A-pp-Texas",
+      "publishedAt": "2026-06-29T13:02:12+00:00",
+      "excerpt": "Hi everyone, sharing my recent updates and looking for insights. My Timeline: Filed: March 19, 2026 Receipt Date: March 24, 2026 Biometrics: April 6, 2026 Interview: Waived for both primary and derivative (For now as per Emma) Block: IOE0936xxxxxx Silent Updates: 05/22 and 06/28 Today's Update: All family I-485s got si…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uiia93",
       "title": "I-485 approval timeline",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uiia93/i485_approval_timeline/",
@@ -66,6 +87,24 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uitoyj",
+      "title": "Online premium request for NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uitoyj/online_premium_request_for_niw/",
+      "author": "/u/Ok-Attention1112",
+      "publishedAt": "2026-06-29T14:13:52+00:00",
+      "excerpt": "Did you file your premium request online or paper form for I-140?",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -436,48 +475,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uheofa",
-      "title": "50 days no biometrics for I-485",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uheofa/50_days_no_biometrics_for_i485/",
-      "author": "/u/buckeyebooty",
-      "publishedAt": "2026-06-27T21:36:30+00:00",
-      "excerpt": "It’s been 50 days till my I-485 receipt date, yet no biometrics appointment been scheduled. I checked for silent updates and documents section in the USCIS portal, nothing. Anyone on the same boat? Is this normal timeline now or something is off? Approved NIW from ROW.",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uhggln",
-      "title": "How to know the approval ratio of a specific officer code?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uhggln/how_to_know_the_approval_ratio_of_a_specific/",
-      "author": "/u/MagoFren1",
-      "publishedAt": "2026-06-27T22:52:30+00:00",
-      "excerpt": "Hi all, I see many ppl posts that officer XM- - - has approval ratio of xx%. How they know that?",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-29T10:22:02.351Z",
+  "syncedAt": "2026-06-29T14:41:40.925Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
