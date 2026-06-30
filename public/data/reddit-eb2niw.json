@@ -55,6 +55,24 @@
       }
     },
     {
+      "id": "t3_1ujlcsc",
+      "title": "Is the July/August fiscal year-end push real for transferred EB cases at Field Offices?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujlcsc/is_the_julyaugust_fiscal_yearend_push_real_for/",
+      "author": "/u/ahsanways",
+      "publishedAt": "2026-06-30T10:25:20+00:00",
+      "excerpt": "Quick sanity check on the \"Q4 surge.\" My clean Employment-Based case (interview waived) was transferred from the NBC to a non-local Field Office for workload balancing a few weeks ago. Since then, it's been total radio silence. With July starting, everyone keeps talking about the big \"fiscal year-end push\" where Field …",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uji71y",
       "title": "RFE the officer didn't read my petition",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uji71y/rfe_the_officer_didnt_read_my_petition/",
@@ -82,6 +100,42 @@
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ujlvnc",
+      "title": "Can I change proposed endeavor in RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujlvnc/can_i_change_proposed_endeavor_in_rfe/",
+      "author": "/u/Dazzling-Flower3802",
+      "publishedAt": "2026-06-30T10:54:12+00:00",
+      "excerpt": "My proposed endeavor was to work as a consultant and pursue in the very specific area of my PhD research in water treatment. Upon careful review of my previous submission, I find pursuing in the research area hard to continue in the future and can be too niche to make it to national impact, which is also brought up by …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ujle3v",
+      "title": "Hello Everyone, Would appreciate if someone recommend reputed Attorney for NIW-EB2. I am M.sc Mathematics with 19years work experience in Supply chain. Also please let me know if someone has experience with \"Shawn Sedaghat Law Firm\"",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujle3v/hello_everyone_would_appreciate_if_someone/",
+      "author": "/u/kanwal_uae",
+      "publishedAt": "2026-06-30T10:27:26+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -122,21 +176,6 @@
         "i140",
         "question"
       ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujhuch",
-      "title": "[ Removed by Reddit ]",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujhuch/removed_by_reddit/",
-      "author": "/u/Unique_Attempt_400",
-      "publishedAt": "2026-06-30T06:59:07+00:00",
-      "excerpt": "[ Removed by Reddit on account of violating the content policy . ]",
-      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -425,43 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1uj1mvs",
-      "title": "Anyone here who has experience with Colombo & Hurd, pls share experience and reviews",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uj1mvs/anyone_here_who_has_experience_with_colombo_hurd/",
-      "author": "/u/kanwal_uae",
-      "publishedAt": "2026-06-29T19:04:04+00:00",
-      "excerpt": "&#x200B;",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uiyunm",
-      "title": "Profile Evaluation:",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uiyunm/profile_evaluation/",
-      "author": "/u/RichConclusion8528",
-      "publishedAt": "2026-06-29T17:22:07+00:00",
-      "excerpt": "Experience: 10 years USA Experience = 1 year Offshore = 9 years Field: construction BS in civil engineering Masters in Engineering Management from US Research papers One First author Three Co authors Citations: 8 Field: project controls in Data Centres Certifications: PMP and PSP Can any one evaluate my profile?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-30T10:25:04.655Z",
+  "syncedAt": "2026-06-30T13:04:00.371Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
