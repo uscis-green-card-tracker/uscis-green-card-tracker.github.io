@@ -93,6 +93,137 @@
       }
     },
     {
+      "id": "t3_1uk7kiq",
+      "title": "Anyone received their green card following I-485 approval in the last two weeks?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk7kiq/anyone_received_their_green_card_following_i485/",
+      "author": "/u/Arsh182",
+      "publishedAt": "2026-07-01T01:15:50+00:00",
+      "excerpt": "My case status has been in the approval phase for a while. I am wondering how long it takes for them to produce the card and have them delivered.",
+      "topics": [
+        "approval",
+        "i485",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ukab3s",
+      "title": "Employer sponsored vs non sponsored EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukab3s/employer_sponsored_vs_non_sponsored_eb2_niw/",
+      "author": "/u/that90smadrasgirl",
+      "publishedAt": "2026-07-01T03:27:35+00:00",
+      "excerpt": "Hi there! Can someone tell me what’s the difference between filing EB2 NIW through an employer vs lot? Are there any advantages to getting your employer to do it? Does it change approval changes if we do it via an employer even if the petition details are all the same?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uk9er7",
+      "title": "Receipt notice EB-2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk9er7/receipt_notice_eb2_niw/",
+      "author": "/u/Accurate_Peach937",
+      "publishedAt": "2026-07-01T02:44:23+00:00",
+      "excerpt": "I submitted my i-140 application in April 2026 with regular processing and still haven't received a receipt notice. No notification received. The application was delivered by mail on April 19th. Just wondering if anyone has experienced this and any suggestions on what to do.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uk8zbu",
+      "title": "EAD dilemma",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8zbu/ead_dilemma/",
+      "author": "/u/AcceptableBase5678",
+      "publishedAt": "2026-07-01T02:23:28+00:00",
+      "excerpt": "Hi I have J2 based EAD. My spouse is J1. However I have an NIW petition as the primary/principal applicant with my wife as my derivative. If my wife gets her AOS based EAD before mine and decides to use it what happens to my J2 based EAD? Thanks in advance",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uk8vwz",
+      "title": "Statistical Analysis: I-140 Processing Time Estimates & Approval Trends",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8vwz/statistical_analysis_i140_processing_time/",
+      "author": "/u/anyconstant",
+      "publishedAt": "2026-07-01T02:18:56+00:00",
+      "excerpt": "Hello everyone. A friend with an I-140 filed in late 2024 recently asked me what to expect and whether premium processing might be worth it. I put together a statistical analysis to estimate processing timelines and thought I’d share it in case others find it useful. I-140 Processing Curve I analyzed block level proces…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": "IOE09250",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1uk8m75",
+      "title": "No publications is not the same as no evidence",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8m75/no_publications_is_not_the_same_as_no_evidence/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-07-01T02:05:46+00:00",
+      "excerpt": "A lot of NIW applicants panic because they do not have papers or citations. No publications can be a weakness, but it is not the same as having no evidence. For an industry or professional profile, the question becomes: What proves the work matters beyond one employer? Possible evidence can include: Measurable project …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uk8lud",
+      "title": "An AI approval percentage is the least useful NIW output",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8lud/an_ai_approval_percentage_is_the_least_useful_niw/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-07-01T02:05:19+00:00",
+      "excerpt": "If an AI tool says your NIW case has a 78 percent approval chance, I would not treat that number as real. The useful part is not prediction. The useful part is criticism. Instead of asking: \"What are my approval chances?\" Ask: \"What is the strongest denial argument under each Dhanasar prong?\" Then look for the pattern:…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ujyp3g",
       "title": "EB-2 NIW AOS – Anyone else still waiting on their EAD this long?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujyp3g/eb2_niw_aos_anyone_else_still_waiting_on_their/",
@@ -104,6 +235,24 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uk79mu",
+      "title": "Premium Processing for I-140 and STEM OPT application simultaenously",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk79mu/premium_processing_for_i140_and_stem_opt/",
+      "author": "/u/MeanCry9936",
+      "publishedAt": "2026-07-01T01:01:32+00:00",
+      "excerpt": "Hi all. I have applied for STEM OPT extension at the beginning of June. I am also getting ready to submit my I-140 petition within the next week and I intend to do premium processing. Do you think doing these two things simultaneously could impact one another?",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -168,14 +317,17 @@
       }
     },
     {
-      "id": "t3_1uk0swo",
-      "title": "Eb2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk0swo/eb2_niw/",
-      "author": "/u/Prize_Baseball_9195",
-      "publishedAt": "2026-06-30T20:35:14+00:00",
-      "excerpt": "Anyone filed for NIW based on the degree and work experience only? I have MBA degree in accounting and 6 plus years of experience in same field. I don’t have any publications. Do you think I’m qualified for NIW? Should I try or it will be just waste of time and money? Thank you",
+      "id": "t3_1ujrtnf",
+      "title": "EB-2 NIW law firm recommendations for professional engineering profile with no publications/citations?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujrtnf/eb2_niw_law_firm_recommendations_for_professional/",
+      "author": "/u/Thin-Tie-4903",
+      "publishedAt": "2026-06-30T15:06:58+00:00",
+      "excerpt": "Hi everyone, I am looking for advice from people who filed or evaluated an EB-2 NIW case, especially with law firms that handle STEM / engineering / nuclear / energy-related profiles. My background is mainly in nuclear reactor operations and safety . I am currently in the U.S. on H-1B and working as a Reactor Engineer …",
       "topics": [
+        "approval",
         "i140",
+        "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -244,27 +396,6 @@
       }
     },
     {
-      "id": "t3_1ujrtnf",
-      "title": "EB-2 NIW law firm recommendations for professional engineering profile with no publications/citations?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujrtnf/eb2_niw_law_firm_recommendations_for_professional/",
-      "author": "/u/Thin-Tie-4903",
-      "publishedAt": "2026-06-30T15:06:58+00:00",
-      "excerpt": "Hi everyone, I am looking for advice from people who filed or evaluated an EB-2 NIW case, especially with law firms that handle STEM / engineering / nuclear / energy-related profiles. My background is mainly in nuclear reactor operations and safety . I am currently in the U.S. on H-1B and working as a Reactor Engineer …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uji71y",
       "title": "RFE the officer didn't read my petition",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uji71y/rfe_the_officer_didnt_read_my_petition/",
@@ -290,24 +421,6 @@
       "publishedAt": "2026-06-30T18:20:24+00:00",
       "excerpt": "Anyone ever got a very generic answer saying your case is being processed within the expected timeframe when you asked about the location of your case?",
       "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujzhdm",
-      "title": "Is AI Prediction accurate?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujzhdm/is_ai_prediction_accurate/",
-      "author": "/u/Pale_Grapefruit6862",
-      "publishedAt": "2026-06-30T19:46:22+00:00",
-      "excerpt": "I have shared my petition and asked Claude regarding approval chance. It says 76-82%. my question is , how accurate it is? anyone tried it before?",
-      "topics": [
-        "approval",
         "question"
       ],
       "signals": {
@@ -354,121 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ujfvcv",
-      "title": "RFE Time for Normal Processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujfvcv/rfe_time_for_normal_processing/",
-      "author": "/u/DrBilal01",
-      "publishedAt": "2026-06-30T05:09:46+00:00",
-      "excerpt": "Hi everyone, I have a confusion. Normal Processing for EB2-NIW usually takes around 15-25 months (1.3-2years) recently for RoW. lets say we get an RFE after 2 years. We prepared the petition for RFE and submit in time. Now visa officer would take how much time for the decision in case if it was normal processing? what …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujlvnc",
-      "title": "Can I change proposed endeavor in RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujlvnc/can_i_change_proposed_endeavor_in_rfe/",
-      "author": "/u/Dazzling-Flower3802",
-      "publishedAt": "2026-06-30T10:54:12+00:00",
-      "excerpt": "My proposed endeavor was to work as a consultant and pursue in the very specific area of my PhD research in water treatment. Upon careful review of my previous submission, I find pursuing in the research area hard to continue in the future and can be too niche to make it to national impact, which is also brought up by …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujle3v",
-      "title": "Hello Everyone, Would appreciate if someone recommend reputed Attorney for NIW-EB2. I am M.sc Mathematics with 19years work experience in Supply chain. Also please let me know if someone has experience with \"Shawn Sedaghat Law Firm\"",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujle3v/hello_everyone_would_appreciate_if_someone/",
-      "author": "/u/kanwal_uae",
-      "publishedAt": "2026-06-30T10:27:26+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujep6r",
-      "title": "Dallas FO Interview",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujep6r/dallas_fo_interview/",
-      "author": "/u/Existing_Task2890",
-      "publishedAt": "2026-06-30T04:10:25+00:00",
-      "excerpt": "Hello everyone! Does anyone get scheduled for the I-485 interview at Dallas FO? How long does it take to get the interview schedule after the 3rd FTA0?",
-      "topics": [
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujgf2y",
-      "title": "H1B expiring soon; getting EB2 NIW filed",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujgf2y/h1b_expiring_soon_getting_eb2_niw_filed/",
-      "author": "/u/that90smadrasgirl",
-      "publishedAt": "2026-06-30T05:39:03+00:00",
-      "excerpt": "Hi there! My H1B is expiring end of September, 2026. I am looking to get my EB2 NIW filed in the next couple weeks to get an i140 which can let me file for H1B extension. The issue is that the timelines are too tight and I am really afraid that I will lose my work authorization in the country. I should have a decision …",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujdpa4",
-      "title": "EB2NIW and health insurance",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujdpa4/eb2niw_and_health_insurance/",
-      "author": "/u/Different_Peanut_327",
-      "publishedAt": "2026-06-30T03:21:43+00:00",
-      "excerpt": "I was recently laid off from my H-1B job. My EB-2 NIW I-140 is pending, and my I-485/I-765 were received by USCIS (receipt notices received). Marketplace approved me for a premium tax credit after I reported job loss/lower income. Is it safe to accept while AOS is pending, especially in Texas?",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-06-30T23:58:26.695Z",
+  "syncedAt": "2026-07-01T03:50:10.734Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
