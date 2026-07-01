@@ -54,6 +54,44 @@
       }
     },
     {
+      "id": "t3_1ukmobr",
+      "title": "July Visa Bulletin: what it actually changes for NIW planning",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukmobr/july_visa_bulletin_what_it_actually_changes_for/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-07-01T14:06:13+00:00",
+      "excerpt": "The July 2026 Visa Bulletin does not make your NIW stronger or weaker. It changes timing strategy. This is the distinction many people miss. The Department of State says EB-2 is current for all chargeability areas except China and India in the July 2026 bulletin. China EB-2 has a final action date of September 1, 2021.…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ukh3li",
+      "title": "Research vs Industry profile? Curious how this sub splits",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukh3li/research_vs_industry_profile_curious_how_this_sub/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-07-01T09:45:42+00:00",
+      "excerpt": "Hi everyone. I’m industry (data engineer, no PhD or pubs), filed my I-140 recently. Feels like most people here are research-heavy so I’m curious what the actual mix is. If you’ve got a case going, which are you? View Poll",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ukbpjs",
       "title": "International Travel Pending I140",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukbpjs/international_travel_pending_i140/",
@@ -150,13 +188,14 @@
       }
     },
     {
-      "id": "t3_1ukh3li",
-      "title": "Research vs Industry profile? Curious how this sub splits",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukh3li/research_vs_industry_profile_curious_how_this_sub/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-07-01T09:45:42+00:00",
-      "excerpt": "Hi everyone. I’m industry (data engineer, no PhD or pubs), filed my I-140 recently. Feels like most people here are research-heavy so I’m curious what the actual mix is. If you’ve got a case going, which are you? View Poll",
+      "id": "t3_1ukab3s",
+      "title": "Employer sponsored vs non sponsored EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukab3s/employer_sponsored_vs_non_sponsored_eb2_niw/",
+      "author": "/u/that90smadrasgirl",
+      "publishedAt": "2026-07-01T03:27:35+00:00",
+      "excerpt": "Hi there! Can someone tell me what’s the difference between filing EB2 NIW through an employer vs lot? Are there any advantages to getting your employer to do it? Does it change approval changes if we do it via an employer even if the petition details are all the same?",
       "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -198,25 +237,6 @@
         "approval",
         "i485",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ukab3s",
-      "title": "Employer sponsored vs non sponsored EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukab3s/employer_sponsored_vs_non_sponsored_eb2_niw/",
-      "author": "/u/that90smadrasgirl",
-      "publishedAt": "2026-07-01T03:27:35+00:00",
-      "excerpt": "Hi there! Can someone tell me what’s the difference between filing EB2 NIW through an employer vs lot? Are there any advantages to getting your employer to do it? Does it change approval changes if we do it via an employer even if the petition details are all the same?",
-      "topics": [
-        "approval",
-        "i140",
         "question"
       ],
       "signals": {
@@ -415,25 +435,6 @@
       }
     },
     {
-      "id": "t3_1uk8lud",
-      "title": "An AI approval percentage is the least useful NIW output",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8lud/an_ai_approval_percentage_is_the_least_useful_niw/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-07-01T02:05:19+00:00",
-      "excerpt": "If an AI tool says your NIW case has a 78 percent approval chance, I would not treat that number as real. The useful part is not prediction. The useful part is criticism. Instead of asking: \"What are my approval chances?\" Ask: \"What is the strongest denial argument under each Dhanasar prong?\" Then look for the pattern:…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ujzcw7",
       "title": "4 weeks to review I-485 package?!! why?!!!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujzcw7/4_weeks_to_review_i485_package_why/",
@@ -472,7 +473,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-01T11:51:08.023Z",
+  "syncedAt": "2026-07-01T14:07:23.222Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
