@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1ukp42q",
+      "title": "NIW I-140 Denial (Update)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukp42q/niw_i140_denial_update/",
+      "author": "/u/Square_Car9738",
+      "publishedAt": "2026-07-01T15:37:15+00:00",
+      "excerpt": "Hello, this is a follow-up repost after I received the physical NIW denial letter, for a previous post I wrote in mid-June and later deleted. I found that I included too much personal information in the original post and was scared by my recent experience, in which someone I met in a professional setting almost identif…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uk8vwz",
       "title": "Statistical Analysis: I-140 Processing Time Estimates & Approval Trends",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8vwz/statistical_analysis_i140_processing_time/",
@@ -54,15 +73,33 @@
       }
     },
     {
-      "id": "t3_1ukmobr",
-      "title": "July Visa Bulletin: what it actually changes for NIW planning",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukmobr/july_visa_bulletin_what_it_actually_changes_for/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-07-01T14:06:13+00:00",
-      "excerpt": "The July 2026 Visa Bulletin does not make your NIW stronger or weaker. It changes timing strategy. This is the distinction many people miss. The Department of State says EB-2 is current for all chargeability areas except China and India in the July 2026 bulletin. China EB-2 has a final action date of September 1, 2021.…",
+      "id": "t3_1ukpenx",
+      "title": "Should I apply perm based I-140 while my NIW based I-140 is already approved ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukpenx/should_i_apply_perm_based_i140_while_my_niw_based/",
+      "author": "/u/Alarming-Camera-188",
+      "publishedAt": "2026-07-01T15:48:04+00:00",
+      "excerpt": "Should I apply a perm-based I-140 while my NIW-based I-140 is already approved ? I have my NIW-based I-140 approved (priority date was Oct 2023). I am from ROW ( 75 countries) My I-485 is currently pending. I applied to I -485 on Ocotober 2025. I have my H1B ( 3 more years to go with extension). My perm was approved ea…",
       "topics": [
         "approval",
         "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1uknye2",
+      "title": "Does Late decision means RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uknye2/does_late_decision_means_rfe/",
+      "author": "/u/The_oppenheimer",
+      "publishedAt": "2026-07-01T14:54:43+00:00",
+      "excerpt": "Hi Guys I am currently day 39 of Premium Processing for eb2 NIW is there a trend that late decision means an RFE?",
+      "topics": [
         "i140",
         "question"
       ],
@@ -92,6 +129,24 @@
       }
     },
     {
+      "id": "t3_1uk20g6",
+      "title": "NIW pp approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk20g6/niw_pp_approved/",
+      "author": "/u/vista_nova",
+      "publishedAt": "2026-06-30T21:20:38+00:00",
+      "excerpt": "Background: I received my PhD degree in Chemical Engineering of an R1 University under DOE funding. After graduation, I worked for 6+ years in data science/AI roles in healthcare. 8 peer reviewed publications from PhD and industry with ~80 citations 30+ reviews 3 LoR (2 dependent 1 independent from a PI from a national…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ukbpjs",
       "title": "International Travel Pending I140",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukbpjs/international_travel_pending_i140/",
@@ -110,15 +165,17 @@
       }
     },
     {
-      "id": "t3_1uk20g6",
-      "title": "NIW pp approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk20g6/niw_pp_approved/",
-      "author": "/u/vista_nova",
-      "publishedAt": "2026-06-30T21:20:38+00:00",
-      "excerpt": "Background: I received my PhD degree in Chemical Engineering of an R1 University under DOE funding. After graduation, I worked for 6+ years in data science/AI roles in healthcare. 8 peer reviewed publications from PhD and industry with ~80 citations 30+ reviews 3 LoR (2 dependent 1 independent from a PI from a national…",
+      "id": "t3_1ujuti8",
+      "title": "My EB-2 NIW I-140 Approved in ~2 months (Premium Processing) – J-1 Postdoc",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujuti8/my_eb2_niw_i140_approved_in_2_months_premium/",
+      "author": "/u/iNextGen",
+      "publishedAt": "2026-06-30T16:58:09+00:00",
+      "excerpt": "Hi, I wanted to share my recent experience as it might help others who are in a similar situation. Background: I am currently a Postdoc at the UMB, working on multi-omics approaches in Brain development, neurodegeneration, aging, and glial biology. Before application I had around 297 citations, 10+ publications, and on…",
       "topics": [
         "approval",
-        "i140"
+        "i485",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -158,45 +215,6 @@
         "approval",
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujuti8",
-      "title": "My EB-2 NIW I-140 Approved in ~2 months (Premium Processing) – J-1 Postdoc",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujuti8/my_eb2_niw_i140_approved_in_2_months_premium/",
-      "author": "/u/iNextGen",
-      "publishedAt": "2026-06-30T16:58:09+00:00",
-      "excerpt": "Hi, I wanted to share my recent experience as it might help others who are in a similar situation. Background: I am currently a Postdoc at the UMB, working on multi-omics approaches in Brain development, neurodegeneration, aging, and glial biology. Before application I had around 297 citations, 10+ publications, and on…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ukab3s",
-      "title": "Employer sponsored vs non sponsored EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukab3s/employer_sponsored_vs_non_sponsored_eb2_niw/",
-      "author": "/u/that90smadrasgirl",
-      "publishedAt": "2026-07-01T03:27:35+00:00",
-      "excerpt": "Hi there! Can someone tell me what’s the difference between filing EB2 NIW through an employer vs lot? Are there any advantages to getting your employer to do it? Does it change approval changes if we do it via an employer even if the petition details are all the same?",
-      "topics": [
-        "approval",
-        "i140",
         "question"
       ],
       "signals": {
@@ -247,6 +265,25 @@
       }
     },
     {
+      "id": "t3_1ukab3s",
+      "title": "Employer sponsored vs non sponsored EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukab3s/employer_sponsored_vs_non_sponsored_eb2_niw/",
+      "author": "/u/that90smadrasgirl",
+      "publishedAt": "2026-07-01T03:27:35+00:00",
+      "excerpt": "Hi there! Can someone tell me what’s the difference between filing EB2 NIW through an employer vs lot? Are there any advantages to getting your employer to do it? Does it change approval changes if we do it via an employer even if the petition details are all the same?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uk9er7",
       "title": "Receipt notice EB-2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk9er7/receipt_notice_eb2_niw/",
@@ -255,6 +292,26 @@
       "excerpt": "I submitted my i-140 application in April 2026 with regular processing and still haven't received a receipt notice. No notification received. The application was delivered by mail on April 19th. Just wondering if anyone has experienced this and any suggestions on what to do.",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ukmobr",
+      "title": "July Visa Bulletin: what it actually changes for NIW planning",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukmobr/july_visa_bulletin_what_it_actually_changes_for/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-07-01T14:06:13+00:00",
+      "excerpt": "The July 2026 Visa Bulletin does not make your NIW stronger or weaker. It changes timing strategy. This is the distinction many people miss. The Department of State says EB-2 is current for all chargeability areas except China and India in the July 2026 bulletin. China EB-2 has a final action date of September 1, 2021.…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -412,68 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ujrtnf",
-      "title": "EB-2 NIW law firm recommendations for professional engineering profile with no publications/citations?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujrtnf/eb2_niw_law_firm_recommendations_for_professional/",
-      "author": "/u/Thin-Tie-4903",
-      "publishedAt": "2026-06-30T15:06:58+00:00",
-      "excerpt": "Hi everyone, I am looking for advice from people who filed or evaluated an EB-2 NIW case, especially with law firms that handle STEM / engineering / nuclear / energy-related profiles. My background is mainly in nuclear reactor operations and safety . I am currently in the U.S. on H-1B and working as a Reactor Engineer …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujzcw7",
-      "title": "4 weeks to review I-485 package?!! why?!!!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujzcw7/4_weeks_to_review_i485_package_why/",
-      "author": "/u/RKabirx",
-      "publishedAt": "2026-06-30T19:41:34+00:00",
-      "excerpt": "Hi all, Can anyone help me understand why EP needs 4 weeks to review my I-485 package docs? I thought it could be done in a few hours. Because of this, I am really worried that I might miss the July AOS submission window. I would appreciate any experience with EP, if you have any. Thanks.",
-      "topics": [
-        "i485",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujy5zq",
-      "title": "How long should a recommendation letter be for I-140 NIW?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujy5zq/how_long_should_a_recommendation_letter_be_for/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-06-30T18:58:58+00:00",
-      "excerpt": "Any thoughts?",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-01T14:07:23.222Z",
+  "syncedAt": "2026-07-01T17:06:20.897Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
