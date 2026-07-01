@@ -247,12 +247,12 @@
       }
     },
     {
-      "id": "t3_1uknye2",
-      "title": "Does Late decision means RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uknye2/does_late_decision_means_rfe/",
-      "author": "/u/The_oppenheimer",
-      "publishedAt": "2026-07-01T14:54:43+00:00",
-      "excerpt": "Hi Guys I am currently day 39 of Premium Processing for eb2 NIW is there a trend that late decision means an RFE?",
+      "id": "t3_1ukh3li",
+      "title": "Research vs Industry profile? Curious how this sub splits",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukh3li/research_vs_industry_profile_curious_how_this_sub/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-07-01T09:45:42+00:00",
+      "excerpt": "Hi everyone. I’m industry (data engineer, no PhD or pubs), filed my I-140 recently. Feels like most people here are research-heavy so I’m curious what the actual mix is. If you’ve got a case going, which are you? View Poll",
       "topics": [
         "i140",
         "question"
@@ -265,12 +265,12 @@
       }
     },
     {
-      "id": "t3_1ukh3li",
-      "title": "Research vs Industry profile? Curious how this sub splits",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukh3li/research_vs_industry_profile_curious_how_this_sub/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-07-01T09:45:42+00:00",
-      "excerpt": "Hi everyone. I’m industry (data engineer, no PhD or pubs), filed my I-140 recently. Feels like most people here are research-heavy so I’m curious what the actual mix is. If you’ve got a case going, which are you? View Poll",
+      "id": "t3_1uknye2",
+      "title": "Does Late decision means RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uknye2/does_late_decision_means_rfe/",
+      "author": "/u/The_oppenheimer",
+      "publishedAt": "2026-07-01T14:54:43+00:00",
+      "excerpt": "Hi Guys I am currently day 39 of Premium Processing for eb2 NIW is there a trend that late decision means an RFE?",
       "topics": [
         "i140",
         "question"
@@ -398,26 +398,6 @@
       }
     },
     {
-      "id": "t3_1uk5ekb",
-      "title": "STEM OPT and I485",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk5ekb/stem_opt_and_i485/",
-      "author": "/u/Weekly-Taste-4188",
-      "publishedAt": "2026-06-30T23:38:25+00:00",
-      "excerpt": "Currently both my STEM OPT and EB2 NIW (RFE) are in processing. EB2 is PP while STEM OPT is standard processing. Would it be beneficial if OPT STEM is Premium processed so that if NIW is approved I can get EAD and directly submit I485? Or can I file I485 even though STEM OPT is ongoing under standard processing? Any re…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uk7kiq",
       "title": "Anyone received their green card following I-485 approval in the last two weeks?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk7kiq/anyone_received_their_green_card_following_i485/",
@@ -428,6 +408,26 @@
         "approval",
         "i485",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uk5ekb",
+      "title": "STEM OPT and I485",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk5ekb/stem_opt_and_i485/",
+      "author": "/u/Weekly-Taste-4188",
+      "publishedAt": "2026-06-30T23:38:25+00:00",
+      "excerpt": "Currently both my STEM OPT and EB2 NIW (RFE) are in processing. EB2 is PP while STEM OPT is standard processing. Would it be beneficial if OPT STEM is Premium processed so that if NIW is approved I can get EAD and directly submit I485? Or can I file I485 even though STEM OPT is ongoing under standard processing? Any re…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -475,7 +475,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-01T21:17:56.254Z",
+  "syncedAt": "2026-07-01T23:02:19.397Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
