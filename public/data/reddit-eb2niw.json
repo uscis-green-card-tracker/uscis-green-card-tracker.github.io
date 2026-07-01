@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1uk8vwz",
+      "title": "Statistical Analysis: I-140 Processing Time Estimates & Approval Trends",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8vwz/statistical_analysis_i140_processing_time/",
+      "author": "/u/anyconstant",
+      "publishedAt": "2026-07-01T02:18:56+00:00",
+      "excerpt": "Hello everyone. A friend with an I-140 filed in late 2024 recently asked me what to expect and whether premium processing might be worth it. I put together a statistical analysis to estimate processing timelines and thought I’d share it in case others find it useful. I-140 Processing Curve I analyzed block level proces…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": "IOE09250",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1uk20g6",
       "title": "NIW pp approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk20g6/niw_pp_approved/",
@@ -44,6 +63,24 @@
       "topics": [
         "approval",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ukbpjs",
+      "title": "International Travel Pending I140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukbpjs/international_travel_pending_i140/",
+      "author": "/u/Possible_Job4081",
+      "publishedAt": "2026-07-01T04:38:29+00:00",
+      "excerpt": "Is it fine to travel internationally while in OPT status, F1 visa with pending I140 and current diling date?",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -64,6 +101,45 @@
         "i485",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ukbvfk",
+      "title": "Eb2 NIW EP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukbvfk/eb2_niw_ep/",
+      "author": "/u/Aggravating_Fun_3448",
+      "publishedAt": "2026-07-01T04:46:48+00:00",
+      "excerpt": "Hi, anyone here with not-so-great profile like 100 citations, and this and that? And also without a PhD and got NIW approved recently (in last 1 year) with Ellis Portal? I don’t see EP clients getting approved here. So wanted to discuss.",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ukab3s",
+      "title": "Employer sponsored vs non sponsored EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukab3s/employer_sponsored_vs_non_sponsored_eb2_niw/",
+      "author": "/u/that90smadrasgirl",
+      "publishedAt": "2026-07-01T03:27:35+00:00",
+      "excerpt": "Hi there! Can someone tell me what’s the difference between filing EB2 NIW through an employer vs lot? Are there any advantages to getting your employer to do it? Does it change approval changes if we do it via an employer even if the petition details are all the same?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -113,25 +189,6 @@
       }
     },
     {
-      "id": "t3_1ukab3s",
-      "title": "Employer sponsored vs non sponsored EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukab3s/employer_sponsored_vs_non_sponsored_eb2_niw/",
-      "author": "/u/that90smadrasgirl",
-      "publishedAt": "2026-07-01T03:27:35+00:00",
-      "excerpt": "Hi there! Can someone tell me what’s the difference between filing EB2 NIW through an employer vs lot? Are there any advantages to getting your employer to do it? Does it change approval changes if we do it via an employer even if the petition details are all the same?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uk9er7",
       "title": "Receipt notice EB-2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk9er7/receipt_notice_eb2_niw/",
@@ -168,25 +225,6 @@
       }
     },
     {
-      "id": "t3_1uk8vwz",
-      "title": "Statistical Analysis: I-140 Processing Time Estimates & Approval Trends",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8vwz/statistical_analysis_i140_processing_time/",
-      "author": "/u/anyconstant",
-      "publishedAt": "2026-07-01T02:18:56+00:00",
-      "excerpt": "Hello everyone. A friend with an I-140 filed in late 2024 recently asked me what to expect and whether premium processing might be worth it. I put together a statistical analysis to estimate processing timelines and thought I’d share it in case others find it useful. I-140 Processing Curve I analyzed block level proces…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": "IOE09250",
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1uk8m75",
       "title": "No publications is not the same as no evidence",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8m75/no_publications_is_not_the_same_as_no_evidence/",
@@ -194,25 +232,6 @@
       "publishedAt": "2026-07-01T02:05:46+00:00",
       "excerpt": "A lot of NIW applicants panic because they do not have papers or citations. No publications can be a weakness, but it is not the same as having no evidence. For an industry or professional profile, the question becomes: What proves the work matters beyond one employer? Possible evidence can include: Measurable project …",
       "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uk8lud",
-      "title": "An AI approval percentage is the least useful NIW output",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8lud/an_ai_approval_percentage_is_the_least_useful_niw/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-07-01T02:05:19+00:00",
-      "excerpt": "If an AI tool says your NIW case has a 78 percent approval chance, I would not treat that number as real. The useful part is not prediction. The useful part is criticism. Instead of asking: \"What are my approval chances?\" Ask: \"What is the strongest denial argument under each Dhanasar prong?\" Then look for the pattern:…",
-      "topics": [
-        "approval",
         "i140",
         "question"
       ],
@@ -252,6 +271,25 @@
       "publishedAt": "2026-07-01T01:01:32+00:00",
       "excerpt": "Hi all. I have applied for STEM OPT extension at the beginning of June. I am also getting ready to submit my I-140 petition within the next week and I intend to do premium processing. Do you think doing these two things simultaneously could impact one another?",
       "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uk8lud",
+      "title": "An AI approval percentage is the least useful NIW output",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uk8lud/an_ai_approval_percentage_is_the_least_useful_niw/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-07-01T02:05:19+00:00",
+      "excerpt": "If an AI tool says your NIW case has a 78 percent approval chance, I would not treat that number as real. The useful part is not prediction. The useful part is criticism. Instead of asking: \"What are my approval chances?\" Ask: \"What is the strongest denial argument under each Dhanasar prong?\" Then look for the pattern:…",
+      "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -396,24 +434,6 @@
       }
     },
     {
-      "id": "t3_1uji71y",
-      "title": "RFE the officer didn't read my petition",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uji71y/rfe_the_officer_didnt_read_my_petition/",
-      "author": "/u/ReceptionScary4205",
-      "publishedAt": "2026-06-30T07:18:40+00:00",
-      "excerpt": "Any advice from your experiences could help So basically got an RFE after 43 business days on all 3 prongs The RFE was very rough not because it wanted specific things but was talking about things that I never mentioned in my petition/ proposed endeavor neither in exhibits Basically I'm a postdoc in university and all …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ujx3yt",
       "title": "Asking emma",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujx3yt/asking_emma/",
@@ -431,34 +451,14 @@
       }
     },
     {
-      "id": "t3_1ujqg06",
-      "title": "Charlotte NC FO updates",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujqg06/charlotte_nc_fo_updates/",
-      "author": "/u/Believe_in_Believe",
-      "publishedAt": "2026-06-30T14:15:08+00:00",
-      "excerpt": "Hello there, Wanted to find out if there’s an excel spreadsheet/ discorrd link for Charlotte NC filers to track updates? I’m trying to keep track of movement for I-486 and I-765 applications. If there’s been update to your case, kindly share. Filed I-485 RD 10 March 2026 Biometrics 30th April Been silent since then.",
-      "topics": [
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ujvign",
-      "title": "Immigration attorney here. AMA about the National Interest Waiver!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ujvign/immigration_attorney_here_ama_about_the_national/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-06-30T17:23:10+00:00",
-      "excerpt": "I'm Gabriela, an immigration attorney at Manifest Law. A big part of my practice is EB-2 NIW petitions, which means helping people show that their work matters enough that the US should waive the usual job offer and labor certification. NIW lives and dies on how well you frame the three-part test, so I'll keep my answe…",
+      "id": "t3_1uji71y",
+      "title": "RFE the officer didn't read my petition",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uji71y/rfe_the_officer_didnt_read_my_petition/",
+      "author": "/u/ReceptionScary4205",
+      "publishedAt": "2026-06-30T07:18:40+00:00",
+      "excerpt": "Any advice from your experiences could help So basically got an RFE after 43 business days on all 3 prongs The RFE was very rough not because it wanted specific things but was talking about things that I never mentioned in my petition/ proposed endeavor neither in exhibits Basically I'm a postdoc in university and all …",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-01T03:50:10.734Z",
+  "syncedAt": "2026-07-01T08:03:07.671Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
