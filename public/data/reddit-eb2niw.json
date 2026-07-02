@@ -74,6 +74,23 @@
       }
     },
     {
+      "id": "t3_1ulpinc",
+      "title": "Checking I-485 / I-765 location online",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulpinc/checking_i485_i765_location_online/",
+      "author": "/u/Several-Gene8214",
+      "publishedAt": "2026-07-02T17:57:45+00:00",
+      "excerpt": "USCIS has updated the link, and now you can see the case location along with the meanings of the API codes. https://my.uscis.gov/account/case-service/api/case\\_status/CASENUMBER",
+      "topics": [
+        "i485"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uljmhh",
       "title": "Premium processing timeline",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uljmhh/premium_processing_timeline/",
@@ -125,6 +142,23 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ulqzyt",
+      "title": "Rfe from tsc officer XM2052",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulqzyt/rfe_from_tsc_officer_xm2052/",
+      "author": "/u/CandidBlueberry6262",
+      "publishedAt": "2026-07-02T18:50:50+00:00",
+      "excerpt": "hi, anyone got rfe from officer XM2052 in the past.",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -246,6 +280,25 @@
       }
     },
     {
+      "id": "t3_1ul9e47",
+      "title": "NIW Anyone in IOE0924 lot still waiting for their I140?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul9e47/niw_anyone_in_ioe0924_lot_still_waiting_for_their/",
+      "author": "/u/Zealousideal_Ad2079",
+      "publishedAt": "2026-07-02T05:36:39+00:00",
+      "excerpt": "PD: 03/15/24 Receipt: 04/02/24 Been waiting since then... USCIS just keeps pushing the processing time. I am always one or two months away from being eligible to submit a case inquiry. Want to know if anyone has similiar situation. Need to hear some good news.",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": "IOE0924",
+        "receiptDate": null,
+        "priorityDate": "03/15/24",
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ul7coz",
       "title": "I140 and variety on research record",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul7coz/i140_and_variety_on_research_record/",
@@ -296,25 +349,6 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ul9e47",
-      "title": "NIW Anyone in IOE0924 lot still waiting for their I140?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul9e47/niw_anyone_in_ioe0924_lot_still_waiting_for_their/",
-      "author": "/u/Zealousideal_Ad2079",
-      "publishedAt": "2026-07-02T05:36:39+00:00",
-      "excerpt": "PD: 03/15/24 Receipt: 04/02/24 Been waiting since then... USCIS just keeps pushing the processing time. I am always one or two months away from being eligible to submit a case inquiry. Want to know if anyone has similiar situation. Need to hear some good news.",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": "IOE0924",
-        "receiptDate": null,
-        "priorityDate": "03/15/24",
         "mentionsCountry75": false
       }
     },
@@ -428,48 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ukv40x",
-      "title": "I-140 pp",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukv40x/i140_pp/",
-      "author": "/u/Technical_Trip3071",
-      "publishedAt": "2026-07-01T19:15:46+00:00",
-      "excerpt": "Hey everyone, Sorry if this topic has been discussed a lot already, but I wanted to ask for the most up-to-date experiences. I just filed my EB-2 NIW with premium processing through Chen, and my case ended up at the Texas Service Center. From what I’ve read, both Texas and Nebraska handle NIWs, but it seems like the tr…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ul28qv",
-      "title": "Looking for EB-2 NIW attorney recommendations — got conflicting opinions and feeling lost",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul28qv/looking_for_eb2_niw_attorney_recommendations_got/",
-      "author": "/u/ExplanationFit5017",
-      "publishedAt": "2026-07-01T23:54:54+00:00",
-      "excerpt": "Shopping around for NIW representation and honestly pretty confused at this point. So far I've talked to 5 attorneys. 2 said my profile isn't strong enough. 1 said it's totally fine and quoted $13k. 2 others quoted $6k and $8k but the consultations were so surface-level I have no idea if they actually looked at my case…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-02T17:26:33.389Z",
+  "syncedAt": "2026-07-02T19:09:14.226Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
