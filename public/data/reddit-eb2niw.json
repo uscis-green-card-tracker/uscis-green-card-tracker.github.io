@@ -132,13 +132,14 @@
       }
     },
     {
-      "id": "t3_1ul40xp",
-      "title": "Signature requirement on 485 form (Online filing)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul40xp/signature_requirement_on_485_form_online_filing/",
-      "author": "/u/kennthin",
-      "publishedAt": "2026-07-02T01:14:24+00:00",
-      "excerpt": "When filing 485 online, do I fill in all entries and leave the signature blank, and the portal will direct me to type my name and affix it to that part after I upload the pdf? Just to make sure as leaving it blank is a bit daunting.",
+      "id": "t3_1ula2pe",
+      "title": "Eb2-NIW Consular questions at interview",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ula2pe/eb2niw_consular_questions_at_interview/",
+      "author": "/u/Candid-Gur-236",
+      "publishedAt": "2026-07-02T06:14:01+00:00",
+      "excerpt": "I have my interview next week, and would appreciate insight to what questions to expect from the officer these days. I expect questions related to education, expertise, how it should benefit the US, future plans. Is there something else I should prepare for, where am I going to stay after I arrive, etc?",
       "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -149,14 +150,30 @@
       }
     },
     {
-      "id": "t3_1ula2pe",
-      "title": "Eb2-NIW Consular questions at interview",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ula2pe/eb2niw_consular_questions_at_interview/",
-      "author": "/u/Candid-Gur-236",
-      "publishedAt": "2026-07-02T06:14:01+00:00",
-      "excerpt": "I have my interview next week, and would appreciate insight to what questions to expect from the officer these days. I expect questions related to education, expertise, how it should benefit the US, future plans. Is there something else I should prepare for, where am I going to stay after I arrive, etc?",
+      "id": "t3_1ul7coz",
+      "title": "I140 and variety on research record",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul7coz/i140_and_variety_on_research_record/",
+      "author": "/u/Capitano_MD",
+      "publishedAt": "2026-07-02T03:51:44+00:00",
+      "excerpt": "Do you think it really matters when you have a research record about specific topics and your endeavor about a different topic which is the field that I am working on now But both of the on same field which medical research Publications: 30+ Citations: 4000",
       "topics": [
-        "i140",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ul40xp",
+      "title": "Signature requirement on 485 form (Online filing)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul40xp/signature_requirement_on_485_form_online_filing/",
+      "author": "/u/kennthin",
+      "publishedAt": "2026-07-02T01:14:24+00:00",
+      "excerpt": "When filing 485 online, do I fill in all entries and leave the signature blank, and the portal will direct me to type my name and affix it to that part after I upload the pdf? Just to make sure as leaving it blank is a bit daunting.",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -223,24 +240,6 @@
       }
     },
     {
-      "id": "t3_1ul8rwb",
-      "title": "Most NIW drafts do not fail because the field is unimportant",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul8rwb/most_niw_drafts_do_not_fail_because_the_field_is/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-07-02T05:04:06+00:00",
-      "excerpt": "Most weak NIW drafts I see do not fail because the field is unimportant. They fail because the bridge is missing. People spend pages proving that healthcare matters, AI matters, semiconductors matter, cybersecurity matters, supply chain matters, energy matters, cancer research matters, climate matters. That part is usu…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ul8cbw",
       "title": "RFE on all 3 prongs (Industry Profile/Healthcare AI Infra) – Does this response strategy look sufficient?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul8cbw/rfe_on_all_3_prongs_industry_profilehealthcare_ai/",
@@ -277,23 +276,6 @@
       }
     },
     {
-      "id": "t3_1ul7coz",
-      "title": "I140 and variety on research record",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul7coz/i140_and_variety_on_research_record/",
-      "author": "/u/Capitano_MD",
-      "publishedAt": "2026-07-02T03:51:44+00:00",
-      "excerpt": "Do you think it really matters when you have a research record about specific topics and your endeavor about a different topic which is the field that I am working on now But both of the on same field which medical research Publications: 30+ Citations: 4000",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ul1c3l",
       "title": "I-485 pending and I-20 extension",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul1c3l/i485_pending_and_i20_extension/",
@@ -303,6 +285,26 @@
       "topics": [
         "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ul5ubx",
+      "title": "Should I request Premium Processing for my NIW case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul5ubx/should_i_request_premium_processing_for_my_niw/",
+      "author": "/u/Agreeable-Change-798",
+      "publishedAt": "2026-07-02T02:39:46+00:00",
+      "excerpt": "Hello guys. I am waiting for my NIW I-140 since December 2023. It’s around 930 days that I have not heard anything, no RFE, no approval or NOID even! Have done many congressional enquiries, ans service requests, but NOTHING. Should I request PP despite my lawyer recommending against it? My background: I was a PhD candi…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -332,16 +334,14 @@
       }
     },
     {
-      "id": "t3_1ul5ubx",
-      "title": "Should I request Premium Processing for my NIW case",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul5ubx/should_i_request_premium_processing_for_my_niw/",
-      "author": "/u/Agreeable-Change-798",
-      "publishedAt": "2026-07-02T02:39:46+00:00",
-      "excerpt": "Hello guys. I am waiting for my NIW I-140 since December 2023. It’s around 930 days that I have not heard anything, no RFE, no approval or NOID even! Have done many congressional enquiries, ans service requests, but NOTHING. Should I request PP despite my lawyer recommending against it? My background: I was a PhD candi…",
+      "id": "t3_1ul8rwb",
+      "title": "Most NIW drafts do not fail because the field is unimportant",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul8rwb/most_niw_drafts_do_not_fail_because_the_field_is/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-07-02T05:04:06+00:00",
+      "excerpt": "Most weak NIW drafts I see do not fail because the field is unimportant. They fail because the bridge is missing. People spend pages proving that healthcare matters, AI matters, semiconductors matter, cybersecurity matters, supply chain matters, energy matters, cancer research matters, climate matters. That part is usu…",
       "topics": [
-        "approval",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-02T06:30:43.741Z",
+  "syncedAt": "2026-07-02T09:52:15.551Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
