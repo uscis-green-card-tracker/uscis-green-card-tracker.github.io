@@ -54,12 +54,29 @@
       }
     },
     {
-      "id": "t3_1ulntt3",
-      "title": "NIW Approved | PP without RFE | Current PhD Student",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulntt3/niw_approved_pp_without_rfe_current_phd_student/",
-      "author": "/u/Dependent_Tax6000",
-      "publishedAt": "2026-07-02T16:56:55+00:00",
-      "excerpt": "Timeline: PD / I-140 Filed: 04/13/2026 Premium Processing: Upgraded after filling, 04/30/2026 RFE: No RFE Approval Date: 07/01/2026 (44 business days) Center: Texas Background: Country of Origin: ROW Current Position: 4th year PhD student at R1 US University Field: Bioengineering, bio manufacturing and bioprocessing te…",
+      "id": "t3_1ulpinc",
+      "title": "Checking I-485 / I-765 location online",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulpinc/checking_i485_i765_location_online/",
+      "author": "/u/Several-Gene8214",
+      "publishedAt": "2026-07-02T17:57:45+00:00",
+      "excerpt": "USCIS has updated the link, and now you can see the case location along with the meanings of the API codes. https://my.uscis.gov/account/case-service/api/case\\_status/CASENUMBER",
+      "topics": [
+        "i485"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ultwq3",
+      "title": "NIW Approved | 19 Banned Countries | PP without RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ultwq3/niw_approved_19_banned_countries_pp_without_rfe/",
+      "author": "/u/Alternative_Car_7003",
+      "publishedAt": "2026-07-02T20:40:41+00:00",
+      "excerpt": "Timeline: PD / I-140 Filed: 04/29/2026 Premium Processing: Upgraded at time of filing RFE: No RFE Approval Date: 07/01/2026 (43 business days) Center: Nebraska Background: Country of Origin: One of the 19 banned countries Current Position: Postdoctoral Scholar at R1 US University Field: XR/VR Systems, Human-Computer In…",
       "topics": [
         "approval",
         "i140",
@@ -74,14 +91,17 @@
       }
     },
     {
-      "id": "t3_1ulpinc",
-      "title": "Checking I-485 / I-765 location online",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulpinc/checking_i485_i765_location_online/",
-      "author": "/u/Several-Gene8214",
-      "publishedAt": "2026-07-02T17:57:45+00:00",
-      "excerpt": "USCIS has updated the link, and now you can see the case location along with the meanings of the API codes. https://my.uscis.gov/account/case-service/api/case\\_status/CASENUMBER",
+      "id": "t3_1ulntt3",
+      "title": "NIW Approved | PP without RFE | Current PhD Student",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulntt3/niw_approved_pp_without_rfe_current_phd_student/",
+      "author": "/u/Dependent_Tax6000",
+      "publishedAt": "2026-07-02T16:56:55+00:00",
+      "excerpt": "Timeline: PD / I-140 Filed: 04/13/2026 Premium Processing: Upgraded after filling, 04/30/2026 RFE: No RFE Approval Date: 07/01/2026 (44 business days) Center: Texas Background: Country of Origin: ROW Current Position: 4th year PhD student at R1 US University Field: Bioengineering, bio manufacturing and bioprocessing te…",
       "topics": [
-        "i485"
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -142,6 +162,43 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ulu1q6",
+      "title": "Canadian software engineer, bachelors in computer science, no citations, is it really feasible?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulu1q6/canadian_software_engineer_bachelors_in_computer/",
+      "author": "/u/Fickle-Wrongdoer-776",
+      "publishedAt": "2026-07-02T20:46:06+00:00",
+      "excerpt": "Hello, I just talked to an immigration lawyer and he said I have a good case for EB2-NIW, I am not really convinced though, I am not sure if I am just being modest but I don't see anything exceptional in my case, I am a solid worker, good in what I do, 10+ years of experience as a software engineer, but to be honest it…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ulsw75",
+      "title": "I140 filed by PhD Economist",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulsw75/i140_filed_by_phd_economist/",
+      "author": "/u/Different_Peanut_327",
+      "publishedAt": "2026-07-02T20:01:55+00:00",
+      "excerpt": "Any economist here who filed i140 and paid PP? Economics field is very different from other STEM fields. Publishing a paper takes years and citations accumulate very slow. At the time you filed how many publications and citations did you have, and have you filed PP? If yes, what was the outcome?",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -406,65 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ul83tn",
-      "title": "Derivative Applicant's I-485 Receipt Letter Missing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul83tn/derivative_applicants_i485_receipt_letter_missing/",
-      "author": "/u/exhi_bit",
-      "publishedAt": "2026-07-02T04:29:12+00:00",
-      "excerpt": "Hi everyone, I haven't received the receipt notice or Online Access Code (OAC) for my spouse's (derivative) AOS application yet. It's been about two weeks since USCIS received the application, and almost a week since I received my own receipt notice and OAC as the principal applicant. Is this kind of delay normal? I've…",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ul1c3l",
-      "title": "I-485 pending and I-20 extension",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul1c3l/i485_pending_and_i20_extension/",
-      "author": "/u/OkBanana2210",
-      "publishedAt": "2026-07-01T23:15:56+00:00",
-      "excerpt": "Hey guys, need your valid information: being on OPT currently and planning to file concurrent I-140 and I-485, is it legally fine to extend I-20 (enrolling back to school or OPT stem) while having I-485 pending?",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ukp42q",
-      "title": "NIW I-140 Denial (Update)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukp42q/niw_i140_denial_update/",
-      "author": "/u/Square_Car9738",
-      "publishedAt": "2026-07-01T15:37:15+00:00",
-      "excerpt": "Hello, this is a follow-up repost after I received the physical NIW denial letter, for a previous post I wrote in mid-June and later deleted. I found that I included too much personal information in the original post and was scared by my recent experience, in which someone I met in a professional setting almost identif…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-02T19:09:14.226Z",
+  "syncedAt": "2026-07-02T20:53:59.033Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
