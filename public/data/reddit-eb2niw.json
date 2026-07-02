@@ -150,6 +150,24 @@
       }
     },
     {
+      "id": "t3_1ul8cbw",
+      "title": "RFE on all 3 prongs (Industry Profile/Healthcare AI Infra) – Does this response strategy look sufficient?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul8cbw/rfe_on_all_3_prongs_industry_profilehealthcare_ai/",
+      "author": "/u/InfinitePianist4203",
+      "publishedAt": "2026-07-02T04:41:35+00:00",
+      "excerpt": "Hey I received a tough RFE on my EB-2 NIW petition across all three prongs and would love some feedback on my planned response strategy. My Profile: Education: Master’s Degree in Software Engineering. Experience: 6 years of industry experience with a clear trajectory (promoted from regular Engineer to Mid-Level). Curre…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ul7coz",
       "title": "I140 and variety on research record",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul7coz/i140_and_variety_on_research_record/",
@@ -240,24 +258,6 @@
       }
     },
     {
-      "id": "t3_1ul8cbw",
-      "title": "RFE on all 3 prongs (Industry Profile/Healthcare AI Infra) – Does this response strategy look sufficient?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul8cbw/rfe_on_all_3_prongs_industry_profilehealthcare_ai/",
-      "author": "/u/InfinitePianist4203",
-      "publishedAt": "2026-07-02T04:41:35+00:00",
-      "excerpt": "Hey I received a tough RFE on my EB-2 NIW petition across all three prongs and would love some feedback on my planned response strategy. My Profile: Education: Master’s Degree in Software Engineering. Experience: 6 years of industry experience with a clear trajectory (promoted from regular Engineer to Mid-Level). Curre…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ul83tn",
       "title": "Derivative Applicant's I-485 Receipt Letter Missing",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul83tn/derivative_applicants_i485_receipt_letter_missing/",
@@ -334,24 +334,6 @@
       }
     },
     {
-      "id": "t3_1ul8rwb",
-      "title": "Most NIW drafts do not fail because the field is unimportant",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul8rwb/most_niw_drafts_do_not_fail_because_the_field_is/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-07-02T05:04:06+00:00",
-      "excerpt": "Most weak NIW drafts I see do not fail because the field is unimportant. They fail because the bridge is missing. People spend pages proving that healthcare matters, AI matters, semiconductors matter, cybersecurity matters, supply chain matters, energy matters, cancer research matters, climate matters. That part is usu…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ukv40x",
       "title": "I-140 pp",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ukv40x/i140_pp/",
@@ -402,6 +384,24 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ul8rwb",
+      "title": "Most NIW drafts do not fail because the field is unimportant",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul8rwb/most_niw_drafts_do_not_fail_because_the_field_is/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-07-02T05:04:06+00:00",
+      "excerpt": "Most weak NIW drafts I see do not fail because the field is unimportant. They fail because the bridge is missing. People spend pages proving that healthcare matters, AI matters, semiconductors matter, cybersecurity matters, supply chain matters, energy matters, cancer research matters, climate matters. That part is usu…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-02T09:52:15.551Z",
+  "syncedAt": "2026-07-02T12:02:23.550Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
