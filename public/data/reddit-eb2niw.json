@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1ulujs6",
+      "title": "APPROVED! Cybersecurity Industry Profile (Self-Petitioned)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulujs6/approved_cybersecurity_industry_profile/",
+      "author": "/u/Significant-Gold7408",
+      "publishedAt": "2026-07-02T21:05:08+00:00",
+      "excerpt": "PD: 4/18/2026, applied with PP Case approved: 6/28/2026 RFE: No RFE Lawyer/Service: Self-petitioned and DIY'ed, prepared everything without a lawyer. I figured it would be easier to do it myself and cheaper than to rely on one that uses cookie-cutter strategies. Relied purely on the USCIS policy manual and some additio…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "4/18/2026",
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ultwq3",
       "title": "NIW Approved | 19 Banned Countries | PP without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ultwq3/niw_approved_19_banned_countries_pp_without_rfe/",
@@ -51,25 +70,6 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ulujs6",
-      "title": "APPROVED! Cybersecurity Industry Profile (Self-Petitioned)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulujs6/approved_cybersecurity_industry_profile/",
-      "author": "/u/Significant-Gold7408",
-      "publishedAt": "2026-07-02T21:05:08+00:00",
-      "excerpt": "PD: 4/18/2026, applied with PP Case approved: 6/28/2026 RFE: No RFE Lawyer/Service: Self-petitioned and DIY'ed, prepared everything without a lawyer. I figured it would be easier to do it myself and cheaper than to rely on one that uses cookie-cutter strategies. Relied purely on the USCIS policy manual and some additio…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "4/18/2026",
         "mentionsCountry75": false
       }
     },
@@ -139,6 +139,24 @@
       "topics": [
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ulwrmm",
+      "title": "Silent Updates",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulwrmm/silent_updates/",
+      "author": "/u/shelokovskiy",
+      "publishedAt": "2026-07-02T22:32:06+00:00",
+      "excerpt": "Do you ask Emm after each silent update? Any repercussions of doing it too many times?",
+      "topics": [
+        "i485",
         "question"
       ],
       "signals": {
@@ -445,28 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ul9dby",
-      "title": "PERM denied due to remote/travel issue. Employer refiling. Should I pursue NIW or EB-1A independently?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul9dby/perm_denied_due_to_remotetravel_issue_employer/",
-      "author": "/u/Practical_Car6855",
-      "publishedAt": "2026-07-02T05:35:29+00:00",
-      "excerpt": "Hi everyone, I’m looking for advice from anyone who has been in a similar situation or has experience with employment-based immigration. Here’s my situation: Currently on H-1B ending November 2026 Working as a Validation Engineer at XXXX in the medical device industry(Full Time). I hold three master’s degrees and an AS…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-02T21:59:05.796Z",
+  "syncedAt": "2026-07-02T23:08:33.055Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
