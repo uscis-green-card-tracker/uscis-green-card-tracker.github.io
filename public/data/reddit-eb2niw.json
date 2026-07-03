@@ -55,6 +55,26 @@
       }
     },
     {
+      "id": "t3_1umjvph",
+      "title": "I-140 Approved PP without RFE!!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umjvph/i140_approved_pp_without_rfe/",
+      "author": "/u/Dry-Temperature7846",
+      "publishedAt": "2026-07-03T16:58:51+00:00",
+      "excerpt": "Hi everyone! I’d like to share some exciting news — my I-140 was finally approved! Since I’ve received so much help from this community throughout the process, I hope sharing my experience can help others who are still waiting. Happy July 4th! Timeline Priority Date (PD): June 27, 2025 Premium Processing (PP): May 13, …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1umgrkp",
       "title": "My EB-2 NIW I-140 Approved (Criminology / Social Science)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1umgrkp/my_eb2_niw_i140_approved_criminology_social/",
@@ -66,6 +86,44 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1umh9mb",
+      "title": "ll waiting on my EB-2 NIW I-140 after 19+ months – anyone else?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umh9mb/ll_waiting_on_my_eb2_niw_i140_after_19_months/",
+      "author": "/u/ram_nib2025",
+      "publishedAt": "2026-07-03T15:19:01+00:00",
+      "excerpt": "Hi everyone, I’m currently a postdoctoral researcher at UC Berkeley. Before joining Berkeley, I completed a postdoctoral fellowship at Stanford University. My research focuses on biomaterials, nanotechnology, molecular imaging, and targeted drug delivery for cancer. I hold a Ph.D. and have published more than 20 peer-r…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1umk14c",
+      "title": "Denial- Advice moving forward",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umk14c/denial_advice_moving_forward/",
+      "author": "/u/ManySolid6007",
+      "publishedAt": "2026-07-03T17:04:14+00:00",
+      "excerpt": "Hi I recieved a denial on my Eb2 after RFE on prong 2 & 3 I’m looking for advice; Degree: Medical degree Attorney: EP My profile is 126 citations With Over 10 papers; I’m a senior author in one, second author in two and first author in a primary one. I’m refiling, just I need advice on this. I felt the officer didn’t u…",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -103,26 +161,6 @@
       "topics": [
         "approval",
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1umh9mb",
-      "title": "ll waiting on my EB-2 NIW I-140 after 19+ months – anyone else?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umh9mb/ll_waiting_on_my_eb2_niw_i140_after_19_months/",
-      "author": "/u/ram_nib2025",
-      "publishedAt": "2026-07-03T15:19:01+00:00",
-      "excerpt": "Hi everyone, I’m currently a postdoctoral researcher at UC Berkeley. Before joining Berkeley, I completed a postdoctoral fellowship at Stanford University. My research focuses on biomaterials, nanotechnology, molecular imaging, and targeted drug delivery for cancer. I hold a Ph.D. and have published more than 20 peer-r…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -432,46 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ul5vw6",
-      "title": "I built an AI agent to conquer the core of my NIW petition",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul5vw6/i_built_an_ai_agent_to_conquer_the_core_of_my_niw/",
-      "author": "/u/SimonTsui1022",
-      "publishedAt": "2026-07-02T02:41:53+00:00",
-      "excerpt": "After getting rejected the first time with attorney services, I decided to take advantage of AI agent to accelerate my NIW refiling. I believe the part that got challenged the most by IO's is the discussion on national importance and proposed endeavors. To tackle this issue, I designed an agent that finds you federal/g…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uln3m7",
-      "title": "RFE Submission Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uln3m7/rfe_submission_timeline/",
-      "author": "/u/Much-Drama-3424",
-      "publishedAt": "2026-07-02T16:29:59+00:00",
-      "excerpt": "Hi, What’s the average timeline after RFE submission? Without PP",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-03T15:48:44.127Z",
+  "syncedAt": "2026-07-03T17:13:11.719Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
