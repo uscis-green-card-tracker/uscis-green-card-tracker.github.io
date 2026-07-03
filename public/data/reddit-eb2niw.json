@@ -113,6 +113,25 @@
       }
     },
     {
+      "id": "t3_1umm0k3",
+      "title": "Bad experience with Chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umm0k3/bad_experience_with_chen/",
+      "author": "/u/Either-Low7310",
+      "publishedAt": "2026-07-03T18:20:39+00:00",
+      "excerpt": "I previously worked with Boundless on an employer-sponsored EB-2 case, and almost nothing progressed during the two years I had available. They never even got started on my PERM. My attorney would ignore emails asking her to correct drafts, and she would only respond after I contacted Boundless support and CC’d my comp…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1umqszo",
       "title": "Any self filers with industry profile",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1umqszo/any_self_filers_with_industry_profile/",
@@ -139,25 +158,6 @@
       "topics": [
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1umm0k3",
-      "title": "Bad experience with Chen",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umm0k3/bad_experience_with_chen/",
-      "author": "/u/Either-Low7310",
-      "publishedAt": "2026-07-03T18:20:39+00:00",
-      "excerpt": "I previously worked with Boundless on an employer-sponsored EB-2 case, and almost nothing progressed during the two years I had available. They never even got started on my PERM. My attorney would ignore emails asking her to correct drafts, and she would only respond after I contacted Boundless support and CC’d my comp…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -471,7 +471,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-03T21:56:24.500Z",
+  "syncedAt": "2026-07-03T22:56:53.569Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
