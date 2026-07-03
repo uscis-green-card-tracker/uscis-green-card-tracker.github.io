@@ -95,16 +95,33 @@
       }
     },
     {
-      "id": "t3_1umh9mb",
-      "title": "ll waiting on my EB-2 NIW I-140 after 19+ months – anyone else?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umh9mb/ll_waiting_on_my_eb2_niw_i140_after_19_months/",
-      "author": "/u/ram_nib2025",
-      "publishedAt": "2026-07-03T15:19:01+00:00",
-      "excerpt": "Hi everyone, I’m currently a postdoctoral researcher at UC Berkeley. Before joining Berkeley, I completed a postdoctoral fellowship at Stanford University. My research focuses on biomaterials, nanotechnology, molecular imaging, and targeted drug delivery for cancer. I hold a Ph.D. and have published more than 20 peer-r…",
+      "id": "t3_1umm0k3",
+      "title": "Bad experience with Chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umm0k3/bad_experience_with_chen/",
+      "author": "/u/Either-Low7310",
+      "publishedAt": "2026-07-03T18:20:39+00:00",
+      "excerpt": "I previously worked with Boundless on an employer-sponsored EB-2 case, and almost nothing progressed during the two years I had available. They never even got started on my PERM. My attorney would ignore emails asking her to correct drafts, and she would only respond after I contacted Boundless support and CC’d my comp…",
       "topics": [
-        "approval",
         "i140",
-        "timeline",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ummlkg",
+      "title": "Is my profile worth EB2-NIW? Please help me get honest opinion as I don't want to invest if my profile doesn't stand a chance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ummlkg/is_my_profile_worth_eb2niw_please_help_me_get/",
+      "author": "/u/Ashamed_Dare_3930",
+      "publishedAt": "2026-07-03T18:43:40+00:00",
+      "excerpt": "Citizenship - India Credentials Computer sc bachelors degree Highest degrees - Masters in MIS and MBA Experience - 5+ years of technical product management, worked at Amazon and Walmart Publications - None Please let me know if I even should pursue this path.",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -161,6 +178,26 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1umh9mb",
+      "title": "ll waiting on my EB-2 NIW I-140 after 19+ months – anyone else?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umh9mb/ll_waiting_on_my_eb2_niw_i140_after_19_months/",
+      "author": "/u/ram_nib2025",
+      "publishedAt": "2026-07-03T15:19:01+00:00",
+      "excerpt": "Hi everyone, I’m currently a postdoctoral researcher at UC Berkeley. Before joining Berkeley, I completed a postdoctoral fellowship at Stanford University. My research focuses on biomaterials, nanotechnology, molecular imaging, and targeted drug delivery for cancer. I hold a Ph.D. and have published more than 20 peer-r…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -433,46 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ulqzyt",
-      "title": "Rfe from tsc officer XM2052",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulqzyt/rfe_from_tsc_officer_xm2052/",
-      "author": "/u/CandidBlueberry6262",
-      "publishedAt": "2026-07-02T18:50:50+00:00",
-      "excerpt": "hi, anyone got rfe from officer XM2052 in the past.",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1um2iju",
-      "title": "About the \"extra green cards\" talk: it is not a free-for-all",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1um2iju/about_the_extra_green_cards_talk_it_is_not_a/",
-      "author": "/u/Dapper-Ad-2100",
-      "publishedAt": "2026-07-03T02:57:49+00:00",
-      "excerpt": "I keep seeing people talk about extra green cards or unused numbers as if it automatically means every EB-2 NIW case should move faster. That is not how I would read it. The useful way to think about this is not \"there are extra green cards, so my case should be approved soon.\" The useful way is: Who can actually use t…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-03T17:13:11.719Z",
+  "syncedAt": "2026-07-03T19:01:48.534Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
