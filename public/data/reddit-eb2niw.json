@@ -73,6 +73,25 @@
       }
     },
     {
+      "id": "t3_1umcl1s",
+      "title": "What is next if i140 approved of the applicant who is belongs to 70 banned countries? Living outside USA?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umcl1s/what_is_next_if_i140_approved_of_the_applicant/",
+      "author": "/u/This-Hold2296",
+      "publishedAt": "2026-07-03T12:02:01+00:00",
+      "excerpt": "",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ulntt3",
       "title": "NIW Approved | PP without RFE | Current PhD Student",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulntt3/niw_approved_pp_without_rfe_current_phd_student/",
@@ -444,28 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ul9e47",
-      "title": "NIW Anyone in IOE0924 lot still waiting for their I140?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul9e47/niw_anyone_in_ioe0924_lot_still_waiting_for_their/",
-      "author": "/u/Zealousideal_Ad2079",
-      "publishedAt": "2026-07-02T05:36:39+00:00",
-      "excerpt": "PD: 03/15/24 Receipt: 04/02/24 Been waiting since then... USCIS just keeps pushing the processing time. I am always one or two months away from being eligible to submit a case inquiry. Want to know if anyone has similiar situation. Need to hear some good news.",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": "IOE0924",
-        "receiptDate": null,
-        "priorityDate": "03/15/24",
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-03T11:26:01.966Z",
+  "syncedAt": "2026-07-03T13:42:30.435Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
