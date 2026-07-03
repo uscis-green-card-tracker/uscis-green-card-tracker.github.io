@@ -54,6 +54,25 @@
       }
     },
     {
+      "id": "t3_1ulneox",
+      "title": "EB2-NIW I-140 approved!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulneox/eb2niw_i140_approved/",
+      "author": "/u/StartAbject5870",
+      "publishedAt": "2026-07-02T16:41:19+00:00",
+      "excerpt": "I’m happy to share that my EB-2 NIW (I-140) petition has been approved! A little about my background: I earned my M.S. in Materials Science and currently work as a Process Engineer in the battery industry. My proposed endeavor focuses on advancing battery manufacturing and reliability, with the goal of supporting the d…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ultwq3",
       "title": "NIW Approved | 19 Banned Countries | PP without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ultwq3/niw_approved_19_banned_countries_pp_without_rfe/",
@@ -65,25 +84,6 @@
         "i140",
         "lawyer",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ulneox",
-      "title": "EB2-NIW I-140 approved!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulneox/eb2niw_i140_approved/",
-      "author": "/u/StartAbject5870",
-      "publishedAt": "2026-07-02T16:41:19+00:00",
-      "excerpt": "I’m happy to share that my EB-2 NIW (I-140) petition has been approved! A little about my background: I earned my M.S. in Materials Science and currently work as a Process Engineer in the battery industry. My proposed endeavor focuses on advancing battery manufacturing and reliability, with the goal of supporting the d…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -130,15 +130,14 @@
       }
     },
     {
-      "id": "t3_1um0d5g",
-      "title": "EB-2 NIW for a nonprofit researcher without publication?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1um0d5g/eb2_niw_for_a_nonprofit_researcher_without/",
-      "author": "/u/One_Pizza6331",
-      "publishedAt": "2026-07-03T01:15:16+00:00",
-      "excerpt": "I'm looking fo e: EB-2 NIW for a nonprofit researcher? advice from anyone who has been in a similar situation. I'm currently working as a researcher at a U.S. nonprofit on H-1B, with about one year remaining before I reach my H-1B limit. My background is in public health research and data management. I don't have publi…",
+      "id": "t3_1ulwrmm",
+      "title": "Silent Updates",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulwrmm/silent_updates/",
+      "author": "/u/shelokovskiy",
+      "publishedAt": "2026-07-02T22:32:06+00:00",
+      "excerpt": "Do you ask Emma after each silent update? Any repercussions of doing it too many times?",
       "topics": [
-        "i140",
-        "lawyer",
+        "i485",
         "question"
       ],
       "signals": {
@@ -157,6 +156,40 @@
       "excerpt": "They literally copy-pasted the professors' signature blocks from my recommendation letters straight into the RFE. Looks like an AI filled in a template. The API shows response at 11:44pm, right before the 45-business-day mark. I filed to TSC but the RFE came from NSC. Is that a thing? Is a templated RFE like this commo…",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1um1veo",
+      "title": "Employer probation period",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1um1veo/employer_probation_period/",
+      "author": "/u/Adorable_Radio_5589",
+      "publishedAt": "2026-07-03T02:26:28+00:00",
+      "excerpt": "Is this a common thing where healthcare employers impose 6 months probation period before filing PERM. I am switching employer primary care physician and I heard that from multiple recruiters . My previous job as hospitalist they started filling process immediately.",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1um0d5g",
+      "title": "EB-2 NIW for a nonprofit researcher without publication?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1um0d5g/eb2_niw_for_a_nonprofit_researcher_without/",
+      "author": "/u/One_Pizza6331",
+      "publishedAt": "2026-07-03T01:15:16+00:00",
+      "excerpt": "I'm looking fo e: EB-2 NIW for a nonprofit researcher? advice from anyone who has been in a similar situation. I'm currently working as a researcher at a U.S. nonprofit on H-1B, with about one year remaining before I reach my H-1B limit. My background is in public health research and data management. I don't have publi…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -186,15 +219,17 @@
       }
     },
     {
-      "id": "t3_1ulwrmm",
-      "title": "Silent Updates",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulwrmm/silent_updates/",
-      "author": "/u/shelokovskiy",
-      "publishedAt": "2026-07-02T22:32:06+00:00",
-      "excerpt": "Do you ask Emm after each silent update? Any repercussions of doing it too many times?",
+      "id": "t3_1ul3ucl",
+      "title": "My I-140 NIW petition got approved! 🎉",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul3ucl/my_i140_niw_petition_got_approved/",
+      "author": "/u/Life-Law4062",
+      "publishedAt": "2026-07-02T01:06:20+00:00",
+      "excerpt": "Just wanted to share an approval data point and my experience. Timeline: PD / I-140 Filed: April 17, 2026 Premium Processing: Upgraded after filing (April 28, 2026) Approval Date: June 28, 2026 (received an email) Background: Country of Origin: ROW (not 39) Current Position: Postdoctoral Scholar at an R1 US university …",
       "topics": [
-        "i485",
-        "question"
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -222,26 +257,6 @@
         "receiptDate": "03/16/2026",
         "priorityDate": "09/11/2024",
         "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1ul3ucl",
-      "title": "My I-140 NIW petition got approved! 🎉",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul3ucl/my_i140_niw_petition_got_approved/",
-      "author": "/u/Life-Law4062",
-      "publishedAt": "2026-07-02T01:06:20+00:00",
-      "excerpt": "Just wanted to share an approval data point and my experience. Timeline: PD / I-140 Filed: April 17, 2026 Premium Processing: Upgraded after filing (April 28, 2026) Approval Date: June 28, 2026 (received an email) Background: Country of Origin: ROW (not 39) Current Position: Postdoctoral Scholar at an R1 US university …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
       }
     },
     {
@@ -290,6 +305,26 @@
       "excerpt": "hi, anyone got rfe from officer XM2052 in the past.",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1um2iju",
+      "title": "About the \"extra green cards\" talk: it is not a free-for-all",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1um2iju/about_the_extra_green_cards_talk_it_is_not_a/",
+      "author": "/u/Dapper-Ad-2100",
+      "publishedAt": "2026-07-03T02:57:49+00:00",
+      "excerpt": "I keep seeing people talk about extra green cards or unused numbers as if it automatically means every EB-2 NIW case should move faster. That is not how I would read it. The useful way to think about this is not \"there are extra green cards, so my case should be approved soon.\" The useful way is: Who can actually use t…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -428,43 +463,9 @@
         "priorityDate": "03/15/24",
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ul7coz",
-      "title": "I140 and variety on research record",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul7coz/i140_and_variety_on_research_record/",
-      "author": "/u/Capitano_MD",
-      "publishedAt": "2026-07-02T03:51:44+00:00",
-      "excerpt": "Do you think it really matters when you have a research record about specific topics and your endeavor about a different topic which is the field that I am working on now But both of the on same field which medical research Publications: 30+ Citations: 4000",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ul40xp",
-      "title": "Signature requirement on 485 form (Online filing)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ul40xp/signature_requirement_on_485_form_online_filing/",
-      "author": "/u/kennthin",
-      "publishedAt": "2026-07-02T01:14:24+00:00",
-      "excerpt": "When filing 485 online, do I fill in all entries and leave the signature blank, and the portal will direct me to type my name and affix it to that part after I upload the pdf? Just to make sure as leaving it blank is a bit daunting.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-03T01:58:12.239Z",
+  "syncedAt": "2026-07-03T05:52:37.398Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
