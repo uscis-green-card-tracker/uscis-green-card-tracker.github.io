@@ -108,6 +108,26 @@
       }
     },
     {
+      "id": "t3_1umjvph",
+      "title": "I-140 Approved PP without RFE!!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umjvph/i140_approved_pp_without_rfe/",
+      "author": "/u/Dry-Temperature7846",
+      "publishedAt": "2026-07-03T16:58:51+00:00",
+      "excerpt": "Hi everyone! I’d like to share some exciting news — my I-140 was finally approved! Since I’ve received so much help from this community throughout the process, I hope sharing my experience can help others who are still waiting. Happy July 4th! Timeline Priority Date (PD): June 27, 2025 Premium Processing (PP): May 13, …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1umeyey",
       "title": "I-140 approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1umeyey/i140_approved/",
@@ -128,23 +148,23 @@
       }
     },
     {
-      "id": "t3_1umjvph",
-      "title": "I-140 Approved PP without RFE!!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umjvph/i140_approved_pp_without_rfe/",
-      "author": "/u/Dry-Temperature7846",
-      "publishedAt": "2026-07-03T16:58:51+00:00",
-      "excerpt": "Hi everyone! I’d like to share some exciting news — my I-140 was finally approved! Since I’ve received so much help from this community throughout the process, I hope sharing my experience can help others who are still waiting. Happy July 4th! Timeline Priority Date (PD): June 27, 2025 Premium Processing (PP): May 13, …",
+      "id": "t3_1umylw6",
+      "title": "EAD and SSN",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umylw6/ead_and_ssn/",
+      "author": "/u/Euphoric_One_245",
+      "publishedAt": "2026-07-04T03:45:45+00:00",
+      "excerpt": "I’m currently in the U.S. on F-1 status, and my Form I-765 (Employment Authorization Document/EAD) was approved yesterday under my EB2-NIW adjustment of status application. I’m still waiting for decisions on my Form I-485 (Adjustment of Status) and Form I-131 (Advance Parole). What should I do next? Are there any impor…",
       "topics": [
         "approval",
+        "i485",
         "i140",
-        "lawyer",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": true
+        "mentionsCountry75": false
       }
     },
     {
@@ -193,26 +213,6 @@
       "publishedAt": "2026-07-04T03:51:41+00:00",
       "excerpt": "Hey Everyone! I'm planning to apply for EB2-NIW and would really appreciate an honest evaluation of my profile, including any suggestions on what I should strengthen before filing. Proposed Endeavor My proposed endeavor is to develop behavioral health service access within healthcare facilities for underserved and marg…",
       "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1umylw6",
-      "title": "EAD and SSN",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umylw6/ead_and_ssn/",
-      "author": "/u/Euphoric_One_245",
-      "publishedAt": "2026-07-04T03:45:45+00:00",
-      "excerpt": "I’m currently in the U.S. on F-1 status, and my Form I-765 (Employment Authorization Document/EAD) was approved yesterday under my EB2-NIW adjustment of status application. I’m still waiting for decisions on my Form I-485 (Adjustment of Status) and Form I-131 (Advance Parole). What should I do next? Are there any impor…",
-      "topics": [
-        "approval",
-        "i485",
         "i140",
         "question"
       ],
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-04T11:33:35.739Z",
+  "syncedAt": "2026-07-04T12:59:54.500Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
