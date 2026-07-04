@@ -109,6 +109,24 @@
       }
     },
     {
+      "id": "t3_1umzov0",
+      "title": "I submitted an inquiry (pd July 2024) and got RFE. Can i see the RFE online?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umzov0/i_submitted_an_inquiry_pd_july_2024_and_got_rfe/",
+      "author": "/u/artist_pass369",
+      "publishedAt": "2026-07-04T04:42:18+00:00",
+      "excerpt": "I saw it in the case status that I received an RFE but I don’t know if I can check it online. Is there anyway I can check it online or do i have to wait? Since its i-140 its not on myuscis",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1un5nve",
       "title": "EB2 NIW DIY Profile Evaluation",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1un5nve/eb2_niw_diy_profile_evaluation/",
@@ -144,24 +162,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1umzov0",
-      "title": "I submitted an inquiry (pd July 2024) and got RFE. Can i see the RFE online?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umzov0/i_submitted_an_inquiry_pd_july_2024_and_got_rfe/",
-      "author": "/u/artist_pass369",
-      "publishedAt": "2026-07-04T04:42:18+00:00",
-      "excerpt": "I saw it in the case status that I received an RFE but I don’t know if I can check it online. Is there anyway I can check it online or do i have to wait? Since its i-140 its not on myuscis",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
       }
     },
     {
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-04T17:56:24.470Z",
+  "syncedAt": "2026-07-04T19:00:40.882Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
