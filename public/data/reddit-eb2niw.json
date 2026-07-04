@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1undbcy",
+      "title": "PD Aug-2025 Normal processing anyone got Approval? How much time more to wait? Any help",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1undbcy/pd_aug2025_normal_processing_anyone_got_approval/",
+      "author": "/u/MiddleGovernment5977",
+      "publishedAt": "2026-07-04T16:25:38+00:00",
+      "excerpt": "",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1umy545",
       "title": "Changing jobs after filing I485",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1umy545/changing_jobs_after_filing_i485/",
@@ -224,24 +243,6 @@
       }
     },
     {
-      "id": "t3_1umy23j",
-      "title": "Casi 27 meses y nada",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umy23j/casi_27_meses_y_nada/",
-      "author": "/u/TheVazquez23",
-      "publishedAt": "2026-07-04T03:16:42+00:00",
-      "excerpt": "Hola algunos igual que mi caso? Fecha de prioridad 22 de abril 2024 y fecha de recibo 2 de mayo 2024 en Nebraska I140 Eb2-NIW, mis abogados no me sugieren PP y a la verdad no quiero invertir más dinero después de esta larga espera que no ha salido como yo planeaba. Estoy fuera de USA",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1umk14c",
       "title": "Denial- Advice moving forward",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1umk14c/denial_advice_moving_forward/",
@@ -251,6 +252,24 @@
       "topics": [
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1umy23j",
+      "title": "Casi 27 meses y nada",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umy23j/casi_27_meses_y_nada/",
+      "author": "/u/TheVazquez23",
+      "publishedAt": "2026-07-04T03:16:42+00:00",
+      "excerpt": "Hola algunos igual que mi caso? Fecha de prioridad 22 de abril 2024 y fecha de recibo 2 de mayo 2024 en Nebraska I140 Eb2-NIW, mis abogados no me sugieren PP y a la verdad no quiero invertir más dinero después de esta larga espera que no ha salido como yo planeaba. Estoy fuera de USA",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -450,26 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ulpinc",
-      "title": "Checking I-485 / I-765 location online",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ulpinc/checking_i485_i765_location_online/",
-      "author": "/u/Several-Gene8214",
-      "publishedAt": "2026-07-02T17:57:45+00:00",
-      "excerpt": "USCIS has updated the link, and now you can see the case location along with the meanings of the API codes. https://my.uscis.gov/account/case-service/api/case_status/CASENUMBER Edit: Looks like the code does not work 100% accurately for everyone. Some people get the correct location, like NBC after the biometrics) or F…",
-      "topics": [
-        "i485"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-04T15:54:30.683Z",
+  "syncedAt": "2026-07-04T16:53:37.021Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
