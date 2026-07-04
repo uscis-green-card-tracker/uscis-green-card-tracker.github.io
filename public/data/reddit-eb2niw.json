@@ -75,6 +75,24 @@
       }
     },
     {
+      "id": "t3_1unkfnk",
+      "title": "Which lockbox do Missouri I-485 applications get send to?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unkfnk/which_lockbox_do_missouri_i485_applications_get/",
+      "author": "/u/Ok-Poet1108",
+      "publishedAt": "2026-07-04T21:23:07+00:00",
+      "excerpt": "Which lockbox address do Missouri I-485/765 applications get send to?",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1unji5l",
       "title": "USCIS RFE receipt notification",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1unji5l/uscis_rfe_receipt_notification/",
@@ -443,28 +461,9 @@
         "priorityDate": "4/18/2026",
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1umcl1s",
-      "title": "What is next if i140 approved of the applicant who is belongs to 70 banned countries? Living outside USA?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umcl1s/what_is_next_if_i140_approved_of_the_applicant/",
-      "author": "/u/This-Hold2296",
-      "publishedAt": "2026-07-03T12:02:01+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-04T20:43:05.319Z",
+  "syncedAt": "2026-07-04T21:48:31.481Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
