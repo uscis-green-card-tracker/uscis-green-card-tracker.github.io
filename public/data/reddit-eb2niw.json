@@ -53,24 +53,6 @@
       }
     },
     {
-      "id": "t3_1un5nve",
-      "title": "EB2 NIW DIY Profile Evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1un5nve/eb2_niw_diy_profile_evaluation/",
-      "author": "/u/13016",
-      "publishedAt": "2026-07-04T10:30:50+00:00",
-      "excerpt": "I’m about to pull the trigger on self petitioning and want to do it myself. Before I prepare my documents, I would really appreciate a reality check from you guys: German citizen and applying from Germany BSc, MSc, PhD in mechanical engineering (but work in an publish on AI & robotics) from German universities Work as …",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1umtppv",
       "title": "Does Chen Immigration offer any perks or discounts for posting approval announcements?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1umtppv/does_chen_immigration_offer_any_perks_or/",
@@ -81,6 +63,24 @@
         "approval",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1un5nve",
+      "title": "EB2 NIW DIY Profile Evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1un5nve/eb2_niw_diy_profile_evaluation/",
+      "author": "/u/13016",
+      "publishedAt": "2026-07-04T10:30:50+00:00",
+      "excerpt": "I’m about to pull the trigger on self petitioning and want to do it myself. Before I prepare my documents, I would really appreciate a reality check from you guys: German citizen and applying from Germany BSc, MSc, PhD in mechanical engineering (but work in an publish on AI & robotics) from German universities Work as …",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-04T12:59:54.500Z",
+  "syncedAt": "2026-07-04T14:39:56.847Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
