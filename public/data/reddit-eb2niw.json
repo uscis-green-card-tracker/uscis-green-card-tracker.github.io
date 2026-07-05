@@ -131,6 +131,25 @@
       }
     },
     {
+      "id": "t3_1unrmgr",
+      "title": "Interview after FO transfer timeline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unrmgr/interview_after_fo_transfer_timeline/",
+      "author": "/u/notsodiligent",
+      "publishedAt": "2026-07-05T03:28:03+00:00",
+      "excerpt": "Hi everyone, I haven't been told about needing an interview yet but in this climate, I feel even NIW must be prepared. I was curios to know how soon after your FO transfer was your interview set? Would appreciate input from those who've been/are going through this, especially those in the NIW stream. Thank you! Just fo…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1unl33a",
       "title": "EB2-NIW without publications",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1unl33a/eb2niw_without_publications/",
@@ -179,25 +198,6 @@
       "excerpt": "For those who don’t have online accounts for an I-140 application. Does USCIS notify applicants via email about reciept of RFE submission or will they automatically update the case status when they recieve it??? A friend of mine submitted his RFE which got to them on 07/01 and is yet to get a confirmation from them con…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1unrmgr",
-      "title": "Interview after FO transfer timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unrmgr/interview_after_fo_transfer_timeline/",
-      "author": "/u/notsodiligent",
-      "publishedAt": "2026-07-05T03:28:03+00:00",
-      "excerpt": "Hi everyone, I haven't been told about needing an interview yet but in this climate, I feel even NIW must be prepared. I was curios to know how soon after your FO transfer was your interview set? Would appreciate input from those who've been/are going through this, especially those in the NIW stream. Thank you! Just fo…",
-      "topics": [
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-05T09:34:20.837Z",
+  "syncedAt": "2026-07-05T11:23:12.821Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
