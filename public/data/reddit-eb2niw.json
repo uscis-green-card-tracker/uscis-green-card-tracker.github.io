@@ -35,6 +35,27 @@
       }
     },
     {
+      "id": "t3_1uodndt",
+      "title": "EB2 NIW I-140 Approved (Hybrid Profile)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uodndt/eb2_niw_i140_approved_hybrid_profile/",
+      "author": "/u/AnxietyTop5831",
+      "publishedAt": "2026-07-05T21:11:30+00:00",
+      "excerpt": "I've been following different subreds here and I'd like to share my update as others have; hopefully someone will benefit from it. EB2-NIW (ROW) PD: 6/2/2025 Upgraded to PP: 5/6/2026 Approved (I-140): 7/1/2026 (no RFE) - 39 business days Background: \\- Structural engineer with 16 years of UK work experience. \\- Charted…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "6/2/2025",
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uo4gkk",
       "title": "EB-2 NIW RFE Requesting Evidence of Original Contributions of Major Significance",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uo4gkk/eb2_niw_rfe_requesting_evidence_of_original/",
@@ -44,6 +65,24 @@
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uod6dq",
+      "title": "I 485 NIW based AOS filing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uod6dq/i_485_niw_based_aos_filing/",
+      "author": "/u/Ok-Poet1108",
+      "publishedAt": "2026-07-05T20:52:23+00:00",
+      "excerpt": "Can the primary applicant submit the I 485 a month before submitting the spouse I 485",
+      "topics": [
+        "i485",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -430,45 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1unfis1",
-      "title": "Title: EB-2 NIW for a non-academic supply chain / operations profile — viable?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unfis1/title_eb2_niw_for_a_nonacademic_supply_chain/",
-      "author": "/u/ZoevaSignature",
-      "publishedAt": "2026-07-04T17:55:43+00:00",
-      "excerpt": "Title: EB-2 NIW for a non-academic supply chain / operations profile — viable? Hi everyone, I’m currently exploring the EB-2 NIW pathway and trying to understand whether my profile realistically fits under Dhanasar. Most NIW examples I’ve seen are research-heavy (AI, data science, publications, patents, etc.), but my b…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1un5nve",
-      "title": "EB2 NIW DIY Profile Evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1un5nve/eb2_niw_diy_profile_evaluation/",
-      "author": "/u/13016",
-      "publishedAt": "2026-07-04T10:30:50+00:00",
-      "excerpt": "I’m about to pull the trigger on self petitioning and want to do it myself. Before I prepare my documents, I would really appreciate a reality check from you guys: German citizen and applying from Germany BSc, MSc, PhD in mechanical engineering (but work in an publish on AI & robotics) from German universities Work as …",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-05T20:46:45.444Z",
+  "syncedAt": "2026-07-05T21:51:21.841Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
