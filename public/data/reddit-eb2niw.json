@@ -55,6 +55,24 @@
       }
     },
     {
+      "id": "t3_1uo4gkk",
+      "title": "EB-2 NIW RFE Requesting Evidence of Original Contributions of Major Significance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uo4gkk/eb2_niw_rfe_requesting_evidence_of_original/",
+      "author": "/u/AncientPrior5314",
+      "publishedAt": "2026-07-05T15:05:00+00:00",
+      "excerpt": "Profile: I'm an engineer with a master's degree and about 10 years of experience in the rare earth minerals field. My priority date is December 2024, and I upgraded to premium processing. Shortly afterward, I received an RFE challenging all three NIW prongs. My case is being handled by the Nebraska Service Center, and …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1unh9m1",
       "title": "I-140 NIW petition approved!🎉",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1unh9m1/i140_niw_petition_approved/",
@@ -444,29 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1umeyey",
-      "title": "I-140 approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umeyey/i140_approved/",
-      "author": "/u/WalterWhite-45678",
-      "publishedAt": "2026-07-03T13:47:43+00:00",
-      "excerpt": "I wanted to share my EB-2 NIW timeline in case if it helps anyone. My background: PhD Student in Civil Engineering at State School U.S Masters Degree in Civil Engineering (Water Resources Engineering) 9 publications and 77 citations at the time of filing. Texas Service Center Attorney: Chen Immigration Law Associates P…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-05T13:08:00.038Z",
+  "syncedAt": "2026-07-05T15:05:30.432Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
