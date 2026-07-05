@@ -56,6 +56,26 @@
       }
     },
     {
+      "id": "t3_1uofixn",
+      "title": "Greened!!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uofixn/greened/",
+      "author": "/u/Motor_Fee7299",
+      "publishedAt": "2026-07-05T22:30:14+00:00",
+      "excerpt": "Happy to announce that my I-485 got approved. PD: Jan/18/2026 Filed I-140 with PP (prepared with Chen), and then got it approved without any RFEs on March 10, 2026. Filed DIY I-485 to Chicago lockbox on: 3/28/2026 Biometric Date: 5/4/2027 FO transfer to SFV on Jun/4/2026 3rd FTA: 6/29/2026 Silent update: 7/3/2026 H008:…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uo4gkk",
       "title": "EB-2 NIW RFE Requesting Evidence of Original Contributions of Major Significance",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uo4gkk/eb2_niw_rfe_requesting_evidence_of_original/",
@@ -450,28 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1undbcy",
-      "title": "PD Aug-2025 Normal processing anyone got Approval? How much time more to wait? Any help",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1undbcy/pd_aug2025_normal_processing_anyone_got_approval/",
-      "author": "/u/MiddleGovernment5977",
-      "publishedAt": "2026-07-04T16:25:38+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-05T21:51:21.841Z",
+  "syncedAt": "2026-07-05T22:52:18.882Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
