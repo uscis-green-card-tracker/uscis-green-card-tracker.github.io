@@ -55,15 +55,14 @@
       }
     },
     {
-      "id": "t3_1uo51p3",
-      "title": "RFE response delivered but not updated on uscis case tracker",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uo51p3/rfe_response_delivered_but_not_updated_on_uscis/",
-      "author": "/u/Left-Jello-5738",
-      "publishedAt": "2026-07-05T15:28:57+00:00",
-      "excerpt": "Hi everyone The law firm submitted the rfe response which was delivered on 6/30 but on the uscis tracker website it still says its awaiting response. My Rfe is due on 7/6 so im just nervous if it actually got lost. Is there anything i can do? The law firm reached out saying we can send an email to premium processing de…",
+      "id": "t3_1uo4gkk",
+      "title": "EB-2 NIW RFE Requesting Evidence of Original Contributions of Major Significance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uo4gkk/eb2_niw_rfe_requesting_evidence_of_original/",
+      "author": "/u/AncientPrior5314",
+      "publishedAt": "2026-07-05T15:05:00+00:00",
+      "excerpt": "Profile: I'm an engineer with a master's degree and about 10 years of experience in the rare earth minerals field. My priority date is December 2024, and I upgraded to premium processing. Shortly afterward, I received an RFE challenging all three NIW prongs. My case is being handled by the Nebraska Service Center, and …",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -74,14 +73,35 @@
       }
     },
     {
-      "id": "t3_1uo4gkk",
-      "title": "EB-2 NIW RFE Requesting Evidence of Original Contributions of Major Significance",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uo4gkk/eb2_niw_rfe_requesting_evidence_of_original/",
-      "author": "/u/AncientPrior5314",
-      "publishedAt": "2026-07-05T15:05:00+00:00",
-      "excerpt": "Profile: I'm an engineer with a master's degree and about 10 years of experience in the rare earth minerals field. My priority date is December 2024, and I upgraded to premium processing. Shortly afterward, I received an RFE challenging all three NIW prongs. My case is being handled by the Nebraska Service Center, and …",
+      "id": "t3_1uo8wex",
+      "title": "April filer - no movement at FO",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uo8wex/april_filer_no_movement_at_fo/",
+      "author": "/u/Delicious_Series_449",
+      "publishedAt": "2026-07-05T18:01:51+00:00",
+      "excerpt": "I know this might be too early to be frustrated but I am. Not solely from the green card itself - I believe many people in the same boat. I'm on STEM OPT. I really want to move on to another career path asap. Feel like I'm wasting my energy and talent here. Have been locked in the US for over three years. My case was t…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "10/20",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uo51p3",
+      "title": "RFE response delivered but not updated on uscis case tracker",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uo51p3/rfe_response_delivered_but_not_updated_on_uscis/",
+      "author": "/u/Left-Jello-5738",
+      "publishedAt": "2026-07-05T15:28:57+00:00",
+      "excerpt": "Hi everyone The law firm submitted the rfe response which was delivered on 6/30 but on the uscis tracker website it still says its awaiting response. My Rfe is due on 7/6 so im just nervous if it actually got lost. Is there anything i can do? The law firm reached out saying we can send an email to premium processing de…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -442,28 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1umtppv",
-      "title": "Does Chen Immigration offer any perks or discounts for posting approval announcements?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umtppv/does_chen_immigration_offer_any_perks_or/",
-      "author": "/u/Other-Today-3048",
-      "publishedAt": "2026-07-03T23:42:58+00:00",
-      "excerpt": "I see a lot of success and approval posts here from clients of Chen, many of these posts look incredibly similar and enthusiastic... I am genuinely curious: does Chen Immigration offer any kind of reward, discount, refund, or perk (like a free referral bonus) to clients who post these approval announcements? It’s hard …",
-      "topics": [
-        "approval",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-05T17:56:25.059Z",
+  "syncedAt": "2026-07-05T19:07:14.547Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
