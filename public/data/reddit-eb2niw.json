@@ -75,6 +75,62 @@
       }
     },
     {
+      "id": "t3_1unqu5v",
+      "title": "NIW EB-2- Got my FOIA back — forgot an old A-Number (I-485 EAD question)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unqu5v/niw_eb2_got_my_foia_back_forgot_an_old_anumber/",
+      "author": "/u/stepbystepdemo",
+      "publishedAt": "2026-07-05T02:44:20+00:00",
+      "excerpt": "Context Info: EB2 NIW PD: Oct 2023 I-485 Receipt Date: Oct 2, 2025 USCIS Found/Linked the old A-Number: Oct 8, 2025 (per FOIA — just 6 days after filing) Biometrics: Nov 10, 2025 Country: From one of the first 7 ban countries. Case: Transferred in June after the Court order to Non-Local office. Hey everyone — sharing a…",
+      "topics": [
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1untc40",
+      "title": "Does getting the EAD mean your case is going to take long?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1untc40/does_getting_the_ead_mean_your_case_is_going_to/",
+      "author": "/u/PavKarl",
+      "publishedAt": "2026-07-05T05:03:52+00:00",
+      "excerpt": "There’s some speculation that if someone receives the EAD (and AP if it was applied), it means the 485 process will take a while. Is there any truth to this?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1unskrd",
+      "title": "RFE ( Nebraska )",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unskrd/rfe_nebraska/",
+      "author": "/u/Mianumairx4",
+      "publishedAt": "2026-07-05T04:21:17+00:00",
+      "excerpt": "Hi everyone, I just received a status update that USCIS has issued an RFE for my EB-2 NIW I-140 under Premium Processing after about 37 business days . I am still waiting for the actual RFE notice to arrive. While I wait, I’d like to ask those who have successfully responded to an NIW RFE: What additional evidence help…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1unl33a",
       "title": "EB2-NIW without publications",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1unl33a/eb2niw_without_publications/",
@@ -83,43 +139,6 @@
       "excerpt": "Hi everyone, I’m considering EB2-NIW and wanted to ask for general advice from people who have been through the process, especially those who did not have publications or citations. I have 5 years of experience in my field. A well-known NIW firm declined my case, likely because I don’t have the traditional academic pro…",
       "topics": [
         "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1unji5l",
-      "title": "USCIS RFE receipt notification",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unji5l/uscis_rfe_receipt_notification/",
-      "author": "/u/Some_Farmer5697",
-      "publishedAt": "2026-07-04T20:41:37+00:00",
-      "excerpt": "For those who don’t have online accounts for an I-140 application. Does USCIS notify applicants via email about reciept of RFE submission or will they automatically update the case status when they recieve it??? A friend of mine submitted his RFE which got to them on 07/01 and is yet to get a confirmation from them con…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1unq3cx",
-      "title": "EB2-NIW Profile Review – Information Governance / Records Management / AI Governance – Is my profile competitive?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unq3cx/eb2niw_profile_review_information_governance/",
-      "author": "/u/Wrong_Dig8044",
-      "publishedAt": "2026-07-05T02:02:35+00:00",
-      "excerpt": "Hi everyone, I’m considering filing an EB2-NIW self-petition and I’d really appreciate some honest feedback about my profile. I know nobody can predict USCIS decisions, but I’d like to understand whether my profile seems competitive and, more importantly, what I should strengthen before filing. Chen Immigration decline…",
-      "topics": [
         "i140",
         "lawyer",
         "question"
@@ -152,14 +171,52 @@
       }
     },
     {
-      "id": "t3_1unm53i",
-      "title": "I-485 online receipt",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unm53i/i485_online_receipt/",
-      "author": "/u/FayNay76",
-      "publishedAt": "2026-07-04T22:41:43+00:00",
-      "excerpt": "I filed my I-485 concurrently with my I-765 and I-131 online on the afternoon of July 2. I still have not received a receipt number, and my account only shows, “Your case is being processed.” I’ve noticed that many people who filed online received their receipt numbers within 24–36 hours. Could the delay be due to the …",
+      "id": "t3_1unji5l",
+      "title": "USCIS RFE receipt notification",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unji5l/uscis_rfe_receipt_notification/",
+      "author": "/u/Some_Farmer5697",
+      "publishedAt": "2026-07-04T20:41:37+00:00",
+      "excerpt": "For those who don’t have online accounts for an I-140 application. Does USCIS notify applicants via email about reciept of RFE submission or will they automatically update the case status when they recieve it??? A friend of mine submitted his RFE which got to them on 07/01 and is yet to get a confirmation from them con…",
       "topics": [
-        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1unrmgr",
+      "title": "Interview after FO transfer timeline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unrmgr/interview_after_fo_transfer_timeline/",
+      "author": "/u/notsodiligent",
+      "publishedAt": "2026-07-05T03:28:03+00:00",
+      "excerpt": "Hi everyone, I haven't been told about needing an interview yet but in this climate, I feel even NIW must be prepared. I was curios to know how soon after your FO transfer was your interview set? Would appreciate input from those who've been/are going through this, especially those in the NIW stream. Thank you! Just fo…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1unq3cx",
+      "title": "EB2-NIW Profile Review – Information Governance / Records Management / AI Governance – Is my profile competitive?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unq3cx/eb2niw_profile_review_information_governance/",
+      "author": "/u/Wrong_Dig8044",
+      "publishedAt": "2026-07-05T02:02:35+00:00",
+      "excerpt": "Hi everyone, I’m considering filing an EB2-NIW self-petition and I’d really appreciate some honest feedback about my profile. I know nobody can predict USCIS decisions, but I’d like to understand whether my profile seems competitive and, more importantly, what I should strengthen before filing. Chen Immigration decline…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -178,6 +235,24 @@
       "excerpt": "Hi, I am trying to contact my lawyer (Chen immigration) but the portal seems to be down. Is there a new website? Thanks,",
       "topics": [
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1unm53i",
+      "title": "I-485 online receipt",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unm53i/i485_online_receipt/",
+      "author": "/u/FayNay76",
+      "publishedAt": "2026-07-04T22:41:43+00:00",
+      "excerpt": "I filed my I-485 concurrently with my I-765 and I-131 online on the afternoon of July 2. I still have not received a receipt number, and my account only shows, “Your case is being processed.” I’ve noticed that many people who filed online received their receipt numbers within 24–36 hours. Could the delay be due to the …",
+      "topics": [
+        "i485",
         "question"
       ],
       "signals": {
@@ -296,15 +371,14 @@
       }
     },
     {
-      "id": "t3_1umtppv",
-      "title": "Does Chen Immigration offer any perks or discounts for posting approval announcements?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umtppv/does_chen_immigration_offer_any_perks_or/",
-      "author": "/u/Other-Today-3048",
-      "publishedAt": "2026-07-03T23:42:58+00:00",
-      "excerpt": "I see a lot of success and approval posts here from clients of Chen, many of these posts look incredibly similar and enthusiastic... I am genuinely curious: does Chen Immigration offer any kind of reward, discount, refund, or perk (like a free referral bonus) to clients who post these approval announcements? It’s hard …",
+      "id": "t3_1umzov0",
+      "title": "I submitted an inquiry (pd July 2024) and got RFE. Can i see the RFE online?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umzov0/i_submitted_an_inquiry_pd_july_2024_and_got_rfe/",
+      "author": "/u/artist_pass369",
+      "publishedAt": "2026-07-04T04:42:18+00:00",
+      "excerpt": "I saw it in the case status that I received an RFE but I don’t know if I can check it online. Is there anyway I can check it online or do i have to wait? Since its i-140 its not on myuscis",
       "topics": [
-        "approval",
-        "lawyer",
+        "i140",
         "question"
       ],
       "signals": {
@@ -315,14 +389,15 @@
       }
     },
     {
-      "id": "t3_1umzov0",
-      "title": "I submitted an inquiry (pd July 2024) and got RFE. Can i see the RFE online?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umzov0/i_submitted_an_inquiry_pd_july_2024_and_got_rfe/",
-      "author": "/u/artist_pass369",
-      "publishedAt": "2026-07-04T04:42:18+00:00",
-      "excerpt": "I saw it in the case status that I received an RFE but I don’t know if I can check it online. Is there anyway I can check it online or do i have to wait? Since its i-140 its not on myuscis",
+      "id": "t3_1umtppv",
+      "title": "Does Chen Immigration offer any perks or discounts for posting approval announcements?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umtppv/does_chen_immigration_offer_any_perks_or/",
+      "author": "/u/Other-Today-3048",
+      "publishedAt": "2026-07-03T23:42:58+00:00",
+      "excerpt": "I see a lot of success and approval posts here from clients of Chen, many of these posts look incredibly similar and enthusiastic... I am genuinely curious: does Chen Immigration offer any kind of reward, discount, refund, or perk (like a free referral bonus) to clients who post these approval announcements? It’s hard …",
       "topics": [
-        "i140",
+        "approval",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -389,85 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1umvadj",
-      "title": "SEPT 2024",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umvadj/sept_2024/",
-      "author": "/u/Any_Supermarket3372",
-      "publishedAt": "2026-07-04T01:00:03+00:00",
-      "excerpt": "Block 9275 I’m looking for some advice from people who have been through this. My I-140 was filed on September 9, 2024 , and I’m still waiting for a decision. At this point, I’m not sure what makes the most sense. The average processing time seems to be around 24 months , so part of me thinks I’ve already waited this l…",
-      "topics": [
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1umgrkp",
-      "title": "My EB-2 NIW I-140 Approved (Criminology / Social Science)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umgrkp/my_eb2_niw_i140_approved_criminology_social/",
-      "author": "/u/Consistent_Map_5151",
-      "publishedAt": "2026-07-03T14:59:38+00:00",
-      "excerpt": "My background is a Ph.D. candidate in Criminology at a university in Texas. When I filed my NIW, I had 12 publications (10 journal articles, 1 book chapter, and 1 technical report). Eight of the journal articles were first-author papers, and I had 18 Google Scholar citations. I worked with Chen Immigration, and we star…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1umypyp",
-      "title": "Building my case for EB2-NIW. Need Feedback",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umypyp/building_my_case_for_eb2niw_need_feedback/",
-      "author": "/u/UnlikelyAge13",
-      "publishedAt": "2026-07-04T03:51:41+00:00",
-      "excerpt": "Hey Everyone! I'm planning to apply for EB2-NIW and would really appreciate an honest evaluation of my profile, including any suggestions on what I should strengthen before filing. Proposed Endeavor My proposed endeavor is to develop behavioral health service access within healthcare facilities for underserved and marg…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1umylw6",
-      "title": "EAD and SSN",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1umylw6/ead_and_ssn/",
-      "author": "/u/Euphoric_One_245",
-      "publishedAt": "2026-07-04T03:45:45+00:00",
-      "excerpt": "I’m currently in the U.S. on F-1 status, and my Form I-765 (Employment Authorization Document/EAD) was approved yesterday under my EB2-NIW adjustment of status application. I’m still waiting for decisions on my Form I-485 (Adjustment of Status) and Form I-131 (Advance Parole). What should I do next? Are there any impor…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-05T02:04:30.041Z",
+  "syncedAt": "2026-07-05T06:30:08.860Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
