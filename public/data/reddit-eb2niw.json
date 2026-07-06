@@ -55,6 +55,27 @@
       }
     },
     {
+      "id": "t3_1uok4ao",
+      "title": "I140 approved.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uok4ao/i140_approved/",
+      "author": "/u/NecessaryThat2571",
+      "publishedAt": "2026-07-06T01:57:21+00:00",
+      "excerpt": "My i140 has approved and now I’m left with 1 year of academic training on J1. Would it be possible if i apply for j1 waiver and get it within 6 months and use EAD obtained after i485 to seek a job? Im confused as some posts mention not using EAD obtained through i485 for jobs. How long can you stay on EAD through pendi…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uodndt",
       "title": "EB2 NIW I-140 Approved (Hybrid Profile)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uodndt/eb2_niw_i140_approved_hybrid_profile/",
@@ -150,6 +171,26 @@
       }
     },
     {
+      "id": "t3_1unhzl6",
+      "title": "I-485 approved on the 250th birthday of the USA!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unhzl6/i485_approved_on_the_250th_birthday_of_the_usa/",
+      "author": "/u/AbiesOwn5428",
+      "publishedAt": "2026-07-04T19:36:52+00:00",
+      "excerpt": "Hi guys! Wanted share this good news with you. Got approval today. Feeling extra happy receiving approval on this very special day! Following is my timeline. PD: March 2024 RD: March 2026 Bio: May 1 SUs: 5/13, 5/15, 6/6 (Transferred to SFV) FTAs: 05/01, 07/03 FO: SFV Spouse: Yes (Approved within 10 minutes of primary) …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1uocx6n",
       "title": "EB-2 NIW Concurrent Filing or Wait?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uocx6n/eb2_niw_concurrent_filing_or_wait/",
@@ -168,26 +209,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1unhzl6",
-      "title": "I-485 approved on the 250th birthday of the USA!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unhzl6/i485_approved_on_the_250th_birthday_of_the_usa/",
-      "author": "/u/AbiesOwn5428",
-      "publishedAt": "2026-07-04T19:36:52+00:00",
-      "excerpt": "Hi guys! Wanted share this good news with you. Got approval today. Feeling extra happy receiving approval on this very special day! Following is my timeline. PD: March 2024 RD: March 2026 Bio: May 1 SUs: 5/13, 5/15, 6/6 (Transferred to SFV) FTAs: 05/01, 07/03 FO: SFV Spouse: Yes (Approved within 10 minutes of primary) …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -455,27 +476,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1unm53i",
-      "title": "I-485 online receipt",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unm53i/i485_online_receipt/",
-      "author": "/u/FayNay76",
-      "publishedAt": "2026-07-04T22:41:43+00:00",
-      "excerpt": "I filed my I-485 concurrently with my I-765 and I-131 online on the afternoon of July 2. I still have not received a receipt number, and my account only shows, “Your case is being processed.” I’ve noticed that many people who filed online received their receipt numbers within 24–36 hours. Could the delay be due to the …",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-05T23:57:25.642Z",
+  "syncedAt": "2026-07-06T02:51:41.954Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
