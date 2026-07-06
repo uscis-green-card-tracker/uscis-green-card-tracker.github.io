@@ -76,23 +76,21 @@
       }
     },
     {
-      "id": "t3_1uodndt",
-      "title": "EB2 NIW I-140 Approved (Hybrid Profile)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uodndt/eb2_niw_i140_approved_hybrid_profile/",
-      "author": "/u/AnxietyTop5831",
-      "publishedAt": "2026-07-05T21:11:30+00:00",
-      "excerpt": "I've been following different subreds here and I'd like to share my update as others have; hopefully someone will benefit from it. EB2-NIW (ROW) PD: 6/2/2025 Upgraded to PP: 5/6/2026 Approved (I-140): 7/1/2026 (no RFE) - 39 business days Background: \\- Structural engineer with 16 years of UK work experience. \\- Charted…",
+      "id": "t3_1uotley",
+      "title": "Supreme Court reaffirms birthright citizenship, relevant if you have a U.S. born child while your NIW case is pending",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uotley/supreme_court_reaffirms_birthright_citizenship/",
+      "author": "/u/BeyondBorder",
+      "publishedAt": "2026-07-06T10:35:41+00:00",
+      "excerpt": "On June 30, 2026, the Supreme Court ruled 6 to 3 in Trump v. Barbara, striking down a 2025 executive order that attempted to deny automatic citizenship to children born in the U.S. to parents on nonimmigrant or undocumented status. This is relevant to a lot of people in this sub. Most EB-2 NIW petitioners remain on a n…",
       "topics": [
-        "approval",
         "i485",
         "i140",
-        "lawyer",
-        "question"
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
-        "priorityDate": "6/2/2025",
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -112,6 +110,44 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uoqn4t",
+      "title": "Medical exam mistake",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uoqn4t/medical_exam_mistake/",
+      "author": "/u/Candid-Gur-236",
+      "publishedAt": "2026-07-06T07:45:16+00:00",
+      "excerpt": "This is so frustrating. Even after giving the doctor all my original documents, they made a data entry mistake (wtong place of nationality) which I could only catch after they finished the exam, submitted the document and gave me a printout. I told them about the mistake but said they cannot correct it, and the embassy…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uodndt",
+      "title": "EB2 NIW I-140 Approved (Hybrid Profile)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uodndt/eb2_niw_i140_approved_hybrid_profile/",
+      "author": "/u/AnxietyTop5831",
+      "publishedAt": "2026-07-05T21:11:30+00:00",
+      "excerpt": "I've been following different subreds here and I'd like to share my update as others have; hopefully someone will benefit from it. EB2-NIW (ROW) PD: 6/2/2025 Upgraded to PP: 5/6/2026 Approved (I-140): 7/1/2026 (no RFE) - 39 business days Background: \\- Structural engineer with 16 years of UK work experience. \\- Charted…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "6/2/2025",
         "mentionsCountry75": false
       }
     },
@@ -194,26 +230,6 @@
       }
     },
     {
-      "id": "t3_1uog2m2",
-      "title": "Should i go with Premium Processing ???",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uog2m2/should_i_go_with_premium_processing/",
-      "author": "/u/Dictator131",
-      "publishedAt": "2026-07-05T22:52:58+00:00",
-      "excerpt": "Hi everyone, I'm preparing to file my EB2-NIW petition through an immigration law firm, and my petition is expected to be submitted within the next 15 days. I'd really appreciate hearing from people who have gone through a similar process. A little about my profile: A. Currently pursuing a PhD (agriculture) in the Unit…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uod6dq",
       "title": "I 485 NIW based AOS filing",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uod6dq/i_485_niw_based_aos_filing/",
@@ -261,6 +277,26 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uog2m2",
+      "title": "Should i go with Premium Processing ???",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uog2m2/should_i_go_with_premium_processing/",
+      "author": "/u/Dictator131",
+      "publishedAt": "2026-07-05T22:52:58+00:00",
+      "excerpt": "Hi everyone, I'm preparing to file my EB2-NIW petition through an immigration law firm, and my petition is expected to be submitted within the next 15 days. I'd really appreciate hearing from people who have gone through a similar process. A little about my profile: A. Currently pursuing a PhD (agriculture) in the Unit…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -442,46 +478,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1unskrd",
-      "title": "RFE ( Nebraska )",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unskrd/rfe_nebraska/",
-      "author": "/u/Mianumairx4",
-      "publishedAt": "2026-07-05T04:21:17+00:00",
-      "excerpt": "Hi everyone, I just received a status update that USCIS has issued an RFE for my EB-2 NIW I-140 under Premium Processing after about 37 business days . I am still waiting for the actual RFE notice to arrive. While I wait, I’d like to ask those who have successfully responded to an NIW RFE: What additional evidence help…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1unji5l",
-      "title": "USCIS RFE receipt notification",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1unji5l/uscis_rfe_receipt_notification/",
-      "author": "/u/Some_Farmer5697",
-      "publishedAt": "2026-07-04T20:41:37+00:00",
-      "excerpt": "For those who don’t have online accounts for an I-140 application. Does USCIS notify applicants via email about reciept of RFE submission or will they automatically update the case status when they recieve it??? A friend of mine submitted his RFE which got to them on 07/01 and is yet to get a confirmation from them con…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-06T07:02:02.400Z",
+  "syncedAt": "2026-07-06T11:55:12.997Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
