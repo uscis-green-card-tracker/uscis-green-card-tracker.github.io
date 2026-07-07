@@ -89,6 +89,26 @@
       }
     },
     {
+      "id": "t3_1upe8i3",
+      "title": "F-2 spouse arrival + 90-day rule for I-485 filing — need advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upe8i3/f2_spouse_arrival_90day_rule_for_i485_filing_need/",
+      "author": "/u/Additional-Skirt-937",
+      "publishedAt": "2026-07-06T23:39:51+00:00",
+      "excerpt": "Hi all, I'm in a confusing situation and hoping for some guidance. I'm on STEM OPT, expiring August 2027. My approved I-140 priority date is January 2025, but I haven't filed I-485 yet. My wife (F-2) visited me once in summer 2025 for 1 month and then returned to finish her bachelor's degree. Even before my priority da…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1up489h",
       "title": "Does delay means RFE?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1up489h/does_delay_means_rfe/",
@@ -163,24 +183,6 @@
       }
     },
     {
-      "id": "t3_1up4xot",
-      "title": "Judge my profile for Eb2 NIW or EB1A",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1up4xot/judge_my_profile_for_eb2_niw_or_eb1a/",
-      "author": "/u/Forsaken_Narwhal_844",
-      "publishedAt": "2026-07-06T17:58:05+00:00",
-      "excerpt": "Hi Guys, My current stats: Masters in Project Management from Northeastern University (2018-2020) PMP Certified 6 Years corporate experience Currently running a Marketing Agency on E2 (COS) in Houston, Texas. No citations or publications. Need guidance on how I can build my case for NIW?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uony87",
       "title": "Approved in 18 Days",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uony87/approved_in_18_days/",
@@ -191,6 +193,24 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1up4xot",
+      "title": "Judge my profile for Eb2 NIW or EB1A",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1up4xot/judge_my_profile_for_eb2_niw_or_eb1a/",
+      "author": "/u/Forsaken_Narwhal_844",
+      "publishedAt": "2026-07-06T17:58:05+00:00",
+      "excerpt": "Hi Guys, My current stats: Masters in Project Management from Northeastern University (2018-2020) PMP Certified 6 Years corporate experience Currently running a Marketing Agency on E2 (COS) in Houston, Texas. No citations or publications. Need guidance on how I can build my case for NIW?",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -441,30 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uodndt",
-      "title": "EB2 NIW I-140 Approved (Hybrid Profile)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uodndt/eb2_niw_i140_approved_hybrid_profile/",
-      "author": "/u/AnxietyTop5831",
-      "publishedAt": "2026-07-05T21:11:30+00:00",
-      "excerpt": "I've been following different subreds here and I'd like to share my update as others have; hopefully someone will benefit from it. EB2-NIW (ROW) PD: 6/2/2025 Upgraded to PP: 5/6/2026 Approved (I-140): 7/1/2026 (no RFE) - 39 business days Background: \\- Structural engineer with 16 years of UK work experience. \\- Charted…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "6/2/2025",
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-06T22:58:08.782Z",
+  "syncedAt": "2026-07-07T00:07:22.591Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
