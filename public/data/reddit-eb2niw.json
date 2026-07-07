@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1upvjpx",
+      "title": "Is it just me, or recent cases are all getting approved?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upvjpx/is_it_just_me_or_recent_cases_are_all_getting/",
+      "author": "/u/Hefty-Garlic-1272",
+      "publishedAt": "2026-07-07T13:44:42+00:00",
+      "excerpt": "Genuinely asking this, looking at the recent posts in this sub it looks like a crazy amount of people are getting approved now.",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1up29yd",
       "title": "Green card approved on July 6, 2026",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1up29yd/green_card_approved_on_july_6_2026/",
@@ -46,6 +64,44 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1upw4j0",
+      "title": "Non-PhD / non-researcher NIW approvals — what did you actually have BUILT at the time of filing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upw4j0/nonphd_nonresearcher_niw_approvals_what_did_you/",
+      "author": "/u/Patient_Ad1152",
+      "publishedAt": "2026-07-07T14:05:57+00:00",
+      "excerpt": "Question for people approved (or RFE'd) on an NIW that was not research/publication-based — entrepreneurs, consultants, practitioners, business profiles. The regulation says \"proposed endeavor,\" but reading recent AAO decisions, adjudicators clearly discount endeavors that are wholly prospective. There seems to be an u…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1upv3mm",
+      "title": "Ask an Immigration Attorney: Post Your EB-2 NIW Questions Here",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upv3mm/ask_an_immigration_attorney_post_your_eb2_niw/",
+      "author": "/u/BeyondBorder",
+      "publishedAt": "2026-07-07T13:27:26+00:00",
+      "excerpt": "We are opening this thread for EB-2 NIW questions you have been holding onto. Post questions on petition strategy, evidence categories, RFE responses, case updates, adjustment of status, or consular processing. Include specific details about your situation so the answers are useful to you and to others reading the thre…",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -147,44 +203,6 @@
       }
     },
     {
-      "id": "t3_1upk54v",
-      "title": "Has anyone noticed the new “USCIS Is Currently Processing the Case” status? Trying to see if there’s a pattern.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upk54v/has_anyone_noticed_the_new_uscis_is_currently/",
-      "author": "/u/pskdanfuat",
-      "publishedAt": "2026-07-07T04:06:35+00:00",
-      "excerpt": "Hi everyone, Many of us have recently noticed that our USCIS status changed from “Case Is Still Being Processed” (or similar wording) to “USCIS Is Currently Processing the Case.” I’m not asking whether this means a decision is coming soon , because nobody really knows yet. I’m just curious whether there’s any pattern b…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1upijn3",
-      "title": "Anyone here got a silent update to “USCIS Is Currently Processing The Case” from “Case Is Still Being Processed By USCIS”? But date is still the same, no change in dates.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upijn3/anyone_here_got_a_silent_update_to_uscis_is/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-07-07T02:50:10+00:00",
-      "excerpt": "",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1upi911",
       "title": "Decision after RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1upi911/decision_after_rfe/",
@@ -239,6 +257,26 @@
       }
     },
     {
+      "id": "t3_1upk54v",
+      "title": "Has anyone noticed the new “USCIS Is Currently Processing the Case” status? Trying to see if there’s a pattern.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upk54v/has_anyone_noticed_the_new_uscis_is_currently/",
+      "author": "/u/pskdanfuat",
+      "publishedAt": "2026-07-07T04:06:35+00:00",
+      "excerpt": "Hi everyone, Many of us have recently noticed that our USCIS status changed from “Case Is Still Being Processed” (or similar wording) to “USCIS Is Currently Processing the Case.” I’m not asking whether this means a decision is coming soon , because nobody really knows yet. I’m just curious whether there’s any pattern b…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1upe8i3",
       "title": "F-2 spouse arrival + 90-day rule for I-485 filing — need advice",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1upe8i3/f2_spouse_arrival_90day_rule_for_i485_filing_need/",
@@ -268,6 +306,24 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1upijn3",
+      "title": "Anyone here got a silent update to “USCIS Is Currently Processing The Case” from “Case Is Still Being Processed By USCIS”? But date is still the same, no change in dates.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upijn3/anyone_here_got_a_silent_update_to_uscis_is/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-07-07T02:50:10+00:00",
+      "excerpt": "",
+      "topics": [
+        "i485",
         "question"
       ],
       "signals": {
@@ -353,24 +409,6 @@
       }
     },
     {
-      "id": "t3_1up4xot",
-      "title": "Judge my profile for Eb2 NIW or EB1A",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1up4xot/judge_my_profile_for_eb2_niw_or_eb1a/",
-      "author": "/u/Forsaken_Narwhal_844",
-      "publishedAt": "2026-07-06T17:58:05+00:00",
-      "excerpt": "Hi Guys, My current stats: Masters in Project Management from Northeastern University (2018-2020) PMP Certified 6 Years corporate experience Currently running a Marketing Agency on E2 (COS) in Houston, Texas. No citations or publications. Need guidance on how I can build my case for NIW?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uofixn",
       "title": "Greened!!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uofixn/greened/",
@@ -380,6 +418,25 @@
       "topics": [
         "approval",
         "i485",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uony87",
+      "title": "Approved in 18 Days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uony87/approved_in_18_days/",
+      "author": "/u/Internal_North_6641",
+      "publishedAt": "2026-07-06T05:10:44+00:00",
+      "excerpt": "No lawyer. Just me, Kokovisa and Claude assistance. Entire petition was about 78 pages. I prepared my own petition after using Kokovisa.com free instant AI screening that showed I had a moderate chance. I submitted my I-140 application about 6/9. Got an RFE 6/17 because I failed to tick a box. I responded to the RFE th…",
+      "topics": [
+        "approval",
         "i140",
         "lawyer"
       ],
@@ -407,68 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uony87",
-      "title": "Approved in 18 Days",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uony87/approved_in_18_days/",
-      "author": "/u/Internal_North_6641",
-      "publishedAt": "2026-07-06T05:10:44+00:00",
-      "excerpt": "No lawyer. Just me, Kokovisa and Claude assistance. Entire petition was about 78 pages. I prepared my own petition after using Kokovisa.com free instant AI screening that showed I had a moderate chance. I submitted my I-140 application about 6/9. Got an RFE 6/17 because I failed to tick a box. I responded to the RFE th…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1up85lr",
-      "title": "I-131 approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1up85lr/i131_approved/",
-      "author": "/u/PianistPristine4531",
-      "publishedAt": "2026-07-06T19:50:18+00:00",
-      "excerpt": "Hello I was told by Emma months ago that my case was assigned to a field office. Suddenly my I-131 was approved but nothing else so far. Does this mean anything? Why was my I-131 approved first is this just a random order situation? Case submitted Dec 2025 and biometrics was Jan 2026.",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uop0x4",
-      "title": "is USCIS moving the goalposts?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uop0x4/is_uscis_moving_the_goalposts/",
-      "author": "/u/TokoReiji",
-      "publishedAt": "2026-07-06T06:11:16+00:00",
-      "excerpt": "I saw an interesting debate on LinkedIn yesterday between a former USCIS Field Office Director and a veteran immigration attorney regarding the Q1 FY2026 data (~42% NIW approval rate). Are people getting RFEs because the petition structures aren't clear enough for overworked human officers to \"connect the dots\", or has…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-07T11:37:54.008Z",
+  "syncedAt": "2026-07-07T14:07:00.845Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
