@@ -128,6 +128,26 @@
       }
     },
     {
+      "id": "t3_1upk54v",
+      "title": "Has anyone noticed the new “USCIS Is Currently Processing the Case” status? Trying to see if there’s a pattern.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upk54v/has_anyone_noticed_the_new_uscis_is_currently/",
+      "author": "/u/pskdanfuat",
+      "publishedAt": "2026-07-07T04:06:35+00:00",
+      "excerpt": "Hi everyone, Many of us have recently noticed that our USCIS status changed from “Case Is Still Being Processed” (or similar wording) to “USCIS Is Currently Processing the Case.” I’m not asking whether this means a decision is coming soon , because nobody really knows yet. I’m just curious whether there’s any pattern b…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1upi911",
       "title": "Decision after RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1upi911/decision_after_rfe/",
@@ -173,26 +193,6 @@
       "excerpt": "Just trying to compare timelines. For those who submitted in May, have you gotten a decision yet. Let me hear from those who submitted may first week. My reciept date is May 6th, its my 40th business day today and have not heard from USCIS yet. A very long wait. 1 days feels like 1 week to me now.",
       "topics": [
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1upk54v",
-      "title": "Has anyone noticed the new “USCIS Is Currently Processing the Case” status? Trying to see if there’s a pattern.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upk54v/has_anyone_noticed_the_new_uscis_is_currently/",
-      "author": "/u/pskdanfuat",
-      "publishedAt": "2026-07-07T04:06:35+00:00",
-      "excerpt": "Hi everyone, Many of us have recently noticed that our USCIS status changed from “Case Is Still Being Processed” (or similar wording) to “USCIS Is Currently Processing the Case.” I’m not asking whether this means a decision is coming soon , because nobody really knows yet. I’m just curious whether there’s any pattern b…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -314,6 +314,26 @@
       }
     },
     {
+      "id": "t3_1up576f",
+      "title": "Premium processing NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1up576f/premium_processing_niw/",
+      "author": "/u/freegigabytes",
+      "publishedAt": "2026-07-06T18:06:50+00:00",
+      "excerpt": "Hi, does updating to PP after the receipt notice gets to better chances of 140 approval? Attorney suggests this approach is better than filing 140 with PP upfront? Also what is the time duration difference ie time until receipt?",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1up4xot",
       "title": "Judge my profile for Eb2 NIW or EB1A",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1up4xot/judge_my_profile_for_eb2_niw_or_eb1a/",
@@ -352,6 +372,24 @@
       }
     },
     {
+      "id": "t3_1up9498",
+      "title": "Late May filers",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1up9498/late_may_filers/",
+      "author": "/u/Routine_Proposal2956",
+      "publishedAt": "2026-07-06T20:25:06+00:00",
+      "excerpt": "Any decisions for late May, 2026 filers? Category: EB2 NIW PP : Yes, upfront, 27 May, 2026 Block : IOE09370 Update : status changed from “Case is still being reviewed by USCIS” to “USCIS is currently processing the case” July 6th. Decision: pending Post yours!",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": "IOE09370",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uony87",
       "title": "Approved in 18 Days",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uony87/approved_in_18_days/",
@@ -365,24 +403,6 @@
       ],
       "signals": {
         "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1up9498",
-      "title": "Late May filers",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1up9498/late_may_filers/",
-      "author": "/u/Routine_Proposal2956",
-      "publishedAt": "2026-07-06T20:25:06+00:00",
-      "excerpt": "Any decisions for late May, 2026 filers? Category: EB2 NIW PP : Yes, upfront, 27 May, 2026 Block : IOE09370 Update : status changed from “Case is still being reviewed by USCIS” to “USCIS is currently processing the case” July 6th. Decision: pending Post yours!",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": "IOE09370",
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
@@ -445,28 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1up6dyh",
-      "title": "I-140 RFE Response D-7, am I cooked?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1up6dyh/i140_rfe_response_d7_am_i_cooked/",
-      "author": "/u/Fun-Progress484",
-      "publishedAt": "2026-07-06T18:47:05+00:00",
-      "excerpt": "Hello everyone, I am happy to see all the recent good news here, but I am feeling really anxious about my I-140 RFE response and wanted to ask about your experiences. My response must be received by July 13 (Monday) . I had expected my attorney to send it out last week, but we are still finalizing the response. I know …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-07T04:42:12.899Z",
+  "syncedAt": "2026-07-07T08:14:52.239Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
