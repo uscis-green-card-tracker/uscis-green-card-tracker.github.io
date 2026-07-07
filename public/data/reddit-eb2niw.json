@@ -92,6 +92,42 @@
       }
     },
     {
+      "id": "t3_1uqbwkk",
+      "title": "Emma Live Agent Told to Wait for a notice to know next steps to take",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uqbwkk/emma_live_agent_told_to_wait_for_a_notice_to_know/",
+      "author": "/u/YouSignificant7460",
+      "publishedAt": "2026-07-07T23:35:02+00:00",
+      "excerpt": "I contacted EMMA live agent today regarding my I-485 application after seeing silent update on July 3rd. The agent told me that there is “no change since I last communicated with them”, and right after that she told me to wait for a notice to know about the next steps to take. Is that a general statement saying like if…",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uqbsct",
+      "title": "NIW RFE Prongs 2 and 3",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uqbsct/niw_rfe_prongs_2_and_3/",
+      "author": "/u/HippoTemporary6873",
+      "publishedAt": "2026-07-07T23:30:13+00:00",
+      "excerpt": "Got RFE NIW I140 on prongs 2 and 3 normal processing. What are your suggestions? I am postdoc at a US univeristy with 28 citation at time of filing (now 86) and got my PhD after filing.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uq9hun",
       "title": "How many letters (recomentations/expert review/intention/professional opinion) did you have in your approved petition?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq9hun/how_many_letters_recomentationsexpert/",
@@ -154,6 +190,24 @@
       "excerpt": "I filed my case with premium processing on June 1 and I’m still waiting for the approval notification. Profile: Master’s in Cybersecurity 10 research papers Around 60 citations 4 recommendation letters Proposed endeavor: Cybersecurity in healthcare I also submitted evidence showing that one of my papers has been cited …",
       "topics": [
         "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uq09es",
+      "title": "I’ve been waiting my RFE response since April 10th (PP) NSC",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq09es/ive_been_waiting_my_rfe_response_since_april_10th/",
+      "author": "/u/Remote-Question-6842",
+      "publishedAt": "2026-07-07T16:32:51+00:00",
+      "excerpt": "Did this happen to anyone here?",
+      "topics": [
         "i140",
         "question"
       ],
@@ -231,24 +285,6 @@
       "topics": [
         "i485",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uq09es",
-      "title": "I’ve been waiting my RFE response since April 10th (PP) NSC",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq09es/ive_been_waiting_my_rfe_response_since_april_10th/",
-      "author": "/u/Remote-Question-6842",
-      "publishedAt": "2026-07-07T16:32:51+00:00",
-      "excerpt": "Did this happen to anyone here?",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -428,47 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1upjocc",
-      "title": "How long I 485 can stay at NBC?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upjocc/how_long_i_485_can_stay_at_nbc/",
-      "author": "/u/Happy-Influence7910",
-      "publishedAt": "2026-07-07T03:43:51+00:00",
-      "excerpt": "RD APR 2026. Case still in NBC. How long is the normal timeline to stay at NBC?",
-      "topics": [
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1upke2u",
-      "title": "Should I give up hope?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upke2u/should_i_give_up_hope/",
-      "author": "/u/Disarrayee",
-      "publishedAt": "2026-07-07T04:19:10+00:00",
-      "excerpt": "Got a RFE on all 3 prongs from officer XM2616. I'm meeting with my attorneys this week to discuss how they will approach the RFE. Do you think I should withdraw my application or respond to the RFE? My law firm didn't offer a refund, but they did offer to refile if they believe the case has sufficient merit. Industry p…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "04/30/26",
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-07T22:51:22.096Z",
+  "syncedAt": "2026-07-07T23:46:48.766Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
