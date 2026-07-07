@@ -54,6 +54,25 @@
       }
     },
     {
+      "id": "t3_1uq62fx",
+      "title": "June EB2 NOW receipt notice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq62fx/june_eb2_now_receipt_notice/",
+      "author": "/u/TieSuspicious4362",
+      "publishedAt": "2026-07-07T19:54:17+00:00",
+      "excerpt": "I’m starting to get anxious because my lawyer submitted my EB-2 NIW petition last Tuesday, and I still haven’t received a receipt notice. Is that normal?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uq2dy9",
       "title": "EB2 NIW PP suggestions",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq2dy9/eb2_niw_pp_suggestions/",
@@ -64,6 +83,61 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uq89xt",
+      "title": "EB-2 NIW PP Inquiry",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq89xt/eb2_niw_pp_inquiry/",
+      "author": "/u/Individual-Side7742",
+      "publishedAt": "2026-07-07T21:13:31+00:00",
+      "excerpt": "I am planning to file EB-2 NiW application and was pondering if I should go with PP. could some lone explain the benefit of filing PP over regular processing?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uq74rg",
+      "title": "Need information for NIW I 140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq74rg/need_information_for_niw_i_140/",
+      "author": "/u/EconomicsCareful2034",
+      "publishedAt": "2026-07-07T20:31:45+00:00",
+      "excerpt": "I filed my case with premium processing on June 1 and I’m still waiting for the approval notification. Profile: Master’s in Cybersecurity 10 research papers Around 60 citations 4 recommendation letters Proposed endeavor: Cybersecurity in healthcare I also submitted evidence showing that one of my papers has been cited …",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uq6bk4",
+      "title": "I-485 Receipt number limbo",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq6bk4/i485_receipt_number_limbo/",
+      "author": "/u/FayNay76",
+      "publishedAt": "2026-07-07T20:02:55+00:00",
+      "excerpt": "Hi, I am getting very anxious. I submitted my I-485, I-765, & I-131 online on July 2, and completed the payment via Pay.gov successfully. My USCIS account shows ' Case is still being reviewed,' but official IOE receipt number has not been generated. Since July 2, the payment has shown “pending” in my bank account, and …",
+      "topics": [
+        "approval",
+        "i485"
       ],
       "signals": {
         "blockNumber": null,
@@ -318,6 +392,26 @@
       }
     },
     {
+      "id": "t3_1upk54v",
+      "title": "Has anyone noticed the new “USCIS Is Currently Processing the Case” status? Trying to see if there’s a pattern.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upk54v/has_anyone_noticed_the_new_uscis_is_currently/",
+      "author": "/u/pskdanfuat",
+      "publishedAt": "2026-07-07T04:06:35+00:00",
+      "excerpt": "Hi everyone, Many of us have recently noticed that our USCIS status changed from “Case Is Still Being Processed” (or similar wording) to “USCIS Is Currently Processing the Case.” I’m not asking whether this means a decision is coming soon , because nobody really knows yet. I’m just curious whether there’s any pattern b…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1upjocc",
       "title": "How long I 485 can stay at NBC?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1upjocc/how_long_i_485_can_stay_at_nbc/",
@@ -356,26 +450,6 @@
       }
     },
     {
-      "id": "t3_1upk54v",
-      "title": "Has anyone noticed the new “USCIS Is Currently Processing the Case” status? Trying to see if there’s a pattern.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upk54v/has_anyone_noticed_the_new_uscis_is_currently/",
-      "author": "/u/pskdanfuat",
-      "publishedAt": "2026-07-07T04:06:35+00:00",
-      "excerpt": "Hi everyone, Many of us have recently noticed that our USCIS status changed from “Case Is Still Being Processed” (or similar wording) to “USCIS Is Currently Processing the Case.” I’m not asking whether this means a decision is coming soon , because nobody really knows yet. I’m just curious whether there’s any pattern b…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uq3u1m",
       "title": "The new USCIS status wording is not a strategy",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uq3u1m/the_new_uscis_status_wording_is_not_a_strategy/",
@@ -395,81 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1upijn3",
-      "title": "Anyone here got a silent update to “USCIS Is Currently Processing The Case” from “Case Is Still Being Processed By USCIS”? But date is still the same, no change in dates.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upijn3/anyone_here_got_a_silent_update_to_uscis_is/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-07-07T02:50:10+00:00",
-      "excerpt": "",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1upi911",
-      "title": "Decision after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upi911/decision_after_rfe/",
-      "author": "/u/FantonEngg",
-      "publishedAt": "2026-07-07T02:36:53+00:00",
-      "excerpt": "Hi everyone, I self-filed my EB-2 NIW petition in March 2024 without premium processing. I received an RFE in March 2026, and USCIS received my RFE response in the last week of June. How long did it take to receive a decision after USCIS received RFE response? Also, is it still possible to upgrade my pending I-140 to p…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uozpzi",
-      "title": "EB2-NIW May submissions",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uozpzi/eb2niw_may_submissions/",
-      "author": "/u/Benefit-Then",
-      "publishedAt": "2026-07-06T14:56:56+00:00",
-      "excerpt": "Just trying to compare timelines. For those who submitted in May, have you gotten a decision yet. Let me hear from those who submitted may first week. My reciept date is May 6th, its my 40th business day today and have not heard from USCIS yet. A very long wait. 1 days feels like 1 week to me now.",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1upgv04",
-      "title": "2 FTA0 instead of 3 for C9 based EAD",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upgv04/2_fta0_instead_of_3_for_c9_based_ead/",
-      "author": "/u/Beautiful_Common5489",
-      "publishedAt": "2026-07-07T01:34:29+00:00",
-      "excerpt": "Hi, after the biometrics on the 16th of June, I had only 2 instead of 3 FTA0 for EAD. Is that normal?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-07T19:41:03.766Z",
+  "syncedAt": "2026-07-07T21:14:56.017Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
