@@ -54,6 +54,26 @@
       }
     },
     {
+      "id": "t3_1uqgjca",
+      "title": "Working with EP, unsure about Premium Processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uqgjca/working_with_ep_unsure_about_premium_processing/",
+      "author": "/u/TimotLong",
+      "publishedAt": "2026-07-08T03:01:02+00:00",
+      "excerpt": "Hi everyone, I filed my NIW petition with Ellis Porter. I am from 75 country. I wanted to do premium processing, but my attorney replied with this: \"Over the last eight months, overall NIW cases that use premium processing (PP) have been denied at roughly 65% higher rates than those using regular processing. My profess…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1uqcokg",
       "title": "Profile check before filing — 5 papers + 5 open-source projects, 4 rec letters, but zero citations. RFE risk?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uqcokg/profile_check_before_filing_5_papers_5_opensource/",
@@ -64,6 +84,43 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uqh3d4",
+      "title": "EB2-NIW - Timeline - Total Silence.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uqh3d4/eb2niw_timeline_total_silence/",
+      "author": "/u/EntranceConfident294",
+      "publishedAt": "2026-07-08T03:27:23+00:00",
+      "excerpt": "EB2-NIW Timeline: PD October, 2023 Adjust Status October 9, 2025 scheduled an interview February 12, 2026 RFE March 23, 2026 RFE Received April 10, 2026 So far, total silence. Field – Orlando Does anyone have any information or is anyone following the same schedule?",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uqgxdz",
+      "title": "HELP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uqgxdz/help/",
+      "author": "/u/Mianumairx4",
+      "publishedAt": "2026-07-08T03:19:35+00:00",
+      "excerpt": "Hello everyone, I’m looking for recommendations for an experienced immigration lawyer who specializes in EB-2 NIW RFE cases. I recently received an RFE for my EB-2 NIW petition. My field is Cybersecurity, Cloud Security, Artificial Intelligence for Cybersecurity, and Information Security . I’m looking for an attorney w…",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -410,65 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1upw4j0",
-      "title": "Non-PhD / non-researcher NIW approvals — what did you actually have BUILT at the time of filing?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upw4j0/nonphd_nonresearcher_niw_approvals_what_did_you/",
-      "author": "/u/Patient_Ad1152",
-      "publishedAt": "2026-07-07T14:05:57+00:00",
-      "excerpt": "Question for people approved (or RFE'd) on an NIW that was not research/publication-based — entrepreneurs, consultants, practitioners, business profiles. The regulation says \"proposed endeavor,\" but reading recent AAO decisions, adjudicators clearly discount endeavors that are wholly prospective. There seems to be an u…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1upvjpx",
-      "title": "Is it just me, or recent cases are all getting approved?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upvjpx/is_it_just_me_or_recent_cases_are_all_getting/",
-      "author": "/u/Hefty-Garlic-1272",
-      "publishedAt": "2026-07-07T13:44:42+00:00",
-      "excerpt": "Genuinely asking this, looking at the recent posts in this sub it looks like a crazy amount of people are getting approved now.",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1upktb8",
-      "title": "EB2 NIW RFE RESPONSE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1upktb8/eb2_niw_rfe_response/",
-      "author": "/u/Mianumairx4",
-      "publishedAt": "2026-07-07T04:41:05+00:00",
-      "excerpt": "I recently got RFE on my EB2-NIW self petition. I did Premium processing (MAY 2026). Which lawfirm is great with response to RFE? How much do they charge? What's the probability of success after RFE? RFE ON ALL 3 PRONGS",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-08T01:46:13.910Z",
+  "syncedAt": "2026-07-08T04:59:35.800Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
