@@ -54,25 +54,6 @@
       }
     },
     {
-      "id": "t3_1us6uwz",
-      "title": "I-485 approved!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1us6uwz/i485_approved/",
-      "author": "/u/MountainMaleficent87",
-      "publishedAt": "2026-07-09T23:32:37+00:00",
-      "excerpt": "My time has finally come! Below is my timeline: April 13, 2026: I-485 received June 3, 2026: Biometrics June 17, 2026: Case transferred to New York FO July 8, 2026: 3rd FTA0 + two silent updates July 9, 2026: Approved! Not from 75/39 countries. Applied for EAD/AP but did not get them. I am grateful because I know I was…",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1uru4dx",
       "title": "I-485 Approved!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uru4dx/i485_approved/",
@@ -83,6 +64,25 @@
         "approval",
         "i485",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1us6uwz",
+      "title": "I-485 approved!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1us6uwz/i485_approved/",
+      "author": "/u/MountainMaleficent87",
+      "publishedAt": "2026-07-09T23:32:37+00:00",
+      "excerpt": "My time has finally come! Below is my timeline: April 13, 2026: I-485 received June 3, 2026: Biometrics June 17, 2026: Case transferred to New York FO July 8, 2026: 3rd FTA0 + two silent updates July 9, 2026: Approved! Not from 75/39 countries. Applied for EAD/AP but did not get them. I am grateful because I know I was…",
+      "topics": [
+        "approval",
+        "i485",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -104,6 +104,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1usm5hh",
+      "title": "USCIS likes this?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1usm5hh/uscis_likes_this/",
+      "author": "/u/thecowmeatguy",
+      "publishedAt": "2026-07-10T12:23:12+00:00",
+      "excerpt": "Hi there, If my proposed endeavor is mainly research-based and involves outreach to member institutions and federal institutions, as well as training individuals and companies, how quantified does the proposed endeavor need to be? Do I need to include specific numerical projections, such as planning to reach 40–50 peop…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -448,28 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1urt7hy",
-      "title": "You don't have to be famous in your field to qualify for a National Interest Waiver - attorney with 700+ filed cases, AMA",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1urt7hy/you_dont_have_to_be_famous_in_your_field_to/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-07-09T15:15:45+00:00",
-      "excerpt": "https://preview.redd.it/r2etnh7g08ch1.jpg?width=3024&format=pjpg&auto=webp&s=bbe6140d5bc00b53b57cf1e6971a34cde4b685e7 I'm Henry Lindpere, senior immigration attorney at Manifest Law. I focus heavily on EB-2 National Interest Waiver cases, helping founders, professionals, and creatives make the case that their work matt…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-10T10:14:22.694Z",
+  "syncedAt": "2026-07-10T13:03:15.508Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
