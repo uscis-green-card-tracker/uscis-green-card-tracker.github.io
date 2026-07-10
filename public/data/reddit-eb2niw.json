@@ -130,25 +130,6 @@
       }
     },
     {
-      "id": "t3_1usb92j",
-      "title": "Lot of cases approved recently?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1usb92j/lot_of_cases_approved_recently/",
-      "author": "/u/Highlander_87",
-      "publishedAt": "2026-07-10T02:47:50+00:00",
-      "excerpt": "I may be biased but I’ve kind of noticed an uptick in the number of I-485 cases approved since USICS changed their wording to “USICS is currently processing your case”? I check reddit every single day to check on the profile of the newly approved I-485 cases. Any thoughts?",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1usb1xb",
       "title": "J-1 Waiver IM Physician (India) – PERM approved, I-140 pending, fellowship plans. Did I make the wrong immigration choice?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1usb1xb/j1_waiver_im_physician_india_perm_approved_i140/",
@@ -159,6 +140,25 @@
         "approval",
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1usb92j",
+      "title": "Lot of cases approved recently?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1usb92j/lot_of_cases_approved_recently/",
+      "author": "/u/Highlander_87",
+      "publishedAt": "2026-07-10T02:47:50+00:00",
+      "excerpt": "I may be biased but I’ve kind of noticed an uptick in the number of I-485 cases approved since USICS changed their wording to “USICS is currently processing your case”? I check reddit every single day to check on the profile of the newly approved I-485 cases. Any thoughts?",
+      "topics": [
+        "approval",
+        "i485",
         "question"
       ],
       "signals": {
@@ -239,25 +239,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1us3ev8",
-      "title": "Resources for drafting a stronger EB-2 NIW proposed endeavor?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1us3ev8/resources_for_drafting_a_stronger_eb2_niw/",
-      "author": "/u/Difficult-Start-365",
-      "publishedAt": "2026-07-09T21:19:11+00:00",
-      "excerpt": "My attorney has provided a few sample proposed endeavors, but none are particularly relevant to my field or case. I'm looking for resources that explain how to frame a proposed endeavor to align with the three Dhanasar prongs—especially examples of impactful (but accurate) wording, terminology, or structure. Books, blo…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
       }
     },
     {
@@ -467,9 +448,28 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1urt7hy",
+      "title": "You don't have to be famous in your field to qualify for a National Interest Waiver - attorney with 700+ filed cases, AMA",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1urt7hy/you_dont_have_to_be_famous_in_your_field_to/",
+      "author": "/u/ManifestLaw_",
+      "publishedAt": "2026-07-09T15:15:45+00:00",
+      "excerpt": "https://preview.redd.it/r2etnh7g08ch1.jpg?width=3024&format=pjpg&auto=webp&s=bbe6140d5bc00b53b57cf1e6971a34cde4b685e7 I'm Henry Lindpere, senior immigration attorney at Manifest Law. I focus heavily on EB-2 National Interest Waiver cases, helping founders, professionals, and creatives make the case that their work matt…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-07-10T06:32:52.104Z",
+  "syncedAt": "2026-07-10T10:14:22.694Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
