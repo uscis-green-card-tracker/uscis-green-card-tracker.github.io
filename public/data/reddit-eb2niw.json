@@ -54,25 +54,6 @@
       }
     },
     {
-      "id": "t3_1uru4dx",
-      "title": "I-485 Approved!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uru4dx/i485_approved/",
-      "author": "/u/Large_Way_5802",
-      "publishedAt": "2026-07-09T15:48:01+00:00",
-      "excerpt": "Finally get to make one of these posts myself! Long time lurker on here in case this helps anyone January 26, 2026: I-140 Filed, research profile, 7 papers, 200 citations March 3, 2026: I-140 Approved, PP March 20, 2026: I-485 received by USCIS April 13, 2026: Biometrics completed May 13, 2026: Silent update, talked to…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1us6uwz",
       "title": "I-485 approved!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1us6uwz/i485_approved/",
@@ -83,6 +64,25 @@
         "approval",
         "i485",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1uru4dx",
+      "title": "I-485 Approved!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uru4dx/i485_approved/",
+      "author": "/u/Large_Way_5802",
+      "publishedAt": "2026-07-09T15:48:01+00:00",
+      "excerpt": "Finally get to make one of these posts myself! Long time lurker on here in case this helps anyone January 26, 2026: I-140 Filed, research profile, 7 papers, 200 citations March 3, 2026: I-140 Approved, PP March 20, 2026: I-485 received by USCIS April 13, 2026: Biometrics completed May 13, 2026: Silent update, talked to…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -120,6 +120,25 @@
       "publishedAt": "2026-07-09T21:09:09+00:00",
       "excerpt": "Hi everyone, I’m genuinely asking, we those who got the update on 05/22 or 05/23, are we frozen or something? I’m genuinely asking because I had no movement since then and I see others too in same position, what was that update about? My case is at queens since 05/12 and I got that mass update too.",
       "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1usb92j",
+      "title": "Lot of cases approved recently?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1usb92j/lot_of_cases_approved_recently/",
+      "author": "/u/Highlander_87",
+      "publishedAt": "2026-07-10T02:47:50+00:00",
+      "excerpt": "I may be biased but I’ve kind of noticed an uptick in the number of I-485 cases approved since USICS changed their wording to “USICS is currently processing your case”? I check reddit every single day to check on the profile of the newly approved I-485 cases. Any thoughts?",
+      "topics": [
+        "approval",
+        "i485",
         "question"
       ],
       "signals": {
@@ -220,24 +239,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1us3tnw",
-      "title": "RFE soft copy",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1us3tnw/rfe_soft_copy/",
-      "author": "/u/Adorable_Spell5600",
-      "publishedAt": "2026-07-09T21:34:55+00:00",
-      "excerpt": "I emailed yesterday asking for a soft copy but haven’t received any response. I also called the PP hotline and they say I need to wait a month before I can request a sift copy. Is there a different way to get RFE soft copy?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
       }
     },
     {
@@ -468,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-10T02:46:10.364Z",
+  "syncedAt": "2026-07-10T06:32:52.104Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
