@@ -55,6 +55,62 @@
       }
     },
     {
+      "id": "t3_1ut0dgu",
+      "title": "Case (I485) Inquiry Says Wait Until Next Year May — But I'm Already Past Normal Processing Time?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut0dgu/case_i485_inquiry_says_wait_until_next_year_may/",
+      "author": "/u/Intrinsic137",
+      "publishedAt": "2026-07-10T21:12:25+00:00",
+      "excerpt": "My I-485 (EB2-NIW) has already blown past the standard 8.5-month processing time. But when I check the case inquiry tool, it says I can't submit a request until next May. Has anyone submitted an inquiry anyway, ahead of that date? Did it cause any issues, or did USCIS just process it normally? Would really appreciate h…",
+      "topics": [
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ustba3",
+      "title": "Can Experienced NIW Applicants Review My Proposed Endeavor and Three Prongs?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ustba3/can_experienced_niw_applicants_review_my_proposed/",
+      "author": "/u/Either-Wave3621",
+      "publishedAt": "2026-07-10T16:55:17+00:00",
+      "excerpt": "I’m planning to file an EB-2 NIW based on the following proposed endeavor, and I’d really appreciate honest feedback from people who have gone through the process or have experience with NIW approvals. Prong 1 (Substantial Merit & National Importance): Establish a U.S.-based manufacturing consulting company that helps …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uswvth",
+      "title": "Low citation count",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uswvth/low_citation_count/",
+      "author": "/u/One-Rhubarb2137",
+      "publishedAt": "2026-07-10T19:01:18+00:00",
+      "excerpt": "I know it is getting old, but I want to know if any of you guys here got approved with a research field along with a low citation count recently?",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1usw4n9",
       "title": "For those of you who use TrackMyI140, does the status on that site update before it does on the USCIS website?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1usw4n9/for_those_of_you_who_use_trackmyi140_does_the/",
@@ -90,26 +146,6 @@
       }
     },
     {
-      "id": "t3_1ut0dgu",
-      "title": "Case (I485) Inquiry Says Wait Until Next Year May — But I'm Already Past Normal Processing Time?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut0dgu/case_i485_inquiry_says_wait_until_next_year_may/",
-      "author": "/u/Intrinsic137",
-      "publishedAt": "2026-07-10T21:12:25+00:00",
-      "excerpt": "My I-485 (EB2-NIW) has already blown past the standard 8.5-month processing time. But when I check the case inquiry tool, it says I can't submit a request until next May. Has anyone submitted an inquiry anyway, ahead of that date? Did it cause any issues, or did USCIS just process it normally? Would really appreciate h…",
-      "topics": [
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1us98ll",
       "title": "Approved from a partial ban",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1us98ll/approved_from_a_partial_ban/",
@@ -120,24 +156,6 @@
         "approval",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ustba3",
-      "title": "Can Experienced NIW Applicants Review My Proposed Endeavor and Three Prongs?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ustba3/can_experienced_niw_applicants_review_my_proposed/",
-      "author": "/u/Either-Wave3621",
-      "publishedAt": "2026-07-10T16:55:17+00:00",
-      "excerpt": "I’m planning to file an EB-2 NIW based on the following proposed endeavor, and I’d really appreciate honest feedback from people who have gone through the process or have experience with NIW approvals. Prong 1 (Substantial Merit & National Importance): Establish a U.S.-based manufacturing consulting company that helps …",
-      "topics": [
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -174,24 +192,6 @@
       "topics": [
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uswvth",
-      "title": "Low citation count",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uswvth/low_citation_count/",
-      "author": "/u/One-Rhubarb2137",
-      "publishedAt": "2026-07-10T19:01:18+00:00",
-      "excerpt": "I know it is getting old, but I want to know if any of you guys here got approved with a research field along with a low citation count recently?",
-      "topics": [
-        "approval",
         "question"
       ],
       "signals": {
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-10T21:51:17.637Z",
+  "syncedAt": "2026-07-10T22:50:34.782Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
