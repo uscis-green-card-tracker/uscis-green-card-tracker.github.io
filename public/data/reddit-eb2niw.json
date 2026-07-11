@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1ut8tuc",
-      "title": "Approval - June 2025 I-485 filer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut8tuc/approval_june_2025_i485_filer/",
-      "author": "/u/mahler004",
-      "publishedAt": "2026-07-11T03:24:02+00:00",
-      "excerpt": "This forum and others has been helpful to me, although I question if obsessively tracking other people's updates has been good for my mental health. Anyway, to add to the noise: Underlying status - J-1 at time of I-140 submission, transferred to H-1B so was in H-1B from I-485 submission to approval. No status violation…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1utv51e",
       "title": "I-140 approved after RFE-PP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1utv51e/i140_approved_after_rfepp/",
@@ -71,6 +52,43 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1utvnfc",
+      "title": "Late May PP updates and early June",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utvnfc/late_may_pp_updates_and_early_june/",
+      "author": "/u/Capitano_MD",
+      "publishedAt": "2026-07-11T21:03:16+00:00",
+      "excerpt": "Late May PP updates and early June Did anyone from early May with Premium Processing (PP) get any updates?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ut8tuc",
+      "title": "Approval - June 2025 I-485 filer",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut8tuc/approval_june_2025_i485_filer/",
+      "author": "/u/mahler004",
+      "publishedAt": "2026-07-11T03:24:02+00:00",
+      "excerpt": "This forum and others has been helpful to me, although I question if obsessively tracking other people's updates has been good for my mental health. Anyway, to add to the noise: Underlying status - J-1 at time of I-140 submission, transferred to H-1B so was in H-1B from I-485 submission to approval. No status violation…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
       }
     },
     {
@@ -444,29 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1ustppi",
-      "title": "Any one I-485 case transfer to Seattle FO?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ustppi/any_one_i485_case_transfer_to_seattle_fo/",
-      "author": "/u/Kitchen-Yak-3716",
-      "publishedAt": "2026-07-10T17:09:25+00:00",
-      "excerpt": "Hi anyone having their I-485 case approved or pending at Seattle FO? How long is the case timeline for approval? Any other groups to join with Seattle FO topic?",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-11T20:47:52.480Z",
+  "syncedAt": "2026-07-11T21:39:30.768Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
