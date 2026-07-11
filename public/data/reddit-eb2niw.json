@@ -74,6 +74,23 @@
       }
     },
     {
+      "id": "t3_1ut62zd",
+      "title": "Built a tool to find NIW cases by endeavor and seeded it with cases self-reported on this sub",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut62zd/built_a_tool_to_find_niw_cases_by_endeavor_and/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-07-11T01:10:47+00:00",
+      "excerpt": "Hi everyone, I’m a software engineer and I’ve recently filed my petition. currently waiting for the PP 45 business days. I spent the last few days building a tool to centralize NIW cases, a place to find real, recent NIW cases and see their timelines. You can filter by broad endeavor area, profile (research or industry…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1utn1iq",
       "title": "Should I Upgrade My EB-2 NIW to Premium Processing Now That My PD Is Current?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1utn1iq/should_i_upgrade_my_eb2_niw_to_premium_processing/",
@@ -85,23 +102,6 @@
         "i485",
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ut62zd",
-      "title": "Built a tool to find NIW cases by endeavor and seeded it with cases self-reported on this sub",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut62zd/built_a_tool_to_find_niw_cases_by_endeavor_and/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-07-11T01:10:47+00:00",
-      "excerpt": "Hi everyone, I’m a software engineer and I’ve recently filed my petition. currently waiting for the PP 45 business days. I spent the last few days building a tool to centralize NIW cases, a place to find real, recent NIW cases and see their timelines. You can filter by broad endeavor area, profile (research or industry…",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -464,7 +464,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-11T16:42:41.052Z",
+  "syncedAt": "2026-07-11T17:45:23.824Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
