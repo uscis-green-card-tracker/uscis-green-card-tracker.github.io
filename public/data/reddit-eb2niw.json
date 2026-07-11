@@ -349,6 +349,26 @@
       }
     },
     {
+      "id": "t3_1ustppi",
+      "title": "Any one I-485 case transfer to Seattle FO?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ustppi/any_one_i485_case_transfer_to_seattle_fo/",
+      "author": "/u/Kitchen-Yak-3716",
+      "publishedAt": "2026-07-10T17:09:25+00:00",
+      "excerpt": "Hi anyone having their I-485 case approved or pending at Seattle FO? How long is the case timeline for approval? Any other groups to join with Seattle FO topic?",
+      "topics": [
+        "approval",
+        "i485",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ust31h",
       "title": "Did anyone recently got a soft copy of their RFE from NSC?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ust31h/did_anyone_recently_got_a_soft_copy_of_their_rfe/",
@@ -375,26 +395,6 @@
       "excerpt": "Does it support or increase my chances of approval based on my research esp when I’m awarded a travel grant for US medical conference?",
       "topics": [
         "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ustppi",
-      "title": "Any one I-485 case transfer to Seattle FO?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ustppi/any_one_i485_case_transfer_to_seattle_fo/",
-      "author": "/u/Kitchen-Yak-3716",
-      "publishedAt": "2026-07-10T17:09:25+00:00",
-      "excerpt": "Hi anyone having their I-485 case approved or pending at Seattle FO? How long is the case timeline for approval? Any other groups to join with Seattle FO topic?",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -461,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-11T09:16:59.520Z",
+  "syncedAt": "2026-07-11T10:54:16.593Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
