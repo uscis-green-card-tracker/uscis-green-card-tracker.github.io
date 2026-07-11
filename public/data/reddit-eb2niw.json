@@ -54,6 +54,23 @@
       }
     },
     {
+      "id": "t3_1ut62zd",
+      "title": "Built a tool to find NIW cases by endeavor and seeded it with cases self-reported on this sub",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut62zd/built_a_tool_to_find_niw_cases_by_endeavor_and/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-07-11T01:10:47+00:00",
+      "excerpt": "Hi everyone, I’m a software engineer and I’ve recently filed my petition. currently waiting for the PP 45 business days. I spent the last few days building a tool to centralize NIW cases, a place to find real, recent NIW cases and see their timelines. You can filter by broad endeavor area, profile (research or industry…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uthxic",
       "title": "Need to decide between a fully funded Ph.D. and a Day 1 CPT Ph.D. before my STEM OPT expires",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uthxic/need_to_decide_between_a_fully_funded_phd_and_a/",
@@ -64,23 +81,6 @@
         "i140",
         "timeline",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ut62zd",
-      "title": "Built a tool to find NIW cases by endeavor and seeded it with cases self-reported on this sub",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut62zd/built_a_tool_to_find_niw_cases_by_endeavor_and/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-07-11T01:10:47+00:00",
-      "excerpt": "Hi everyone, I’m a software engineer and I’ve recently filed my petition. currently waiting for the PP 45 business days. I spent the last few days building a tool to centralize NIW cases, a place to find real, recent NIW cases and see their timelines. You can filter by broad endeavor area, profile (research or industry…",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -146,16 +146,14 @@
       }
     },
     {
-      "id": "t3_1ut7dvv",
-      "title": "Anyone get i-485 approved recently after submitting an RFE response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut7dvv/anyone_get_i485_approved_recently_after/",
-      "author": "/u/PCI_STAT",
-      "publishedAt": "2026-07-11T02:13:43+00:00",
-      "excerpt": "Filed i-485 on 4/8/26 (physician NIW) Biometrics done in May Got an RFE early on in June to submit proof of completion of my 5 year service requirement. Response was submitted on 6/27 and confirmed received by USCIS on 6/29. Got a silent update 6/30 but have had no updates since then. My case is still at NBC per the ch…",
+      "id": "t3_1ut71ar",
+      "title": "Nov 2025, EB2 I-485 Filers, Congressional Inquiry?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut71ar/nov_2025_eb2_i485_filers_congressional_inquiry/",
+      "author": "/u/Jazzlike-Election-59",
+      "publishedAt": "2026-07-11T01:57:01+00:00",
+      "excerpt": "While there are surely older cases than mine, is anyone who filed an EB-2 I-485 in late October or early November considering a congressional inquiry, or has anyone already submitted one? Any thoughts or experiences with congressional inquiries, particularly from Missouri?",
       "topics": [
-        "approval",
         "i485",
-        "i140",
         "question"
       ],
       "signals": {
@@ -166,14 +164,16 @@
       }
     },
     {
-      "id": "t3_1ut71ar",
-      "title": "Nov 2025, EB2 I-485 Filers, Congressional Inquiry?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut71ar/nov_2025_eb2_i485_filers_congressional_inquiry/",
-      "author": "/u/Jazzlike-Election-59",
-      "publishedAt": "2026-07-11T01:57:01+00:00",
-      "excerpt": "While there are surely older cases than mine, is anyone who filed an EB-2 I-485 in late October or early November considering a congressional inquiry, or has anyone already submitted one? Any thoughts or experiences with congressional inquiries, particularly from Missouri?",
+      "id": "t3_1ut7dvv",
+      "title": "Anyone get i-485 approved recently after submitting an RFE response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut7dvv/anyone_get_i485_approved_recently_after/",
+      "author": "/u/PCI_STAT",
+      "publishedAt": "2026-07-11T02:13:43+00:00",
+      "excerpt": "Filed i-485 on 4/8/26 (physician NIW) Biometrics done in May Got an RFE early on in June to submit proof of completion of my 5 year service requirement. Response was submitted on 6/27 and confirmed received by USCIS on 6/29. Got a silent update 6/30 but have had no updates since then. My case is still at NBC per the ch…",
       "topics": [
+        "approval",
         "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -461,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-11T12:55:22.055Z",
+  "syncedAt": "2026-07-11T14:18:29.877Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
