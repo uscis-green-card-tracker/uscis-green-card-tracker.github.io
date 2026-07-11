@@ -204,24 +204,6 @@
       }
     },
     {
-      "id": "t3_1ut71ar",
-      "title": "Nov 2025, EB2 I-485 Filers, Congressional Inquiry?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut71ar/nov_2025_eb2_i485_filers_congressional_inquiry/",
-      "author": "/u/Jazzlike-Election-59",
-      "publishedAt": "2026-07-11T01:57:01+00:00",
-      "excerpt": "While there are surely older cases than mine, is anyone who filed an EB-2 I-485 in late October or early November considering a congressional inquiry, or has anyone already submitted one? Any thoughts or experiences with congressional inquiries, particularly from Missouri?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ut7dvv",
       "title": "Anyone get i-485 approved recently after submitting an RFE response",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut7dvv/anyone_get_i485_approved_recently_after/",
@@ -232,6 +214,24 @@
         "approval",
         "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ut71ar",
+      "title": "Nov 2025, EB2 I-485 Filers, Congressional Inquiry?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut71ar/nov_2025_eb2_i485_filers_congressional_inquiry/",
+      "author": "/u/Jazzlike-Election-59",
+      "publishedAt": "2026-07-11T01:57:01+00:00",
+      "excerpt": "While there are surely older cases than mine, is anyone who filed an EB-2 I-485 in late October or early November considering a congressional inquiry, or has anyone already submitted one? Any thoughts or experiences with congressional inquiries, particularly from Missouri?",
+      "topics": [
+        "i485",
         "question"
       ],
       "signals": {
@@ -464,7 +464,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-11T18:44:27.526Z",
+  "syncedAt": "2026-07-11T19:58:51.822Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
