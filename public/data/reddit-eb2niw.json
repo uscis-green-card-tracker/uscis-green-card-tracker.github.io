@@ -54,15 +54,17 @@
       }
     },
     {
-      "id": "t3_1utqz9e",
-      "title": "EB-2 NIW Denied After RFE - Did USCIS Mischaracterize My Proposed Endeavor? Looking for Advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utqz9e/eb2_niw_denied_after_rfe_did_uscis/",
-      "author": "/u/crazyquy",
-      "publishedAt": "2026-07-11T17:59:22+00:00",
-      "excerpt": "Hi everyone, I recently received a denial on 43BD of my EB-2 NIW petition after responding to an RFE focused on Dhanasar Prongs 1 and 3. My proposed endeavor was to develop and expand an open-access applied AI workforce-training and credentialing infrastructure designed to help individuals and organizations build pract…",
+      "id": "t3_1utv51e",
+      "title": "I-140 approved after RFE-PP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utv51e/i140_approved_after_rfepp/",
+      "author": "/u/Zealousideal_Web2093",
+      "publishedAt": "2026-07-11T20:42:54+00:00",
+      "excerpt": "Hi, I wanted to share my experience here as I got a lot of suggestions and insights from this community. My profile: Chemical Engineering PhD student with MS Degree Timeline: PD: October 2024 - 3 first author journal articles and 16 citations at the time of filing. Law firm: Chen (Wegreened) PP received by USCIS: Decem…",
       "topics": [
+        "approval",
         "i140",
-        "question"
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -89,6 +91,24 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1utqz9e",
+      "title": "EB-2 NIW Denied After RFE - Did USCIS Mischaracterize My Proposed Endeavor? Looking for Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utqz9e/eb2_niw_denied_after_rfe_did_uscis/",
+      "author": "/u/crazyquy",
+      "publishedAt": "2026-07-11T17:59:22+00:00",
+      "excerpt": "Hi everyone, I recently received a denial on 43BD of my EB-2 NIW petition after responding to an RFE focused on Dhanasar Prongs 1 and 3. My proposed endeavor was to develop and expand an open-access applied AI workforce-training and credentialing infrastructure designed to help individuals and organizations build pract…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -444,27 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ust31h",
-      "title": "Did anyone recently got a soft copy of their RFE from NSC?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ust31h/did_anyone_recently_got_a_soft_copy_of_their_rfe/",
-      "author": "/u/The_oppenheimer",
-      "publishedAt": "2026-07-10T16:47:03+00:00",
-      "excerpt": "Emailed them yesterday, got an automated reply but they didnt get back to me",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-11T19:58:51.822Z",
+  "syncedAt": "2026-07-11T20:47:52.480Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
