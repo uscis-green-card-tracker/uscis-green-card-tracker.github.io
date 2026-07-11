@@ -109,6 +109,24 @@
       }
     },
     {
+      "id": "t3_1utead7",
+      "title": "Business/Finance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utead7/businessfinance/",
+      "author": "/u/ToughBeginning772",
+      "publishedAt": "2026-07-11T08:20:01+00:00",
+      "excerpt": "Hi Guys, Have you had a case approved or do you know someone who has had their case approved with a business/finance background working in corporate sector? No entrepreneurship or a managerial title.",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ut7dvv",
       "title": "Anyone get i-485 approved recently after submitting an RFE response",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut7dvv/anyone_get_i485_approved_recently_after/",
@@ -135,24 +153,6 @@
       "author": "/u/Jazzlike-Election-59",
       "publishedAt": "2026-07-11T01:57:01+00:00",
       "excerpt": "While there are surely older cases than mine, is anyone who filed an EB-2 I-485 in late October or early November considering a congressional inquiry, or has anyone already submitted one? Any thoughts or experiences with congressional inquiries, particularly from Missouri?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ut68id",
-      "title": "I485 Application Question New Memo",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut68id/i485_application_question_new_memo/",
-      "author": "/u/Cultural_Daikon_9043",
-      "publishedAt": "2026-07-11T01:18:09+00:00",
-      "excerpt": "I have a small request for those who filed their I-485 after the new memo released on May 21, 2026. Would you mind sharing what documents you included with your I-485 package? If you added any extra supporting documents because of the new memo, I would really appreciate it if you could share your experience. Your feedb…",
       "topics": [
         "i485",
         "question"
@@ -461,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-11T07:05:53.522Z",
+  "syncedAt": "2026-07-11T09:16:59.520Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
