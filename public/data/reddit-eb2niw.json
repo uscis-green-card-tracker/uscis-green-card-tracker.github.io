@@ -54,6 +54,26 @@
       }
     },
     {
+      "id": "t3_1utn1iq",
+      "title": "Should I Upgrade My EB-2 NIW to Premium Processing Now That My PD Is Current?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utn1iq/should_i_upgrade_my_eb2_niw_to_premium_processing/",
+      "author": "/u/Zealousideal-Cat5121",
+      "publishedAt": "2026-07-11T15:26:49+00:00",
+      "excerpt": "I filed my EB-2 NIW I-140 on June 17, 2026, and noticed that EB-2 is PD current in the Visa Bulletin. I’m trying to decide whether it’s worth paying for premium processing so I can (hopefully) get an approval sooner and file my I-485 as quickly as possible, or if I should just wait for regular processing. For context, …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ut62zd",
       "title": "Built a tool to find NIW cases by endeavor and seeded it with cases self-reported on this sub",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut62zd/built_a_tool_to_find_niw_cases_by_endeavor_and/",
@@ -440,28 +460,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1usb92j",
-      "title": "Lot of cases approved recently?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1usb92j/lot_of_cases_approved_recently/",
-      "author": "/u/Highlander_87",
-      "publishedAt": "2026-07-10T02:47:50+00:00",
-      "excerpt": "I may be biased but I’ve kind of noticed an uptick in the number of I-485 cases approved since USICS changed their wording to “USICS is currently processing your case”? I check reddit every single day to check on the profile of the newly approved I-485 cases. Any thoughts?",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-11T14:18:29.877Z",
+  "syncedAt": "2026-07-11T15:44:29.685Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
