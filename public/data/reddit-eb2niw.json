@@ -73,6 +73,25 @@
       }
     },
     {
+      "id": "t3_1uu5ag6",
+      "title": "I-140 got denied",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uu5ag6/i140_got_denied/",
+      "author": "/u/CyberRaven11",
+      "publishedAt": "2026-07-12T04:28:42+00:00",
+      "excerpt": "Hi, my i-140 got denied (after rfe on all 3 prongs) and I have a refund or refile option from Chen. It has been two months but I haven't heard back from them with any strategy, other than acknowledging that they received the denial notice. Is it normal?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1utwnqk",
       "title": "Has Anyone Filed I-485 Shortly After Returning on E-2? Or any non dual intent visas",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1utwnqk/has_anyone_filed_i485_shortly_after_returning_on/",
@@ -103,6 +122,24 @@
       "topics": [
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uu3cgy",
+      "title": "EB2 NIW Chances",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uu3cgy/eb2_niw_chances/",
+      "author": "/u/FishermanOk2996",
+      "publishedAt": "2026-07-12T02:50:17+00:00",
+      "excerpt": "Hi everyone, I am planning to file an EB-2 NIW petition and wanted to get the community's honest feedback on my profile strength, my Proposed Endeavor, and a few strategy questions. I am currently working with Ellis Porter (just started the process). The Basics Current Role: Senior Data Engineer at one of the largest U…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -428,46 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ut551c",
-      "title": "ETA FORMS I forgot to attach",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut551c/eta_forms_i_forgot_to_attach/",
-      "author": "/u/TAHIR_EB2NIW",
-      "publishedAt": "2026-07-11T00:27:33+00:00",
-      "excerpt": "Hi, I would like to ask if you have attched ETA FORMS?? in your EB2 National Interest Waiver? I filed and accepted June 4 with receipt number, and I forgot ETA FORMS why lock box intact did not reject it oh my God does it jeopardize my application?? 😭😭 give me some comments please did you still get approve even witho…",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ut4oij",
-      "title": "For EB2 NIW in PP - What is the timeline when you received a RFE? How many calendar or business days? Or if direct approval? After how many calendar or business days you got the first update or direct approval? On the last business day (45)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut4oij/for_eb2_niw_in_pp_what_is_the_timeline_when_you/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-07-11T00:07:07+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-12T01:47:14.469Z",
+  "syncedAt": "2026-07-12T05:17:23.262Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
