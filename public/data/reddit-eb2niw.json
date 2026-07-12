@@ -35,6 +35,23 @@
       }
     },
     {
+      "id": "t3_1uuiv9s",
+      "title": "Has anyone here been denied based on prong 2&3 only?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuiv9s/has_anyone_here_been_denied_based_on_prong_23_only/",
+      "author": "/u/Any_Damage3590",
+      "publishedAt": "2026-07-12T15:41:13+00:00",
+      "excerpt": "Most denials I see here seem to be as a result of 1&3. Was curious is anyone gets denied based on 2&3 and if you know of any posts on here I could read.",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uu5ag6",
       "title": "I-140 got denied",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uu5ag6/i140_got_denied/",
@@ -446,29 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ut0dgu",
-      "title": "Case (I485) Inquiry Says Wait Until Next Year May — But I'm Already Past Normal Processing Time?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut0dgu/case_i485_inquiry_says_wait_until_next_year_may/",
-      "author": "/u/Intrinsic137",
-      "publishedAt": "2026-07-10T21:12:25+00:00",
-      "excerpt": "My I-485 (EB2-NIW) has already blown past the standard 8.5-month processing time. But when I check the case inquiry tool, it says I can't submit a request until next May. Has anyone submitted an inquiry anyway, ahead of that date? Did it cause any issues, or did USCIS just process it normally? Would really appreciate h…",
-      "topics": [
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-12T14:23:38.353Z",
+  "syncedAt": "2026-07-12T15:49:59.858Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
