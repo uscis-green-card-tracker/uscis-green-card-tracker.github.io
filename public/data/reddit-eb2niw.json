@@ -35,23 +35,6 @@
       }
     },
     {
-      "id": "t3_1uuiv9s",
-      "title": "Has anyone here been denied based on prong 2&3 only?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuiv9s/has_anyone_here_been_denied_based_on_prong_23_only/",
-      "author": "/u/Any_Damage3590",
-      "publishedAt": "2026-07-12T15:41:13+00:00",
-      "excerpt": "Most denials I see here seem to be as a result of 1&3. Was curious is anyone gets denied based on 2&3 and if you know of any posts on here I could read.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uulzo2",
       "title": "Approved I-485 based on EB2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uulzo2/approved_i485_based_on_eb2_niw/",
@@ -63,6 +46,23 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uuiv9s",
+      "title": "Has anyone here been denied based on prong 2&3 only?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuiv9s/has_anyone_here_been_denied_based_on_prong_23_only/",
+      "author": "/u/Any_Damage3590",
+      "publishedAt": "2026-07-12T15:41:13+00:00",
+      "excerpt": "Most denials I see here seem to be as a result of 1&3. Was curious is anyone gets denied based on 2&3 and if you know of any posts on here I could read.",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-12T17:51:00.251Z",
+  "syncedAt": "2026-07-12T18:50:50.444Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
