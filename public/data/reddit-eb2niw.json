@@ -55,14 +55,15 @@
       }
     },
     {
-      "id": "t3_1utvnfc",
-      "title": "Late May PP updates and early June",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utvnfc/late_may_pp_updates_and_early_june/",
-      "author": "/u/Capitano_MD",
-      "publishedAt": "2026-07-11T21:03:16+00:00",
-      "excerpt": "Late May PP updates and early June Did anyone from early May with Premium Processing (PP) get any updates?",
+      "id": "t3_1uu5ag6",
+      "title": "I-140 got denied",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uu5ag6/i140_got_denied/",
+      "author": "/u/CyberRaven11",
+      "publishedAt": "2026-07-12T04:28:42+00:00",
+      "excerpt": "Hi, my i-140 got denied (after rfe on all 3 prongs) and I have a refund or refile option from Chen. It has been two months but I haven't heard back from them with any strategy, other than acknowledging that they received the denial notice. Is it normal?",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -73,15 +74,32 @@
       }
     },
     {
-      "id": "t3_1uu5ag6",
-      "title": "I-140 got denied",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uu5ag6/i140_got_denied/",
-      "author": "/u/CyberRaven11",
-      "publishedAt": "2026-07-12T04:28:42+00:00",
-      "excerpt": "Hi, my i-140 got denied (after rfe on all 3 prongs) and I have a refund or refile option from Chen. It has been two months but I haven't heard back from them with any strategy, other than acknowledging that they received the denial notice. Is it normal?",
+      "id": "t3_1uu84ec",
+      "title": "I-485 form question.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uu84ec/i485_form_question/",
+      "author": "/u/aryalboy11",
+      "publishedAt": "2026-07-12T06:59:05+00:00",
+      "excerpt": "One of the yes/no questions in I-485 is: Have you EVER applied for any kind of relief or protection from removal, exclusion, or deportation? I applied for TPS and advance parole for travel authorization few years ago. I was in both F1 and TPS, never violated F1 and never used TPS or advance parole. For the question abo…",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1utvnfc",
+      "title": "Late May PP updates and early June",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utvnfc/late_may_pp_updates_and_early_june/",
+      "author": "/u/Capitano_MD",
+      "publishedAt": "2026-07-11T21:03:16+00:00",
+      "excerpt": "Late May PP updates and early June Did anyone from early May with Premium Processing (PP) get any updates?",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -150,6 +168,24 @@
       }
     },
     {
+      "id": "t3_1utqz9e",
+      "title": "EB-2 NIW Denied After RFE - Did USCIS Mischaracterize My Proposed Endeavor? Looking for Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utqz9e/eb2_niw_denied_after_rfe_did_uscis/",
+      "author": "/u/crazyquy",
+      "publishedAt": "2026-07-11T17:59:22+00:00",
+      "excerpt": "Hi everyone, I recently received a denial on 43BD of my EB-2 NIW petition after responding to an RFE focused on Dhanasar Prongs 1 and 3. My proposed endeavor was to develop and expand an open-access applied AI workforce-training and credentialing infrastructure designed to help individuals and organizations build pract…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ut8tuc",
       "title": "Approval - June 2025 I-485 filer",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut8tuc/approval_june_2025_i485_filer/",
@@ -189,13 +225,15 @@
       }
     },
     {
-      "id": "t3_1utqz9e",
-      "title": "EB-2 NIW Denied After RFE - Did USCIS Mischaracterize My Proposed Endeavor? Looking for Advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utqz9e/eb2_niw_denied_after_rfe_did_uscis/",
-      "author": "/u/crazyquy",
-      "publishedAt": "2026-07-11T17:59:22+00:00",
-      "excerpt": "Hi everyone, I recently received a denial on 43BD of my EB-2 NIW petition after responding to an RFE focused on Dhanasar Prongs 1 and 3. My proposed endeavor was to develop and expand an open-access applied AI workforce-training and credentialing infrastructure designed to help individuals and organizations build pract…",
+      "id": "t3_1utn1iq",
+      "title": "Should I Upgrade My EB-2 NIW to Premium Processing Now That My PD Is Current?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utn1iq/should_i_upgrade_my_eb2_niw_to_premium_processing/",
+      "author": "/u/Zealousideal-Cat5121",
+      "publishedAt": "2026-07-11T15:26:49+00:00",
+      "excerpt": "I filed my EB-2 NIW I-140 on June 17, 2026, and noticed that EB-2 is PD current in the Visa Bulletin. I’m trying to decide whether it’s worth paying for premium processing so I can (hopefully) get an approval sooner and file my I-485 as quickly as possible, or if I should just wait for regular processing. For context, …",
       "topics": [
+        "approval",
+        "i485",
         "i140",
         "question"
       ],
@@ -215,26 +253,6 @@
       "excerpt": "Hi everyone, I’m a software engineer and I’ve recently filed my petition. currently waiting for the PP 45 business days. I spent the last few days building a tool to centralize NIW cases, a place to find real, recent NIW cases and see their timelines. You can filter by broad endeavor area, profile (research or industry…",
       "topics": [
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1utn1iq",
-      "title": "Should I Upgrade My EB-2 NIW to Premium Processing Now That My PD Is Current?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utn1iq/should_i_upgrade_my_eb2_niw_to_premium_processing/",
-      "author": "/u/Zealousideal-Cat5121",
-      "publishedAt": "2026-07-11T15:26:49+00:00",
-      "excerpt": "I filed my EB-2 NIW I-140 on June 17, 2026, and noticed that EB-2 is PD current in the Visa Bulletin. I’m trying to decide whether it’s worth paying for premium processing so I can (hopefully) get an approval sooner and file my I-485 as quickly as possible, or if I should just wait for regular processing. For context, …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -447,27 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ut59a5",
-      "title": "Kid's biometric",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut59a5/kids_biometric/",
-      "author": "/u/researchtype",
-      "publishedAt": "2026-07-11T00:32:49+00:00",
-      "excerpt": "My and my spouse had biometrics on 4th June and case was updated to \"USCIS is processing the case\". Now our kid (2.5 years old) has biometrics (Just photographed and I signed his name). However, the status was not updated to \"USCIS is processing the case\". Does anyone had the experience? Anything should I do on my end?…",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-12T05:17:23.262Z",
+  "syncedAt": "2026-07-12T07:59:30.235Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
