@@ -76,6 +76,24 @@
       }
     },
     {
+      "id": "t3_1uuum4t",
+      "title": "Testimonial Letters for RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuum4t/testimonial_letters_for_rfe/",
+      "author": "/u/MasterPlasmid",
+      "publishedAt": "2026-07-12T23:12:38+00:00",
+      "excerpt": "How did you guys manage to get testimonial letter for your proposed endeavor? I have finalized referees for recommendation letter for my I-140 RFE, but I am stuck on how to search for testimonial letter from gov or quasi-gov organization. Any suggestions?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uutg8p",
       "title": "For PP when does the 45 start, from the day the courier delivers the file or the day it reflected online?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uutg8p/for_pp_when_does_the_45_start_from_the_day_the/",
@@ -447,27 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1utbedj",
-      "title": "Question regarding Derivative",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utbedj/question_regarding_derivative/",
-      "author": "/u/Happy-Influence7910",
-      "publishedAt": "2026-07-11T05:36:29+00:00",
-      "excerpt": "Hello good people- need a suggestion from you- My spouse was in F1 status and completed their MS in Spring 2026. I20 expired on May 31, 2026. We both submitted our I-485 applications in April, and the biometric appointment was completed in early May. I’m on H1B, but my spouse didn’t apply for OPT (initially planned but…",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-12T22:37:48.381Z",
+  "syncedAt": "2026-07-12T23:42:40.544Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
