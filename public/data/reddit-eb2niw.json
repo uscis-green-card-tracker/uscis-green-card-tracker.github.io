@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1uuqvi6",
+      "title": "I-485 approved today after 103 days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuqvi6/i485_approved_today_after_103_days/",
+      "author": "/u/gothmushishi95",
+      "publishedAt": "2026-07-12T20:39:46+00:00",
+      "excerpt": "My I-485 is finally approved after over 100 days. It's a simple NIW EB2 case but I think things are moving faster. Good luck everyone who is still waiting and hope yours gets approved soon. PD: 11/2024 I-140 approval date: late 02/2026 (I filed regularly then switched to premium in 01/2026, got approved within 30 days)…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": "03/31/2026",
+        "priorityDate": "11/20",
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uulzo2",
       "title": "Approved I-485 based on EB2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uulzo2/approved_i485_based_on_eb2_niw/",
@@ -46,6 +66,43 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uus66a",
+      "title": "Ellis Porter Contract with no other comms. Is this normal?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uus66a/ellis_porter_contract_with_no_other_comms_is_this/",
+      "author": "/u/Zestyclose_Stop2449",
+      "publishedAt": "2026-07-12T21:31:21+00:00",
+      "excerpt": "Hi everyone - I filled out the Ellis Porter free evaluation and - within 15 minutes - received an email with link to sign a contract for $6k with refund. This was at 2AM EST. I received no other communication from them, whether it be about the strength of my profile or strategy they have in mind. Is this normal? I can’…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uuqnbv",
+      "title": "Other Attorneys",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuqnbv/other_attorneys/",
+      "author": "/u/Mysterious-Honey5361",
+      "publishedAt": "2026-07-12T20:30:52+00:00",
+      "excerpt": "Hello Everyone, I’m looking for recommendations on EB-2 NIW attorneys. It seems that most applicants choose either Chen Immigration or Ellis Porter. Other than these two, which attorneys or law firms have you personally worked with and successfully obtained an NIW approval? I’m particularly interested in hearing from a…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -408,66 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ut7dvv",
-      "title": "Anyone get i-485 approved recently after submitting an RFE response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut7dvv/anyone_get_i485_approved_recently_after/",
-      "author": "/u/PCI_STAT",
-      "publishedAt": "2026-07-11T02:13:43+00:00",
-      "excerpt": "Filed i-485 on 4/8/26 (physician NIW) Biometrics done in May Got an RFE early on in June to submit proof of completion of my 5 year service requirement. Response was submitted on 6/27 and confirmed received by USCIS on 6/29. Got a silent update 6/30 but have had no updates since then. My case is still at NBC per the ch…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1usza5s",
-      "title": "eb2 niw i140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1usza5s/eb2_niw_i140/",
-      "author": "/u/Successful_Worry_654",
-      "publishedAt": "2026-07-10T20:31:11+00:00",
-      "excerpt": "hello Eb2 niw under normal process Nebraska service centre i140 did anyone get result i140 17th or 18th month.?? I have check uicis scop show now 27 month but the question any body get the results under normal process??how long take to get it ?",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uswvth",
-      "title": "Low citation count",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uswvth/low_citation_count/",
-      "author": "/u/One-Rhubarb2137",
-      "publishedAt": "2026-07-10T19:01:18+00:00",
-      "excerpt": "I know it is getting old, but I want to know if any of you guys here got approved with a research field along with a low citation count recently?",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-12T20:01:37.978Z",
+  "syncedAt": "2026-07-12T21:39:23.416Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
