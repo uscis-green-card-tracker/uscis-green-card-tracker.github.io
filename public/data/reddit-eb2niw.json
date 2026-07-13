@@ -76,6 +76,24 @@
       }
     },
     {
+      "id": "t3_1uv2e2u",
+      "title": "Hi guys, Genuine question: If i am the primary applicant, do i add spouse documents to i907, i140 and to exhibit?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uv2e2u/hi_guys_genuine_question_if_i_am_the_primary/",
+      "author": "/u/Aggravating_Car4745",
+      "publishedAt": "2026-07-13T05:24:51+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uuum4t",
       "title": "Testimonial Letters for RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuum4t/testimonial_letters_for_rfe/",
@@ -445,26 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ut62zd",
-      "title": "Built a tool to find NIW cases by endeavor and seeded it with cases self-reported on this sub",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut62zd/built_a_tool_to_find_niw_cases_by_endeavor_and/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-07-11T01:10:47+00:00",
-      "excerpt": "Hi everyone, I’m a software engineer and I’ve recently filed my petition. currently waiting for the PP 45 business days. I spent the last few days building a tool to centralize NIW cases, a place to find real, recent NIW cases and see their timelines. You can filter by broad endeavor area, profile (research or industry…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-13T01:49:47.634Z",
+  "syncedAt": "2026-07-13T05:26:39.121Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
