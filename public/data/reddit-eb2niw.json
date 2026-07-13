@@ -165,16 +165,16 @@
       }
     },
     {
-      "id": "t3_1uvihha",
-      "title": "Fees and Firm recommendations?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvihha/fees_and_firm_recommendations/",
-      "author": "/u/BlossomOTG",
-      "publishedAt": "2026-07-13T17:40:45+00:00",
-      "excerpt": "Hey, My Family and I are just starting the journey of applying for our EB2 NIW and I'm curious what kind of fees did you end up paying? I work in Tech and AI I have a Bachelors degree and 19 years of expierience in the UK as well as other things that apparently make my case very strong. That is according to the guys as…",
+      "id": "t3_1uvs6ku",
+      "title": "Some kind of shared database with decision data",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvs6ku/some_kind_of_shared_database_with_decision_data/",
+      "author": "/u/Jumpy_Cheetah_8699",
+      "publishedAt": "2026-07-13T23:41:39+00:00",
+      "excerpt": "Suggestion for anyone who likes to build things. There are many threads asking if anyone with priority dates in the range xyz have gotten responses or asking how long it took to get an approval after rfe. Would be nice if we had one central database that users can submit their case numbers and timelines to so that peop…",
       "topics": [
+        "approval",
         "i140",
-        "lawyer",
-        "question"
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -210,6 +210,25 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvihha",
+      "title": "Fees and Firm recommendations?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvihha/fees_and_firm_recommendations/",
+      "author": "/u/BlossomOTG",
+      "publishedAt": "2026-07-13T17:40:45+00:00",
+      "excerpt": "Hey, My Family and I are just starting the journey of applying for our EB2 NIW and I'm curious what kind of fees did you end up paying? I work in Tech and AI I have a Bachelors degree and 19 years of expierience in the UK as well as other things that apparently make my case very strong. That is according to the guys as…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -443,27 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uuxkag",
-      "title": "EAD and AOS",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuxkag/ead_and_aos/",
-      "author": "/u/Accurate_Stomach_536",
-      "publishedAt": "2026-07-13T01:24:32+00:00",
-      "excerpt": "Do you follow the statistics of the app lawfully? Do they have access to processing and quantity information?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-13T22:44:39.051Z",
+  "syncedAt": "2026-07-13T23:42:51.874Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
