@@ -94,6 +94,42 @@
       }
     },
     {
+      "id": "t3_1uuxkag",
+      "title": "EAD and AOS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuxkag/ead_and_aos/",
+      "author": "/u/Accurate_Stomach_536",
+      "publishedAt": "2026-07-13T01:24:32+00:00",
+      "excerpt": "Do you follow the statistics of the app lawfully? Do they have access to processing and quantity information?",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uuwpe4",
+      "title": "Premium Processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuwpe4/premium_processing/",
+      "author": "/u/Winter-Technology807",
+      "publishedAt": "2026-07-13T00:44:45+00:00",
+      "excerpt": "Hi. I filed Form I-140 for EB-2 NIW online through myUSCIS using the PDF upload method and received an IOE receipt number. I want to upgrade to premium processing using Form I-907. Should I file the I-907 through my myUSCIS account online (pdf upload) or mail it to the service center? And if by mail, which service cent…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uutg8p",
       "title": "For PP when does the 45 start, from the day the courier delivers the file or the day it reflected online?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uutg8p/for_pp_when_does_the_45_start_from_the_day_the/",
@@ -426,48 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1usoarr",
-      "title": "I-485 approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1usoarr/i485_approved/",
-      "author": "/u/mjah1993",
-      "publishedAt": "2026-07-10T13:51:17+00:00",
-      "excerpt": "After two years, I finally have my green card. Priority date I-140: Nov 12, 2024 (Filed with Wegreened) I-140 approval: Jan 28, 2025 (premium processing), Nebraska Center Priority date DOF current: Mar 1, 2026, FAD became current : Apr 1, 2026. I-485 and I-765 submission: Apr 3, 2026 (Filed with Wegreened) Biometrics: …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1uthxic",
-      "title": "Need to decide between a fully funded Ph.D. and a Day 1 CPT Ph.D. before my STEM OPT expires",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uthxic/need_to_decide_between_a_fully_funded_phd_and_a/",
-      "author": "/u/Short_Ad_2405",
-      "publishedAt": "2026-07-11T11:46:04+00:00",
-      "excerpt": "Hi everyone, My STEM OPT is almost expired, and I need to make a final decision between two options. I know this is ultimately a personal decision, but I would really appreciate hearing from people who have been in a similar situation or have experience with either path. I work in the civil engineering/construction ind…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-12T23:42:40.544Z",
+  "syncedAt": "2026-07-13T01:49:47.634Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
