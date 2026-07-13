@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1uvlbhq",
+      "title": "I-140 approved after RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvlbhq/i140_approved_after_rfe/",
+      "author": "/u/Academic_Summer_5165",
+      "publishedAt": "2026-07-13T19:20:26+00:00",
+      "excerpt": "Reddit posts helped me with writting my RFE response, so I'd like to share my experience to help others out. Case details are below. Field: Agricultural Scienes Current position: Postdoc in the U.S. with a PhD degree from Australia. Publications: 15 first authored papers Citations: 161 citations at the time of filling,…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1uvebv9",
       "title": "Chen RFE experience",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvebv9/chen_rfe_experience/",
@@ -112,6 +131,21 @@
       }
     },
     {
+      "id": "t3_1uvln92",
+      "title": "55 calendar days - premium-processing clock - 37 business days. So stressing and anxious!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvln92/55_calendar_days_premiumprocessing_clock_37/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-07-13T19:31:59+00:00",
+      "excerpt": "",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uvhppt",
       "title": "Title: EB-2 NIW Strategy: How to get US-based Independent LORs for a Manufacturing Endeavor?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvhppt/title_eb2_niw_strategy_how_to_get_usbased/",
@@ -147,27 +181,6 @@
       }
     },
     {
-      "id": "t3_1uvkumu",
-      "title": "What are the chances of getting approval of I-485 before New Years?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvkumu/what_are_the_chances_of_getting_approval_of_i485/",
-      "author": "/u/Shebaro",
-      "publishedAt": "2026-07-13T19:03:36+00:00",
-      "excerpt": "My timeline and profile: Single Filer with medical exam attached when filing. PD: 07/07/2025 (with approved I-140 NIW) RD: 03/27/2026 Biometrics: 04/27/2026 2FTA0 right after biometrics Silent updates: 05/27/2026, 05/29/2026 (this one was applied to all closed and open cases in myUSCIS account), 06/04/2026, and 06/06/2…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": "03/27/2026",
-        "priorityDate": "07/07/2025",
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1uuqvi6",
       "title": "I-485 approved today after 103 days",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuqvi6/i485_approved_today_after_103_days/",
@@ -184,6 +197,27 @@
         "blockNumber": null,
         "receiptDate": "03/31/2026",
         "priorityDate": "11/20",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uva263",
+      "title": "I-140 NIW RFE Timeline After Response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uva263/i140_niw_rfe_timeline_after_response/",
+      "author": "/u/Material-Force-9855",
+      "publishedAt": "2026-07-13T12:23:37+00:00",
+      "excerpt": "Hi everyone, My attorney submitted my I-140 NIW RFE response over 30 business days ago, and I'm still waiting for a decision. The RFE was on Prong 2 and Prong 3. For those who had a similar RFE: How long did USCIS take after receiving your response? Was your case approved or denied? Just trying to get an idea of others…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -254,27 +288,6 @@
         "approval",
         "i485",
         "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uva263",
-      "title": "I-140 NIW RFE Timeline After Response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uva263/i140_niw_rfe_timeline_after_response/",
-      "author": "/u/Material-Force-9855",
-      "publishedAt": "2026-07-13T12:23:37+00:00",
-      "excerpt": "Hi everyone, My attorney submitted my I-140 NIW RFE response over 30 business days ago, and I'm still waiting for a decision. The RFE was on Prong 2 and Prong 3. For those who had a similar RFE: How long did USCIS take after receiving your response? Was your case approved or denied? Just trying to get an idea of others…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
         "timeline",
         "question"
       ],
@@ -448,26 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uuiv9s",
-      "title": "Has anyone here been denied based on prong 2&3 only?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuiv9s/has_anyone_here_been_denied_based_on_prong_23_only/",
-      "author": "/u/Any_Damage3590",
-      "publishedAt": "2026-07-12T15:41:13+00:00",
-      "excerpt": "Most denials I see here seem to be as a result of 1&3. Was curious is anyone gets denied based on 2&3 and if you know of any posts on here I could read.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-13T19:11:50.482Z",
+  "syncedAt": "2026-07-13T20:49:25.855Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
