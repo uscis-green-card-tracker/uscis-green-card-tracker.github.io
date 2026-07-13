@@ -55,6 +55,45 @@
       }
     },
     {
+      "id": "t3_1uvam8k",
+      "title": "prong 2 RFE BD44",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvam8k/prong_2_rfe_bd44/",
+      "author": "/u/The_oppenheimer",
+      "publishedAt": "2026-07-13T12:48:36+00:00",
+      "excerpt": "XM2513 Officer Id How bad is it? Citations were 112 Now 136 He said 112 citations, but no independent vs. self-citation breakdown Citing papers treat your work as “background.” No funding, grants, or awards documented No letters from government or interested entities. Peer review participation not contextualized.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uva263",
+      "title": "I-140 NIW RFE Timeline After Response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uva263/i140_niw_rfe_timeline_after_response/",
+      "author": "/u/Material-Force-9855",
+      "publishedAt": "2026-07-13T12:23:37+00:00",
+      "excerpt": "Hi everyone, My attorney submitted my I-140 NIW RFE response over 30 business days ago, and I'm still waiting for a decision. The RFE was on Prong 2 and Prong 3. For those who had a similar RFE: How long did USCIS take after receiving your response? Was your case approved or denied? Just trying to get an idea of others…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uulzo2",
       "title": "Approved I-485 based on EB2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uulzo2/approved_i485_based_on_eb2_niw/",
@@ -425,48 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ut8tuc",
-      "title": "Approval - June 2025 I-485 filer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ut8tuc/approval_june_2025_i485_filer/",
-      "author": "/u/mahler004",
-      "publishedAt": "2026-07-11T03:24:02+00:00",
-      "excerpt": "This forum and others has been helpful to me, although I question if obsessively tracking other people's updates has been good for my mental health. Anyway, to add to the noise: Underlying status - J-1 at time of I-140 submission, transferred to H-1B so was in H-1B from I-485 submission to approval. No status violation…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1utoo9o",
-      "title": "Anyone from 75 traveling with AP?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1utoo9o/anyone_from_75_traveling_with_ap/",
-      "author": "/u/QuaeritScientiam",
-      "publishedAt": "2026-07-11T16:30:50+00:00",
-      "excerpt": "Hi, fellow redditors I’m from one of 75 countries and applied for AOS early June. I want to visit my family next year when AP arrives and wonder if anyone has done it already and what their experience was. For context - my I-140 is still pending, PD is late January 2025, my lawyer kept advising against PP so I’m really…",
-      "topics": [
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-07-13T11:51:25.855Z",
+  "syncedAt": "2026-07-13T14:05:14.252Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
