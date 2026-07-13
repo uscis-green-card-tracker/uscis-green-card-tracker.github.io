@@ -112,6 +112,24 @@
       }
     },
     {
+      "id": "t3_1uutg8p",
+      "title": "For PP when does the 45 start, from the day the courier delivers the file or the day it reflected online?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uutg8p/for_pp_when_does_the_45_start_from_the_day_the/",
+      "author": "/u/External_College_796",
+      "publishedAt": "2026-07-12T22:23:28+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uuxkag",
       "title": "EAD and AOS",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuxkag/ead_and_aos/",
@@ -136,24 +154,6 @@
       "author": "/u/Winter-Technology807",
       "publishedAt": "2026-07-13T00:44:45+00:00",
       "excerpt": "Hi. I filed Form I-140 for EB-2 NIW online through myUSCIS using the PDF upload method and received an IOE receipt number. I want to upgrade to premium processing using Form I-907. Should I file the I-907 through my myUSCIS account online (pdf upload) or mail it to the service center? And if by mail, which service cent…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uutg8p",
-      "title": "For PP when does the 45 start, from the day the courier delivers the file or the day it reflected online?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uutg8p/for_pp_when_does_the_45_start_from_the_day_the/",
-      "author": "/u/External_College_796",
-      "publishedAt": "2026-07-12T22:23:28+00:00",
-      "excerpt": "",
       "topics": [
         "i140",
         "question"
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-13T05:26:39.121Z",
+  "syncedAt": "2026-07-13T08:48:26.493Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
