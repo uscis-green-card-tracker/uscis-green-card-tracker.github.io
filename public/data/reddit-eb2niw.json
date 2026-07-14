@@ -74,24 +74,6 @@
       }
     },
     {
-      "id": "t3_1uvyg14",
-      "title": "I-140 DENIED",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvyg14/i140_denied/",
-      "author": "/u/Devil_Maverick",
-      "publishedAt": "2026-07-14T04:30:46+00:00",
-      "excerpt": "I am a PhD candidate at R1 university and had my masters from same university in Material Science and Engineering. My PE was: focuses on the design, synthesis, and implementation of next-generation solid lubricant nanocomposite coatings to achieve macroscale superlubricity a state of near-zero friction and wear—in extr…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uvtytk",
       "title": "Green card production",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvtytk/green_card_production/",
@@ -101,26 +83,6 @@
       "topics": [
         "approval",
         "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uvzcr7",
-      "title": "Chen new recommendation for PP. Suggestions",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvzcr7/chen_new_recommendation_for_pp_suggestions/",
-      "author": "/u/Money-Spare9387",
-      "publishedAt": "2026-07-14T05:17:16+00:00",
-      "excerpt": "Chen initially recommended filing under regular processing first, and then upgrading to PP once the I-140 notice is received, after which we can upgrade to PP. However, now their suggestion has been changed. What are y'all thoughts on upgrading to PP right at the time of submission? FYI, my case is for approval or a re…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -141,6 +103,42 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvyg14",
+      "title": "I-140 DENIED",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvyg14/i140_denied/",
+      "author": "/u/Devil_Maverick",
+      "publishedAt": "2026-07-14T04:30:46+00:00",
+      "excerpt": "I am a PhD candidate at R1 university and had my masters from same university in Material Science and Engineering. My PE was: focuses on the design, synthesis, and implementation of next-generation solid lubricant nanocomposite coatings to achieve macroscale superlubricity a state of near-zero friction and wear—in extr…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvxnv0",
+      "title": "Attorney suggestion for RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvxnv0/attorney_suggestion_for_rfe/",
+      "author": "/u/huseyinsaricam",
+      "publishedAt": "2026-07-14T03:50:43+00:00",
+      "excerpt": "Hi everyone, I recently got RFE on my DIY petition. Uscis found my proposed endeavor is merit but didn’t agree on national importance and asked for broader support. Also they found the recommendation letters were not discuss any specific achievements, recommendation, record of success in the field.",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -204,55 +202,17 @@
       }
     },
     {
-      "id": "t3_1uvqkw1",
-      "title": "I-140 NIW option - National Lab?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvqkw1/i140_niw_option_national_lab/",
-      "author": "/u/Fun-Progress484",
-      "publishedAt": "2026-07-13T22:34:37+00:00",
-      "excerpt": "Hello again community, I do not have many people around me who understand the stress that comes from this kind of uncertainty, so I wanted to yap about this once again with you all. I am currently waiting for a decision on my RFE, and I will likely hear something by September 15. Based on the current atmosphere and how…",
+      "id": "t3_1uvzcr7",
+      "title": "Chen new recommendation for PP. Suggestions",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvzcr7/chen_new_recommendation_for_pp_suggestions/",
+      "author": "/u/Money-Spare9387",
+      "publishedAt": "2026-07-14T05:17:16+00:00",
+      "excerpt": "Chen initially recommended filing under regular processing first, and then upgrading to PP once the I-140 notice is received, after which we can upgrade to PP. However, now their suggestion has been changed. What are y'all thoughts on upgrading to PP right at the time of submission? FYI, my case is for approval or a re…",
       "topics": [
         "approval",
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uvgafo",
-      "title": "NIW I-140 Denial: Water Resources / Renewable Energy",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvgafo/niw_i140_denial_water_resources_renewable_energy/",
-      "author": "/u/Zealousideal_Good474",
-      "publishedAt": "2026-07-13T16:23:11+00:00",
-      "excerpt": "Hi all. I have benefited a lot from this community throughout my process, so I want to give back by sharing my case details. I am planning to refile and would appreciate any advice or encouragement, I am still digesting this denial. Background • Field: Water Resources / Environmental Engineering, focused on hydrologica…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uvxnv0",
-      "title": "Attorney suggestion for RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvxnv0/attorney_suggestion_for_rfe/",
-      "author": "/u/huseyinsaricam",
-      "publishedAt": "2026-07-14T03:50:43+00:00",
-      "excerpt": "Hi everyone, I recently got RFE on my DIY petition. Uscis found my proposed endeavor is merit but didn’t agree on national importance and asked for broader support. Also they found the recommendation letters were not discuss any specific achievements, recommendation, record of success in the field.",
-      "topics": [
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -290,6 +250,26 @@
         "i140",
         "timeline",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvgafo",
+      "title": "NIW I-140 Denial: Water Resources / Renewable Energy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvgafo/niw_i140_denial_water_resources_renewable_energy/",
+      "author": "/u/Zealousideal_Good474",
+      "publishedAt": "2026-07-13T16:23:11+00:00",
+      "excerpt": "Hi all. I have benefited a lot from this community throughout my process, so I want to give back by sharing my case details. I am planning to refile and would appreciate any advice or encouragement, I am still digesting this denial. Background • Field: Water Resources / Environmental Engineering, focused on hydrologica…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -406,25 +386,6 @@
       }
     },
     {
-      "id": "t3_1uvebv9",
-      "title": "Chen RFE experience",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvebv9/chen_rfe_experience/",
-      "author": "/u/Alternative_Cup_4592",
-      "publishedAt": "2026-07-13T15:11:52+00:00",
-      "excerpt": "Actually this is my second time filing with Chen (previously denied) and I noticed their response has been significantly delayed these days. I uploaded an RFE notice two weeks ago, but I didn't hear anything back from them yet except that they are actively preparing it. Last year, they got back to me with a detailed re…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uvhppt",
       "title": "Title: EB-2 NIW Strategy: How to get US-based Independent LORs for a Manufacturing Endeavor?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvhppt/title_eb2_niw_strategy_how_to_get_usbased/",
@@ -458,9 +419,47 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1uuqvi6",
+      "title": "I-485 approved today after 103 days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uuqvi6/i485_approved_today_after_103_days/",
+      "author": "/u/gothmushishi95",
+      "publishedAt": "2026-07-12T20:39:46+00:00",
+      "excerpt": "My I-485 is finally approved after over 100 days. It's a simple NIW EB2 case but I think things are moving faster. Good luck everyone who is still waiting and hope yours gets approved soon. PD: 11/2024 I-140 approval date: late 02/2026 (I filed regularly then switched to premium in 01/2026, got approved within 30 days)…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": "03/31/2026",
+        "priorityDate": "11/20",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvam8k",
+      "title": "prong 2 RFE BD44",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvam8k/prong_2_rfe_bd44/",
+      "author": "/u/The_oppenheimer",
+      "publishedAt": "2026-07-13T12:48:36+00:00",
+      "excerpt": "XM2513 Officer Id How bad is it? Citations were 112 Now 136 He said 112 citations, but no independent vs. self-citation breakdown Citing papers treat your work as “background.” No funding, grants, or awards documented No letters from government or interested entities. Peer review participation not contextualized.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-07-14T07:03:21.838Z",
+  "syncedAt": "2026-07-14T09:46:39.676Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
