@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1uvwxwn",
+      "title": "Approval timeline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvwxwn/approval_timeline/",
+      "author": "/u/hasmorlih",
+      "publishedAt": "2026-07-14T03:15:44+00:00",
+      "excerpt": "Hi everyone, I have been a lurker here for a long time, and this community has been very helpful to say the least. Hence, I’d like to share my timeline with you. My status was STEM-OPT, and I worked with attorneys on both I-140 and I-485. My general observation is that it is important to have I-140 petition to be as gr…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uvlbhq",
       "title": "I-140 approved after RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvlbhq/i140_approved_after_rfe/",
@@ -74,16 +94,16 @@
       }
     },
     {
-      "id": "t3_1uvs6ku",
-      "title": "Some kind of shared database with decision data",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvs6ku/some_kind_of_shared_database_with_decision_data/",
-      "author": "/u/Jumpy_Cheetah_8699",
-      "publishedAt": "2026-07-13T23:41:39+00:00",
-      "excerpt": "Suggestion for anyone who likes to build things. There are many threads asking if anyone with priority dates in the range xyz have gotten responses or asking how long it took to get an approval after rfe. Would be nice if we had one central database that users can submit their case numbers and timelines to so that peop…",
+      "id": "t3_1uvtytk",
+      "title": "Green card production",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvtytk/green_card_production/",
+      "author": "/u/wolfensteindoc",
+      "publishedAt": "2026-07-14T00:59:24+00:00",
+      "excerpt": "Hey! I have realized many people were approved July 4th (i485) and I’m one of those! Congrats to everyone! I still don’t see “card is being produced” and it has been almost 10 days. It only shows “case was accepted” I’m going to travel back home July 31st after a loooooong wait. Should I feel confident about traveling?…",
       "topics": [
         "approval",
-        "i140",
-        "timeline"
+        "i485",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -111,14 +131,34 @@
       }
     },
     {
-      "id": "t3_1uvskkm",
-      "title": "How many pages should the RFE response letter be?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvskkm/how_many_pages_should_the_rfe_response_letter_be/",
-      "author": "/u/Adorable_Spell5600",
-      "publishedAt": "2026-07-13T23:58:50+00:00",
-      "excerpt": "Those of you successfully defended RFE, how many pages were the response letter? I'm crafting mine and would be helpful have a guideline",
+      "id": "t3_1uvs6ku",
+      "title": "Some kind of shared database with decision data",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvs6ku/some_kind_of_shared_database_with_decision_data/",
+      "author": "/u/Jumpy_Cheetah_8699",
+      "publishedAt": "2026-07-13T23:41:39+00:00",
+      "excerpt": "Suggestion for anyone who likes to build things. There are many threads asking if anyone with priority dates in the range xyz have gotten responses or asking how long it took to get an approval after rfe. Would be nice if we had one central database that users can submit their case numbers and timelines to so that peop…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvymi2",
+      "title": "Reviews of Ellis Porter for EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvymi2/reviews_of_ellis_porter_for_eb2_niw/",
+      "author": "/u/OriginalWin2082",
+      "publishedAt": "2026-07-14T04:39:53+00:00",
+      "excerpt": "I got my profile evaluated for EB2 NIW from both Chen and Ellis Porter. Chen did not accept my profile while Ellis Porter has given me an approve or refund option. I have heard mixed reviews of EP overall. Can someone please let me know how EP is and whether I should go ahead with them?",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -149,15 +189,87 @@
       }
     },
     {
-      "id": "t3_1uvebv9",
-      "title": "Chen RFE experience",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvebv9/chen_rfe_experience/",
-      "author": "/u/Alternative_Cup_4592",
-      "publishedAt": "2026-07-13T15:11:52+00:00",
-      "excerpt": "Actually this is my second time filing with Chen (previously denied) and I noticed their response has been significantly delayed these days. I uploaded an RFE notice two weeks ago, but I didn't hear anything back from them yet except that they are actively preparing it. Last year, they got back to me with a detailed re…",
+      "id": "t3_1uvyg14",
+      "title": "I-140 DENIED",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvyg14/i140_denied/",
+      "author": "/u/Devil_Maverick",
+      "publishedAt": "2026-07-14T04:30:46+00:00",
+      "excerpt": "I am a PhD candidate at R1 university and had my masters from same university in Material Science and Engineering. My PE was: focuses on the design, synthesis, and implementation of next-generation solid lubricant nanocomposite coatings to achieve macroscale superlubricity a state of near-zero friction and wear—in extr…",
       "topics": [
         "i140",
-        "lawyer",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvxnv0",
+      "title": "Attorney suggestion for RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvxnv0/attorney_suggestion_for_rfe/",
+      "author": "/u/huseyinsaricam",
+      "publishedAt": "2026-07-14T03:50:43+00:00",
+      "excerpt": "Hi everyone, I recently got RFE on my DIY petition. Uscis found my proposed endeavor is merit but didn’t agree on national importance and asked for broader support. Also they found the recommendation letters were not discuss any specific achievements, recommendation, record of success in the field.",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvskkm",
+      "title": "How many pages should the RFE response letter be?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvskkm/how_many_pages_should_the_rfe_response_letter_be/",
+      "author": "/u/Adorable_Spell5600",
+      "publishedAt": "2026-07-13T23:58:50+00:00",
+      "excerpt": "Those of you successfully defended RFE, how many pages were the response letter? I'm crafting mine and would be helpful have a guideline",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvx09p",
+      "title": "Alguien más fuera de EE.UU",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvx09p/alguien_más_fuera_de_eeuu/",
+      "author": "/u/TheVazquez23",
+      "publishedAt": "2026-07-14T03:18:51+00:00",
+      "excerpt": "Alguien más fuera de los Estados Unidos siente al igual que yo que le están dando prioridad a los ajustes de estatus?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uvvbsa",
+      "title": "Anyone recently been approved for I-485 at NY FO?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvvbsa/anyone_recently_been_approved_for_i485_at_ny_fo/",
+      "author": "/u/Several-Gene8214",
+      "publishedAt": "2026-07-14T02:01:02+00:00",
+      "excerpt": "Has anyone with an RD of February 2026 recently been approved for I-485, specifically at the NY FO? The Google Sheet shows that several people at NY FO are still waiting for adjudication. I feel like they almost stopped working on EB-based AOS cases.",
+      "topics": [
+        "approval",
+        "i485",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -202,15 +314,15 @@
       }
     },
     {
-      "id": "t3_1uvtytk",
-      "title": "Green card production",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvtytk/green_card_production/",
-      "author": "/u/wolfensteindoc",
-      "publishedAt": "2026-07-14T00:59:24+00:00",
-      "excerpt": "Hey! I have realized many people were approved July 4th (i485) and I’m one of those! Congrats to everyone! I still don’t see “card is being produced” and it has been almost 10 days. It only shows “case was accepted” I’m going to travel back home July 31st after a loooooong wait. Should I feel confident about traveling?…",
+      "id": "t3_1uvebv9",
+      "title": "Chen RFE experience",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvebv9/chen_rfe_experience/",
+      "author": "/u/Alternative_Cup_4592",
+      "publishedAt": "2026-07-13T15:11:52+00:00",
+      "excerpt": "Actually this is my second time filing with Chen (previously denied) and I noticed their response has been significantly delayed these days. I uploaded an RFE notice two weeks ago, but I didn't hear anything back from them yet except that they are actively preparing it. Last year, they got back to me with a detailed re…",
       "topics": [
-        "approval",
-        "i485",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -229,25 +341,6 @@
       "excerpt": "Hi How long does it usually take USCIS update case status after they receive RFE response? Today is the due date for my rfe response and USCIS received my package last thursday but there is no any update on case status. I am doing premium processing",
       "topics": [
         "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uvhufa",
-      "title": "Delays with final petition formation (Chen)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvhufa/delays_with_final_petition_formation_chen/",
-      "author": "/u/Agreeable-Tank9147",
-      "publishedAt": "2026-07-13T17:18:23+00:00",
-      "excerpt": "So, the last signed document that I had to provide was sent to Chen 10 days ago. I reached out to them last Thursday to check if there is any timeline, and they said 1-3 days. They seem to take their time preparing the final set of papers. Did you have an experience with that?",
-      "topics": [
-        "lawyer",
         "timeline",
         "question"
       ],
@@ -350,112 +443,15 @@
       }
     },
     {
-      "id": "t3_1uvam8k",
-      "title": "prong 2 RFE BD44",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvam8k/prong_2_rfe_bd44/",
-      "author": "/u/The_oppenheimer",
-      "publishedAt": "2026-07-13T12:48:36+00:00",
-      "excerpt": "XM2513 Officer Id How bad is it? Citations were 112 Now 136 He said 112 citations, but no independent vs. self-citation breakdown Citing papers treat your work as “background.” No funding, grants, or awards documented No letters from government or interested entities. Peer review participation not contextualized.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uva263",
-      "title": "I-140 NIW RFE Timeline After Response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uva263/i140_niw_rfe_timeline_after_response/",
-      "author": "/u/Material-Force-9855",
-      "publishedAt": "2026-07-13T12:23:37+00:00",
-      "excerpt": "Hi everyone, My attorney submitted my I-140 NIW RFE response over 30 business days ago, and I'm still waiting for a decision. The RFE was on Prong 2 and Prong 3. For those who had a similar RFE: How long did USCIS take after receiving your response? Was your case approved or denied? Just trying to get an idea of others…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uv964h",
-      "title": "PD 29 Dec 2025 (Standard Processing) – Chances of a decision in the next 3–6 months? Considering Premium Processing in October",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uv964h/pd_29_dec_2025_standard_processing_chances_of_a/",
-      "author": "/u/FunOwn1799",
-      "publishedAt": "2026-07-13T11:42:58+00:00",
-      "excerpt": "Hi everyone, I’m looking for some opinions from those who have been following the recent NIW processing trends. My details are: Category: EB-2 NIW Priority Date: 29 December 2025 Processing: Standard (no Premium Processing) Country of chargeability: UK (ROW) Currently outside the US , planning consular processing if ap…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uv7q5r",
-      "title": "Lawfirm Recommendations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uv7q5r/lawfirm_recommendations/",
-      "author": "/u/Cliff23434312",
-      "publishedAt": "2026-07-13T10:28:42+00:00",
-      "excerpt": "Anyone have experience with any of those law firms would appreciate feedback Kameli Law, Manifest Law and Colombo and Hurd Law? Let me know your experience with them. Having to consider other lawfirms since Chen and Ellis porter did not want to take my case",
+      "id": "t3_1uvhufa",
+      "title": "Delays with final petition formation (Chen)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvhufa/delays_with_final_petition_formation_chen/",
+      "author": "/u/Agreeable-Tank9147",
+      "publishedAt": "2026-07-13T17:18:23+00:00",
+      "excerpt": "So, the last signed document that I had to provide was sent to Chen 10 days ago. I reached out to them last Thursday to check if there is any timeline, and they said 1-3 days. They seem to take their time preparing the final set of papers. Did you have an experience with that?",
       "topics": [
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uulzo2",
-      "title": "Approved I-485 based on EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uulzo2/approved_i485_based_on_eb2_niw/",
-      "author": "/u/Top_Reason2009",
-      "publishedAt": "2026-07-12T17:36:57+00:00",
-      "excerpt": "Hello Guys finally here have been waiting to post this but have one concern as well. I have case approved today but I am moving out of state by Thursday what is good approach to get my green card at new address?? but anyways here is my timeline I have been the luckiest to get it very quickly without any RFE My I-140 wa…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uv2e2u",
-      "title": "Hi guys, Genuine question: If i am the primary applicant, do i add spouse documents to i907, i140 and to exhibit?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uv2e2u/hi_guys_genuine_question_if_i_am_the_primary/",
-      "author": "/u/Aggravating_Car4745",
-      "publishedAt": "2026-07-13T05:24:51+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -466,7 +462,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-14T01:26:39.788Z",
+  "syncedAt": "2026-07-14T04:40:59.094Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
