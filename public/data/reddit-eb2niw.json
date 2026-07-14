@@ -74,6 +74,24 @@
       }
     },
     {
+      "id": "t3_1uvyg14",
+      "title": "I-140 DENIED",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvyg14/i140_denied/",
+      "author": "/u/Devil_Maverick",
+      "publishedAt": "2026-07-14T04:30:46+00:00",
+      "excerpt": "I am a PhD candidate at R1 university and had my masters from same university in Material Science and Engineering. My PE was: focuses on the design, synthesis, and implementation of next-generation solid lubricant nanocomposite coatings to achieve macroscale superlubricity a state of near-zero friction and wear—in extr…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uvtytk",
       "title": "Green card production",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvtytk/green_card_production/",
@@ -84,43 +102,6 @@
         "approval",
         "i485",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uvymi2",
-      "title": "Reviews of Ellis Porter for EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvymi2/reviews_of_ellis_porter_for_eb2_niw/",
-      "author": "/u/OriginalWin2082",
-      "publishedAt": "2026-07-14T04:39:53+00:00",
-      "excerpt": "I got my profile evaluated for EB2 NIW from both Chen and Ellis Porter. Chen did not accept my profile while Ellis Porter has given me an approve or refund option. I have heard mixed reviews of EP overall. Can someone please let me know how EP is and whether I should go ahead with them?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uvyg14",
-      "title": "I-140 DENIED",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvyg14/i140_denied/",
-      "author": "/u/Devil_Maverick",
-      "publishedAt": "2026-07-14T04:30:46+00:00",
-      "excerpt": "I am a PhD candidate at R1 university and had my masters from same university in Material Science and Engineering. My PE was: focuses on the design, synthesis, and implementation of next-generation solid lubricant nanocomposite coatings to achieve macroscale superlubricity a state of near-zero friction and wear—in extr…",
-      "topics": [
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -222,6 +203,25 @@
       }
     },
     {
+      "id": "t3_1uvymi2",
+      "title": "Reviews of Ellis Porter for EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvymi2/reviews_of_ellis_porter_for_eb2_niw/",
+      "author": "/u/OriginalWin2082",
+      "publishedAt": "2026-07-14T04:39:53+00:00",
+      "excerpt": "I got my profile evaluated for EB2 NIW from both Chen and Ellis Porter. Chen did not accept my profile while Ellis Porter has given me an approve or refund option. I have heard mixed reviews of EP overall. Can someone please let me know how EP is and whether I should go ahead with them?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uvskkm",
       "title": "How many pages should the RFE response letter be?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvskkm/how_many_pages_should_the_rfe_response_letter_be/",
@@ -259,6 +259,23 @@
       }
     },
     {
+      "id": "t3_1uvx09p",
+      "title": "Alguien más fuera de EE.UU",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvx09p/alguien_más_fuera_de_eeuu/",
+      "author": "/u/TheVazquez23",
+      "publishedAt": "2026-07-14T03:18:51+00:00",
+      "excerpt": "Alguien más fuera de los Estados Unidos siente al igual que yo que le están dando prioridad a los ajustes de estatus?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uvgafo",
       "title": "NIW I-140 Denial: Water Resources / Renewable Energy",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvgafo/niw_i140_denial_water_resources_renewable_energy/",
@@ -270,23 +287,6 @@
         "i140",
         "lawyer",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uvx09p",
-      "title": "Alguien más fuera de EE.UU",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvx09p/alguien_más_fuera_de_eeuu/",
-      "author": "/u/TheVazquez23",
-      "publishedAt": "2026-07-14T03:18:51+00:00",
-      "excerpt": "Alguien más fuera de los Estados Unidos siente al igual que yo que le están dando prioridad a los ajustes de estatus?",
-      "topics": [
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-14T09:46:39.676Z",
+  "syncedAt": "2026-07-14T11:17:35.687Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
