@@ -74,6 +74,23 @@
       }
     },
     {
+      "id": "t3_1uwj3ox",
+      "title": "39 Business days under PP and today I received a RFE status in the portal. I’ll wait more hours to see if the document is uploaded so I can start working on the RFE. Wish me luck!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwj3ox/39_business_days_under_pp_and_today_i_received_a/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-07-14T19:43:28+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uwe8hg",
       "title": "NIW PP — RFE on All 3 Prongs Requesting Evidence Already Submitted — Entrepreneurial Proposed Endeavor",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwe8hg/niw_pp_rfe_on_all_3_prongs_requesting_evidence/",
@@ -104,6 +121,23 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uwlt57",
+      "title": "Family reunification",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwlt57/family_reunification/",
+      "author": "/u/Family9762",
+      "publishedAt": "2026-07-14T21:25:00+00:00",
+      "excerpt": "Hi everyone, My wife from one of the 39 countries subject to Presidential Proclamation 10998. She attended her immigrant visa interview (IR-1 spouse of a U.S. citizen) and received the following letter: Immigrant Visa or Fiancé Visa – Ineligible under INA 212(f). The letter states that I was found ineligible under Pres…",
+      "topics": [
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -180,23 +214,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uwj3ox",
-      "title": "39 Business days under PP and today I received a RFE status in the portal. I’ll wait more hours to see if the document is uploaded so I can start working on the RFE. Wish me luck!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwj3ox/39_business_days_under_pp_and_today_i_received_a/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-07-14T19:43:28+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -442,28 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uvtytk",
-      "title": "Green card production",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uvtytk/green_card_production/",
-      "author": "/u/wolfensteindoc",
-      "publishedAt": "2026-07-14T00:59:24+00:00",
-      "excerpt": "Hey! I have realized many people were approved July 4th (i485) and I’m one of those! Congrats to everyone! I still don’t see “card is being produced” and it has been almost 10 days. It only shows “case was accepted” I’m going to travel back home July 31st after a loooooong wait. Should I feel confident about traveling?…",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-14T20:49:44.389Z",
+  "syncedAt": "2026-07-14T21:47:25.714Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
