@@ -55,6 +55,26 @@
       }
     },
     {
+      "id": "t3_1uxdnqf",
+      "title": "EB2-NIW as a practicing engineer (no publications, no PhD) — anyone with a similar background?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxdnqf/eb2niw_as_a_practicing_engineer_no_publications/",
+      "author": "/u/FernandoRedHead",
+      "publishedAt": "2026-07-15T18:05:29+00:00",
+      "excerpt": "Hey everyone, long-time lurker here finally posting. I'm a Mechatronics Engineer working as a SCADA & Controls Specialist at a municipal water utility in Texas. My work is focused on industrial automation, OT cybersecurity, and process optimization for water and wastewater infrastructure — which falls under Federal Cri…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uxb5ya",
       "title": "Premium timeline - question",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxb5ya/premium_timeline_question/",
@@ -354,40 +374,6 @@
       }
     },
     {
-      "id": "t3_1uwj3ox",
-      "title": "39 Business days under PP and today I received a RFE status in the portal. I’ll wait more hours to see if the document is uploaded so I can start working on the RFE. Wish me luck!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwj3ox/39_business_days_under_pp_and_today_i_received_a/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-07-14T19:43:28+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uwo4wr",
-      "title": "Independent recommendation letter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwo4wr/independent_recommendation_letter/",
-      "author": "/u/proofofhuman",
-      "publishedAt": "2026-07-14T22:54:27+00:00",
-      "excerpt": "Hi! Does anybody know where I can get an independent RL from a marine biologist/biologist? Thanks in advance",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uwe7e4",
       "title": "RFE from XM2366 - Waiting for Decision",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwe7e4/rfe_from_xm2366_waiting_for_decision/",
@@ -408,16 +394,14 @@
       }
     },
     {
-      "id": "t3_1uwslc6",
-      "title": "Guam Field Office",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwslc6/guam_field_office/",
-      "author": "/u/Low-Examination-5481",
-      "publishedAt": "2026-07-15T02:09:21+00:00",
-      "excerpt": "Hi, long-time lurker! MY RD=3/3/2026. My case was transferred to the Guam Field Office on 6/4. Complete silence since, unfortunately. Anyone else?",
+      "id": "t3_1uwj3ox",
+      "title": "39 Business days under PP and today I received a RFE status in the portal. I’ll wait more hours to see if the document is uploaded so I can start working on the RFE. Wish me luck!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwj3ox/39_business_days_under_pp_and_today_i_received_a/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-07-14T19:43:28+00:00",
+      "excerpt": "",
       "topics": [
-        "i485",
-        "timeline",
-        "question"
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -445,15 +429,32 @@
       }
     },
     {
-      "id": "t3_1uwrqvd",
-      "title": "L-1A holder preparing a future entrepreneurial endeavor — how much can be done before work authorization?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwrqvd/l1a_holder_preparing_a_future_entrepreneurial/",
-      "author": "/u/Patient_Ad1152",
-      "publishedAt": "2026-07-15T01:30:22+00:00",
-      "excerpt": "I am currently working in the United States in valid L-1A status for my sponsoring employer. Separately, I am preparing a potential entrepreneurial endeavor that I may pursue in the future through an EB-2 NIW petition. I am not operating a business, earning revenue, providing services, accepting customers, or working f…",
+      "id": "t3_1uwo4wr",
+      "title": "Independent recommendation letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwo4wr/independent_recommendation_letter/",
+      "author": "/u/proofofhuman",
+      "publishedAt": "2026-07-14T22:54:27+00:00",
+      "excerpt": "Hi! Does anybody know where I can get an independent RL from a marine biologist/biologist? Thanks in advance",
       "topics": [
-        "i140",
-        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uwslc6",
+      "title": "Guam Field Office",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwslc6/guam_field_office/",
+      "author": "/u/Low-Examination-5481",
+      "publishedAt": "2026-07-15T02:09:21+00:00",
+      "excerpt": "Hi, long-time lurker! MY RD=3/3/2026. My case was transferred to the Guam Field Office on 6/4. Complete silence since, unfortunately. Anyone else?",
+      "topics": [
+        "i485",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -464,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-15T17:05:13.955Z",
+  "syncedAt": "2026-07-15T18:54:53.299Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
