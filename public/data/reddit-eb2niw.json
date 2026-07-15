@@ -55,26 +55,6 @@
       }
     },
     {
-      "id": "t3_1uxdnqf",
-      "title": "EB2-NIW as a practicing engineer (no publications, no PhD) — anyone with a similar background?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxdnqf/eb2niw_as_a_practicing_engineer_no_publications/",
-      "author": "/u/FernandoRedHead",
-      "publishedAt": "2026-07-15T18:05:29+00:00",
-      "excerpt": "Hey everyone, long-time lurker here finally posting. I'm a Mechatronics Engineer working as a SCADA & Controls Specialist at a municipal water utility in Texas. My work is focused on industrial automation, OT cybersecurity, and process optimization for water and wastewater infrastructure — which falls under Federal Cri…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uxaytn",
       "title": "NIW Profile Evaluation",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxaytn/niw_profile_evaluation/",
@@ -100,6 +80,26 @@
       "author": "/u/waqaszaidi",
       "publishedAt": "2026-07-15T19:59:12+00:00",
       "excerpt": "Hi everyone, I'm looking for some advice on my EB-2 NIW application. I'm from Pakistan, and to be completely honest, money is a very serious factor for me right now. Coming up with thousands of dollars for lawyer fees is a huge hurdle. My Profile: Education: MS in AI & Autonomous Systems and a BS in Avionics Engineerin…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uxdnqf",
+      "title": "EB2-NIW as a practicing engineer (no publications, no PhD) — anyone with a similar background?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxdnqf/eb2niw_as_a_practicing_engineer_no_publications/",
+      "author": "/u/FernandoRedHead",
+      "publishedAt": "2026-07-15T18:05:29+00:00",
+      "excerpt": "Hey everyone, long-time lurker here finally posting. I'm a Mechatronics Engineer working as a SCADA & Controls Specialist at a municipal water utility in Texas. My work is focused on industrial automation, OT cybersecurity, and process optimization for water and wastewater infrastructure — which falls under Federal Cri…",
       "topics": [
         "approval",
         "i140",
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-15T21:48:09.654Z",
+  "syncedAt": "2026-07-15T22:49:00.772Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
