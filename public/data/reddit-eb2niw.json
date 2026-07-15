@@ -75,14 +75,15 @@
       }
     },
     {
-      "id": "t3_1uxb5ya",
-      "title": "Premium timeline - question",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxb5ya/premium_timeline_question/",
-      "author": "/u/Logical-Addition-224",
-      "publishedAt": "2026-07-15T16:38:35+00:00",
-      "excerpt": "For premium EB2NIW - I know the timeline is 45 business days but when do people usually hear back?",
+      "id": "t3_1uxaytn",
+      "title": "NIW Profile Evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxaytn/niw_profile_evaluation/",
+      "author": "/u/Spotlight_AG",
+      "publishedAt": "2026-07-15T16:31:33+00:00",
+      "excerpt": "I am looking for an honest NIW profile evaluation. I have over 14 years of cybersecurity experience, and my work has included AI security since 2023. My proposed endeavor is in cybersecurity and AI security. My experience, research, publications, peer review, speaking, and public resources are within this field. I have…",
       "topics": [
-        "timeline",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -93,15 +94,34 @@
       }
     },
     {
-      "id": "t3_1uxaytn",
-      "title": "NIW Profile Evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxaytn/niw_profile_evaluation/",
-      "author": "/u/Spotlight_AG",
-      "publishedAt": "2026-07-15T16:31:33+00:00",
-      "excerpt": "I am looking for an honest NIW profile evaluation. I have over 14 years of cybersecurity experience, and my work has included AI security since 2023. My proposed endeavor is in cybersecurity and AI security. My experience, research, publications, peer review, speaking, and public resources are within this field. I have…",
+      "id": "t3_1uxgnqg",
+      "title": "Advice needed: EB-2 NIW - Chen (Refile) vs. Ellis Porter (Refund) vs. Self-Petition?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxgnqg/advice_needed_eb2_niw_chen_refile_vs_ellis_porter/",
+      "author": "/u/waqaszaidi",
+      "publishedAt": "2026-07-15T19:59:12+00:00",
+      "excerpt": "Hi everyone, I'm looking for some advice on my EB-2 NIW application. I'm from Pakistan, and to be completely honest, money is a very serious factor for me right now. Coming up with thousands of dollars for lawyer fees is a huge hurdle. My Profile: Education: MS in AI & Autonomous Systems and a BS in Avionics Engineerin…",
       "topics": [
+        "approval",
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uxb5ya",
+      "title": "Premium timeline - question",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxb5ya/premium_timeline_question/",
+      "author": "/u/Logical-Addition-224",
+      "publishedAt": "2026-07-15T16:38:35+00:00",
+      "excerpt": "For premium EB2NIW - I know the timeline is 45 business days but when do people usually hear back?",
+      "topics": [
+        "timeline",
         "question"
       ],
       "signals": {
@@ -444,28 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uwslc6",
-      "title": "Guam Field Office",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwslc6/guam_field_office/",
-      "author": "/u/Low-Examination-5481",
-      "publishedAt": "2026-07-15T02:09:21+00:00",
-      "excerpt": "Hi, long-time lurker! MY RD=3/3/2026. My case was transferred to the Guam Field Office on 6/4. Complete silence since, unfortunately. Anyone else?",
-      "topics": [
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-15T18:54:53.299Z",
+  "syncedAt": "2026-07-15T20:02:21.091Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
