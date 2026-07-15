@@ -55,6 +55,63 @@
       }
     },
     {
+      "id": "t3_1uxb5ya",
+      "title": "Premium timeline - question",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxb5ya/premium_timeline_question/",
+      "author": "/u/Logical-Addition-224",
+      "publishedAt": "2026-07-15T16:38:35+00:00",
+      "excerpt": "For premium EB2NIW - I know the timeline is 45 business days but when do people usually hear back?",
+      "topics": [
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uxaytn",
+      "title": "NIW Profile Evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxaytn/niw_profile_evaluation/",
+      "author": "/u/Spotlight_AG",
+      "publishedAt": "2026-07-15T16:31:33+00:00",
+      "excerpt": "I am looking for an honest NIW profile evaluation. I have over 14 years of cybersecurity experience, and my work has included AI security since 2023. My proposed endeavor is in cybersecurity and AI security. My experience, research, publications, peer review, speaking, and public resources are within this field. I have…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ux3ojb",
+      "title": "PP payment form returned by USCIS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ux3ojb/pp_payment_form_returned_by_uscis/",
+      "author": "/u/Willing-Ad2912",
+      "publishedAt": "2026-07-15T11:53:49+00:00",
+      "excerpt": "I recently submitted my petition with Premium Processing. USCIS received my application on July 2, and they charged me $1,050, but I was never charged the Premium Processing fee. My lawyer told me yesterday that USCIS returned the form authorizing the Premium Processing payment, so we had to resubmit it today. I’m wond…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ux8h56",
       "title": "Three Prong RFE, Nov 2024",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ux8h56/three_prong_rfe_nov_2024/",
@@ -118,26 +175,6 @@
       "excerpt": "Hello friends My spouse’s New Zealand police certificate was initially marked as “Invalid Document” because we uploaded it directly to CEAC. NVC stated: “Police certificates for New Zealand are provided to the NVC via email, and once received, the police certificate is uploaded into the system. Following this instructi…",
       "topics": [
         "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ux3ojb",
-      "title": "PP payment form returned by USCIS",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ux3ojb/pp_payment_form_returned_by_uscis/",
-      "author": "/u/Willing-Ad2912",
-      "publishedAt": "2026-07-15T11:53:49+00:00",
-      "excerpt": "I recently submitted my petition with Premium Processing. USCIS received my application on July 2, and they charged me $1,050, but I was never charged the Premium Processing fee. My lawyer told me yesterday that USCIS returned the form authorizing the Premium Processing payment, so we had to resubmit it today. I’m wond…",
-      "topics": [
-        "i140",
-        "lawyer",
         "timeline",
         "question"
       ],
@@ -425,46 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uwqr8m",
-      "title": "March 2024 PD",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwqr8m/march_2024_pd/",
-      "author": "/u/Trick_Psychology_252",
-      "publishedAt": "2026-07-15T00:45:11+00:00",
-      "excerpt": "I have been waiting for more than 2 years now. Priority date is March 2024. Not sure what cases they are working on. Would you suggest I upgrade to PP? What would you guys do??",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uwe8hg",
-      "title": "NIW PP — RFE on All 3 Prongs Requesting Evidence Already Submitted — Entrepreneurial Proposed Endeavor",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwe8hg/niw_pp_rfe_on_all_3_prongs_requesting_evidence/",
-      "author": "/u/Dry_Presentation1269",
-      "publishedAt": "2026-07-14T16:50:35+00:00",
-      "excerpt": "Hello everyone, I’m looking for guidance regarding an EB-2 NIW Request for Evidence I recently received. For context: My proposed endeavor involves the development and expansion of a U.S.-based company operating within an industry that the federal government has identified as important to the national interest. At the …",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-15T15:18:02.203Z",
+  "syncedAt": "2026-07-15T17:05:13.955Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
