@@ -35,6 +35,27 @@
       }
     },
     {
+      "id": "t3_1uy2hox",
+      "title": "A timeline of 164 real EB2-NIW cases (crowd-sourced, NIW-only)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uy2hox/a_timeline_of_164_real_eb2niw_cases_crowdsourced/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-07-16T13:11:35+00:00",
+      "excerpt": "https://preview.redd.it/x46ggcv4aldh1.png?width=1292&format=png&auto=webp&s=5e5ccef722ff7994d4ccaefd33b37046970c07db Hi everyone, There's no good place to see how EB2-NIW cases actually play out - how long they take, how often they get an RFE, how outcomes differ by endeavor and profile. So I've been collecting cases i…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uxp0zr",
       "title": "EB-2 NIW Approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxp0zr/eb2_niw_approved/",
@@ -55,17 +76,15 @@
       }
     },
     {
-      "id": "t3_1uy2hox",
-      "title": "A timeline of 164 real EB2-NIW cases (crowd-sourced, NIW-only)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uy2hox/a_timeline_of_164_real_eb2niw_cases_crowdsourced/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-07-16T13:11:35+00:00",
-      "excerpt": "https://preview.redd.it/x46ggcv4aldh1.png?width=1292&format=png&auto=webp&s=5e5ccef722ff7994d4ccaefd33b37046970c07db Hi everyone, There's no good place to see how EB2-NIW cases actually play out - how long they take, how often they get an RFE, how outcomes differ by endeavor and profile. So I've been collecting cases i…",
+      "id": "t3_1uy30rt",
+      "title": "How many people here have gotten a RFE and got approved or denied after response? And your country?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uy30rt/how_many_people_here_have_gotten_a_rfe_and_got/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-07-16T13:32:47+00:00",
+      "excerpt": "",
       "topics": [
         "approval",
         "i140",
-        "lawyer",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -94,6 +113,23 @@
       }
     },
     {
+      "id": "t3_1uy45in",
+      "title": "485 Interview at San Antonio",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uy45in/485_interview_at_san_antonio/",
+      "author": "/u/studentuser96",
+      "publishedAt": "2026-07-16T14:16:36+00:00",
+      "excerpt": "I appreciate if anyone who did NIW-based 485 interview at SA FO still lurks and cares to share their experience. Thanks!",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uxy5bz",
       "title": "How many days does it take to update from sent to received about RFE once it is delivered?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxy5bz/how_many_days_does_it_take_to_update_from_sent_to/",
@@ -103,6 +139,45 @@
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uxndye",
+      "title": "EB2-NIW one family member rejected",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxndye/eb2niw_one_family_member_rejected/",
+      "author": "/u/Intelligent-Pie6092",
+      "publishedAt": "2026-07-16T00:24:47+00:00",
+      "excerpt": "We filed the 485 about a month ago. 3 of us were processed (the payment was approved) and one of us (a child) was rejected (the bank declined their payment). We received the rejection almost 2 weeks ago and sent the new documents with a new payment method (directly through the bank account instead of a credit card). We…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uxl3zg",
+      "title": "Case denial with attorney expectations of 98% approval",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxl3zg/case_denial_with_attorney_expectations_of_98/",
+      "author": "/u/Top_Comfort4305",
+      "publishedAt": "2026-07-15T22:49:17+00:00",
+      "excerpt": "I have 4 papers, one preprint. First author in three of them and second author in the 4th. 40 citation Now a postdoc in top USA University. PE develop a treatment to brain diseases. Attorney Chen. PD: April 2025 PP: JANUARY 2026 RFE: MARCH RFE response: May 2026 Denial: today SO DISAPPOINTED MEIN NEY AND TIME",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -140,26 +215,6 @@
       "excerpt": "It’s hard to find approval posts lately. It feels like most cases are either being denied or receiving RFEs.",
       "topics": [
         "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uxndye",
-      "title": "EB2-NIW one family member rejected",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxndye/eb2niw_one_family_member_rejected/",
-      "author": "/u/Intelligent-Pie6092",
-      "publishedAt": "2026-07-16T00:24:47+00:00",
-      "excerpt": "We filed the 485 about a month ago. 3 of us were processed (the payment was approved) and one of us (a child) was rejected (the bank declined their payment). We received the rejection almost 2 weeks ago and sent the new documents with a new payment method (directly through the bank account instead of a credit card). We…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
         "question"
       ],
       "signals": {
@@ -235,25 +290,6 @@
       "excerpt": "Alguien con algun caso que este siendo revisado por el oficial XM2416? Alguna experiencia que puedan compartir?",
       "topics": [
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uxl3zg",
-      "title": "Case denial with attorney expectations of 98% approval",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxl3zg/case_denial_with_attorney_expectations_of_98/",
-      "author": "/u/Top_Comfort4305",
-      "publishedAt": "2026-07-15T22:49:17+00:00",
-      "excerpt": "I have 4 papers, one preprint. First author in three of them and second author in the 4th. 40 citation Now a postdoc in top USA University. PE develop a treatment to brain diseases. Attorney Chen. PD: April 2025 PP: JANUARY 2026 RFE: MARCH RFE response: May 2026 Denial: today SO DISAPPOINTED MEIN NEY AND TIME",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -433,45 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uxohrl",
-      "title": "NEW CRACKDOWN ON EB2-NIW/EB1-A PETITIONS (BUT ON ATTORNEYS): USCIS adds a ground for discipline - Filings that have \"boilerplate\", \"generic\", \"cookie-cutter\", almost identical languages across its multiple filings or have \"formula\" in its way of presenting profiles. ACTUAL TEXT IN MAIN POST.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxohrl/new_crackdown_on_eb2niweb1a_petitions_but_on/",
-      "author": "/u/WhiteNoise0624",
-      "publishedAt": "2026-07-16T01:14:25+00:00",
-      "excerpt": "Here's the actual text: \"Repeatedly filing notices, motions, briefs, or claims that show little or no attention to the specific factual or legal issues applicable to a client’s case , but instead using boilerplate language indicative of a substantial failure to represent the client competently and diligently\" Source: h…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ux4zy9",
-      "title": "EB-2 NIW Consular Processing – New Zealand Police Certificate Still Marked “Invalid Document” After Being Sent to NVC",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ux4zy9/eb2_niw_consular_processing_new_zealand_police/",
-      "author": "/u/Wonderful-Claim-845",
-      "publishedAt": "2026-07-15T12:52:02+00:00",
-      "excerpt": "Hello friends My spouse’s New Zealand police certificate was initially marked as “Invalid Document” because we uploaded it directly to CEAC. NVC stated: “Police certificates for New Zealand are provided to the NVC via email, and once received, the police certificate is uploaded into the system. Following this instructi…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-16T13:20:00.029Z",
+  "syncedAt": "2026-07-16T15:26:01.547Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
