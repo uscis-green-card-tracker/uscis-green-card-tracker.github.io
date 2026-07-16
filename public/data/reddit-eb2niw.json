@@ -73,14 +73,14 @@
       }
     },
     {
-      "id": "t3_1uxnqk2",
-      "title": "Does anyone get approval recently?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxnqk2/does_anyone_get_approval_recently/",
-      "author": "/u/AnnualApartment1567",
-      "publishedAt": "2026-07-16T00:40:19+00:00",
-      "excerpt": "It’s hard to find approval posts lately. It feels like most cases are either being denied or receiving RFEs.",
+      "id": "t3_1uxy5bz",
+      "title": "How many days does it take to update from sent to received about RFE once it is delivered?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxy5bz/how_many_days_does_it_take_to_update_from_sent_to/",
+      "author": "/u/Broad_One4686",
+      "publishedAt": "2026-07-16T09:42:58+00:00",
+      "excerpt": "My RFE package was delivered 4 days earlier than deadline. But there is no change in status. Still RFE was sent. For your case, how many days did it take to update to RFE received? And also I would like to know, the start day of PP 45 days is \"delivered date\" or \"update date to be received\"?",
       "topics": [
-        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -188,6 +188,24 @@
       }
     },
     {
+      "id": "t3_1uxnqk2",
+      "title": "Does anyone get approval recently?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxnqk2/does_anyone_get_approval_recently/",
+      "author": "/u/AnnualApartment1567",
+      "publishedAt": "2026-07-16T00:40:19+00:00",
+      "excerpt": "It’s hard to find approval posts lately. It feels like most cases are either being denied or receiving RFEs.",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uxm0pi",
       "title": "Alguien con algun caso que este siendo revisado por el oficial XM2416? Alguna experiencia que puedan compartir?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxm0pi/alguien_con_algun_caso_que_este_siendo_revisado/",
@@ -196,6 +214,25 @@
       "excerpt": "Alguien con algun caso que este siendo revisado por el oficial XM2416? Alguna experiencia que puedan compartir?",
       "topics": [
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uxl3zg",
+      "title": "Case denial with attorney expectations of 98% approval",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxl3zg/case_denial_with_attorney_expectations_of_98/",
+      "author": "/u/Top_Comfort4305",
+      "publishedAt": "2026-07-15T22:49:17+00:00",
+      "excerpt": "I have 4 papers, one preprint. First author in three of them and second author in the 4th. 40 citation Now a postdoc in top USA University. PE develop a treatment to brain diseases. Attorney Chen. PD: April 2025 PP: JANUARY 2026 RFE: MARCH RFE response: May 2026 Denial: today SO DISAPPOINTED MEIN NEY AND TIME",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -235,25 +272,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uxl3zg",
-      "title": "Case denial with attorney expectations of 98% approval",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxl3zg/case_denial_with_attorney_expectations_of_98/",
-      "author": "/u/Top_Comfort4305",
-      "publishedAt": "2026-07-15T22:49:17+00:00",
-      "excerpt": "I have 4 papers, one preprint. First author in three of them and second author in the 4th. 40 citation Now a postdoc in top USA University. PE develop a treatment to brain diseases. Attorney Chen. PD: April 2025 PP: JANUARY 2026 RFE: MARCH RFE response: May 2026 Denial: today SO DISAPPOINTED MEIN NEY AND TIME",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -448,29 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uwdurv",
-      "title": "I-485 Approval timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uwdurv/i485_approval_timeline/",
-      "author": "/u/zoomzoombb",
-      "publishedAt": "2026-07-14T16:36:59+00:00",
-      "excerpt": "There's been some anxiety with the AoS for non-immigrant visa holders, so I want to share my time line. I'm a PhD student, previously on F1 visa. EB2 NIW (r.o.w.) I-485 timeline: I140 PD 09/01/2023, approval date: 01/05/2024 06/2025 priority date changed to current 07/03/2025 I-485 reciept date 08/01/2025 biometric tak…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "09/01/2023",
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-16T07:15:05.223Z",
+  "syncedAt": "2026-07-16T09:56:49.557Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
