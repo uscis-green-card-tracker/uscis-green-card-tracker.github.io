@@ -56,6 +56,27 @@
       }
     },
     {
+      "id": "t3_1uyd5m7",
+      "title": "EB2-NIW approved!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uyd5m7/eb2niw_approved/",
+      "author": "/u/noitsnotaken",
+      "publishedAt": "2026-07-16T19:44:02+00:00",
+      "excerpt": "Hi everyone - FYI, posting this from my account on behalf of my partner who is not on reddit. I've been a longtime lurker on this subreddit and it has been really helpful in terms of attorney selection, determining timelines and overall just to keep my anxiety under check. I wanted to share my profile in case that help…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1uy2hox",
       "title": "A timeline of 164 real EB2-NIW cases (crowd-sourced, NIW-only)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uy2hox/a_timeline_of_164_real_eb2niw_cases_crowdsourced/",
@@ -114,27 +135,6 @@
       }
     },
     {
-      "id": "t3_1uyd5m7",
-      "title": "EB2-NIW approved!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uyd5m7/eb2niw_approved/",
-      "author": "/u/noitsnotaken",
-      "publishedAt": "2026-07-16T19:44:02+00:00",
-      "excerpt": "Hi everyone - FYI, posting this from my account on behalf of my partner who is not on reddit. I've been a longtime lurker on this subreddit and it has been really helpful in terms of attorney selection, determining timelines and overall just to keep my anxiety under check. I wanted to share my profile in case that help…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1uxp0zr",
       "title": "EB-2 NIW Approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxp0zr/eb2_niw_approved/",
@@ -185,6 +185,23 @@
         "i485",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uyevdf",
+      "title": "Endeavor check help",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uyevdf/endeavor_check_help/",
+      "author": "/u/Mario-no-Mustache",
+      "publishedAt": "2026-07-16T20:48:34+00:00",
+      "excerpt": "Hello everyone, I will be applying for EB2 NIW and I have a team of lawyers helping in this case. We are now developing the proposed endeavor that connects with my background experience as I am following the practitioner archetype. I would love if you could provide your feedback on my summarized draft, considering that…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -451,29 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uxndye",
-      "title": "EB2-NIW one family member rejected",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxndye/eb2niw_one_family_member_rejected/",
-      "author": "/u/Intelligent-Pie6092",
-      "publishedAt": "2026-07-16T00:24:47+00:00",
-      "excerpt": "We filed the 485 about a month ago. 3 of us were processed (the payment was approved) and one of us (a child) was rejected (the bank declined their payment). We received the rejection almost 2 weeks ago and sent the new documents with a new payment method (directly through the bank account instead of a credit card). We…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-16T19:56:36.974Z",
+  "syncedAt": "2026-07-16T20:51:25.860Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
