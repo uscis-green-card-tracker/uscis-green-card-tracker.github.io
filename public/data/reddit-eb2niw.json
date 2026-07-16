@@ -98,25 +98,6 @@
       }
     },
     {
-      "id": "t3_1uy76qv",
-      "title": "Requesting a refund for Premium Processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uy76qv/requesting_a_refund_for_premium_processing/",
-      "author": "/u/Evening-Net-8162",
-      "publishedAt": "2026-07-16T16:07:56+00:00",
-      "excerpt": "I’m looking for advice from anyone who has had a similar experience with an EB-2 NIW petition. I filed my EB-2 NIW petition with Premium Processing in August 2025 . I received an RFE in October 2025 , and my attorney submitted the response in December 2025 . Since then, I haven’t received any decision or further update…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1uyb35o",
       "title": "F1 EB2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uyb35o/f1_eb2_niw/",
@@ -127,6 +108,25 @@
         "approval",
         "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uy76qv",
+      "title": "Requesting a refund for Premium Processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uy76qv/requesting_a_refund_for_premium_processing/",
+      "author": "/u/Evening-Net-8162",
+      "publishedAt": "2026-07-16T16:07:56+00:00",
+      "excerpt": "I’m looking for advice from anyone who has had a similar experience with an EB-2 NIW petition. I filed my EB-2 NIW petition with Premium Processing in August 2025 . I received an RFE in October 2025 , and my attorney submitted the response in December 2025 . Since then, I haven’t received any decision or further update…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -212,6 +212,24 @@
       }
     },
     {
+      "id": "t3_1uxqy86",
+      "title": "75% Approval today!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxqy86/75_approval_today/",
+      "author": "/u/Actual_Way2685",
+      "publishedAt": "2026-07-16T03:09:16+00:00",
+      "excerpt": "Anyone checked Lawfully now? There is sudden jump in the number of case processed and ~75% approval daily basis! What a day!",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1uyevdf",
       "title": "Endeavor check help",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uyevdf/endeavor_check_help/",
@@ -245,24 +263,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uxqy86",
-      "title": "75% Approval today!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uxqy86/75_approval_today/",
-      "author": "/u/Actual_Way2685",
-      "publishedAt": "2026-07-16T03:09:16+00:00",
-      "excerpt": "Anyone checked Lawfully now? There is sudden jump in the number of case processed and ~75% approval daily basis! What a day!",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -470,7 +470,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-16T22:51:12.317Z",
+  "syncedAt": "2026-07-16T23:49:58.163Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
