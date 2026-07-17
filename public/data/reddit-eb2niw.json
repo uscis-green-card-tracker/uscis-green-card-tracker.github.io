@@ -35,26 +35,6 @@
       }
     },
     {
-      "id": "t3_1uzadx0",
-      "title": "EB-2 NIW I-485 approved in 80 days ROW (75 countries) 🎉",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzadx0/eb2_niw_i485_approved_in_80_days_row_75_countries/",
-      "author": "/u/Accomplished_Soup527",
-      "publishedAt": "2026-07-17T19:56:56+00:00",
-      "excerpt": "Sharing my timeline because this community was incredibly helpful throughout the process, and I hope this gives some encouragement to others who are still waiting. Case details Category: EB-2 NIW Chargeability: Rest of World (75 countries) Background at filing: Third-year PhD student at a top U.S. research university P…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1uz6ji1",
       "title": "I-485 approved today",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uz6ji1/i485_approved_today/",
@@ -118,7 +98,7 @@
       "id": "t3_1uz63f6",
       "title": "Playing around with recent RFE decision dates",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uz63f6/playing_around_with_recent_rfe_decision_dates/",
-      "author": "/u/Fun-Progress484",
+      "author": "",
       "publishedAt": "2026-07-17T17:21:41+00:00",
       "excerpt": "https://preview.redd.it/zf0joaj3otdh1.png?width=2362&format=png&auto=webp&s=9db302686c592cc44c8c41daf95abe5838c7511f I spent some time looking through RFE decisions posted on a case-tracking website over the past two or three days. I filtered for cases where the time from the RFE response being received to the decision…",
       "topics": [
@@ -184,6 +164,64 @@
       "topics": [
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uze2zo",
+      "title": "EB2-NIW of the 75-Country Pause",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uze2zo/eb2niw_of_the_75country_pause/",
+      "author": "/u/Playful_Pickle3310",
+      "publishedAt": "2026-07-17T22:22:00+00:00",
+      "excerpt": "Has anyone had an I-824 form approved in 8 or 9 months for an approved I-140 NIW during 2026?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1uze1s1",
+      "title": "I-824 Form for an approved I-140 NIW petition",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uze1s1/i824_form_for_an_approved_i140_niw_petition/",
+      "author": "/u/Playful_Pickle3310",
+      "publishedAt": "2026-07-17T22:20:33+00:00",
+      "excerpt": "Has anyone had an I-824 form approved in 8 or 9 months for an approved I-140 NIW during 2026?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uzd82i",
+      "title": "Stuck at NBC",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzd82i/stuck_at_nbc/",
+      "author": "/u/Impressive_Hold_9506",
+      "publishedAt": "2026-07-17T21:46:29+00:00",
+      "excerpt": "Has anyone else`s NIW , i 485, been stuck at NBC with no movement since 2025? What are the chances of getting approved at NBC?",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -444,46 +482,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uz0mho",
-      "title": "Dear all, I got RFE a few days ago. 3 prongs were challenged. I’m a Sr. Systems Engineer and applied as practitioner. Has anyone here gotten approved after responding RFE when 3 prongs were challenged? I know everyone is different, I just would like to know.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uz0mho/dear_all_i_got_rfe_a_few_days_ago_3_prongs_were/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-07-17T14:01:21+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uyzu1i",
-      "title": "Has anyone received decision for normal processing (no PP) in this block IOE09316?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uyzu1i/has_anyone_received_decision_for_normal/",
-      "author": "/u/ShiRupert",
-      "publishedAt": "2026-07-17T13:31:33+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": "IOE09316",
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-17T21:41:31.058Z",
+  "syncedAt": "2026-07-17T22:38:28.537Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
