@@ -96,15 +96,16 @@
       }
     },
     {
-      "id": "t3_1uysjil",
-      "title": "I-140 RFE Not Received in Mail After Premium Processing : Should I Wait or Contact USCIS?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uysjil/i140_rfe_not_received_in_mail_after_premium/",
-      "author": "/u/Nervous-Calendar-348",
-      "publishedAt": "2026-07-17T07:15:56+00:00",
-      "excerpt": "My I-140 RFE was issued on July 8, 2026, after I upgraded my case to premium processing. However, I still have not received the RFE notice by mail. I checked with my attorney, and they have not received it either. The USCIS Case Status Online message says: Should I wait until July 23 before submitting an e-request, or …",
+      "id": "t3_1uyxshf",
+      "title": "I filed I-485 in Nov 2025 based on EB2/NIW. I had silent updates on Jul 8, Jul 9, and Jul 15. USCIS told me my interview was waived and the case was transferred to a non-local field office, LAF. Has anyone had a similar timeline? What happened next, and how long did ap",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uyxshf/i_filed_i485_in_nov_2025_based_on_eb2niw_i_had/",
+      "author": "/u/RatioDisastrous2732",
+      "publishedAt": "2026-07-17T12:05:15+00:00",
+      "excerpt": "",
       "topics": [
+        "i485",
         "i140",
-        "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -126,6 +127,25 @@
         "i140",
         "lawyer",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uysjil",
+      "title": "I-140 RFE Not Received in Mail After Premium Processing : Should I Wait or Contact USCIS?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uysjil/i140_rfe_not_received_in_mail_after_premium/",
+      "author": "/u/Nervous-Calendar-348",
+      "publishedAt": "2026-07-17T07:15:56+00:00",
+      "excerpt": "My I-140 RFE was issued on July 8, 2026, after I upgraded my case to premium processing. However, I still have not received the RFE notice by mail. I checked with my attorney, and they have not received it either. The USCIS Case Status Online message says: Should I wait until July 23 before submitting an e-request, or …",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -230,6 +250,24 @@
       }
     },
     {
+      "id": "t3_1uya7jo",
+      "title": "Do single filers get 485 approved quicker than if you are having a dependent?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uya7jo/do_single_filers_get_485_approved_quicker_than_if/",
+      "author": "/u/dr_lostsoul",
+      "publishedAt": "2026-07-16T17:56:44+00:00",
+      "excerpt": "I’ve seen many single filers getting 485 approval very quick not sure if it is anecdotal or fact.",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uybjzy",
       "title": "USCIS processing times are 28 months for I140 EB2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uybjzy/uscis_processing_times_are_28_months_for_i140_eb2/",
@@ -260,24 +298,6 @@
         "i140",
         "lawyer",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uya7jo",
-      "title": "Do single filers get 485 approved quicker than if you are having a dependent?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uya7jo/do_single_filers_get_485_approved_quicker_than_if/",
-      "author": "/u/dr_lostsoul",
-      "publishedAt": "2026-07-16T17:56:44+00:00",
-      "excerpt": "I’ve seen many single filers getting 485 approval very quick not sure if it is anecdotal or fact.",
-      "topics": [
-        "approval",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -450,28 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uy6k3d",
-      "title": "\"National importance\" is the single most misunderstood phrase in the NIW category. Immigration attorney here, AMA about what it actually takes!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uy6k3d/national_importance_is_the_single_most/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-07-16T15:45:24+00:00",
-      "excerpt": "https://preview.redd.it/xc00g2j94mdh1.jpg?width=2213&format=pjpg&auto=webp&s=7c4c7fc2ace6c0c964db2160c736fdb7006cc3a6 I'm Murty Gollakota, immigration attorney at Manifest Law. I've filed 3,000+ cases over 18 years, with a strong focus on EB-2 NIW along with EB-1A, O-1A/B, H-1B, and L-1 petitions. I'm barred in Illinoi…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-17T11:14:25.682Z",
+  "syncedAt": "2026-07-17T13:04:34.552Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
