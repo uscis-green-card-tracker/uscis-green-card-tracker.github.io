@@ -115,6 +115,26 @@
       }
     },
     {
+      "id": "t3_1uz63f6",
+      "title": "Playing around with recent RFE decision dates",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uz63f6/playing_around_with_recent_rfe_decision_dates/",
+      "author": "/u/Fun-Progress484",
+      "publishedAt": "2026-07-17T17:21:41+00:00",
+      "excerpt": "https://preview.redd.it/zf0joaj3otdh1.png?width=2362&format=png&auto=webp&s=9db302686c592cc44c8c41daf95abe5838c7511f I spent some time looking through RFE decisions posted on a case-tracking website over the past two or three days. I filtered for cases where the time from the RFE response being received to the decision…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uz4gu2",
       "title": "Is it the New Normal to Get PP Decisions on Days 40-45 After an RFE?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uz4gu2/is_it_the_new_normal_to_get_pp_decisions_on_days/",
@@ -163,26 +183,6 @@
       "excerpt": "Hey everyone, I’m approaching my 6-year H-1B max-out date and looking into filing a 1-year extension under AC21. My EB-2 NIW I-140 has been pending for over 365 days now. Since an NIW is a self-petition that bypasses the PERM/Labor Certification stage, I am asking my employer to use my pending I-140 receipt notice as t…",
       "topics": [
         "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uz63f6",
-      "title": "Playing around with recent RFE decision dates",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uz63f6/playing_around_with_recent_rfe_decision_dates/",
-      "author": "/u/Fun-Progress484",
-      "publishedAt": "2026-07-17T17:21:41+00:00",
-      "excerpt": "https://preview.redd.it/zf0joaj3otdh1.png?width=2362&format=png&auto=webp&s=9db302686c592cc44c8c41daf95abe5838c7511f I spent some time looking through RFE decisions posted on a case-tracking website over the past two or three days. I filtered for cases where the time from the RFE response being received to the decision…",
-      "topics": [
-        "i140",
-        "lawyer",
         "timeline",
         "question"
       ],
@@ -483,7 +483,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-17T20:53:21.442Z",
+  "syncedAt": "2026-07-17T21:41:31.058Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
