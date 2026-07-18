@@ -35,14 +35,15 @@
       }
     },
     {
-      "id": "t3_1v09j0d",
-      "title": "I-485 checking service",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v09j0d/i485_checking_service/",
-      "author": "/u/ohtee7",
-      "publishedAt": "2026-07-18T22:37:32+00:00",
-      "excerpt": "Hello, has anyone used a service where they can check your I-485 at a lower fee than that of the usual lawyers? I was a Chen client but their I-485 turn around is so long, I just want to do it myself.",
+      "id": "t3_1v09vys",
+      "title": "Any recent approvals after RFE (Chen or anyone else)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v09vys/any_recent_approvals_after_rfe_chen_or_anyone_else/",
+      "author": "/u/Opps-Boobs",
+      "publishedAt": "2026-07-18T22:54:05+00:00",
+      "excerpt": "I might be overthinking this, but lately I barely see any approval posts from Chen here (or from anyone tbh), specially after RFE. Instead I’ve seen quite a few denial posts in last few days. Is Chen’s template not working anymore? Or is USCIS just rejecting everyone left and right? Or maybe people who get approved jus…",
       "topics": [
-        "i485",
+        "approval",
+        "i140",
         "lawyer",
         "question"
       ],
@@ -61,6 +62,25 @@
       "publishedAt": "2026-07-18T17:08:46+00:00",
       "excerpt": "Hi, has anyone applied without a premium subscription in October 2024 and received result?",
       "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v09j0d",
+      "title": "I-485 checking service",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v09j0d/i485_checking_service/",
+      "author": "/u/ohtee7",
+      "publishedAt": "2026-07-18T22:37:32+00:00",
+      "excerpt": "Hello, has anyone used a service where they can check your I-485 at a lower fee than that of the usual lawyers? I was a Chen client but their I-485 turn around is so long, I just want to do it myself.",
+      "topics": [
+        "i485",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -206,6 +226,24 @@
       }
     },
     {
+      "id": "t3_1uzpa3y",
+      "title": "What is the outcome of your EB2 / NIW I-140 application? (RFE vs. No RFE)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzpa3y/what_is_the_outcome_of_your_eb2_niw_i140/",
+      "author": "/u/balveer_12",
+      "publishedAt": "2026-07-18T07:28:40+00:00",
+      "excerpt": "Please choose the option that best suits your I-140 status for your EB2/NIW application after January 2024. This poll is just to help the community get a sense of current trends regarding RFEs, approvals, and denials. Thank you for voting! View Poll",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uzuix3",
       "title": "EB2-NIW Consular Interview coming up in Frankfurt Germany. Switched jobs after I-140 approval",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzuix3/eb2niw_consular_interview_coming_up_in_frankfurt/",
@@ -251,24 +289,6 @@
       "excerpt": "I’m trying to understand the long-term immigration strategy. My situation is: Previously on a U.S. government-funded J-1 Exchange Visitor program with an existing 212(e) requirement. Currently on a J-1 Research Scholar visa. Planning to apply for the Match and, if successful, transition to an ECFMG-sponsored J-1 Physic…",
       "topics": [
         "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uzpa3y",
-      "title": "What is the outcome of your EB2 / NIW I-140 application? (RFE vs. No RFE)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzpa3y/what_is_the_outcome_of_your_eb2_niw_i140/",
-      "author": "/u/balveer_12",
-      "publishedAt": "2026-07-18T07:28:40+00:00",
-      "excerpt": "Please choose the option that best suits your I-140 status for your EB2/NIW application after January 2024. This poll is just to help the community get a sense of current trends regarding RFEs, approvals, and denials. Thank you for voting! View Poll",
-      "topics": [
         "i140",
         "question"
       ],
@@ -448,28 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uziiyq",
-      "title": "EB2/NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uziiyq/eb2niw/",
-      "author": "/u/167047",
-      "publishedAt": "2026-07-18T01:39:20+00:00",
-      "excerpt": "Does anyone if a pharmD has ever gotten an Eb2 NIW approved before?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-18T22:38:36.261Z",
+  "syncedAt": "2026-07-18T23:42:24.890Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
