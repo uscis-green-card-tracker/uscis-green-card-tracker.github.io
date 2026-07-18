@@ -53,6 +53,23 @@
       }
     },
     {
+      "id": "t3_1v01e1m",
+      "title": "2024 October application",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v01e1m/2024_october_application/",
+      "author": "/u/Ill-Loan-6776",
+      "publishedAt": "2026-07-18T17:08:46+00:00",
+      "excerpt": "Hi, has anyone applied without a premium subscription in October 2024 and received result?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uzexqi",
       "title": "EB2 NIW I-485 Approval.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzexqi/eb2_niw_i485_approval/",
@@ -449,30 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uza052",
-      "title": "June 2024 EB-2 NIW (Non-PP) – RFE Response Pending Since September 2025. Anyone Else Still Waiting?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uza052/june_2024_eb2_niw_nonpp_rfe_response_pending/",
-      "author": "/u/Responsible-Neck-162",
-      "publishedAt": "2026-07-17T19:42:31+00:00",
-      "excerpt": "Hi everyone, I'm posting here for the first time because I'm feeling pretty stressed about my case and wanted to see if anyone is in a similar situation. My EB-2 NIW I-140 was filed in June 2024 under regular processing (not premium processing) . I later received an RFE, and my attorney submitted the RFE response in Se…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-18T16:43:40.451Z",
+  "syncedAt": "2026-07-18T17:46:14.095Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
