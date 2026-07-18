@@ -168,6 +168,24 @@
       }
     },
     {
+      "id": "t3_1uzpdfg",
+      "title": "Day 30/45 business days premium processing but no access code for online portal, paper submission",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzpdfg/day_3045_business_days_premium_processing_but_no/",
+      "author": "/u/TAHIR_EB2NIW",
+      "publishedAt": "2026-07-18T07:33:59+00:00",
+      "excerpt": "I have not received any access code to upload my case with receipt number in my online portal. What should I do? I want to add my case. I can track my case with receipt number. I have a USCIS online portal but I need an access code. Paper filing",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uzu1bb",
       "title": "Silent updates I-485",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzu1bb/silent_updates_i485/",
@@ -194,24 +212,6 @@
       "excerpt": "I’m trying to understand the long-term immigration strategy. My situation is: Previously on a U.S. government-funded J-1 Exchange Visitor program with an existing 212(e) requirement. Currently on a J-1 Research Scholar visa. Planning to apply for the Match and, if successful, transition to an ECFMG-sponsored J-1 Physic…",
       "topics": [
         "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uzpdfg",
-      "title": "Day 30/45 business days premium processing but no access code for online portal, paper submission",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzpdfg/day_3045_business_days_premium_processing_but_no/",
-      "author": "/u/TAHIR_EB2NIW",
-      "publishedAt": "2026-07-18T07:33:59+00:00",
-      "excerpt": "I have not received any access code to upload my case with receipt number in my online portal. What should I do? I want to add my case. I can track my case with receipt number. I have a USCIS online portal but I need an access code. Paper filing",
-      "topics": [
         "i140",
         "question"
       ],
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-18T18:46:05.613Z",
+  "syncedAt": "2026-07-18T19:58:29.583Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
