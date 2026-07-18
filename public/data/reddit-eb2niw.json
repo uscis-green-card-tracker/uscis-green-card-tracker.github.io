@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1uzxee0",
+      "title": "Does RFE Response goes to the same officer who issued it? My RFE came from Texas but the denial letter came from Nebraska",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzxee0/does_rfe_response_goes_to_the_same_officer_who/",
+      "author": "/u/Complex_Practice_953",
+      "publishedAt": "2026-07-18T14:29:55+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1uzexqi",
       "title": "EB2 NIW I-485 Approval.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzexqi/eb2_niw_i485_approval/",
@@ -211,7 +229,7 @@
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzpa3y/what_is_the_outcome_of_your_eb2_niw_i140/",
       "author": "/u/balveer_12",
       "publishedAt": "2026-07-18T07:28:40+00:00",
-      "excerpt": "Please choose the option that best suits your I-140 status for your EB2/NIW application. This poll is just to help the community get a sense of current trends regarding RFEs, approvals, and denials. Thank you for voting! View Poll",
+      "excerpt": "Please choose the option that best suits your I-140 status for your EB2/NIW application after January 2024. This poll is just to help the community get a sense of current trends regarding RFEs, approvals, and denials. Thank you for voting! View Poll",
       "topics": [
         "i140",
         "question"
@@ -251,6 +269,27 @@
       "topics": [
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1uza0om",
+      "title": "I-485 Checklist for Online Filing – Need Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uza0om/i485_checklist_for_online_filing_need_advice/",
+      "author": "/u/Top-Wind-6545",
+      "publishedAt": "2026-07-17T19:43:05+00:00",
+      "excerpt": "Hi! I'm filing I-485 and I-765 online for me and my spouse after my I-140 (EB-2 NIW) got approved. I'm doing this without a lawyer, so any advice is appreciated. Some of the fields of the online application are a bit confusing. Here's how I see it: My package (principal applicant): Upload PDF section: - I-485 (uploaded…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -335,15 +374,14 @@
       }
     },
     {
-      "id": "t3_1uza0om",
-      "title": "I-485 Checklist for Online Filing – Need Advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uza0om/i485_checklist_for_online_filing_need_advice/",
-      "author": "/u/Top-Wind-6545",
-      "publishedAt": "2026-07-17T19:43:05+00:00",
-      "excerpt": "Hi! I'm filing I-485 and I-765 online for me and my spouse after my I-140 (EB-2 NIW) got approved. I'm doing this without a lawyer, so any advice is appreciated. Some of the fields of the online application are a bit confusing. Here's how I see it: My package (principal applicant): Upload PDF section: - I-485 (uploaded…",
+      "id": "t3_1uzfea6",
+      "title": "Anyone from ROW got I-140 NIW approved recently (2025-2026) under the current administration? F-1 PhD student profile",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzfea6/anyone_from_row_got_i140_niw_approved_recently/",
+      "author": "/u/Wild-Cardiologist960",
+      "publishedAt": "2026-07-17T23:16:58+00:00",
+      "excerpt": "On my husband’s behalf: Hey everyone! I recently filed my I-140 NIW petition and currently waiting for a decision. Given all the recent changes under the current administration, I wanted to hear from people who have gone through this process recently. My profile: Current F-1 PhD student (2-3 years remaining) Research A…",
       "topics": [
         "approval",
-        "i485",
         "i140",
         "lawyer",
         "question"
@@ -432,47 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uz9w95",
-      "title": "Early June PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uz9w95/early_june_pp/",
-      "author": "/u/One-Rhubarb2137",
-      "publishedAt": "2026-07-17T19:38:29+00:00",
-      "excerpt": "Hi everyone, has anyone who upgraded PP in early June received results yet? I’m trying to see if there are any updates, especially the block IOE09369 specifically. Any insights or recent timelines would be really appreciated. I am getting panicked lol. Thank you so much!",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": "IOE09369",
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uzfea6",
-      "title": "Anyone from ROW got I-140 NIW approved recently (2025-2026) under the current administration? F-1 PhD student profile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzfea6/anyone_from_row_got_i140_niw_approved_recently/",
-      "author": "/u/Wild-Cardiologist960",
-      "publishedAt": "2026-07-17T23:16:58+00:00",
-      "excerpt": "On my husband’s behalf: Hey everyone! I recently filed my I-140 NIW petition and currently waiting for a decision. Given all the recent changes under the current administration, I wanted to hear from people who have gone through this process recently. My profile: Current F-1 PhD student (2-3 years remaining) Research A…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-18T14:15:28.041Z",
+  "syncedAt": "2026-07-18T15:44:27.392Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
