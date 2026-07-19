@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1v0pefq",
+      "title": "I-140 approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0pefq/i140_approved/",
+      "author": "/u/That-Operation-1645",
+      "publishedAt": "2026-07-19T12:32:32+00:00",
+      "excerpt": "Hi all - longtime lurker, first time poster on this subreddit. Just wanted to share my profile in case it helps anyone and to answer any questions. I stole the layout from someone else’s post (lol). Filed: February 2025, non-premium processing Upgraded to PP: December 2025 RFE received: March 2026 RFE response submitte…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v09vys",
       "title": "Any recent approvals after RFE (Chen or anyone else)?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v09vys/any_recent_approvals_after_rfe_chen_or_anyone_else/",
@@ -52,6 +72,26 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v0om21",
+      "title": "Industry profile & evaluation results",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0om21/industry_profile_evaluation_results/",
+      "author": "/u/Significant_Ear_7027",
+      "publishedAt": "2026-07-19T11:55:11+00:00",
+      "excerpt": "Hi all, I wanted to share the reviews and offers I got after reaching out to several NIW attorneys, and get your thoughts — especially from people with an industry background. I know my case isn't strong, so I figure a contract with a refund condition or a success fee would give the attorney more incentive to focus on …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
       }
     },
     {
@@ -430,45 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uzlitg",
-      "title": "Tracking regular processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzlitg/tracking_regular_processing/",
-      "author": "/u/cantstopthehigh",
-      "publishedAt": "2026-07-18T04:06:55+00:00",
-      "excerpt": "Hi everybody, is there a way to know what receipt dates or filing months USCIS is currently processing for regular I-140 petitions? I'm trying to figure out how close my case might be to being reviewed and if I should consider PP. Thanks!",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uzp0ap",
-      "title": "I485 online filing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzp0ap/i485_online_filing/",
-      "author": "/u/Background_Fill_9506",
-      "publishedAt": "2026-07-18T07:12:56+00:00",
-      "excerpt": "Hi, I have to disable the java script in the Adobe Acrobat to be able to fill certain fields in the I485 form and will fill some parts using text insert. Am I gonna face any problems when I upload the file as I’m filling online? Any recommendations will help highly appreciated!",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-19T11:04:02.594Z",
+  "syncedAt": "2026-07-19T12:54:09.199Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
