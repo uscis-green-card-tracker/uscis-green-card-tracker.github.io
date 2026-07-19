@@ -55,17 +55,70 @@
       }
     },
     {
-      "id": "t3_1v09vys",
-      "title": "Any recent approvals after RFE (Chen or anyone else)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v09vys/any_recent_approvals_after_rfe_chen_or_anyone_else/",
-      "author": "/u/Opps-Boobs",
-      "publishedAt": "2026-07-18T22:54:05+00:00",
-      "excerpt": "I might be overthinking this, but lately I barely see any approval posts from Chen here (or from anyone tbh), specially after RFE. Instead I’ve seen quite a few denial posts in last few days. Is Chen’s template not working anymore? Or is USCIS just rejecting everyone left and right? Or maybe people who get approved jus…",
+      "id": "t3_1v0srxr",
+      "title": "Solo veo comentarios de casos con Chen y de académicos… acá no se publica casi nada de la industria… a que se debe? Gracias.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0srxr/solo_veo_comentarios_de_casos_con_chen_y_de/",
+      "author": "/u/Middle_Care516",
+      "publishedAt": "2026-07-19T14:59:40+00:00",
+      "excerpt": "Desde que ingrese a la comunidad he observado muy pocos casos de la industria; quisiera saber a que se dede.",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v0saeg",
+      "title": "Silent Update Meaning?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0saeg/silent_update_meaning/",
+      "author": "/u/AnnualBath7365",
+      "publishedAt": "2026-07-19T14:39:16+00:00",
+      "excerpt": "Hey folks, For those using API case tracker. I did my biometrics on June 25. I got 2 x FtA0 and 1 silent update same day. After that I was checking the “updatedAtTimestamp”. The date there showed June 29 after some time. Today it’s showing July 19. Does that means I got 3 silent updates so far or it’s more internal syn…",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v0om21",
+      "title": "Industry profile & evaluation results",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0om21/industry_profile_evaluation_results/",
+      "author": "/u/Significant_Ear_7027",
+      "publishedAt": "2026-07-19T11:55:11+00:00",
+      "excerpt": "Hi all, I wanted to share the reviews and offers I got after reaching out to several NIW attorneys, and get your thoughts — especially from people with an industry background. I know my case isn't strong, so I figure a contract with a refund condition or a success fee would give the attorney more incentive to focus on …",
       "topics": [
         "approval",
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1v0ss8d",
+      "title": "MBBS from Pakistan. 60+ Publications",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0ss8d/mbbs_from_pakistan_60_publications/",
+      "author": "/u/finalmed",
+      "publishedAt": "2026-07-19T15:00:00+00:00",
+      "excerpt": "Hi, new to this sub, and just want to know how realistic is it to get approved 26-M from Pakistan Done with MBBS (Not ecfmg certified at the moment) 60+ international Publications; 90% pubmed indexed 634 citations ( h index of 12, i10 index of 15) Most of publications are meta-analysis and currently working as a resear…",
+      "topics": [
+        "approval"
       ],
       "signals": {
         "blockNumber": null,
@@ -110,12 +163,12 @@
       }
     },
     {
-      "id": "t3_1v0om21",
-      "title": "Industry profile & evaluation results",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0om21/industry_profile_evaluation_results/",
-      "author": "/u/Significant_Ear_7027",
-      "publishedAt": "2026-07-19T11:55:11+00:00",
-      "excerpt": "Hi all, I wanted to share the reviews and offers I got after reaching out to several NIW attorneys, and get your thoughts — especially from people with an industry background. I know my case isn't strong, so I figure a contract with a refund condition or a success fee would give the attorney more incentive to focus on …",
+      "id": "t3_1v09vys",
+      "title": "Any recent approvals after RFE (Chen or anyone else)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v09vys/any_recent_approvals_after_rfe_chen_or_anyone_else/",
+      "author": "/u/Opps-Boobs",
+      "publishedAt": "2026-07-18T22:54:05+00:00",
+      "excerpt": "I might be overthinking this, but lately I barely see any approval posts from Chen here (or from anyone tbh), specially after RFE. Instead I’ve seen quite a few denial posts in last few days. Is Chen’s template not working anymore? Or is USCIS just rejecting everyone left and right? Or maybe people who get approved jus…",
       "topics": [
         "approval",
         "i140",
@@ -126,7 +179,7 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": true
+        "mentionsCountry75": false
       }
     },
     {
@@ -168,6 +221,23 @@
       }
     },
     {
+      "id": "t3_1v01e1m",
+      "title": "2024 October application",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v01e1m/2024_october_application/",
+      "author": "/u/Ill-Loan-6776",
+      "publishedAt": "2026-07-18T17:08:46+00:00",
+      "excerpt": "Hi, has anyone applied without a premium subscription in October 2024 and received result?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v0bwiq",
       "title": "H1B and applies for EB2 NIW with extra duties",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0bwiq/h1b_and_applies_for_eb2_niw_with_extra_duties/",
@@ -179,23 +249,6 @@
         "i485",
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v01e1m",
-      "title": "2024 October application",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v01e1m/2024_october_application/",
-      "author": "/u/Ill-Loan-6776",
-      "publishedAt": "2026-07-18T17:08:46+00:00",
-      "excerpt": "Hi, has anyone applied without a premium subscription in October 2024 and received result?",
-      "topics": [
         "question"
       ],
       "signals": {
@@ -413,66 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uzn6ox",
-      "title": "212e rule>>J1 Research >>J1 Clinical or NIW risk?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzn6ox/212e_rulej1_research_j1_clinical_or_niw_risk/",
-      "author": "/u/Humanmedico101",
-      "publishedAt": "2026-07-18T05:32:55+00:00",
-      "excerpt": "I’m trying to understand the long-term immigration strategy. My situation is: Previously on a U.S. government-funded J-1 Exchange Visitor program with an existing 212(e) requirement. Currently on a J-1 Research Scholar visa. Planning to apply for the Match and, if successful, transition to an ECFMG-sponsored J-1 Physic…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uzlp1z",
-      "title": "Looking for feedback on my profile Dhanasar prongs strong enough?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzlp1z/looking_for_feedback_on_my_profile_dhanasar/",
-      "author": "/u/Puzzleheaded-Newt-26",
-      "publishedAt": "2026-07-18T04:15:33+00:00",
-      "excerpt": "Hi all,putting together an EB-2 NIW self-petition and would love outside eyes before we finalize and file. High-level snapshot: **• Background:** P.Eng., engineering professional with progressive post-bachelor’s experience (5+ years) in a specialized technical field (nuclear/energy sector), qualifying via the advanced-…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uzfea6",
-      "title": "Anyone from ROW got I-140 NIW approved recently (2025-2026) under the current administration? F-1 PhD student profile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzfea6/anyone_from_row_got_i140_niw_approved_recently/",
-      "author": "/u/Wild-Cardiologist960",
-      "publishedAt": "2026-07-17T23:16:58+00:00",
-      "excerpt": "On my husband’s behalf: Hey everyone! I recently filed my I-140 NIW petition and currently waiting for a decision. Given all the recent changes under the current administration, I wanted to hear from people who have gone through this process recently. My profile: Current F-1 PhD student (2-3 years remaining) Research A…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-19T14:20:04.719Z",
+  "syncedAt": "2026-07-19T15:46:12.342Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
