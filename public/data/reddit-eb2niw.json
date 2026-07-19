@@ -75,26 +75,6 @@
       }
     },
     {
-      "id": "t3_1v0om21",
-      "title": "Industry profile & evaluation results",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0om21/industry_profile_evaluation_results/",
-      "author": "/u/Significant_Ear_7027",
-      "publishedAt": "2026-07-19T11:55:11+00:00",
-      "excerpt": "Hi all, I wanted to share the reviews and offers I got after reaching out to several NIW attorneys, and get your thoughts — especially from people with an industry background. I know my case isn't strong, so I figure a contract with a refund condition or a success fee would give the attorney more incentive to focus on …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1v0fegz",
       "title": "Case status",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0fegz/case_status/",
@@ -127,6 +107,26 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v0om21",
+      "title": "Industry profile & evaluation results",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0om21/industry_profile_evaluation_results/",
+      "author": "/u/Significant_Ear_7027",
+      "publishedAt": "2026-07-19T11:55:11+00:00",
+      "excerpt": "Hi all, I wanted to share the reviews and offers I got after reaching out to several NIW attorneys, and get your thoughts — especially from people with an industry background. I know my case isn't strong, so I figure a contract with a refund condition or a success fee would give the attorney more incentive to focus on …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
       }
     },
     {
@@ -472,7 +472,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-19T12:54:09.199Z",
+  "syncedAt": "2026-07-19T14:20:04.719Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
