@@ -73,23 +73,6 @@
       }
     },
     {
-      "id": "t3_1v0ss8d",
-      "title": "MBBS from Pakistan. 60+ Publications",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0ss8d/mbbs_from_pakistan_60_publications/",
-      "author": "/u/finalmed",
-      "publishedAt": "2026-07-19T15:00:00+00:00",
-      "excerpt": "Hi, new to this sub, and just want to know how realistic is it to get approved 26-M from Pakistan Done with MBBS (Not ecfmg certified at the moment) 60+ international Publications; 90% pubmed indexed 634 citations ( h index of 12, i10 index of 15) Most of publications are meta-analysis and currently working as a resear…",
-      "topics": [
-        "approval"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v0srxr",
       "title": "Solo veo comentarios de casos con Chen y de académicos… acá no se publica casi nada de la industria… a que se debe? Gracias.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0srxr/solo_veo_comentarios_de_casos_con_chen_y_de/",
@@ -195,6 +178,23 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v0ss8d",
+      "title": "MBBS from Pakistan. 60+ Publications",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0ss8d/mbbs_from_pakistan_60_publications/",
+      "author": "/u/finalmed",
+      "publishedAt": "2026-07-19T15:00:00+00:00",
+      "excerpt": "Hi, new to this sub, and just want to know how realistic is it to get approved 26-M from Pakistan Done with MBBS (Not ecfmg certified at the moment) 60+ international Publications; 90% pubmed indexed 634 citations ( h index of 12, i10 index of 15) Most of publications are meta-analysis and currently working as a resear…",
+      "topics": [
+        "approval"
       ],
       "signals": {
         "blockNumber": null,
@@ -471,7 +471,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-19T18:51:09.298Z",
+  "syncedAt": "2026-07-19T20:02:02.858Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
