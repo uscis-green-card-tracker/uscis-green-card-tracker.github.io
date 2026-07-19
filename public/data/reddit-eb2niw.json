@@ -108,16 +108,52 @@
       }
     },
     {
-      "id": "t3_1v0u1t4",
-      "title": "Should I file the I-140 and I-485 together?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0u1t4/should_i_file_the_i140_and_i485_together/",
-      "author": "/u/CortexCrisis",
-      "publishedAt": "2026-07-19T15:50:25+00:00",
-      "excerpt": "Hello! I'm working on my petition with Chen. I'm almost done with my documents and I've already contacted my recommenders. I'm planning to use premium processing and hopefully file in August. With everything that's going on right now, do you think it's a good idea to file the I-140 and I-485 concurrently? My current vi…",
+      "id": "t3_1v0yaij",
+      "title": "Does this likely mean an RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0yaij/does_this_likely_mean_an_rfe/",
+      "author": "/u/Green-Log-7409",
+      "publishedAt": "2026-07-19T18:35:11+00:00",
+      "excerpt": "I filed my I-140 (EB-2 NIW) in November 2024 and upgraded to Premium Processing on May 18, 2026. It has now been about 42 business days, and I still haven’t received a decision. Does a delay like this make an RFE more likely, or is it still common to receive a direct approval after this many business days? I’ve seen ru…",
       "topics": [
-        "i485",
+        "approval",
         "i140",
-        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v0y5ow",
+      "title": "RFE has inconsistencies",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0y5ow/rfe_has_inconsistencies/",
+      "author": "/u/Eb2trying",
+      "publishedAt": "2026-07-19T18:29:58+00:00",
+      "excerpt": "I got an RFE some time ago and it said : “The evidence does not establish that the self-petitioner meets any of the thre prongs of the Dhanasar framework.” Then a few lines later it says: “USCIS finds that the proposed endeavor is of substantial merit” I am at a complete loss here. It also says: “ Additionally, self-pe…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v0xno4",
+      "title": "Non-Research NIW Approvals",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0xno4/nonresearch_niw_approvals/",
+      "author": "/u/Deep_Parsley9206",
+      "publishedAt": "2026-07-19T18:10:13+00:00",
+      "excerpt": "Hi! Anyone with Non-Research NIW applications who have been approved recently (past 6 months)? What worked? I work in security, have 15 years of work experience, 11 in the US. But no research papers, I manage $10M plus implementations and programs and am submitting an application relating to AI security. I have a speci…",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -145,6 +181,26 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1v0u1t4",
+      "title": "Should I file the I-140 and I-485 together?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0u1t4/should_i_file_the_i140_and_i485_together/",
+      "author": "/u/CortexCrisis",
+      "publishedAt": "2026-07-19T15:50:25+00:00",
+      "excerpt": "Hello! I'm working on my petition with Chen. I'm almost done with my documents and I've already contacted my recommenders. I'm planning to use premium processing and hopefully file in August. With everything that's going on right now, do you think it's a good idea to file the I-140 and I-485 concurrently? My current vi…",
+      "topics": [
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -413,64 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uzwqy3",
-      "title": "Has anyone received a Florida Physician NIW Letter of Support as the owner of a private practice?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzwqy3/has_anyone_received_a_florida_physician_niw/",
-      "author": "/u/MiaDr305",
-      "publishedAt": "2026-07-18T14:03:04+00:00",
-      "excerpt": "Hi everyone, I’m a board-certified Family Medicine physician practicing full-time in Florida. I own and operate my own solo private practice (S-Corp), which is located in a federally designated underserved area (HPSA/MUA). My private practice is my only full-time job, and I provide primary care services to this underse…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uzpdfg",
-      "title": "Day 30/45 business days premium processing but no access code for online portal, paper submission",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzpdfg/day_3045_business_days_premium_processing_but_no/",
-      "author": "/u/TAHIR_EB2NIW",
-      "publishedAt": "2026-07-18T07:33:59+00:00",
-      "excerpt": "I have not received any access code to upload my case with receipt number in my online portal. What should I do? I want to add my case. I can track my case with receipt number. I have a USCIS online portal but I need an access code. Paper filing",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1uzuix3",
-      "title": "EB2-NIW Consular Interview coming up in Frankfurt Germany. Switched jobs after I-140 approval",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzuix3/eb2niw_consular_interview_coming_up_in_frankfurt/",
-      "author": "/u/Appropriate_Milk_470",
-      "publishedAt": "2026-07-18T12:24:48+00:00",
-      "excerpt": "I have my EB2-NIW consular interview in a week. Since my I-140 was approved, I've switched jobs in the same domain at a much higher salary but its of course different than the job I had when I had my I 140 approved. My proposed endeavor covered a couple of related areas, and my current work overlaps with some but not a…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-19T17:49:09.430Z",
+  "syncedAt": "2026-07-19T18:51:09.298Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
