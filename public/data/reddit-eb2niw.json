@@ -91,6 +91,26 @@
       }
     },
     {
+      "id": "t3_1v0u1t4",
+      "title": "Should I file the I-140 and I-485 together?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0u1t4/should_i_file_the_i140_and_i485_together/",
+      "author": "/u/CortexCrisis",
+      "publishedAt": "2026-07-19T15:50:25+00:00",
+      "excerpt": "Hello! I'm working on my petition with Chen. I'm almost done with my documents and I've already contacted my recommenders. I'm planning to use premium processing and hopefully file in August. With everything that's going on right now, do you think it's a good idea to file the I-140 and I-485 concurrently? My current vi…",
+      "topics": [
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v0om21",
       "title": "Industry profile & evaluation results",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0om21/industry_profile_evaluation_results/",
@@ -448,27 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1uzu1bb",
-      "title": "Silent updates I-485",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1uzu1bb/silent_updates_i485/",
-      "author": "/u/Classic_Owl1792",
-      "publishedAt": "2026-07-18T12:01:15+00:00",
-      "excerpt": "Hi everyone, this may be a question that's been asked many times before. I had silent updates in April, on June 28, July 1, and again today. (I'm not sure if there were more that I missed because I wasn't checking my case very often) Has anyone noticed a pattern or trend when this happens? Thank you!",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-19T15:46:12.342Z",
+  "syncedAt": "2026-07-19T16:45:24.287Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
