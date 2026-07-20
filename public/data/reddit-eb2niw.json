@@ -35,6 +35,96 @@
       }
     },
     {
+      "id": "t3_1v1pwsx",
+      "title": "August VB is out",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1pwsx/august_vb_is_out/",
+      "author": "/u/Rd90_5",
+      "publishedAt": "2026-07-20T16:11:48+00:00",
+      "excerpt": "Almost same VB as July VB https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-august-2026.html",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v1r0vt",
+      "title": "Approved after 2+ years (EB-2 NIW)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1r0vt/approved_after_2_years_eb2_niw/",
+      "author": "/u/New-Chapter-6640",
+      "publishedAt": "2026-07-20T16:52:33+00:00",
+      "excerpt": "Hi all, My I-140 was finally approved after a long 2+ year journey! Just wanted to share my profile and timeline to give back to the community. Law Firm: Chen Immigration (Wegreened). My Profile: Education: Applied as a CS PhD student (had an MS from my home country). Current Status: Currently working at Big Tech. Init…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v1rbuh",
+      "title": "August 2026 Visa Bulletin",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1rbuh/august_2026_visa_bulletin/",
+      "author": "/u/RKabirx",
+      "publishedAt": "2026-07-20T17:03:10+00:00",
+      "excerpt": "EB-2 ROW, Mexico, and Philippines: Current for both Final Action Dates and Dates for Filing EB-2 China: Final Action Date is September 1, 2021; Dates for Filing is January 1, 2022 EB-2 India: Final Action Date is unavailable; Dates for Filing is January 15, 2015 Great news for EB-2 ROW applicants: the category remains …",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v1pxm3",
+      "title": "EB2-NIW via consular processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1pxm3/eb2niw_via_consular_processing/",
+      "author": "/u/ZealousidealScore446",
+      "publishedAt": "2026-07-20T16:12:38+00:00",
+      "excerpt": "Hi all! from what I’ve been reading, the “regular” EB2-NIW route is: file I-140, get it approved, then file I-485 to adjust status; but that only works if you’re already inside the US with valid legal status. I’m outside the US and don’t hold any US status (I do have ESTA though), so my understanding is I’d have to go …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v1phzk",
+      "title": "After approval",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1phzk/after_approval/",
+      "author": "/u/BeeHot1007",
+      "publishedAt": "2026-07-20T15:56:55+00:00",
+      "excerpt": "Has anyone on F1 changed their tuition status from international to resident after green card approval?",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v15s0r",
       "title": "I-485 Approval Full Timeline",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v15s0r/i485_approval_full_timeline/",
@@ -52,6 +142,42 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1v1rj6j",
+      "title": "What to double-check before leaving the civil surgeon’s office (I-693)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1rj6j/what_to_doublecheck_before_leaving_the_civil/",
+      "author": "/u/InevitableBorn6236",
+      "publishedAt": "2026-07-20T17:10:33+00:00",
+      "excerpt": "Getting my I-693 done soon. For those who’ve been through it, what should I check and confirm before walking out the door to avoid errors or a rejected form? Want to catch any mistakes while I’m still there. Thanks!",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v1ric4",
+      "title": "I-485 payment method",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1ric4/i485_payment_method/",
+      "author": "/u/UzumakiNatsu1490",
+      "publishedAt": "2026-07-20T17:09:44+00:00",
+      "excerpt": "Anyone used credit card for I-485 payment (paper filing)? If so, which card was it? I know ACH payment using bank account is safer, but was wondering if credit card can also be a safe option. I had my BofA card denied once when I premium processed my I-140.",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -91,6 +217,26 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": "11/20",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v1oxs8",
+      "title": "Steps after my I-485 is approval (F-1 PhD student)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1oxs8/steps_after_my_i485_is_approval_f1_phd_student/",
+      "author": "/u/Intrinsic137",
+      "publishedAt": "2026-07-20T15:35:51+00:00",
+      "excerpt": "My employment-based I-485 was recently approved, and I am currently an F-1 PhD student. What steps should I take now? Specifically: Which university offices should I notify, such as the international student office, HR, payroll, or my department? Should I notify them immediately based on the I-485 approval notice, or w…",
+      "topics": [
+        "approval",
+        "i485",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -224,14 +370,14 @@
       }
     },
     {
-      "id": "t3_1v0xno4",
-      "title": "Non-Research NIW Approvals",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0xno4/nonresearch_niw_approvals/",
-      "author": "/u/Deep_Parsley9206",
-      "publishedAt": "2026-07-19T18:10:13+00:00",
-      "excerpt": "Hi! Anyone with Non-Research NIW applications who have been approved recently (past 6 months)? What worked? I work in security, have 15 years of work experience, 11 in the US. But no research papers, I manage $10M plus implementations and programs and am submitting an application relating to AI security. I have a speci…",
+      "id": "t3_1v161hi",
+      "title": "I140 premium processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v161hi/i140_premium_processing/",
+      "author": "/u/Different_Peanut_327",
+      "publishedAt": "2026-07-20T00:07:23+00:00",
+      "excerpt": "I was laid off from my H-1B job a few days ago. I’m actively looking for another employer who can transfer my H-1B, but I also realize that finding a new job within the 60-day grace period may be difficult. I have already filed i485 and i765 but my i140 is still pending. I’m considering upgrading my i140 to premium pro…",
       "topics": [
-        "approval",
+        "i485",
         "i140",
         "question"
       ],
@@ -243,14 +389,14 @@
       }
     },
     {
-      "id": "t3_1v161hi",
-      "title": "I140 premium processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v161hi/i140_premium_processing/",
-      "author": "/u/Different_Peanut_327",
-      "publishedAt": "2026-07-20T00:07:23+00:00",
-      "excerpt": "I was laid off from my H-1B job a few days ago. I’m actively looking for another employer who can transfer my H-1B, but I also realize that finding a new job within the 60-day grace period may be difficult. I have already filed i485 and i765 but my i140 is still pending. I’m considering upgrading my i140 to premium pro…",
+      "id": "t3_1v0xno4",
+      "title": "Non-Research NIW Approvals",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0xno4/nonresearch_niw_approvals/",
+      "author": "/u/Deep_Parsley9206",
+      "publishedAt": "2026-07-19T18:10:13+00:00",
+      "excerpt": "Hi! Anyone with Non-Research NIW applications who have been approved recently (past 6 months)? What worked? I work in security, have 15 years of work experience, 11 in the US. But no research papers, I manage $10M plus implementations and programs and am submitting an application relating to AI security. I have a speci…",
       "topics": [
-        "i485",
+        "approval",
         "i140",
         "question"
       ],
@@ -315,157 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v123b2",
-      "title": "Ellis Porter refund with PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v123b2/ellis_porter_refund_with_pp/",
-      "author": "/u/WorriedHedgehog1600",
-      "publishedAt": "2026-07-19T21:18:47+00:00",
-      "excerpt": "I've been trying to apply for premium processing with Ellis Porter. My PD is Feb 2025, but they are not recommending it at all, Has someone decided to go forward with PP, and does that affect the refund/refile agreement?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v11r16",
-      "title": "EAD documents checklist for a derivative",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v11r16/ead_documents_checklist_for_a_derivative/",
-      "author": "/u/Academic_Summer_5165",
-      "publishedAt": "2026-07-19T21:02:51+00:00",
-      "excerpt": "Hi, I am applying for EAD together with I-485 for my wife based on my approved I-140 under eb2 niw category. She is currently on H4 and was previously on J2 dependent visa. Could someone help check if the following documents would be sufficient? Thanks for your time. ➢ I-765 EAD Application: Form G-1450 Authorization f…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v0ss8d",
-      "title": "MBBS from Pakistan. 60+ Publications",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0ss8d/mbbs_from_pakistan_60_publications/",
-      "author": "/u/finalmed",
-      "publishedAt": "2026-07-19T15:00:00+00:00",
-      "excerpt": "Hi, new to this sub, and just want to know how realistic is it to get approved 26-M from Pakistan Done with MBBS (Not ecfmg certified at the moment) 60+ international Publications; 90% pubmed indexed 634 citations ( h index of 12, i10 index of 15) Most of publications are meta-analysis and currently working as a resear…",
-      "topics": [
-        "approval"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v0om21",
-      "title": "Industry profile & evaluation results",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0om21/industry_profile_evaluation_results/",
-      "author": "/u/Significant_Ear_7027",
-      "publishedAt": "2026-07-19T11:55:11+00:00",
-      "excerpt": "Hi all, I wanted to share the reviews I got after reaching out to several NIW attorneys, and get your thoughts — especially from people with an industry background. I know my case isn't strong, so I figure a contract with a refund condition or a success fee would give the attorney more incentive to focus on my case. An…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1v0srxr",
-      "title": "Solo veo comentarios de casos con Chen y de académicos… acá no se publica casi nada de la industria… a que se debe? Gracias.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0srxr/solo_veo_comentarios_de_casos_con_chen_y_de/",
-      "author": "/u/Middle_Care516",
-      "publishedAt": "2026-07-19T14:59:40+00:00",
-      "excerpt": "Desde que ingrese a la comunidad he observado muy pocos casos de la industria; quisiera saber a que se dede.",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v0y5ow",
-      "title": "RFE has inconsistencies",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0y5ow/rfe_has_inconsistencies/",
-      "author": "/u/Eb2trying",
-      "publishedAt": "2026-07-19T18:29:58+00:00",
-      "excerpt": "I got an RFE some time ago and it said : “The evidence does not establish that the self-petitioner meets any of the thre prongs of the Dhanasar framework.” Then a few lines later it says: “USCIS finds that the proposed endeavor is of substantial merit” I am at a complete loss here. It also says: “ Additionally, self-pe…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v0u1t4",
-      "title": "Should I file the I-140 and I-485 together?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0u1t4/should_i_file_the_i140_and_i485_together/",
-      "author": "/u/CortexCrisis",
-      "publishedAt": "2026-07-19T15:50:25+00:00",
-      "excerpt": "Hello! I'm working on my petition with Chen. I'm almost done with my documents and I've already contacted my recommenders. I'm planning to use premium processing and hopefully file in August. With everything that's going on right now, do you think it's a good idea to file the I-140 and I-485 concurrently? My current vi…",
-      "topics": [
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v0fegz",
-      "title": "Case status",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0fegz/case_status/",
-      "author": "/u/Dense-Flight9663",
-      "publishedAt": "2026-07-19T03:16:56+00:00",
-      "excerpt": "Has anyone been using lawfully to check their case? What other ways can I use to check my case?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-20T15:01:31.176Z",
+  "syncedAt": "2026-07-20T17:22:31.135Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
