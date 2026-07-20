@@ -157,6 +157,25 @@
       }
     },
     {
+      "id": "t3_1v21jgh",
+      "title": "Two of the NIW cases on NIWStats got approved today — congrats to both of you!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v21jgh/two_of_the_niw_cases_on_niwstats_got_approved/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-07-20T23:27:25+00:00",
+      "excerpt": "A few days ago I posted here about NIWStats, a free site I built where you can actually search and browse other people's NIW cases - filter by endeavor field, profile, premium vs regular, outcome, and see how long things are taking. A bunch of you added yours since then, so thank you, it genuinely makes the whole thing…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v203c4",
       "title": "After submission RFE response, when has it been updated in Online status?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v203c4/after_submission_rfe_response_when_has_it_been/",
@@ -435,29 +454,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v0pefq",
-      "title": "I-140 approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v0pefq/i140_approved/",
-      "author": "/u/That-Operation-1645",
-      "publishedAt": "2026-07-19T12:32:32+00:00",
-      "excerpt": "Hi all - longtime lurker, first time poster on this subreddit. Just wanted to share my profile in case it helps anyone and to answer any questions. I stole the layout from someone else’s post (lol). Filed: February 2025, non-premium processing Upgraded to PP: December 2025 RFE received: March 2026 RFE response submitte…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-20T22:45:59.807Z",
+  "syncedAt": "2026-07-20T23:46:58.635Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
