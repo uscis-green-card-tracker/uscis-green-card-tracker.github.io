@@ -146,6 +146,24 @@
       }
     },
     {
+      "id": "t3_1v2ayx5",
+      "title": "May PP updates?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2ayx5/may_pp_updates/",
+      "author": "/u/Soph_cecc",
+      "publishedAt": "2026-07-21T07:04:14+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v1usz3",
       "title": "August 2026 Visa Bulletin has been released!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1usz3/august_2026_visa_bulletin_has_been_released/",
@@ -344,26 +362,6 @@
       }
     },
     {
-      "id": "t3_1v1oxs8",
-      "title": "Steps after my I-485 is approval (F-1 PhD student)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1oxs8/steps_after_my_i485_is_approval_f1_phd_student/",
-      "author": "/u/Intrinsic137",
-      "publishedAt": "2026-07-20T15:35:51+00:00",
-      "excerpt": "My employment-based I-485 was recently approved, and I am currently an F-1 PhD student. What steps should I take now? Specifically: Which university offices should I notify, such as the international student office, HR, payroll, or my department? Should I notify them immediately based on the I-485 approval notice, or w…",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v15s0r",
       "title": "I-485 Approval Full Timeline",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v15s0r/i485_approval_full_timeline/",
@@ -439,14 +437,16 @@
       }
     },
     {
-      "id": "t3_1v19k9r",
-      "title": "RFE Forms ETA-9089",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v19k9r/rfe_forms_eta9089/",
-      "author": "/u/Tech_Case",
-      "publishedAt": "2026-07-20T02:56:00+00:00",
-      "excerpt": "Hi all, I have a question I have received an RFE that says \"Please submit an original and properly completed Application for Permanent Employment Certification (ETA Form 9089), Parts J, K and L, or Application for Alien Employment Certification (ETA-750) Part B (Statement of Qualifications of Alien). Form I-140 must be…",
+      "id": "t3_1v1oxs8",
+      "title": "Steps after my I-485 is approval (F-1 PhD student)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1oxs8/steps_after_my_i485_is_approval_f1_phd_student/",
+      "author": "/u/Intrinsic137",
+      "publishedAt": "2026-07-20T15:35:51+00:00",
+      "excerpt": "My employment-based I-485 was recently approved, and I am currently an F-1 PhD student. What steps should I take now? Specifically: Which university offices should I notify, such as the international student office, HR, payroll, or my department? Should I notify them immediately based on the I-485 approval notice, or w…",
       "topics": [
-        "i140",
+        "approval",
+        "i485",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -457,7 +457,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-21T04:59:22.101Z",
+  "syncedAt": "2026-07-21T07:32:52.860Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
