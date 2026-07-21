@@ -131,6 +131,24 @@
       }
     },
     {
+      "id": "t3_1v2wvhi",
+      "title": "Service Center",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2wvhi/service_center/",
+      "author": "/u/Creative_Stranger104",
+      "publishedAt": "2026-07-21T22:06:31+00:00",
+      "excerpt": "Hi everyone, I have a question regarding my I-140 processing. When my I-140 was initially filed, the receipt notice showed Texas Service Center (TSC) at the bottom. Recently, I upgraded the case to Premium Processing , and the email confirmation I received states that the Nebraska Service Center (NSC) has received my a…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v2ppvi",
       "title": "Officer XM2009",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2ppvi/officer_xm2009/",
@@ -283,25 +301,6 @@
       "topics": [
         "i140",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v2np5g",
-      "title": "EB2 NIW denial",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2np5g/eb2_niw_denial/",
-      "author": "/u/wannagogreen",
-      "publishedAt": "2026-07-21T16:38:33+00:00",
-      "excerpt": "Evening all. My EB2 NIW was denied today. Does anyone have any tips/ideas/recommendations for me as want to do now? Refile? Same attorney? New attorney?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -464,7 +463,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-21T21:55:00.604Z",
+  "syncedAt": "2026-07-21T22:44:27.184Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
