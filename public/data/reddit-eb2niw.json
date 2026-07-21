@@ -56,6 +56,24 @@
       }
     },
     {
+      "id": "t3_1v2yp8c",
+      "title": "Approved on 44th business day!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2yp8c/approved_on_44th_business_day/",
+      "author": "/u/Old-Client6764",
+      "publishedAt": "2026-07-21T23:19:15+00:00",
+      "excerpt": "Happy to share that my I140 got approved today after responding 3 prong rfe. Happy to answer any questions!",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v2qv0t",
       "title": "I-485, EAD and AP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2qv0t/i485_ead_and_ap/",
@@ -104,6 +122,27 @@
         "approval",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v2ydjn",
+      "title": "Electronic or paper based?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2ydjn/electronic_or_paper_based/",
+      "author": "/u/nicetrymom2022",
+      "publishedAt": "2026-07-21T23:05:52+00:00",
+      "excerpt": "My company's attorney is planning to file my i485 (previously approved i-140) paper based vs electronic. It looks like paper based files are generally reviewed slower and we won't have access to API. Is there an advantage filing paper based and should I insist on electronic?",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -423,47 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v1zqod",
-      "title": "EB-2 NIW Premium Processing – Denied after RFE response (Timeline)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1zqod/eb2_niw_premium_processing_denied_after_rfe/",
-      "author": "/u/Lower-Secret-9064",
-      "publishedAt": "2026-07-20T22:12:49+00:00",
-      "excerpt": "Hi everyone, Sharing my EB-2 NIW timeline in case it helps others, and also looking to hear from anyone with a similar experience: Priority Date / Filing: September 10, 2025 Premium Processing received: February 2, 2026 RFE issued: March 30, 2026 (around business day 40) RFE response received by USCIS: May 20, 2026 RFE…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v2i4z9",
-      "title": "RFE explanation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2i4z9/rfe_explanation/",
-      "author": "/u/raf_phy",
-      "publishedAt": "2026-07-21T13:15:17+00:00",
-      "excerpt": "Hi, a friend of mine has applied for the EB2NIW and got their RFE. They did premium processing for the i-140 and received an RFE. The letter lists all 3 prongs and then says: \"The evidence establishes the self-petitioner meets all 3 prongs of the Dhanasar framework.\" However, after that it says that the form ETA-9089 i…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-21T22:44:27.184Z",
+  "syncedAt": "2026-07-21T23:47:44.707Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
