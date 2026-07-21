@@ -113,13 +113,18 @@
       }
     },
     {
-      "id": "t3_1v1pwsx",
-      "title": "August VB is out",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1pwsx/august_vb_is_out/",
-      "author": "/u/Rd90_5",
-      "publishedAt": "2026-07-20T16:11:48+00:00",
-      "excerpt": "Almost same VB as July VB https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-august-2026.html",
-      "topics": [],
+      "id": "t3_1v2fmsk",
+      "title": "Has anyone else recently experienced delays with the USCIS Elgin Lockbox for an EB-3 I-140 filed with Premium Processing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2fmsk/has_anyone_else_recently_experienced_delays_with/",
+      "author": "/u/TemporaryEnough6942",
+      "publishedAt": "2026-07-21T11:24:41+00:00",
+      "excerpt": "&#x200B; My attorney filed my petition with premium processing, but it's now been 6 business days. We have not received the receipt notice, and the credit card has not been charged yet. Has anyone had a similar experience recently? If so, how long did it take for your receipt notice or payment to be processed?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -137,6 +142,39 @@
       "topics": [
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v1pwsx",
+      "title": "August VB is out",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1pwsx/august_vb_is_out/",
+      "author": "/u/Rd90_5",
+      "publishedAt": "2026-07-20T16:11:48+00:00",
+      "excerpt": "Almost same VB as July VB https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-august-2026.html",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v2ayx5",
+      "title": "May PP updates?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2ayx5/may_pp_updates/",
+      "author": "/u/Soph_cecc",
+      "publishedAt": "2026-07-21T07:04:14+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -171,24 +209,6 @@
       "excerpt": "NIW petition filed earlier this month (F1; PP; ROW). 45 business days fall in early September. If next (Sep.) bulletin retrogresses, might lose a chance to submit I-485. PhD will be over in less than a year and OPT request can be more complex with recent changes (also no job aligned yet) If next bulletin retrogresses a…",
       "topics": [
         "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v2ayx5",
-      "title": "May PP updates?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2ayx5/may_pp_updates/",
-      "author": "/u/Soph_cecc",
-      "publishedAt": "2026-07-21T07:04:14+00:00",
-      "excerpt": "",
-      "topics": [
         "i140",
         "question"
       ],
@@ -434,26 +454,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v1rj6j",
-      "title": "What to double-check before leaving the civil surgeon’s office (I-693)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1rj6j/what_to_doublecheck_before_leaving_the_civil/",
-      "author": "/u/InevitableBorn6236",
-      "publishedAt": "2026-07-20T17:10:33+00:00",
-      "excerpt": "Getting my I-693 done soon. For those who’ve been through it, what should I check and confirm before walking out the door to avoid errors or a rejected form? Want to catch any mistakes while I’m still there. Thanks!",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-21T10:14:39.689Z",
+  "syncedAt": "2026-07-21T12:19:17.407Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
