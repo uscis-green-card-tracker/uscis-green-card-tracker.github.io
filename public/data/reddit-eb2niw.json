@@ -74,21 +74,6 @@
       }
     },
     {
-      "id": "t3_1v1pwsx",
-      "title": "August VB is out",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1pwsx/august_vb_is_out/",
-      "author": "/u/Rd90_5",
-      "publishedAt": "2026-07-20T16:11:48+00:00",
-      "excerpt": "Almost same VB as July VB https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-august-2026.html",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v1zqod",
       "title": "EB-2 NIW Premium Processing – Denied after RFE response (Timeline)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1zqod/eb2_niw_premium_processing_denied_after_rfe/",
@@ -101,6 +86,21 @@
         "timeline",
         "question"
       ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v1pwsx",
+      "title": "August VB is out",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1pwsx/august_vb_is_out/",
+      "author": "/u/Rd90_5",
+      "publishedAt": "2026-07-20T16:11:48+00:00",
+      "excerpt": "Almost same VB as July VB https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-august-2026.html",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -153,6 +153,25 @@
       "publishedAt": "2026-07-20T19:06:29+00:00",
       "excerpt": "The August 2026 Visa Bulletin is out, and if you’re on H1B tracking EB2/EB3, here is a helpful tool to make the movement easier to follow: 👉 EBtracker Visa Bulletin You can: Track EB2/EB3 by country (India, China, ROW) Compare Final Action vs Filing Dates Quickly spot stalls and retrogressions See month-to-month chang…",
       "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v26987",
+      "title": "I-140 RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v26987/i140_rfe/",
+      "author": "/u/med_guy14",
+      "publishedAt": "2026-07-21T02:59:42+00:00",
+      "excerpt": "I just received an email alert from track my I-140 that my case received RFE. What’s the best strategy and way so that I can receive the details of the RFE given that I have applied through Chen? I have reached out to Chen, but is there a request that I can directly follow up with USCIS to request a physical copy of de…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -436,28 +455,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v1bls5",
-      "title": "PENDING I140 with I485? Your Opinions help lots of people.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v1bls5/pending_i140_with_i485_your_opinions_help_lots_of/",
-      "author": "/u/L4E2025",
-      "publishedAt": "2026-07-20T04:42:13+00:00",
-      "excerpt": "Just curious to know your opinions about submitting I485 while NIW I140’s still pending. Also, by knowing that the petitioner is on non-immigrant visa.",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-21T01:44:59.837Z",
+  "syncedAt": "2026-07-21T04:59:22.101Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
