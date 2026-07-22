@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1v35res",
+      "title": "EB2 NIW with Chen approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v35res/eb2_niw_with_chen_approved/",
+      "author": "/u/orion_dwarf",
+      "publishedAt": "2026-07-22T04:36:16+00:00",
+      "excerpt": "PD: 5/20/2026 PP clock start: 5/22/2026 [upgraded online myself], NSC Approved 7/21/2026, 39th business day, no RFE About me: ROW, country not banned in any way Concurrently filed I-485, no dependents. F1 underlying status Credentials at time of filing: BSc at a top US state university, MA at top US university (an Ivy)…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "5/20/2026",
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v32lbo",
       "title": "Frustration with Ellis Porter",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v32lbo/frustration_with_ellis_porter/",
@@ -93,22 +113,20 @@
       }
     },
     {
-      "id": "t3_1v35res",
-      "title": "EB2 NIW with Chen approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v35res/eb2_niw_with_chen_approved/",
-      "author": "/u/orion_dwarf",
-      "publishedAt": "2026-07-22T04:36:16+00:00",
-      "excerpt": "PD: 5/20/2026 PP clock start: 5/22/2026 [upgraded online myself], NSC Approved 7/21/2026, 39th business day, no RFE About me: ROW, country not banned in any way Concurrently filed I-485, no dependents. F1 underlying status Credentials at time of filing: BSc at a top US state university, MA at top US university (an Ivy)…",
+      "id": "t3_1v36ha3",
+      "title": "Is it too late for Premium Processinf?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v36ha3/is_it_too_late_for_premium_processinf/",
+      "author": "/u/shotgun_777",
+      "publishedAt": "2026-07-22T05:12:37+00:00",
+      "excerpt": "I filed at May 15,2024. Is it makes sense to upgrade to premium processing? Thanks",
       "topics": [
-        "approval",
-        "i485",
         "i140",
-        "lawyer"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
-        "priorityDate": "5/20/2026",
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -205,25 +223,6 @@
       }
     },
     {
-      "id": "t3_1v2mccj",
-      "title": "Claude’s approval odds",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2mccj/claudes_approval_odds/",
-      "author": "/u/excellent_lillybloom",
-      "publishedAt": "2026-07-21T15:50:20+00:00",
-      "excerpt": "For those people that used Claude or ChatGPT or any other AI to ask for approval odds on your petitions final draft, what percentages were you seeing. And for those that have final adjudication, was it on par with the actual outcome. I tried to use AI to give me unbiased estimate from the lens of a strict USCIS adjudic…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v2ydjn",
       "title": "Electronic or paper based?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2ydjn/electronic_or_paper_based/",
@@ -269,6 +268,25 @@
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v2mccj",
+      "title": "Claude’s approval odds",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2mccj/claudes_approval_odds/",
+      "author": "/u/excellent_lillybloom",
+      "publishedAt": "2026-07-21T15:50:20+00:00",
+      "excerpt": "For those people that used Claude or ChatGPT or any other AI to ask for approval odds on your petitions final draft, what percentages were you seeing. And for those that have final adjudication, was it on par with the actual outcome. I tried to use AI to give me unbiased estimate from the lens of a strict USCIS adjudic…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -436,28 +454,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v2n3lr",
-      "title": "Personal statement length",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2n3lr/personal_statement_length/",
-      "author": "/u/Conloc27",
-      "publishedAt": "2026-07-21T16:17:16+00:00",
-      "excerpt": "I had a lengthy 15-page PS for RFE response, and my attorney suggested me shorten it. Should I shorten it? It took me a lot of time to write and organise exhibits. They said a US agent will not scrutinize a lengthy paragraph. Thanks",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-22T04:58:45.599Z",
+  "syncedAt": "2026-07-22T07:33:38.809Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
