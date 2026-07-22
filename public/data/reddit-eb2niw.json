@@ -91,24 +91,6 @@
       }
     },
     {
-      "id": "t3_1v3kqzm",
-      "title": "What month is NSC regular processing i-140 NIW on?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3kqzm/what_month_is_nsc_regular_processing_i140_niw_on/",
-      "author": "/u/PeakScorePrep",
-      "publishedAt": "2026-07-22T16:14:25+00:00",
-      "excerpt": "What month is NSC currently processing? We, regular processing folks, have been sent to the prison of unending wait.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v3mrnq",
       "title": "I-485 still pending, filed October 1 2025.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3mrnq/i485_still_pending_filed_october_1_2025/",
@@ -120,6 +102,24 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v3kqzm",
+      "title": "What month is NSC regular processing i-140 NIW on?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3kqzm/what_month_is_nsc_regular_processing_i140_niw_on/",
+      "author": "/u/PeakScorePrep",
+      "publishedAt": "2026-07-22T16:14:25+00:00",
+      "excerpt": "What month is NSC currently processing? We, regular processing folks, have been sent to the prison of unending wait.",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -166,6 +166,25 @@
       }
     },
     {
+      "id": "t3_1v3q6cr",
+      "title": "EB-1C (E13) APPROVED after RFE — here's what the RFE asked for and how we answered it.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3q6cr/eb1c_e13_approved_after_rfe_heres_what_the_rfe/",
+      "author": "/u/Sea_Engineering4169",
+      "publishedAt": "2026-07-22T19:21:13+00:00",
+      "excerpt": "Got the approval email this morning and I'm still exhaling. Sharing the timeline plus what worked on the RFE, because when I was in the thick of it these posts were the only thing keeping me sane. Timeline (Premium Processing, Nebraska Service Center): I-140 filed (EB-1C / Multinational Manager): Oct 25th, 2025 Upgrade…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v3jdv0",
       "title": "EB-2 NIW RFE – Anyone Approved After 20–30+ Business Days and “Case Is Still Being Processed” Status?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3jdv0/eb2_niw_rfe_anyone_approved_after_2030_business/",
@@ -176,6 +195,23 @@
         "approval",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v3ok7a",
+      "title": "I got a denial notice, what are the quickest options other than refilling again? Or refilling is the quickest?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3ok7a/i_got_a_denial_notice_what_are_the_quickest/",
+      "author": "/u/External_College_796",
+      "publishedAt": "2026-07-22T18:24:55+00:00",
+      "excerpt": "",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -216,26 +252,6 @@
         "i140",
         "lawyer",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v3k3an",
-      "title": "RFE advice (accepted industry job since filing)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3k3an/rfe_advice_accepted_industry_job_since_filing/",
-      "author": "/u/FingerParticular8119",
-      "publishedAt": "2026-07-22T15:51:49+00:00",
-      "excerpt": "Hello, I received RFE on my 43rd business day! Sorry for the long read! My original proposed endeavor was to use advanced bioinformatics and population genomics to investigate antibiotic resistance and virulence in bacterial pathogens. I wanted to pursue a postdoctoral position, but despite applying for relevant roles,…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -343,6 +359,26 @@
       }
     },
     {
+      "id": "t3_1v3k3an",
+      "title": "RFE advice (accepted industry job since filing)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3k3an/rfe_advice_accepted_industry_job_since_filing/",
+      "author": "/u/FingerParticular8119",
+      "publishedAt": "2026-07-22T15:51:49+00:00",
+      "excerpt": "Hello, I received RFE on my 43rd business day! Sorry for the long read! My original proposed endeavor was to use advanced bioinformatics and population genomics to investigate antibiotic resistance and virulence in bacterial pathogens. I wanted to pursue a postdoctoral position, but despite applying for relevant roles,…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v3g4ix",
       "title": "Help!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3g4ix/help/",
@@ -435,44 +471,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v30uj0",
-      "title": "Alguien con algun caso que este siendo revisado por el oficial XM2416? Alguna experiencia que puedan compartir?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v30uj0/alguien_con_algun_caso_que_este_siendo_revisado/",
-      "author": "/u/DirectLeague7752",
-      "publishedAt": "2026-07-22T00:49:59+00:00",
-      "excerpt": "",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v2kgb1",
-      "title": "I need some second opinion",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2kgb1/i_need_some_second_opinion/",
-      "author": "/u/Lanky-Structure6487",
-      "publishedAt": "2026-07-21T14:42:56+00:00",
-      "excerpt": "About me BS, MS completed in usa (chemistry, materials science) (2022,2025 graduation dates) Nationality- east asian (not chinese) 3 papers - 6th author (300 citations 2023) - 5th author (16 citation 2025) - 2nd author (0 citations 2026) Field of research is in national security (chemistry and materials science) I work…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-22T18:02:02.830Z",
+  "syncedAt": "2026-07-22T20:06:15.834Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
