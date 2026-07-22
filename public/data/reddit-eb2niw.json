@@ -113,14 +113,15 @@
       }
     },
     {
-      "id": "t3_1v36ha3",
-      "title": "Is it too late for Premium Processinf?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v36ha3/is_it_too_late_for_premium_processinf/",
-      "author": "/u/shotgun_777",
-      "publishedAt": "2026-07-22T05:12:37+00:00",
-      "excerpt": "I filed at May 15,2024. Is it makes sense to upgrade to premium processing? Thanks",
+      "id": "t3_1v30r59",
+      "title": "I-485 Online Filing Rejected Within Hours – Anyone Else Experience This?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v30r59/i485_online_filing_rejected_within_hours_anyone/",
+      "author": "/u/happy_dodo",
+      "publishedAt": "2026-07-22T00:45:51+00:00",
+      "excerpt": "i filed my I-485 online today, and my husband filed his separately as my derivative beneficiary. We uploaded all the required documents, and both of our credit cards showed the filing fee as a pending transaction. However, just a few hours later, both of our USCIS accounts showed: \"Your submission was rejected. You wil…",
       "topics": [
-        "i140",
+        "i485",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -131,15 +132,14 @@
       }
     },
     {
-      "id": "t3_1v30r59",
-      "title": "I-485 Online Filing Rejected Within Hours – Anyone Else Experience This?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v30r59/i485_online_filing_rejected_within_hours_anyone/",
-      "author": "/u/happy_dodo",
-      "publishedAt": "2026-07-22T00:45:51+00:00",
-      "excerpt": "i filed my I-485 online today, and my husband filed his separately as my derivative beneficiary. We uploaded all the required documents, and both of our credit cards showed the filing fee as a pending transaction. However, just a few hours later, both of our USCIS accounts showed: \"Your submission was rejected. You wil…",
+      "id": "t3_1v36ha3",
+      "title": "Is it too late for Premium Processinf?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v36ha3/is_it_too_late_for_premium_processinf/",
+      "author": "/u/shotgun_777",
+      "publishedAt": "2026-07-22T05:12:37+00:00",
+      "excerpt": "I filed at May 15,2024. Is it makes sense to upgrade to premium processing? Thanks",
       "topics": [
-        "i485",
-        "timeline",
+        "i140",
         "question"
       ],
       "signals": {
@@ -313,6 +313,25 @@
       }
     },
     {
+      "id": "t3_1v2vbo9",
+      "title": "Is it possible to file I485 when visa is Unavailable?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2vbo9/is_it_possible_to_file_i485_when_visa_is/",
+      "author": "/u/Additional-Skirt-937",
+      "publishedAt": "2026-07-21T21:07:21+00:00",
+      "excerpt": "My PD is January 2025, I am planning to file I485. What will happen if the visa gets unavailable before my filing? Do I need to wait until October 1st? Thanks",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v2uwif",
       "title": "Independent Reccomandation and Media Coverage",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2uwif/independent_reccomandation_and_media_coverage/",
@@ -354,25 +373,6 @@
       "publishedAt": "2026-07-21T07:04:14+00:00",
       "excerpt": "",
       "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v2vbo9",
-      "title": "Is it possible to file I485 when visa is Unavailable?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2vbo9/is_it_possible_to_file_i485_when_visa_is/",
-      "author": "/u/Additional-Skirt-937",
-      "publishedAt": "2026-07-21T21:07:21+00:00",
-      "excerpt": "My PD is January 2025, I am planning to file I485. What will happen if the visa gets unavailable before my filing? Do I need to wait until October 1st? Thanks",
-      "topics": [
-        "i485",
         "i140",
         "question"
       ],
@@ -456,7 +456,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-22T07:33:38.809Z",
+  "syncedAt": "2026-07-22T10:14:43.460Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
