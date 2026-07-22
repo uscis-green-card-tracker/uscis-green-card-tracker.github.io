@@ -71,26 +71,6 @@
       }
     },
     {
-      "id": "t3_1v35res",
-      "title": "EB2 NIW with Chen approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v35res/eb2_niw_with_chen_approved/",
-      "author": "/u/orion_dwarf",
-      "publishedAt": "2026-07-22T04:36:16+00:00",
-      "excerpt": "PD: 5/20/2026 PP clock start: 5/22/2026 [upgraded online myself], NSC Approved 7/21/2026, 39th business day, no RFE About me: ROW, country not banned in any way Concurrently filed I-485, no dependents. F1 underlying status Credentials at time of filing: BSc at a top US state university, MA at top US university (an Ivy)…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "5/20/2026",
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v3mrnq",
       "title": "I-485 still pending, filed October 1 2025.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3mrnq/i485_still_pending_filed_october_1_2025/",
@@ -107,6 +87,26 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v35res",
+      "title": "EB2 NIW with Chen approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v35res/eb2_niw_with_chen_approved/",
+      "author": "/u/orion_dwarf",
+      "publishedAt": "2026-07-22T04:36:16+00:00",
+      "excerpt": "PD: 5/20/2026 PP clock start: 5/22/2026 [upgraded online myself], NSC Approved 7/21/2026, 39th business day, no RFE About me: ROW, country not banned in any way Concurrently filed I-485, no dependents. F1 underlying status Credentials at time of filing: BSc at a top US state university, MA at top US university (an Ivy)…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "5/20/2026",
         "mentionsCountry75": false
       }
     },
@@ -129,6 +129,24 @@
       }
     },
     {
+      "id": "t3_1v2yp8c",
+      "title": "Approved on 44th business day!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2yp8c/approved_on_44th_business_day/",
+      "author": "/u/Old-Client6764",
+      "publishedAt": "2026-07-21T23:19:15+00:00",
+      "excerpt": "Happy to share that my I140 got approved today after responding 3 prong rfe. Happy to answer any questions!",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v32lbo",
       "title": "Frustration with Ellis Porter",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v32lbo/frustration_with_ellis_porter/",
@@ -139,24 +157,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v2yp8c",
-      "title": "Approved on 44th business day!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2yp8c/approved_on_44th_business_day/",
-      "author": "/u/Old-Client6764",
-      "publishedAt": "2026-07-21T23:19:15+00:00",
-      "excerpt": "Happy to share that my I140 got approved today after responding 3 prong rfe. Happy to answer any questions!",
-      "topics": [
-        "approval",
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -473,7 +473,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-22T20:06:15.834Z",
+  "syncedAt": "2026-07-22T21:56:53.636Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
