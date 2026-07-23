@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1v45rla",
-      "title": "EB-2 NIW Approved After RFE on All Three Prongs",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v45rla/eb2_niw_approved_after_rfe_on_all_three_prongs/",
-      "author": "/u/lofy-",
-      "publishedAt": "2026-07-23T06:31:46+00:00",
-      "excerpt": "Hi all, Longtime lurker, though not a first-time poster in this subreddit :p. I wanted to share my profile and RFE experience in case it helps anyone, especially those who have received an RFE challenging all three NIW prongs. I borrowed the layout from another approval post because I found it very helpful! :p Priority…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1v4ncn1",
       "title": "EB2-NIW + 3 derivatives",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4ncn1/eb2niw_3_derivatives/",
@@ -70,6 +51,25 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v45rla",
+      "title": "EB-2 NIW Approved After RFE on All Three Prongs",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v45rla/eb2_niw_approved_after_rfe_on_all_three_prongs/",
+      "author": "/u/lofy-",
+      "publishedAt": "2026-07-23T06:31:46+00:00",
+      "excerpt": "Hi all, Longtime lurker, though not a first-time poster in this subreddit :p. I wanted to share my profile and RFE experience in case it helps anyone, especially those who have received an RFE challenging all three NIW prongs. I borrowed the layout from another approval post because I found it very helpful! :p Priority…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
       }
     },
     {
@@ -98,6 +98,45 @@
       "publishedAt": "2026-07-23T22:03:08+00:00",
       "excerpt": "Got another event (IAF) with today’s date on my 765 and wondering if it means anything or just the glitch.",
       "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v4qlii",
+      "title": "Any feedback about Santa Ana field office?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4qlii/any_feedback_about_santa_ana_field_office/",
+      "author": "/u/Loud_cow841",
+      "publishedAt": "2026-07-23T21:00:56+00:00",
+      "excerpt": "How long did your I-485 case take to be processed in this office?",
+      "topics": [
+        "i485",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v4usyx",
+      "title": "EB-2 NIW attorney recommendations? Chen vs. IBP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4usyx/eb2_niw_attorney_recommendations_chen_vs_ibp/",
+      "author": "/u/CupcakeBoth1188",
+      "publishedAt": "2026-07-23T23:46:53+00:00",
+      "excerpt": "Hey everyone, I’m planning to apply for an EB-2 NIW and have spoken with several law firms. So far, all of them have told me that I have a strong case, and I’m now trying to decide which firm to move forward with. I received a positive evaluation from Chen Immigration Law with the Approval or Refund option. I’ve also s…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -174,25 +213,6 @@
       "excerpt": "Hello everyone, I need to check if mail notices are being received from USCIS? PD is May 2026 through PP and till now (July 23) the receipt notice (i797C) is not received but got the receipt number though. Also, an RFE was received on 8th July but till date (July 23) the RFE mail notice is not received. I did e-request…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v4qlii",
-      "title": "Any feedback about Santa Ana field office?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4qlii/any_feedback_about_santa_ana_field_office/",
-      "author": "/u/Loud_cow841",
-      "publishedAt": "2026-07-23T21:00:56+00:00",
-      "excerpt": "How long did your I-485 case take to be processed in this office?",
-      "topics": [
-        "i485",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -444,29 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v40pga",
-      "title": "EB I-485 at Cincinnati Field Office since April 29 — losing a job offer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v40pga/eb_i485_at_cincinnati_field_office_since_april_29/",
-      "author": "/u/sara78734r33455r4",
-      "publishedAt": "2026-07-23T02:19:21+00:00",
-      "excerpt": "Hi everyone, Our employment-based(EB-2) I-485 priority date is January 2024. We completed biometrics in October 2025, but there has been no meaningful movement since then. USCIS confirmed that our case has been at the Cincinnati Field Office since April 29, 2026. We have not received an RFE, interview notice, or decisi…",
-      "topics": [
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-23T22:51:09.451Z",
+  "syncedAt": "2026-07-23T23:52:08.295Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
