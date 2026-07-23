@@ -112,6 +112,23 @@
       }
     },
     {
+      "id": "t3_1v4a5e8",
+      "title": "Error retrieving case status",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4a5e8/error_retrieving_case_status/",
+      "author": "/u/Icy_Impression2540",
+      "publishedAt": "2026-07-23T10:37:21+00:00",
+      "excerpt": "Anyone else having this issue on USCIS account?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v3ho66",
       "title": "Lisa Butler is a Scam",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3ho66/lisa_butler_is_a_scam/",
@@ -337,24 +354,6 @@
       }
     },
     {
-      "id": "t3_1v2yp8c",
-      "title": "Approved on 44th business day!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2yp8c/approved_on_44th_business_day/",
-      "author": "/u/Old-Client6764",
-      "publishedAt": "2026-07-21T23:19:15+00:00",
-      "excerpt": "Happy to share that my I140 got approved today after responding 3 prong rfe. Happy to answer any questions!",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v32lbo",
       "title": "Frustration with Ellis Porter",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v32lbo/frustration_with_ellis_porter/",
@@ -365,6 +364,24 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v2yp8c",
+      "title": "Approved on 44th business day!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v2yp8c/approved_on_44th_business_day/",
+      "author": "/u/Old-Client6764",
+      "publishedAt": "2026-07-21T23:19:15+00:00",
+      "excerpt": "Happy to share that my I140 got approved today after responding 3 prong rfe. Happy to answer any questions!",
+      "topics": [
+        "approval",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -452,30 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v3jn3i",
-      "title": "I-485 FO Thoughts?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v3jn3i/i485_fo_thoughts/",
-      "author": "/u/AnnualBath7365",
-      "publishedAt": "2026-07-22T15:35:51+00:00",
-      "excerpt": "I have an approved EB2-NIW. 75 COC, single filler I485 RD: 05/03/2026. Biomterics (06/25/2026). 2 x FTA0 and 3 SU. Last one 07/19/26. I asked Emma today said Case Transferred to Nashville FO (Local for me), but no action required so far. Is it necessary to have interview if the FO is local or still can be waived. I’ve …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": "05/03/2026",
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-07-23T08:11:20.049Z",
+  "syncedAt": "2026-07-23T11:00:00.483Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
