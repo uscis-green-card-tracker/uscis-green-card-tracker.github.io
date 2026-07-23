@@ -91,6 +91,23 @@
       }
     },
     {
+      "id": "t3_1v4s9m0",
+      "title": "IAF on 765?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4s9m0/iaf_on_765/",
+      "author": "/u/IndependenceJust4267",
+      "publishedAt": "2026-07-23T22:03:08+00:00",
+      "excerpt": "Got another event (IAF) with today’s date on my 765 and wondering if it means anything or just the glitch.",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v4o4sx",
       "title": "NIW EB2 - file now with a thin case, or wait 6 months for a stronger publication",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4o4sx/niw_eb2_file_now_with_a_thin_case_or_wait_6/",
@@ -447,29 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4gtl5",
-      "title": "Derivative I-140 and Future F-1 (I-539) Extension – Need Advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4gtl5/derivative_i140_and_future_f1_i539_extension_need/",
-      "author": "/u/Niloyrans",
-      "publishedAt": "2026-07-23T15:15:39+00:00",
-      "excerpt": "I'm looking for guidance on a future F-1 status question. My husband was granted F-1 status with D/S on his I-94, effective August 2026. His Master's program is expected to end on May 2028, which is after the transition window under the new DHS fixed-duration F-1 rule. Based on my understanding, he may need to file For…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-23T21:56:32.294Z",
+  "syncedAt": "2026-07-23T22:51:09.451Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
