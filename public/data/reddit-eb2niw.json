@@ -127,16 +127,14 @@
       }
     },
     {
-      "id": "t3_1v4usyx",
-      "title": "EB-2 NIW attorney recommendations? Chen vs. IBP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4usyx/eb2_niw_attorney_recommendations_chen_vs_ibp/",
-      "author": "/u/CupcakeBoth1188",
-      "publishedAt": "2026-07-23T23:46:53+00:00",
-      "excerpt": "Hey everyone, I’m planning to apply for an EB-2 NIW and have spoken with several law firms. So far, all of them have told me that I have a strong case, and I’m now trying to decide which firm to move forward with. I received a positive evaluation from Chen Immigration Law with the Approval or Refund option. I’ve also s…",
+      "id": "t3_1v4w2s7",
+      "title": "Online I-485: Medical exam upload shows \"Temporary Labor Certification\"",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4w2s7/online_i485_medical_exam_upload_shows_temporary/",
+      "author": "/u/happy_dodo",
+      "publishedAt": "2026-07-24T00:41:37+00:00",
+      "excerpt": "Hi everyone, I'm filing my Form I-485 online. When I try to upload my Form I-693 (medical examination), the upload section is labeled \"Temporary Labor Certification.\" Has anyone else experienced this in the USCIS online filing system? Is this just a labeling issue, or is there a way to remove or change it? Any advice w…",
       "topics": [
-        "approval",
-        "i140",
-        "lawyer",
+        "i485",
         "question"
       ],
       "signals": {
@@ -147,13 +145,51 @@
       }
     },
     {
-      "id": "t3_1v4o4sx",
-      "title": "NIW EB2 - file now with a thin case, or wait 6 months for a stronger publication",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4o4sx/niw_eb2_file_now_with_a_thin_case_or_wait_6/",
-      "author": "/u/CuriousHold14912",
-      "publishedAt": "2026-07-23T19:32:08+00:00",
-      "excerpt": "4th-year PhD, 2 first-author + 3 co-author papers, 54 total citations (mostly from a 2020 first-author paper unrelated to my proposed endeavor). My only publication directly tied to my proposed national-endeavor narrative came out in 2025 and has 1 citation. I have another recent paper where I'm 3rd author. My immigrat…",
+      "id": "t3_1v4w207",
+      "title": "Profile Review - MD in Research",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4w207/profile_review_md_in_research/",
+      "author": "/u/writer80s",
+      "publishedAt": "2026-07-24T00:40:40+00:00",
+      "excerpt": "I am curious about my chances as of now to apply for the EB2 NIW. My main issue is that the research I have now is broad in Internal Medicine, not in a specific specialty. I will pursue a subspecialty within IM that I have no publications on (yet), so I am not sure how to frame this in the proposed endeavor. All the re…",
       "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v4vfao",
+      "title": "EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4vfao/eb2_niw/",
+      "author": "/u/EconomicsCareful2034",
+      "publishedAt": "2026-07-24T00:12:50+00:00",
+      "excerpt": "Any recent approval?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v4usyx",
+      "title": "EB-2 NIW attorney recommendations? Chen vs. IBP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4usyx/eb2_niw_attorney_recommendations_chen_vs_ibp/",
+      "author": "/u/CupcakeBoth1188",
+      "publishedAt": "2026-07-23T23:46:53+00:00",
+      "excerpt": "Hey everyone, I’m planning to apply for an EB-2 NIW and have spoken with several law firms. So far, all of them have told me that I have a strong case, and I’m now trying to decide which firm to move forward with. I received a positive evaluation from Chen Immigration Law with the Approval or Refund option. I’ve also s…",
+      "topics": [
+        "approval",
         "i140",
         "lawyer",
         "question"
@@ -177,6 +213,25 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v4mhbl",
+      "title": "Premium processing refund",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4mhbl/premium_processing_refund/",
+      "author": "/u/Quiet-Tart2877",
+      "publishedAt": "2026-07-23T18:34:31+00:00",
+      "excerpt": "Has anyone gotten a refund for premium processing taking longer that 45 days? My lawyer has sent a few inquiries but haven’t gotten a response back. I was from one the 39 countries so not sure if the clock worked differently for us",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -223,6 +278,24 @@
       }
     },
     {
+      "id": "t3_1v4kxp3",
+      "title": "How much does ranking matter for approval?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4kxp3/how_much_does_ranking_matter_for_approval/",
+      "author": "/u/IntelligentNight7148",
+      "publishedAt": "2026-07-23T17:40:44+00:00",
+      "excerpt": "Suppose you have a great PE focused in advanced semiconductor fabrication applied in renewable energy, DOE NSF funding, well accomplished and respected PI and strong profile in terms of pubs and citations and conferences BUT your university ranks very low.",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v4q212",
       "title": "Is there a chance for me?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4q212/is_there_a_chance_for_me/",
@@ -249,6 +322,25 @@
       "excerpt": "Hello, One thing came to mind: I have received financial assistance from a private medical hospital. Do you think it might create any issues with my I-485, or will it be considered a government benefit (Public charge)? Another thing: I do not have health insurance, so should I take insurance ASAP, or does it have any i…",
       "topics": [
         "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v4ftcn",
+      "title": "RFE received on all 3 prongs.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4ftcn/rfe_received_on_all_3_prongs/",
+      "author": "/u/No_Bug_9518",
+      "publishedAt": "2026-07-23T14:38:37+00:00",
+      "excerpt": "I recently received an EB-2 NIW RFE that challenges all three Dhanasar prongs. USCIS is questioning whether my proposed endeavor has national importance, whether I am well-positioned to advance it, and whether waiving the labor certification requirement would benefit the United States. The original petition focused on …",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -316,6 +408,25 @@
       }
     },
     {
+      "id": "t3_1v4o4sx",
+      "title": "NIW EB2 - file now with a thin case, or wait 6 months for a stronger publication",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4o4sx/niw_eb2_file_now_with_a_thin_case_or_wait_6/",
+      "author": "/u/CuriousHold14912",
+      "publishedAt": "2026-07-23T19:32:08+00:00",
+      "excerpt": "4th-year PhD, 2 first-author + 3 co-author papers, 54 total citations (mostly from a 2020 first-author paper unrelated to my proposed endeavor). My only publication directly tied to my proposed national-endeavor narrative came out in 2025 and has 1 citation. I have another recent paper where I'm 3rd author. My immigrat…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v4nv5v",
       "title": "EB2 NIW PhD US equivalent degree evaluation",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4nv5v/eb2_niw_phd_us_equivalent_degree_evaluation/",
@@ -353,120 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4mhbl",
-      "title": "Premium processing refund",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4mhbl/premium_processing_refund/",
-      "author": "/u/Quiet-Tart2877",
-      "publishedAt": "2026-07-23T18:34:31+00:00",
-      "excerpt": "Has anyone gotten a refund for premium processing taking longer that 45 days? My lawyer has sent a few inquiries but haven’t gotten a response back. I was from one the 39 countries so not sure if the clock worked differently for us",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v4ftcn",
-      "title": "RFE received on all 3 prongs.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4ftcn/rfe_received_on_all_3_prongs/",
-      "author": "/u/No_Bug_9518",
-      "publishedAt": "2026-07-23T14:38:37+00:00",
-      "excerpt": "I recently received an EB-2 NIW RFE that challenges all three Dhanasar prongs. USCIS is questioning whether my proposed endeavor has national importance, whether I am well-positioned to advance it, and whether waiving the labor certification requirement would benefit the United States. The original petition focused on …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v4a5e8",
-      "title": "Error retrieving case status",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4a5e8/error_retrieving_case_status/",
-      "author": "/u/Icy_Impression2540",
-      "publishedAt": "2026-07-23T10:37:21+00:00",
-      "excerpt": "Anyone else having this issue on USCIS account?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v4kxp3",
-      "title": "How much does ranking matter for approval?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4kxp3/how_much_does_ranking_matter_for_approval/",
-      "author": "/u/IntelligentNight7148",
-      "publishedAt": "2026-07-23T17:40:44+00:00",
-      "excerpt": "Suppose you have a great PE focused in advanced semiconductor fabrication applied in renewable energy, DOE NSF funding, well accomplished and respected PI and strong profile in terms of pubs and citations and conferences BUT your university ranks very low.",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v4kp58",
-      "title": "Looking for EB-2 NIW lawyer recommendations for banking / finance professional",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4kp58/looking_for_eb2_niw_lawyer_recommendations_for/",
-      "author": "/u/Significant_Heat_222",
-      "publishedAt": "2026-07-23T17:32:14+00:00",
-      "excerpt": "I’m starting the EB-2 NIW process and would really appreciate recommendations for immigration attorneys who have a strong track record with industry professionals , rather than primarily researchers or academics. I’m looking for attorneys who have successfully handled NIW petitions for professionals in banking, finance…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v4i717",
-      "title": "Iranian National — EB-2 NIW Premium Processing Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4i717/iranian_national_eb2_niw_premium_processing/",
-      "author": "/u/InspectionNew3335",
-      "publishedAt": "2026-07-23T16:04:45+00:00",
-      "excerpt": "Hi everyone, I am an Iranian national with a pending EB-2 NIW I-140 (filing date: August 2025). I recently upgraded my case to premium processing on July 20, 2026. Are there any other Iranian applicants here who recently used premium processing for an EB-2 NIW petition? How many business days did it take to receive an …",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-23T23:52:08.295Z",
+  "syncedAt": "2026-07-24T01:47:20.761Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
