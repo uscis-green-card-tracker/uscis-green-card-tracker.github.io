@@ -54,6 +54,27 @@
       }
     },
     {
+      "id": "t3_1v5qghe",
+      "title": "Seeking advice on an estimated timeline.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5qghe/seeking_advice_on_an_estimated_timeline/",
+      "author": "/u/wanderingaround11",
+      "publishedAt": "2026-07-24T22:39:19+00:00",
+      "excerpt": "Last year, two prominent lawyers offered me approval or refund guarantees. Since then, my profile has significantly increased with the addition of more papers, conference abstracts, and citations. I am from ROW 79 countries, but not the 39. My plan is to secure a job in the field of my endeavor asap. I intend to file f…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v5hk52",
       "title": "Weaker profile: Should I file NIW now or wait? PhD 3rd year(comprehensive done), 6 citations, firm(chen) says approvable",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5hk52/weaker_profile_should_i_file_niw_now_or_wait_phd/",
@@ -450,29 +471,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4i717",
-      "title": "Iranian National — EB-2 NIW Premium Processing Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4i717/iranian_national_eb2_niw_premium_processing/",
-      "author": "/u/InspectionNew3335",
-      "publishedAt": "2026-07-23T16:04:45+00:00",
-      "excerpt": "Hi everyone, I am an Iranian national with a pending EB-2 NIW I-140 (filing date: August 2025). I recently upgraded my case to premium processing on July 20, 2026. Are there any other Iranian applicants here who recently used premium processing for an EB-2 NIW petition? How many business days did it take to receive an …",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-24T21:55:48.608Z",
+  "syncedAt": "2026-07-24T22:54:25.764Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
