@@ -74,15 +74,15 @@
       }
     },
     {
-      "id": "t3_1v550o2",
-      "title": "After all... What's the expected price for a lawyer? (EB2-NIW)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v550o2/after_all_whats_the_expected_price_for_a_lawyer/",
-      "author": "/u/At0micTrader",
-      "publishedAt": "2026-07-24T08:06:01+00:00",
-      "excerpt": "Hello! It's my very first post in this thread but I've been following it for a long time now. I've been searching and talking to immigration lawyers for the past 2 years (various meetings - free and paid) and, besides EP and Chen, the quotes that I've been getting always range from $12k - $20k and rarely have refund in…",
+      "id": "t3_1v5ln6k",
+      "title": "Should my mom file EB2 NIW now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5ln6k/should_my_mom_file_eb2_niw_now/",
+      "author": "/u/destructionistg",
+      "publishedAt": "2026-07-24T19:38:10+00:00",
+      "excerpt": "- PhD at a T100 uni in the UK - currently assistant professor at a T50 uni here and Head of Life Sciences - She does have 36 publications and 2600 citations, yes sounds crazy, but those are from 1998-2004 during BS And MS there has been a 18 year gap since that and her renewed research since 2022. They also were in a s…",
       "topics": [
+        "approval",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -93,14 +93,15 @@
       }
     },
     {
-      "id": "t3_1v5bwbq",
-      "title": "NIW for extending H1B",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5bwbq/niw_for_extending_h1b/",
-      "author": "/u/Bubbly-Turnip3030",
-      "publishedAt": "2026-07-24T13:46:54+00:00",
-      "excerpt": "Hello - My H1B maxes out on Feb 2028 and my employer just filed my PWD. Filing the PERM before Feb 2027 (so I can extend my H1B for one more year using AC21 rule) seems impossible given LMT runs for 3-4 months post PWD is certified. So to buy time, I was thinking I'll submit my EB2 NIW petition myself around end of Oct…",
+      "id": "t3_1v550o2",
+      "title": "After all... What's the expected price for a lawyer? (EB2-NIW)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v550o2/after_all_whats_the_expected_price_for_a_lawyer/",
+      "author": "/u/At0micTrader",
+      "publishedAt": "2026-07-24T08:06:01+00:00",
+      "excerpt": "Hello! It's my very first post in this thread but I've been following it for a long time now. I've been searching and talking to immigration lawyers for the past 2 years (various meetings - free and paid) and, besides EP and Chen, the quotes that I've been getting always range from $12k - $20k and rarely have refund in…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -139,6 +140,24 @@
       "excerpt": "Hi everyone. Posting again with a cleaner summary. Hoping for further experienced perspectives on submitting or waiting. In short, I’m experienced in multidisciplinary infrastructure governance. Multiple masters but planning WES evaluation just for the most relevant one (if even necessary for accredited masters?). Curr…",
       "topics": [
         "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v5bwbq",
+      "title": "NIW for extending H1B",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5bwbq/niw_for_extending_h1b/",
+      "author": "/u/Bubbly-Turnip3030",
+      "publishedAt": "2026-07-24T13:46:54+00:00",
+      "excerpt": "Hello - My H1B maxes out on Feb 2028 and my employer just filed my PWD. Filing the PERM before Feb 2027 (so I can extend my H1B for one more year using AC21 rule) seems impossible given LMT runs for 3-4 months post PWD is certified. So to buy time, I was thinking I'll submit my EB2 NIW petition myself around end of Oct…",
+      "topics": [
         "i140",
         "question"
       ],
@@ -205,24 +224,6 @@
       }
     },
     {
-      "id": "t3_1v4l5et",
-      "title": "RFE Cancelled",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4l5et/rfe_cancelled/",
-      "author": "/u/Tech_Case",
-      "publishedAt": "2026-07-23T17:48:22+00:00",
-      "excerpt": "Hi everyone, I wanted to get some info if the following as happened to anyone. I received an RFE on April 4th and the deadline to respond was July 2nd. I responded to the RFE on June 23rd and until yesterday ( July 22nd) it was showing RFE response received by USCIS on June 23rd. Today July 23rd I check my case again a…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v4usyx",
       "title": "EB-2 NIW attorney recommendations? Chen vs. IBP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4usyx/eb2_niw_attorney_recommendations_chen_vs_ibp/",
@@ -233,6 +234,24 @@
         "approval",
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v4l5et",
+      "title": "RFE Cancelled",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4l5et/rfe_cancelled/",
+      "author": "/u/Tech_Case",
+      "publishedAt": "2026-07-23T17:48:22+00:00",
+      "excerpt": "Hi everyone, I wanted to get some info if the following as happened to anyone. I received an RFE on April 4th and the deadline to respond was July 2nd. I responded to the RFE on June 23rd and until yesterday ( July 22nd) it was showing RFE response received by USCIS on June 23rd. Today July 23rd I check my case again a…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -254,6 +273,24 @@
         "i485",
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v4q212",
+      "title": "Is there a chance for me?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4q212/is_there_a_chance_for_me/",
+      "author": "/u/innocent010",
+      "publishedAt": "2026-07-23T20:41:05+00:00",
+      "excerpt": "HI, my profile is I’m an OR Nurse for 15 years specialising in paediatric cardiothoracics, I do Ventricular Assist Devices (VAD) and Extracorporeal Membrane Oxygenation (ECMO) and Heart and Lung Transplant. I have 2 masters degree (MSN major in Adult Health + MSc in Anaesthesia and Preoperative Science), Im residing in…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -356,24 +393,6 @@
       }
     },
     {
-      "id": "t3_1v4q212",
-      "title": "Is there a chance for me?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4q212/is_there_a_chance_for_me/",
-      "author": "/u/innocent010",
-      "publishedAt": "2026-07-23T20:41:05+00:00",
-      "excerpt": "HI, my profile is I’m an OR Nurse for 15 years specialising in paediatric cardiothoracics, I do Ventricular Assist Devices (VAD) and Extracorporeal Membrane Oxygenation (ECMO) and Heart and Lung Transplant. I have 2 masters degree (MSN major in Adult Health + MSc in Anaesthesia and Preoperative Science), Im residing in…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v4vfao",
       "title": "EB2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4vfao/eb2_niw/",
@@ -451,27 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4s22n",
-      "title": "Still waiting May 2024 case",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4s22n/still_waiting_may_2024_case/",
-      "author": "/u/iAMxxin",
-      "publishedAt": "2026-07-23T21:55:24+00:00",
-      "excerpt": "I filed my NIW case on May 2024 to NSC and I’m still waiting for processing my case. I just want to know if anyone is on the same boat as me or how long did you get the results without PP.",
-      "topics": [
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-24T18:10:52.883Z",
+  "syncedAt": "2026-07-24T20:10:18.411Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
