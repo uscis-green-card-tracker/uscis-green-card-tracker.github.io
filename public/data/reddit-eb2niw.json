@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1v550o2",
+      "title": "After all... What's the expected price for a lawyer? (EB2-NIW)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v550o2/after_all_whats_the_expected_price_for_a_lawyer/",
+      "author": "/u/At0micTrader",
+      "publishedAt": "2026-07-24T08:06:01+00:00",
+      "excerpt": "Hello! It's my very first post in this thread but I've been following it for a long time now. I've been searching and talking to immigration lawyers for the past 2 years (various meetings - free and paid) and, besides EP and Chen, the quotes that I've been getting always range from $12k - $20k and rarely have refund in…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v4ncn1",
       "title": "EB2-NIW + 3 derivatives",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4ncn1/eb2niw_3_derivatives/",
@@ -146,6 +165,26 @@
       }
     },
     {
+      "id": "t3_1v4nv5v",
+      "title": "EB2 NIW PhD US equivalent degree evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4nv5v/eb2_niw_phd_us_equivalent_degree_evaluation/",
+      "author": "/u/BarnacleNorth3018",
+      "publishedAt": "2026-07-23T19:22:53+00:00",
+      "excerpt": "A friend (lives international) is working with Chen on her EB2. She’s planning to use WES for PhD US equivalent evaluation, would you recommend? If not, which of the approved NACES institutions is more efficient and effective from your experience? Also - who would receive the final evaluation? Is it herself or it gets …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v4qlii",
       "title": "Any feedback about Santa Ana field office?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4qlii/any_feedback_about_santa_ana_field_office/",
@@ -244,26 +283,6 @@
       "author": "/u/CupcakeBoth1188",
       "publishedAt": "2026-07-23T23:46:53+00:00",
       "excerpt": "Hey everyone, I’m planning to apply for an EB-2 NIW and have spoken with several law firms. So far, all of them have told me that I have a strong case, and I’m now trying to decide which firm to move forward with. I received a positive evaluation from Chen Immigration Law with the Approval or Refund option. I’ve also s…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v4nv5v",
-      "title": "EB2 NIW PhD US equivalent degree evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4nv5v/eb2_niw_phd_us_equivalent_degree_evaluation/",
-      "author": "/u/BarnacleNorth3018",
-      "publishedAt": "2026-07-23T19:22:53+00:00",
-      "excerpt": "A friend (lives international) is working with Chen on her EB2. She’s planning to use WES for PhD US equivalent evaluation, would you recommend? If not, which of the approved NACES institutions is more efficient and effective from your experience? Also - who would receive the final evaluation? Is it herself or it gets …",
       "topics": [
         "approval",
         "i140",
@@ -446,27 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4i46t",
-      "title": "EB-2 NIW Premium Processing Upgrade — When Did You Receive a Decision?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4i46t/eb2_niw_premium_processing_upgrade_when_did_you/",
-      "author": "/u/InspectionNew3335",
-      "publishedAt": "2026-07-23T16:02:04+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-24T05:10:52.478Z",
+  "syncedAt": "2026-07-24T08:07:10.130Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
