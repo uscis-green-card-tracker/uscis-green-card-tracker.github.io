@@ -54,6 +54,26 @@
       }
     },
     {
+      "id": "t3_1v5hk52",
+      "title": "Weaker profile: Should I file NIW now or wait? PhD 3rd year(comprehensive done), 6 citations, firm(chen) says approvable",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5hk52/weaker_profile_should_i_file_niw_now_or_wait_phd/",
+      "author": "/u/cruelboy123",
+      "publishedAt": "2026-07-24T17:13:09+00:00",
+      "excerpt": "Looking for honest takes — especially from anyone who filed in the last 6–12 months. Academics PhD candidate at an R1, Molecular Biology / Biochemistry Early in the program — expected graduation 2029 Prior MSc (Clinical Biochemistry) + BSc from home country Research output 5 peer-reviewed publications — 2 first-author,…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v5qghe",
       "title": "Seeking advice on an estimated timeline.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5qghe/seeking_advice_on_an_estimated_timeline/",
@@ -75,23 +95,21 @@
       }
     },
     {
-      "id": "t3_1v5hk52",
-      "title": "Weaker profile: Should I file NIW now or wait? PhD 3rd year(comprehensive done), 6 citations, firm(chen) says approvable",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5hk52/weaker_profile_should_i_file_niw_now_or_wait_phd/",
-      "author": "/u/cruelboy123",
-      "publishedAt": "2026-07-24T17:13:09+00:00",
-      "excerpt": "Looking for honest takes — especially from anyone who filed in the last 6–12 months. Academics PhD candidate at an R1, Molecular Biology / Biochemistry Early in the program — expected graduation 2029 Prior MSc (Clinical Biochemistry) + BSc from home country Research output 5 peer-reviewed publications — 2 first-author,…",
+      "id": "t3_1v5r6el",
+      "title": "CS PhD student (systems security / automated testing)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5r6el/cs_phd_student_systems_security_automated_testing/",
+      "author": "/u/Zestyclose_Escape_71",
+      "publishedAt": "2026-07-24T23:09:13+00:00",
+      "excerpt": "Looking for honest feedback before I commit to filing. **Background** - Citizen of 75 countries (ROW) - F-1, CS PhD candidate at a large US public university, expected graduation 2027 - Field: systems security, automated testing - Planning to file I-140 around Oct–Nov 2026 with premium processing, possibly concurrent I…",
       "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
+        "i485",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": false
+        "mentionsCountry75": true
       }
     },
     {
@@ -452,28 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4mhbl",
-      "title": "Premium processing refund",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4mhbl/premium_processing_refund/",
-      "author": "/u/Quiet-Tart2877",
-      "publishedAt": "2026-07-23T18:34:31+00:00",
-      "excerpt": "Has anyone gotten a refund for premium processing taking longer that 45 days? My lawyer has sent a few inquiries but haven’t gotten a response back. I was from one the 39 countries so not sure if the clock worked differently for us",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-24T22:54:25.764Z",
+  "syncedAt": "2026-07-24T23:55:25.555Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
