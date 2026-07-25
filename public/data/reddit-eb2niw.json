@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1v64zsq",
+      "title": "Attorney",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v64zsq/attorney/",
+      "author": "/u/Arpita2024",
+      "publishedAt": "2026-07-25T10:43:24+00:00",
+      "excerpt": "Between Ellis Porter, Frank, and Delaney, which one is better to file an I-140 now? Both have given me almost the same type of offer Attorney fee- $6000",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v5vrjl",
       "title": "Anyone here used Ellis Porter for NIW and received an RFE?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5vrjl/anyone_here_used_ellis_porter_for_niw_and/",
@@ -45,6 +64,23 @@
         "approval",
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v63ve1",
+      "title": "Does LOR has to come from a PhD holder or a professor.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v63ve1/does_lor_has_to_come_from_a_phd_holder_or_a/",
+      "author": "/u/SharpUmpire5914",
+      "publishedAt": "2026-07-25T09:41:22+00:00",
+      "excerpt": "I have gotten a principal scientist to serve as indep recommender but he is not a PhD holder, will his LOR carry weight?",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -431,44 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4q212",
-      "title": "Is there a chance for me?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4q212/is_there_a_chance_for_me/",
-      "author": "/u/innocent010",
-      "publishedAt": "2026-07-23T20:41:05+00:00",
-      "excerpt": "HI, my profile is I’m an OR Nurse for 15 years specialising in paediatric cardiothoracics, I do Ventricular Assist Devices (VAD) and Extracorporeal Membrane Oxygenation (ECMO) and Heart and Lung Transplant. I have 2 masters degree (MSN major in Adult Health + MSc in Anaesthesia and Preoperative Science), Im residing in…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v4s9m0",
-      "title": "IAF on 765?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4s9m0/iaf_on_765/",
-      "author": "/u/IndependenceJust4267",
-      "publishedAt": "2026-07-23T22:03:08+00:00",
-      "excerpt": "Got another event (IAF) with today’s date on my 765 and wondering if it means anything or just the glitch.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-25T09:27:36.333Z",
+  "syncedAt": "2026-07-25T11:01:28.018Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
