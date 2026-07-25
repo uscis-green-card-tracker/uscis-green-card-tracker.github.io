@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1v5vrjl",
+      "title": "Anyone here used Ellis Porter for NIW and received an RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5vrjl/anyone_here_used_ellis_porter_for_niw_and/",
+      "author": "/u/Green-Log-7409",
+      "publishedAt": "2026-07-25T02:34:56+00:00",
+      "excerpt": "I filed my NIW with Ellis Porter in 2024. During their initial evaluation, they told me I had a 99% chance of approval and offered me the approval-or-refund option. At that time, I had only about 20 citations. I specifically asked about recommendation letters, but they said my profile was very good and I didn’t need an…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v5bcqd",
       "title": "NIW I-485 approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5bcqd/niw_i485_approved/",
@@ -54,16 +74,15 @@
       }
     },
     {
-      "id": "t3_1v5vrjl",
-      "title": "Anyone here used Ellis Porter for NIW and received an RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5vrjl/anyone_here_used_ellis_porter_for_niw_and/",
-      "author": "/u/Green-Log-7409",
-      "publishedAt": "2026-07-25T02:34:56+00:00",
-      "excerpt": "I filed my NIW with Ellis Porter in 2024. During their initial evaluation, they told me I had a 99% chance of approval and offered me the approval-or-refund option. At that time, I had only about 20 citations. I specifically asked about recommendation letters, but they said my profile was very good and I didn’t need an…",
+      "id": "t3_1v60w8y",
+      "title": "EB2 NIW RFE Response Received to USCIS is Currently Processing the Case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v60w8y/eb2_niw_rfe_response_received_to_uscis_is/",
+      "author": "/u/Interesting-Ear7456",
+      "publishedAt": "2026-07-25T06:53:29+00:00",
+      "excerpt": "Hi everyone! PD: 14-08-24, PP Upgrade: March 2026, RFE Issued: 21-03-26, Response Recieved: 10-06-26 I almost had a heart attack yesterday - 32 business days post RFE Response Received, I suddenly received an update notification saying \"USCIS is Currently Processing the Case.\" I have not seen many examples of this afte…",
       "topics": [
         "approval",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -85,23 +104,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v5t1sk",
-      "title": "Phd in A.I. / Machine Learning",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5t1sk/phd_in_ai_machine_learning/",
-      "author": "/u/capybara-drinks-tea",
-      "publishedAt": "2026-07-25T00:30:15+00:00",
-      "excerpt": "Hello Folks, I am trying to understand how the approvals are for the A.I. right now, I have 2 years of Machine Learning work experience and will be joining PhD next year. Yes sole idea is to get that i140 (and be professor in near future) instead of jumping to companies right now for employer based petition. Please enl…",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -157,6 +159,23 @@
         "approval",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v5t1sk",
+      "title": "Phd in A.I. / Machine Learning",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5t1sk/phd_in_ai_machine_learning/",
+      "author": "/u/capybara-drinks-tea",
+      "publishedAt": "2026-07-25T00:30:15+00:00",
+      "excerpt": "Hello Folks, I am trying to understand how the approvals are for the A.I. right now, I have 2 years of Machine Learning work experience and will be joining PhD next year. Yes sole idea is to get that i140 (and be professor in near future) instead of jumping to companies right now for employer based petition. Please enl…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -447,28 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4qlii",
-      "title": "Any feedback about Santa Ana field office?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4qlii/any_feedback_about_santa_ana_field_office/",
-      "author": "/u/Loud_cow841",
-      "publishedAt": "2026-07-23T21:00:56+00:00",
-      "excerpt": "How long did your I-485 case take to be processed in this office?",
-      "topics": [
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-25T04:56:31.789Z",
+  "syncedAt": "2026-07-25T07:11:24.978Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
