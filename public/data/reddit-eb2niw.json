@@ -75,24 +75,6 @@
       }
     },
     {
-      "id": "t3_1v6gh0y",
-      "title": "Reliable Attorney for EB2-NIW, Non-Researcher, 8 yr experience in Networks & Security",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6gh0y/reliable_attorney_for_eb2niw_nonresearcher_8_yr/",
-      "author": "/u/atif412",
-      "publishedAt": "2026-07-25T18:48:12+00:00",
-      "excerpt": "Hi Folks, Could you please recommend me any reliable attorney to handle my case, I have following background. Bachelor Degree in Computer Science. Masters Degree in Project Management. 8 years of progress experience in Network & Security. Expert certification in Cisco - CCIE Security Additional industry standard certif…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v6fnng",
       "title": "Suggestions on filing an I-140 (NIW) before the OPT extension by March 15th, 2027?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6fnng/suggestions_on_filing_an_i140_niw_before_the_opt/",
@@ -218,6 +200,24 @@
         "i140",
         "timeline",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v6gh0y",
+      "title": "Reliable Attorney for EB2-NIW, Non-Researcher, 8 yr experience in Networks & Security",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6gh0y/reliable_attorney_for_eb2niw_nonresearcher_8_yr/",
+      "author": "/u/atif412",
+      "publishedAt": "2026-07-25T18:48:12+00:00",
+      "excerpt": "Hi Folks, Could you please recommend me any reliable attorney to handle my case, I have following background. Bachelor Degree in Computer Science. Masters Degree in Project Management. 8 years of progress experience in Network & Security. Expert certification in Cisco - CCIE Security Additional industry standard certif…",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-25T18:52:26.256Z",
+  "syncedAt": "2026-07-25T20:05:41.545Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
