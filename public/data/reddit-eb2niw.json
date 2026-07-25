@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1v67517",
+      "title": "14 EB2-NIW premium cases moved this week on NIWStats - 5 approvals at ~39-42 business days, 1 denial, 8 RFEs",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v67517/14_eb2niw_premium_cases_moved_this_week_on/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-07-25T12:30:47+00:00",
+      "excerpt": "https://preview.redd.it/rcnoafypddfh1.png?width=752&format=png&auto=webp&s=025a7ef2fe0fb5d2a01e8f64f9b067bbec34a845 Hey everyone, Context for anyone who hasn't seen it: I built NIWStats because the trackers out there mix all the I-140 categories together and none of them let you filter by proposed endeavor area. This o…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v64zsq",
       "title": "Attorney",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v64zsq/attorney/",
@@ -44,6 +64,25 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v60w8y",
+      "title": "EB2 NIW RFE Response Received to USCIS is Currently Processing the Case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v60w8y/eb2_niw_rfe_response_received_to_uscis_is/",
+      "author": "/u/Interesting-Ear7456",
+      "publishedAt": "2026-07-25T06:53:29+00:00",
+      "excerpt": "Hi everyone! PD: 14-08-24, PP Upgrade: March 2026, RFE Issued: 21-03-26, Response Recieved: 10-06-26 I almost had a heart attack yesterday - 32 business days post RFE Response Received, I suddenly received an update notification saying \"USCIS is Currently Processing the Case.\" I have not seen many examples of this afte…",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -101,25 +140,6 @@
         "approval",
         "i485",
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v60w8y",
-      "title": "EB2 NIW RFE Response Received to USCIS is Currently Processing the Case",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v60w8y/eb2_niw_rfe_response_received_to_uscis_is/",
-      "author": "/u/Interesting-Ear7456",
-      "publishedAt": "2026-07-25T06:53:29+00:00",
-      "excerpt": "Hi everyone! PD: 14-08-24, PP Upgrade: March 2026, RFE Issued: 21-03-26, Response Recieved: 10-06-26 I almost had a heart attack yesterday - 32 business days post RFE Response Received, I suddenly received an update notification saying \"USCIS is Currently Processing the Case.\" I have not seen many examples of this afte…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -318,14 +338,13 @@
       }
     },
     {
-      "id": "t3_1v570kt",
-      "title": "EB-2 NIW self-petition - wait for stronger wind, or start swimming?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v570kt/eb2_niw_selfpetition_wait_for_stronger_wind_or/",
-      "author": "/u/slitza",
-      "publishedAt": "2026-07-24T10:01:15+00:00",
-      "excerpt": "Hi everyone. Posting again with a cleaner summary. Hoping for further experienced perspectives on submitting or waiting. In short, I’m experienced in multidisciplinary infrastructure governance. Multiple masters but planning WES evaluation just for the most relevant one (if even necessary for accredited masters?). Curr…",
+      "id": "t3_1v5bwbq",
+      "title": "NIW for extending H1B",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5bwbq/niw_for_extending_h1b/",
+      "author": "/u/Bubbly-Turnip3030",
+      "publishedAt": "2026-07-24T13:46:54+00:00",
+      "excerpt": "Hello - My H1B maxes out on Feb 2028 and my employer just filed my PWD. Filing the PERM before Feb 2027 (so I can extend my H1B for one more year using AC21 rule) seems impossible given LMT runs for 3-4 months post PWD is certified. So to buy time, I was thinking I'll submit my EB2 NIW petition myself around end of Oct…",
       "topics": [
-        "approval",
         "i140",
         "question"
       ],
@@ -337,13 +356,14 @@
       }
     },
     {
-      "id": "t3_1v5bwbq",
-      "title": "NIW for extending H1B",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5bwbq/niw_for_extending_h1b/",
-      "author": "/u/Bubbly-Turnip3030",
-      "publishedAt": "2026-07-24T13:46:54+00:00",
-      "excerpt": "Hello - My H1B maxes out on Feb 2028 and my employer just filed my PWD. Filing the PERM before Feb 2027 (so I can extend my H1B for one more year using AC21 rule) seems impossible given LMT runs for 3-4 months post PWD is certified. So to buy time, I was thinking I'll submit my EB2 NIW petition myself around end of Oct…",
+      "id": "t3_1v570kt",
+      "title": "EB-2 NIW self-petition - wait for stronger wind, or start swimming?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v570kt/eb2_niw_selfpetition_wait_for_stronger_wind_or/",
+      "author": "/u/slitza",
+      "publishedAt": "2026-07-24T10:01:15+00:00",
+      "excerpt": "Hi everyone. Posting again with a cleaner summary. Hoping for further experienced perspectives on submitting or waiting. In short, I’m experienced in multidisciplinary infrastructure governance. Multiple masters but planning WES evaluation just for the most relevant one (if even necessary for accredited masters?). Curr…",
       "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -446,30 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v4z4x5",
-      "title": "Question about I-765",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4z4x5/question_about_i765/",
-      "author": "/u/MinimumStick",
-      "publishedAt": "2026-07-24T03:02:05+00:00",
-      "excerpt": "I'm planning to apply for EB-2 NIW, and now that my priority date is current, I want to file the I-140, I-485, I-765, and I-131 concurrently. I'm currently on F-1 initial OPT. If I already have valid work authorization through OPT, what's the benefit of filing Form I-765 with the I-485?From what I understand, the I-485…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-25T11:01:28.018Z",
+  "syncedAt": "2026-07-25T13:00:50.270Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
