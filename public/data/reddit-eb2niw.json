@@ -55,6 +55,44 @@
       }
     },
     {
+      "id": "t3_1v6e6wu",
+      "title": "EB2 NIW ROW I-485 approved — concurrent filing timeline + API/silent update pattern + card delivery",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6e6wu/eb2_niw_row_i485_approved_concurrent_filing/",
+      "author": "/u/Bubbly_Forever_8591",
+      "publishedAt": "2026-07-25T17:21:12+00:00",
+      "excerpt": "Posting my full timeline because I used Reddit a lot while waiting and found these posts really helpful. Category: EB2 NIW ROW Filing type: Concurrent I-140 + I-485 Priority date: April 8, 2026 Field office / jurisdiction: Columbus, OH I-140 approved: June 1, 2026 I-485 approved: July 9, 2026 Green card received: July …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v6dopz",
+      "title": "NIW RFE from TSC Officer - XM1926",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6dopz/niw_rfe_from_tsc_officer_xm1926/",
+      "author": "/u/Earthquake_Infinity",
+      "publishedAt": "2026-07-25T17:01:56+00:00",
+      "excerpt": "Hi, I have received RFE for NIW PP from TSC. The office r with code XM1926 issued RFE and acknowledged the proposed endeavor has substantial merit but challenged all three prongs. Could you please share your experience on RFE response with officer XM1926 ? Thank you and appreciate your feedback.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v6d6ww",
       "title": "NIW law firm comparison for industry case (no papers)?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6d6ww/niw_law_firm_comparison_for_industry_case_no/",
@@ -431,47 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v5dzl8",
-      "title": "HELP URGENT ! File for EB-2 NIW now with PP, or wait to strengthen my profile?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5dzl8/help_urgent_file_for_eb2_niw_now_with_pp_or_wait/",
-      "author": "/u/IrritatingLecture",
-      "publishedAt": "2026-07-24T15:05:06+00:00",
-      "excerpt": "I’m a physician and I’m trying to decide whether I should file for EB-2 NIW now or wait and improve my profile. Education: MBBS + MD in Radiology Specialty: Radiology Publications: 4 total First-author publications: 1 Total citations: 3 First-author paper citations: 1 Other publications: Second- and third-author papers…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v5bwbq",
-      "title": "NIW for extending H1B",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5bwbq/niw_for_extending_h1b/",
-      "author": "/u/Bubbly-Turnip3030",
-      "publishedAt": "2026-07-24T13:46:54+00:00",
-      "excerpt": "Hello - My H1B maxes out on Feb 2028 and my employer just filed my PWD. Filing the PERM before Feb 2027 (so I can extend my H1B for one more year using AC21 rule) seems impossible given LMT runs for 3-4 months post PWD is certified. So to buy time, I was thinking I'll submit my EB2 NIW petition myself around end of Oct…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-25T16:48:55.812Z",
+  "syncedAt": "2026-07-25T17:50:37.535Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
