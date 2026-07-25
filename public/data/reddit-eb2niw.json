@@ -72,6 +72,25 @@
       }
     },
     {
+      "id": "t3_1v6axlm",
+      "title": "What’s the fastest timeline you’ve seen recently?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6axlm/whats_the_fastest_timeline_youve_seen_recently/",
+      "author": "/u/wanderingaround11",
+      "publishedAt": "2026-07-25T15:12:18+00:00",
+      "excerpt": "From I 140 PP to card in hand?",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v69npr",
       "title": "Sending documents to NVC",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v69npr/sending_documents_to_nvc/",
@@ -446,26 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1v4zmhq",
-      "title": "Officer EX5110",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v4zmhq/officer_ex5110/",
-      "author": "/u/Regular_Revenue_5806",
-      "publishedAt": "2026-07-24T03:24:54+00:00",
-      "excerpt": "Hey all, Does any one here have officer EX5110?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-25T14:54:10.436Z",
+  "syncedAt": "2026-07-25T15:56:04.860Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
