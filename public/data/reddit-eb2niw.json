@@ -35,15 +35,14 @@
       }
     },
     {
-      "id": "t3_1v6e6wu",
-      "title": "EB2 NIW ROW I-485 approved — concurrent filing timeline + API/silent update pattern + card delivery",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6e6wu/eb2_niw_row_i485_approved_concurrent_filing/",
-      "author": "/u/Bubbly_Forever_8591",
-      "publishedAt": "2026-07-25T17:21:12+00:00",
-      "excerpt": "Posting my full timeline because I used Reddit a lot while waiting and found these posts really helpful. Category: EB2 NIW ROW (not from banned country) Filing type: Concurrent I-140 + I-485 Priority date: April 8, 2026 Field office / jurisdiction: Columbus, OH I-140 approved: June 1, 2026 I-485 approved: July 9, 2026 …",
+      "id": "t3_1v6kkv7",
+      "title": "EB-2 NIW I-140 Approved with Premium Processing — Timeline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6kkv7/eb2_niw_i140_approved_with_premium_processing/",
+      "author": "/u/Wise_Thanks_5056",
+      "publishedAt": "2026-07-25T21:31:32+00:00",
+      "excerpt": "Just wanted to share my timeline since reading other people’s posts here was very helpful during the waiting period. Profile: Currently pursuing a Ph.D. in Physics. At the time of filing, I had 8 peer-reviewed journal articles (co-authored), 8 preprints, and around 199 citations. Category: EB-2 NIW Priority Date: May 1…",
       "topics": [
         "approval",
-        "i485",
         "i140",
         "timeline"
       ],
@@ -55,14 +54,34 @@
       }
     },
     {
-      "id": "t3_1v6kkv7",
-      "title": "EB-2 NIW I-140 Approved with Premium Processing — Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6kkv7/eb2_niw_i140_approved_with_premium_processing/",
-      "author": "/u/Wise_Thanks_5056",
-      "publishedAt": "2026-07-25T21:31:32+00:00",
-      "excerpt": "Just wanted to share my timeline since reading other people’s posts here was very helpful during the waiting period. Category: EB-2 NIW Priority Date: May 19, 2026 Premium Processing I-907 Received: May 26, 2026 I-140 Approved: July 25, 2026 Processing time: about 42 business days Service Center: Texas Service Center O…",
+      "id": "t3_1v6l7nz",
+      "title": "EB-2 NIW Consular Interview Experience (Approved)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6l7nz/eb2_niw_consular_interview_experience_approved/",
+      "author": "/u/Ok_Nefariousness9985",
+      "publishedAt": "2026-07-25T21:58:02+00:00",
+      "excerpt": "I didn't find many posts describing the actual EB-2 NIW consular interview , so I thought I'd share my experience in case it helps someone else. Profile Master's Degree in Cybersecurity Bachelor's Degree in Information Technology CISSP, CISM, and several other industry certifications 17+ years of cybersecurity and IT e…",
       "topics": [
         "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v6e6wu",
+      "title": "EB2 NIW ROW I-485 approved — concurrent filing timeline + API/silent update pattern + card delivery",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6e6wu/eb2_niw_row_i485_approved_concurrent_filing/",
+      "author": "/u/Bubbly_Forever_8591",
+      "publishedAt": "2026-07-25T17:21:12+00:00",
+      "excerpt": "Posting my full timeline because I used Reddit a lot while waiting and found these posts really helpful. Category: EB2 NIW ROW (not from banned country) Filing type: Concurrent I-140 + I-485 Priority date: April 8, 2026 Field office / jurisdiction: Columbus, OH I-140 approved: June 1, 2026 I-485 approved: July 9, 2026 …",
+      "topics": [
+        "approval",
+        "i485",
         "i140",
         "timeline"
       ],
@@ -448,29 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v5sn84",
-      "title": "Eb2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5sn84/eb2_niw/",
-      "author": "/u/EconomicsCareful2034",
-      "publishedAt": "2026-07-25T00:12:20+00:00",
-      "excerpt": "I have a question about immigration lawyers and how they evaluate cases before accepting them. Some law firms offer different types of agreements, such as: Approval only Approval or RFE Approval or Refile Approval or Refund (money-back guarantee if the case is denied) My case has already been filed, and my lawyer offer…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-25T21:43:51.377Z",
+  "syncedAt": "2026-07-25T22:43:01.391Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
