@@ -151,6 +151,25 @@
       }
     },
     {
+      "id": "t3_1v6kkv7",
+      "title": "EB-2 NIW I-140 Approved with Premium Processing — Timeline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6kkv7/eb2_niw_i140_approved_with_premium_processing/",
+      "author": "/u/Wise_Thanks_5056",
+      "publishedAt": "2026-07-25T21:31:32+00:00",
+      "excerpt": "Just wanted to share my timeline since reading other people’s posts here was very helpful during the waiting period. Profile: Currently pursuing a Ph.D. in Physics. At the time of filing, I had 8 peer-reviewed journal articles (co-authored), 8 preprints, and around 199 citations. Category: EB-2 NIW Priority Date: May 1…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v7797i",
       "title": "FTA0 update duplicates?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7797i/fta0_update_duplicates/",
@@ -179,25 +198,6 @@
       "excerpt": "Hello all, I am initiating i 140 application through my employer and while filling the questionnaire there is a skills section. And it mentions it has to be same word to word from the employment or university verification letter. But usually the experience letter does not mention the skills. So, my question is how shou…",
       "topics": [
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v6kkv7",
-      "title": "EB-2 NIW I-140 Approved with Premium Processing — Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6kkv7/eb2_niw_i140_approved_with_premium_processing/",
-      "author": "/u/Wise_Thanks_5056",
-      "publishedAt": "2026-07-25T21:31:32+00:00",
-      "excerpt": "Just wanted to share my timeline since reading other people’s posts here was very helpful during the waiting period. Profile: Currently pursuing a Ph.D. in Physics. At the time of filing, I had 8 peer-reviewed journal articles (co-authored), 8 preprints, and around 199 citations. Category: EB-2 NIW Priority Date: May 1…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -471,7 +471,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-26T21:49:40.458Z",
+  "syncedAt": "2026-07-26T22:50:20.808Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
