@@ -194,7 +194,7 @@
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6pen9/pp_only_recent_decision_within_10_biz_days_after/",
       "author": "/u/Broad_One4686",
       "publishedAt": "2026-07-26T01:04:51+00:00",
-      "excerpt": "I can see the results of how many biz days it takes about PP queue from the NIWstats online site And about recent decision, I can see only over 35 days like around 40 biz days cases for PP after RFE submission. Is there anyone who got decision recently after submission of RFE response in this month?",
+      "excerpt": "I can see the results of how many biz days it takes regarding PP queue from the NIWstats online site And about recent decision, I can see only cases which were decided over 35 days like around 40 biz days cases for PP after RFE submission. Is there anyone who got a decision recently within around 10 days after submissi…",
       "topics": [
         "i140",
         "question"
@@ -360,26 +360,6 @@
       }
     },
     {
-      "id": "t3_1v6mdom",
-      "title": "Received RFE. Anyone got approved after receiving an RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6mdom/received_rfe_anyone_got_approved_after_receiving/",
-      "author": "/u/_ahmed_ashfaq",
-      "publishedAt": "2026-07-25T22:47:34+00:00",
-      "excerpt": "Hi! I received an RFE for prongs 2 and 3. I was wondering if there are similar prior cases who eventually got approval. My proposed endeavor (rephrased): will use high-resolution ocean and climate model to quantity Arctic Ocean eddy kinetic energy and predict its future sea ice ocean interaction My profile: When applie…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v6axlm",
       "title": "What’s the fastest timeline you’ve seen recently?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6axlm/whats_the_fastest_timeline_youve_seen_recently/",
@@ -406,6 +386,26 @@
       "publishedAt": "2026-07-25T14:19:26+00:00",
       "excerpt": "Hello, Should I choose \"Not applicable\" in the document cover sheet for the following: signed affidavit of support proof of US status proof of domicile petitioner's civil documents proof of relationship (only for I-864A) evidence of income forms W2 IRS tax transcript federal income tax returns social security earnings …",
       "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v6mdom",
+      "title": "Received RFE. Anyone got approved after receiving an RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6mdom/received_rfe_anyone_got_approved_after_receiving/",
+      "author": "/u/_ahmed_ashfaq",
+      "publishedAt": "2026-07-25T22:47:34+00:00",
+      "excerpt": "Hi! I received an RFE for prongs 2 and 3. I was wondering if there are similar prior cases who eventually got approval. My proposed endeavor (rephrased): will use high-resolution ocean and climate model to quantity Arctic Ocean eddy kinetic energy and predict its future sea ice ocean interaction My profile: When applie…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -471,7 +471,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-26T05:21:56.647Z",
+  "syncedAt": "2026-07-26T08:07:40.745Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
