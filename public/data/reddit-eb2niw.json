@@ -337,27 +337,6 @@
       }
     },
     {
-      "id": "t3_1v6cgqh",
-      "title": "Eb2-niw chances?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6cgqh/eb2niw_chances/",
-      "author": "/u/Weed_Han",
-      "publishedAt": "2026-07-25T16:13:50+00:00",
-      "excerpt": "I am a 4th year med student finishing up medical school in the UK. I am planning to do my residency in the US, but will be doing a postdoc fellowship for a year between July 2026-July 2027 before applying for residency for the 2027 cycle. I am hoping to bypass the visa req for employment by applying for a eb2-niw. My s…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v6c2eq",
       "title": "Timeline after RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6c2eq/timeline_after_rfe/",
@@ -405,6 +384,26 @@
       "topics": [
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v5vrjl",
+      "title": "Anyone here used Ellis Porter for NIW and received an RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5vrjl/anyone_here_used_ellis_porter_for_niw_and/",
+      "author": "/u/Green-Log-7409",
+      "publishedAt": "2026-07-25T02:34:56+00:00",
+      "excerpt": "I filed my NIW with Ellis Porter in 2024. During their initial evaluation, they told me I had a 99% chance of approval and offered me the approval-or-refund option. At that time, I had only about 20 citations. I specifically asked about recommendation letters, but they said my profile was very good and I didn’t need an…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -469,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-26T12:57:45.587Z",
+  "syncedAt": "2026-07-26T14:27:03.707Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
