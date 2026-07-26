@@ -92,25 +92,6 @@
       }
     },
     {
-      "id": "t3_1v6yv96",
-      "title": "EB2-NIW Law firms recommendations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6yv96/eb2niw_law_firms_recommendations/",
-      "author": "/u/azizzoaib786",
-      "publishedAt": "2026-07-26T09:19:11+00:00",
-      "excerpt": "Hi, I'm from non-research background with 15+ years of experience in Cloud, DevOps and AI. Few highlights about me. - MSc in DataScience with distinction from Middlesex UK - MSc research competition & multiple hackathons winner (appeared publicly and posted on official websites) - x-AWS Community builder and appeared i…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v6e6wu",
       "title": "EB2 NIW ROW I-485 approved — concurrent filing timeline + API/silent update pattern + card delivery",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6e6wu/eb2_niw_row_i485_approved_concurrent_filing/",
@@ -122,6 +103,25 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v6yv96",
+      "title": "EB2-NIW Law firms recommendations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6yv96/eb2niw_law_firms_recommendations/",
+      "author": "/u/azizzoaib786",
+      "publishedAt": "2026-07-26T09:19:11+00:00",
+      "excerpt": "Hi, I'm from non-research background with 15+ years of experience in Cloud, DevOps and AI. Few highlights about me. - MSc in DataScience with distinction from Middlesex UK - MSc research competition & multiple hackathons winner (appeared publicly and posted on official websites) - x-AWS Community builder and appeared i…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -472,7 +472,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-26T10:28:34.256Z",
+  "syncedAt": "2026-07-26T11:54:40.738Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
