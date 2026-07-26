@@ -56,14 +56,13 @@
       }
     },
     {
-      "id": "t3_1v79epp",
-      "title": "Is it still safe to apply for NIW while on F1-opt",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v79epp/is_it_still_safe_to_apply_for_niw_while_on_f1opt/",
-      "author": "/u/DizzyMorning953",
-      "publishedAt": "2026-07-26T16:57:25+00:00",
-      "excerpt": "I have a question specifically about Step 1 of the EB-2 NIW process (filing Form I-140) , not Adjustment of Status (I-485). Historically, my understanding was that filing an NIW I-140 while on F-1 OPT was generally considered relatively safe. While an I-140 is an immigrant petition, many people filed it during OPT with…",
+      "id": "t3_1v7br4w",
+      "title": "Premium Processing online",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7br4w/premium_processing_online/",
+      "author": "/u/Ok_Interest674",
+      "publishedAt": "2026-07-26T18:23:23+00:00",
+      "excerpt": "Does anyone know if its possible to file PP online?",
       "topics": [
-        "i485",
         "i140",
         "question"
       ],
@@ -84,6 +83,25 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v79epp",
+      "title": "Is it still safe to apply for NIW while on F1-opt",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v79epp/is_it_still_safe_to_apply_for_niw_while_on_f1opt/",
+      "author": "/u/DizzyMorning953",
+      "publishedAt": "2026-07-26T16:57:25+00:00",
+      "excerpt": "I have a question specifically about Step 1 of the EB-2 NIW process (filing Form I-140) , not Adjustment of Status (I-485). Historically, my understanding was that filing an NIW I-140 while on F-1 OPT was generally considered relatively safe. While an I-140 is an immigrant petition, many people filed it during OPT with…",
+      "topics": [
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -450,28 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v6axlm",
-      "title": "What’s the fastest timeline you’ve seen recently?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6axlm/whats_the_fastest_timeline_youve_seen_recently/",
-      "author": "/u/wanderingaround11",
-      "publishedAt": "2026-07-25T15:12:18+00:00",
-      "excerpt": "From I 140 PP to card in hand?",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-26T17:53:58.004Z",
+  "syncedAt": "2026-07-26T18:56:09.481Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
