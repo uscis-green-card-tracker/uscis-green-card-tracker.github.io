@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1v79epp",
+      "title": "Is it still safe to apply for NIW while on F1-opt",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v79epp/is_it_still_safe_to_apply_for_niw_while_on_f1opt/",
+      "author": "/u/DizzyMorning953",
+      "publishedAt": "2026-07-26T16:57:25+00:00",
+      "excerpt": "I have a question specifically about Step 1 of the EB-2 NIW process (filing Form I-140) , not Adjustment of Status (I-485). Historically, my understanding was that filing an NIW I-140 while on F-1 OPT was generally considered relatively safe. While an I-140 is an immigrant petition, many people filed it during OPT with…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v7frc4",
       "title": "Eb2 NIW RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7frc4/eb2_niw_rfe/",
@@ -55,22 +74,24 @@
       }
     },
     {
-      "id": "t3_1v79epp",
-      "title": "Is it still safe to apply for NIW while on F1-opt",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v79epp/is_it_still_safe_to_apply_for_niw_while_on_f1opt/",
-      "author": "/u/DizzyMorning953",
-      "publishedAt": "2026-07-26T16:57:25+00:00",
-      "excerpt": "I have a question specifically about Step 1 of the EB-2 NIW process (filing Form I-140) , not Adjustment of Status (I-485). Historically, my understanding was that filing an NIW I-140 while on F-1 OPT was generally considered relatively safe. While an I-140 is an immigrant petition, many people filed it during OPT with…",
+      "id": "t3_1v79f33",
+      "title": "New D/S change to F-1 + Eb2-niw",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v79f33/new_ds_change_to_f1_eb2niw/",
+      "author": "/u/Top-Vermicelli1384",
+      "publishedAt": "2026-07-26T16:57:47+00:00",
+      "excerpt": "Hi all, I was hoping to get some advice regarding the new rule and how it might affect me. I will be consulting my lawyer but I wanted to get some opinions here too. I'm currently on STEM-OPT and ROW-75. If my I-140 gets approved in November and I apply for I-485 right away, but I also do plan on returning to school in…",
       "topics": [
+        "approval",
         "i485",
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": false
+        "mentionsCountry75": true
       }
     },
     {
@@ -108,27 +129,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v79f33",
-      "title": "New D/S change to F-1 + Eb2-niw",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v79f33/new_ds_change_to_f1_eb2niw/",
-      "author": "/u/Top-Vermicelli1384",
-      "publishedAt": "2026-07-26T16:57:47+00:00",
-      "excerpt": "Hi all, I was hoping to get some advice regarding the new rule and how it might affect me. I will be consulting my lawyer but I wanted to get some opinions here too. I'm currently on STEM-OPT and ROW-75. If my I-140 gets approved in November and I apply for I-485 right away, but I also do plan on returning to school in…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -471,7 +471,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-26T22:50:20.808Z",
+  "syncedAt": "2026-07-26T23:52:08.577Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
