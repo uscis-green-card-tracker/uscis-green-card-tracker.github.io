@@ -73,6 +73,44 @@
       }
     },
     {
+      "id": "t3_1v6zslo",
+      "title": "RFE time to chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6zslo/rfe_time_to_chen/",
+      "author": "/u/omaratef3221",
+      "publishedAt": "2026-07-26T10:10:43+00:00",
+      "excerpt": "I received an RFE and status changed on 18 July. I am with Chen and so far Chen informed that they haven’t received anything from USCIS. Is this delay normal? I am kinda worried that we are wasting time all of that. Btw, I filed completely with chen using their address and email. Any suggestions?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v6yv96",
+      "title": "EB2-NIW Law firms recommendations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6yv96/eb2niw_law_firms_recommendations/",
+      "author": "/u/azizzoaib786",
+      "publishedAt": "2026-07-26T09:19:11+00:00",
+      "excerpt": "Hi, I'm from non-research background with 15+ years of experience in Cloud, DevOps and AI. Few highlights about me. - MSc in DataScience with distinction from Middlesex UK - MSc research competition & multiple hackathons winner (appeared publicly and posted on official websites) - x-AWS Community builder and appeared i…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v6e6wu",
       "title": "EB2 NIW ROW I-485 approved — concurrent filing timeline + API/silent update pattern + card delivery",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6e6wu/eb2_niw_row_i485_approved_concurrent_filing/",
@@ -432,46 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v63ve1",
-      "title": "Does LOR has to come from a PhD holder or a professor.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v63ve1/does_lor_has_to_come_from_a_phd_holder_or_a/",
-      "author": "/u/SharpUmpire5914",
-      "publishedAt": "2026-07-25T09:41:22+00:00",
-      "excerpt": "I have gotten a principal scientist to serve as indep recommender but he is not a PhD holder, will his LOR carry weight?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v5vrjl",
-      "title": "Anyone here used Ellis Porter for NIW and received an RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v5vrjl/anyone_here_used_ellis_porter_for_niw_and/",
-      "author": "/u/Green-Log-7409",
-      "publishedAt": "2026-07-25T02:34:56+00:00",
-      "excerpt": "I filed my NIW with Ellis Porter in 2024. During their initial evaluation, they told me I had a 99% chance of approval and offered me the approval-or-refund option. At that time, I had only about 20 citations. I specifically asked about recommendation letters, but they said my profile was very good and I didn’t need an…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-26T08:07:40.745Z",
+  "syncedAt": "2026-07-26T10:28:34.256Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
