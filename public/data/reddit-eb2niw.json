@@ -116,15 +116,36 @@
       }
     },
     {
-      "id": "t3_1v887l0",
-      "title": "3–4 Month AOS Approvals: Online vs. Paper Filing?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v887l0/34_month_aos_approvals_online_vs_paper_filing/",
-      "author": "/u/Schadenfreudered",
-      "publishedAt": "2026-07-27T18:07:27+00:00",
-      "excerpt": "Hello, First off, thank you for sharing your timelines and case updates. They keep everyone informed and definitely give the rest of us some hope. 🙂 It's been really encouraging to see AOS approvals happening in the 3–4 month range. I was wondering if those fast approvals are mostly for online-filed applications, or i…",
+      "id": "t3_1v8cx1j",
+      "title": "Advice needed industry profile",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8cx1j/advice_needed_industry_profile/",
+      "author": "/u/Ok-Courage-8424",
+      "publishedAt": "2026-07-27T20:53:33+00:00",
+      "excerpt": "Industry profile (IT) 15 years of Experience, zero publication or patent. Chen- Denied Ellis Porter - accepted. Regev- Accepted. Raju Law - Accepted with 70% approval. Ellis Porter’s response was very generic but best fee structure. Raju law reviewed my profile thoroughly but not offered free refile or RFE. Regev is th…",
       "topics": [
         "approval",
-        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v8biud",
+      "title": "Looking for a highly experienced EB 2 NIW lawyer who also understands TN denials and Canadian border issues",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8biud/looking_for_a_highly_experienced_eb_2_niw_lawyer/",
+      "author": "/u/Oceanlover_7",
+      "publishedAt": "2026-07-27T20:03:40+00:00",
+      "excerpt": "Hi everyone, I am a Canadian citizen who previously received a three year TN approval but was recently denied for a new TN application in July for a new position. I am now considering applying for an EB 2 NIW and want a lawyer who is genuinely knowledgeable about both NIW petitions and TN or border issues. Chen Immigra…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -144,6 +165,25 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v887l0",
+      "title": "3–4 Month AOS Approvals: Online vs. Paper Filing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v887l0/34_month_aos_approvals_online_vs_paper_filing/",
+      "author": "/u/Schadenfreudered",
+      "publishedAt": "2026-07-27T18:07:27+00:00",
+      "excerpt": "Hello, First off, thank you for sharing your timelines and case updates. They keep everyone informed and definitely give the rest of us some hope. 🙂 It's been really encouraging to see AOS approvals happening in the 3–4 month range. I was wondering if those fast approvals are mostly for online-filed applications, or i…",
+      "topics": [
+        "approval",
+        "i485",
         "question"
       ],
       "signals": {
@@ -439,47 +479,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1v7797i",
-      "title": "FTA0 update duplicates?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7797i/fta0_update_duplicates/",
-      "author": "/u/Loud_cow841",
-      "publishedAt": "2026-07-26T15:38:26+00:00",
-      "excerpt": "Edit: my case was juste approved!! (1 day later) Hi everyone. PD May 22 2025 I-140 approved Nov 2025 I filed for I-485 on March 16 2026 I had 2 FTA0 updates on April 21, couple hours following biometrics appointment I just saw a new FTA0 update today 07/26/2026 (2:15 am utc, corresponding to 7:15 pm 07/25/2026 Santa An…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v7br4w",
-      "title": "Premium Processing online",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7br4w/premium_processing_online/",
-      "author": "/u/Ok_Interest674",
-      "publishedAt": "2026-07-26T18:23:23+00:00",
-      "excerpt": "Does anyone know if its possible to file PP online?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-27T19:12:19.435Z",
+  "syncedAt": "2026-07-27T21:02:14.729Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
