@@ -134,6 +134,25 @@
       }
     },
     {
+      "id": "t3_1v8gjbf",
+      "title": "Sending RFE to USCIS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8gjbf/sending_rfe_to_uscis/",
+      "author": "/u/Conloc27",
+      "publishedAt": "2026-07-27T23:12:26+00:00",
+      "excerpt": "Hi folks, just wanted to ask when attorney needs to send RFE package to USCIS? Is the deadline is counted by the day sent by post?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v8fhyk",
       "title": "For RFE Prong1: Is there anyone who got approvals without further recent paper publication?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8fhyk/for_rfe_prong1_is_there_anyone_who_got_approvals/",
@@ -454,30 +473,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v7p0q1",
-      "title": "Former J-2, now F-1, stuck with INA 212(e) - anyone else?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7p0q1/former_j2_now_f1_stuck_with_ina_212e_anyone_else/",
-      "author": "/u/Proof-Soft5360",
-      "publishedAt": "2026-07-27T03:35:36+00:00",
-      "excerpt": "Has anyone here been in a similar situation? I was a J-2 dependent, changed to F-1 before completing the 2-year home residency, while my spouse (the former J-1) later completed the requirement. I now have an approved EB-2 NIW I-140, but I'm being told I still have an independent INA §212(e) obligation. The problem is t…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-27T22:51:47.135Z",
+  "syncedAt": "2026-07-27T23:55:12.353Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
