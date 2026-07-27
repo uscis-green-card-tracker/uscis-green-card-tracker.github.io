@@ -35,14 +35,13 @@
       }
     },
     {
-      "id": "t3_1v79epp",
-      "title": "Is it still safe to apply for NIW while on F1-opt",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v79epp/is_it_still_safe_to_apply_for_niw_while_on_f1opt/",
-      "author": "/u/DizzyMorning953",
-      "publishedAt": "2026-07-26T16:57:25+00:00",
-      "excerpt": "I have a question specifically about Step 1 of the EB-2 NIW process (filing Form I-140) , not Adjustment of Status (I-485). Historically, my understanding was that filing an NIW I-140 while on F-1 OPT was generally considered relatively safe. While an I-140 is an immigrant petition, many people filed it during OPT with…",
+      "id": "t3_1v7mnqo",
+      "title": "All Prongs RFE with Ellis Porter Need Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7mnqo/all_prongs_rfe_with_ellis_porter_need_advice/",
+      "author": "/u/TervanVale",
+      "publishedAt": "2026-07-27T01:43:40+00:00",
+      "excerpt": "Hi everyone, I received an RFE on my petition a while back and wanted to get some feedback from the community. I'm a PhD in Information and Communication Technology working in 5G/6G wireless communications. At filing, I had about 600 citations and 19 publications (8 journal papers and 11 conference papers). USCIS accep…",
       "topics": [
-        "i485",
         "i140",
         "question"
       ],
@@ -64,6 +63,44 @@
         "approval",
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v7l45l",
+      "title": "Lawyer",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7l45l/lawyer/",
+      "author": "/u/galaviani",
+      "publishedAt": "2026-07-27T00:32:43+00:00",
+      "excerpt": "I have narrowed down my options to TWO firms for a NON-RESEARCHER NIW case. Who do you think I should go for? They both charge around $14k. Lawyer A -We have the same nationality -Very experienced in Non-RESEARCHER NIW -Positive reviews from a person I know + on Google -High work ethics -Boutique law firm -Young lawyer…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v79epp",
+      "title": "Is it still safe to apply for NIW while on F1-opt",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v79epp/is_it_still_safe_to_apply_for_niw_while_on_f1opt/",
+      "author": "/u/DizzyMorning953",
+      "publishedAt": "2026-07-26T16:57:25+00:00",
+      "excerpt": "I have a question specifically about Step 1 of the EB-2 NIW process (filing Form I-140) , not Adjustment of Status (I-485). Historically, my understanding was that filing an NIW I-140 while on F-1 OPT was generally considered relatively safe. While an I-140 is an immigrant petition, many people filed it during OPT with…",
+      "topics": [
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -430,48 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v6dopz",
-      "title": "NIW RFE from TSC Officer - XM1926",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6dopz/niw_rfe_from_tsc_officer_xm1926/",
-      "author": "/u/Earthquake_Infinity",
-      "publishedAt": "2026-07-25T17:01:56+00:00",
-      "excerpt": "Hi, I have received RFE for NIW PP from TSC. The office r with code XM1926 issued RFE and acknowledged the proposed endeavor has substantial merit but challenged all three prongs. Could you please share your experience on RFE response with officer XM1926 ? Thank you and appreciate your feedback.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v6d6ww",
-      "title": "NIW law firm comparison for industry case (no papers)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6d6ww/niw_law_firm_comparison_for_industry_case_no/",
-      "author": "/u/xkchen",
-      "publishedAt": "2026-07-25T16:42:37+00:00",
-      "excerpt": "Hi all — I'm a data scientist with 5+ years in healthcare AI with a master's degree. I have one granted US patent (as one of the co-inventors, no individual contribution documented) but no publications, citations, or academic background. My company's PERM process is slow and unreliable, so currently exploring NIW on an…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-07-26T23:52:08.577Z",
+  "syncedAt": "2026-07-27T01:57:59.594Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
