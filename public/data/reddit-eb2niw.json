@@ -53,6 +53,45 @@
       }
     },
     {
+      "id": "t3_1v7s6sz",
+      "title": "Any EB-1A/NIW question across every published USCIS decision, approvals and denials",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7s6sz/any_eb1aniw_question_across_every_published_uscis/",
+      "author": "/u/CorrectHornet4939",
+      "publishedAt": "2026-07-27T06:21:19+00:00",
+      "excerpt": "Most EB-1A/NIW advice online is someones opinion, wanted answers grounded in what USCIS actually decided, it reads the real record. It has every published USCIS Administrative Appeals Office EB-1A decision from 2005 to 2026 , plus thousands of documented approvals and the USCIS Policy Manual. it takes a question in pla…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v7s2ds",
+      "title": "RFE response approval rate with EP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7s2ds/rfe_response_approval_rate_with_ep/",
+      "author": "/u/Longjumping_Mirror53",
+      "publishedAt": "2026-07-27T06:14:09+00:00",
+      "excerpt": "Hi everyone, I recently got RFE for my EB2 NIW application for i-140 after premium processing with Ellis porter. I am wondering how they handle RFE response and how much of their success rate in recent time? And i would appreciate if anyone have any RFE reponse template for all three prongs.",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v7p0q1",
       "title": "Former J-2, now F-1, stuck with INA 212(e) - anyone else?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7p0q1/former_j2_now_f1_stuck_with_ina_212e_anyone_else/",
@@ -432,46 +471,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v6on71",
-      "title": "Does an EV rebate fall under the public charge rule?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6on71/does_an_ev_rebate_fall_under_the_public_charge/",
-      "author": "/u/demon_hunter_spirit",
-      "publishedAt": "2026-07-26T00:28:34+00:00",
-      "excerpt": "I received a rebate from the PG&E electricity company in California for buying an eligible EV vehicle a few months ago. I am not sure if this is connected to the state funding. Now I am concerned about whether this rebate would fall under public charge.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v6nwar",
-      "title": "Where to mail I-485 & I-765 for myself and spouse based on approved eb2 niw?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v6nwar/where_to_mail_i485_i765_for_myself_and_spouse/",
-      "author": "/u/Academic_Summer_5165",
-      "publishedAt": "2026-07-25T23:55:33+00:00",
-      "excerpt": "My I-140 petition was recently approved. I'd like to apply for AOS together with EAD for mysefly and spouse. I am on H1B and my spouse is on H4. We live in Texas. Where to mail the applications? Is the following address corrrect one? FedEx, UPS, and DHL deliveries: USCIS Attn: NFB (Box 660867) 2501 S. State Hwy. 121 Bu…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-27T05:48:38.548Z",
+  "syncedAt": "2026-07-27T09:30:25.834Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
