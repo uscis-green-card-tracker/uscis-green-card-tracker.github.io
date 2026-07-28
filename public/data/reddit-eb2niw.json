@@ -35,6 +35,62 @@
       }
     },
     {
+      "id": "t3_1v9bdd6",
+      "title": "RFE EB2 NIW I need advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9bdd6/rfe_eb2_niw_i_need_advice/",
+      "author": "/u/mary25102919",
+      "publishedAt": "2026-07-28T21:12:25+00:00",
+      "excerpt": "Hello everyone, I recently received an RFE on my I-140 EB-2 NIW petition (pro-se, Premium Processing). The officer accepted EB-2 classification, but questioned all three Dhanasar prongs. My profile in brief: - Field: Fiber optic infrastructure deployment (FTTH/FTTx) - Proposed Endeavor: Design and scaling of commercial…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v9b0vy",
+      "title": "What is the latest PD approved for I-140 NIW regular processing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9b0vy/what_is_the_latest_pd_approved_for_i140_niw/",
+      "author": "/u/Unstoppable999",
+      "publishedAt": "2026-07-28T20:59:49+00:00",
+      "excerpt": "What is the latest PD approved for I-140 NIW regular processing?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v9b9t6",
+      "title": "Silent update",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9b9t6/silent_update/",
+      "author": "/u/infinity_2025",
+      "publishedAt": "2026-07-28T21:08:49+00:00",
+      "excerpt": "April 2026 filer – one Silent updates each on both I-485 and I-765 I’m an April 2026 filer and completed biometrics in May . And got two updates immediately after . My USCIS API shows a June 10 updatedAt on my I-485 and a July 14 updatedAt on my I-765 , but there are no other change on api. Would you consider these sil…",
+      "topics": [
+        "approval",
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v97aev",
       "title": "Timeline - Total Silence - I485",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v97aev/timeline_total_silence_i485/",
@@ -76,15 +132,16 @@
       }
     },
     {
-      "id": "t3_1v991dg",
-      "title": "EB2-NIW Attorney Recommendation for Industry focused experience Network/Cyber Security - No research",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v991dg/eb2niw_attorney_recommendation_for_industry/",
-      "author": "/u/atif412",
-      "publishedAt": "2026-07-28T19:44:31+00:00",
-      "excerpt": "Hi Folks, Chen - Rejected EP - Accepted with 6000$ CH - Accepted with 18000$ Which attorney should I consider? Any pros or cons going with EP? TIA",
+      "id": "t3_1v9bvqc",
+      "title": "F1 to EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9bvqc/f1_to_eb2_niw/",
+      "author": "/u/Ok_Annual_1758",
+      "publishedAt": "2026-07-28T21:31:19+00:00",
+      "excerpt": "Hi guys, I am on an F-1 visa, currently doing a PhD in computer engineering, and I am in my final year. I wanted to know if it's possible to fill out the I-485 form in my current status. Has anyone done that recently without going through H1B and gotten it approved? Thanks",
       "topics": [
+        "approval",
+        "i485",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -144,6 +201,25 @@
       "excerpt": "I applied for the EB2 NIW in 2024 based on my work in Green building consulting, where I do daylight analyses for energy efficiency, building life cycle analyses, and work on local government and private construction projects. I have worked in a local government agency on grant review and provided sustainability recomm…",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v991dg",
+      "title": "EB2-NIW Attorney Recommendation for Industry focused experience Network/Cyber Security - No research",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v991dg/eb2niw_attorney_recommendation_for_industry/",
+      "author": "/u/atif412",
+      "publishedAt": "2026-07-28T19:44:31+00:00",
+      "excerpt": "Hi Folks, Chen - Rejected EP - Accepted with 6000$ CH - Accepted with 18000$ Which attorney should I consider? Any pros or cons going with EP? TIA",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -399,88 +475,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v8qtw9",
-      "title": "How are industry professionals including metrics in their proposed endeavor?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8qtw9/how_are_industry_professionals_including_metrics/",
-      "author": "/u/Sea_Tourist_833",
-      "publishedAt": "2026-07-28T07:12:10+00:00",
-      "excerpt": "I’m working on putting together my petition but I’m stuck on the proposed endeavor. I am an industry professional so I don’t really know how to include specific numbers or results in the planned work section of the proposed endeavor. How did other industry peeps here do it?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v827r4",
-      "title": "EB2-NIW Approved (Chen) WeGreened",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v827r4/eb2niw_approved_chen_wegreened/",
-      "author": "/u/New_Advertising_3066",
-      "publishedAt": "2026-07-27T14:36:21+00:00",
-      "excerpt": "Hello Everyone, Just would like to share my experience to help out others. First timeline : PD: 05/22/26 applied as premium process Approved : 07/23/26 Background: Physician /MD/ ROW (other countries) Did Internal Medicine Residency in USA Citations : 127 Publications : 7 LORs dependant: faculty 2 I had evaluation of m…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "05/22/26",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v8qq9v",
-      "title": "Traveling to US as a Tourist with a valid I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8qq9v/traveling_to_us_as_a_tourist_with_a_valid_i140/",
-      "author": "/u/omaratef3221",
-      "publishedAt": "2026-07-28T07:06:46+00:00",
-      "excerpt": "This is a strange question, I am from ROW - 75 Countries Pause. I have a valid B1/B2 Visa and I was planning to travel in December (Christmas time) to NYC for one week for tourism. I have also a valid I-140 and currently working on the RFE with Chen. I plan to travel with NO intention to do AOS or to overstay, this is …",
-      "topics": [
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1v7ypkm",
-      "title": "Approved!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7ypkm/approved/",
-      "author": "/u/Loud_cow841",
-      "publishedAt": "2026-07-27T12:16:50+00:00",
-      "excerpt": "I-485 Approved! Hi everyone. PD May 20 2025 (standard processing) I-140 approved Nov 27 2025 I filed for I-485 (RD) on March 16 2026 as soon as priority date became current. I had 2 FTA0 updates on April 21, couple hours following biometrics appointment, along with 1 silent update I contacted Emma (uscis live agent onl…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-28T20:58:31.807Z",
+  "syncedAt": "2026-07-28T22:03:51.588Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
