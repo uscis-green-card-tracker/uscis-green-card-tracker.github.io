@@ -116,6 +116,24 @@
       }
     },
     {
+      "id": "t3_1v8ivtl",
+      "title": "NIW RFE from Tx Officer - XM1771",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8ivtl/niw_rfe_from_tx_officer_xm1771/",
+      "author": "/u/KindWest386",
+      "publishedAt": "2026-07-28T00:49:31+00:00",
+      "excerpt": "What the title says Back in Mid May , I have received RFE for NIW PP from TSC. The office r with code XM1771 issued RFE and acknowledged the proposed endeavor has substantial merit but challenged all 3 prongs. Could you please share your experience on RFE response with officer XM1771 ? Thanks",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v8hsxw",
       "title": "Refile",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8hsxw/refile/",
@@ -158,44 +176,6 @@
       "publishedAt": "2026-07-27T23:12:26+00:00",
       "excerpt": "Hi folks, just wanted to ask when attorney needs to send RFE package to USCIS? Is the deadline is counted by the day sent by post?",
       "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v8ivtl",
-      "title": "NIW RFE from Tx Officer - XM1771",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8ivtl/niw_rfe_from_tx_officer_xm1771/",
-      "author": "/u/KindWest386",
-      "publishedAt": "2026-07-28T00:49:31+00:00",
-      "excerpt": "What the title says Back in Mid May , I have received RFE for NIW PP from TSC. The office r with code XM1771 issued RFE and acknowledged the proposed endeavor has substantial merit but challenged all 3 prongs. Could you please share your experience on RFE response with officer XM1771 ? Thanks",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v8cx1j",
-      "title": "Advice needed industry profile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8cx1j/advice_needed_industry_profile/",
-      "author": "/u/Ok-Courage-8424",
-      "publishedAt": "2026-07-27T20:53:33+00:00",
-      "excerpt": "Industry profile (IT) 15 years of Experience, zero publication or patent. Chen- Denied Ellis Porter - accepted. Regev- Accepted. Raju Law - Accepted with 70% approval. Ellis Porter’s response was very generic but best fee structure. Raju law reviewed my profile thoroughly but not offered free refile or RFE. Regev is th…",
-      "topics": [
-        "approval",
         "i140",
         "lawyer",
         "question"
@@ -255,6 +235,26 @@
       "excerpt": "What translation services did you guys use to translate diplomas and transcripts to English for NIW petition?",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v8cx1j",
+      "title": "Advice needed industry profile",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8cx1j/advice_needed_industry_profile/",
+      "author": "/u/Ok-Courage-8424",
+      "publishedAt": "2026-07-27T20:53:33+00:00",
+      "excerpt": "Industry profile (IT) 15 years of Experience, zero publication or patent. Chen- Denied Ellis Porter - accepted. Regev- Accepted. Raju Law - Accepted with 70% approval. Ellis Porter’s response was very generic but best fee structure. Raju law reviewed my profile thoroughly but not offered free refile or RFE. Regev is th…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -471,7 +471,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-28T01:40:58.901Z",
+  "syncedAt": "2026-07-28T04:54:15.193Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
