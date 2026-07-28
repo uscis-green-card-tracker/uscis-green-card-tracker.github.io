@@ -91,6 +91,25 @@
       }
     },
     {
+      "id": "t3_1v8uo3y",
+      "title": "EB2 NIW applying",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8uo3y/eb2_niw_applying/",
+      "author": "/u/GasStrong2096",
+      "publishedAt": "2026-07-28T10:42:39+00:00",
+      "excerpt": "Hi everyone, I would really appreciate some honest feedback on whether my profile is competitive for an EB-2 NIW petition. Here's my background: Pakistani national, currently residing and working in the UAE. Over 10 years of experience in AML, KYC, Financial Crime Compliance, and Regulatory Compliance within the bankin…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v8tr6g",
       "title": "EB-2 NIW for industry researchers",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8tr6g/eb2_niw_for_industry_researchers/",
@@ -450,28 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v7zhnr",
-      "title": "Eb2 NIW RFE timeline regular processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v7zhnr/eb2_niw_rfe_timeline_regular_processing/",
-      "author": "/u/Available-Cup-6789",
-      "publishedAt": "2026-07-27T12:50:42+00:00",
-      "excerpt": "My I-140 is on regular processing but I received an RFE and responded to it. USCIS confirmed the receipt of the RFE June 4th. What is the average wait time to hear back after RFE on regular processing? Is it worth it to upgrade to premium at this point? The opinions I have been getting is that my case is already at the…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-28T10:24:07.807Z",
+  "syncedAt": "2026-07-28T12:47:43.462Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
