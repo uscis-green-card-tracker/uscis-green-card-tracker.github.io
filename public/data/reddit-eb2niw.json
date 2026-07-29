@@ -74,6 +74,25 @@
       }
     },
     {
+      "id": "t3_1va9pfq",
+      "title": "Does length of petition signify the time taken for decision?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va9pfq/does_length_of_petition_signify_the_time_taken/",
+      "author": "/u/Current-Tower-4210",
+      "publishedAt": "2026-07-29T21:30:08+00:00",
+      "excerpt": "Hi All, For NIW petitions, I would like to ask the people who have a decision already and most certainly does the length of petition signify the time when the decision is rendered? Got to know from Emma chat that the petition has been assigned to officer around 22nd of July with premium processing 45 day mark completin…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1va5vdf",
       "title": "Any March 2026 Filer with similar situation?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1va5vdf/any_march_2026_filer_with_similar_situation/",
@@ -125,25 +144,6 @@
         "i485",
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1va9pfq",
-      "title": "Does length of petition signify the time taken for decision?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va9pfq/does_length_of_petition_signify_the_time_taken/",
-      "author": "/u/Current-Tower-4210",
-      "publishedAt": "2026-07-29T21:30:08+00:00",
-      "excerpt": "Hi All, For NIW petitions, I would like to ask the people who have a decision already and most certainly does the length of petition signify the time when the decision is rendered? Got to know from Emma chat that the petition has been assigned to officer around 22nd of July with premium processing 45 day mark completin…",
-      "topics": [
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -475,7 +475,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-29T22:50:07.756Z",
+  "syncedAt": "2026-07-29T23:53:13.202Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
