@@ -74,6 +74,24 @@
       }
     },
     {
+      "id": "t3_1v9ew4q",
+      "title": "EB2 NIW Premium Processing after 45 Business Days Still No Response.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9ew4q/eb2_niw_premium_processing_after_45_business_days/",
+      "author": "/u/Active_Library759",
+      "publishedAt": "2026-07-28T23:28:28+00:00",
+      "excerpt": "Hi guys, My PD is 29 Jan 2025 but upgraded PP and paid fees online on 25th May 2026, however I received email confirmation on 27th May 2026 and they have mentioned the I-907 received date is 22 May 2026. I dont know why? Why the received date is different? if I calculate my PP clock from 22nd May 2026 today is my 45th …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v9pt3g",
       "title": "75 Banned countries",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9pt3g/75_banned_countries/",
@@ -98,24 +116,6 @@
       "publishedAt": "2026-07-29T01:45:17+00:00",
       "excerpt": "Hello, I would like to hear your opinions on my case/profile. Education: I have my Bachelor’s degree in Micro/Biotech, and master’s degree in Molecular Bio from the US. Just graduated this May. Research experience: I have a thesis-based master’s degree, and 4 years of research experience. My focus was on nanomaterials …",
       "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v9ew4q",
-      "title": "EB2 NIW Premium Processing after 45 Business Days Still No Response.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9ew4q/eb2_niw_premium_processing_after_45_business_days/",
-      "author": "/u/Active_Library759",
-      "publishedAt": "2026-07-28T23:28:28+00:00",
-      "excerpt": "Hi guys, My PD is 29 Jan 2025 but upgraded PP and paid fees online on 25th May 2026, however I received email confirmation on 27th May 2026 and they have mentioned the I-907 received date is 22 May 2026. I dont know why? Why the received date is different? if I calculate my PP clock from 22nd May 2026 today is my 45th …",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -415,25 +415,6 @@
       }
     },
     {
-      "id": "t3_1v95tcd",
-      "title": "EB2-NIW Premium Processing Deadline Approaching, No response yet",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v95tcd/eb2niw_premium_processing_deadline_approaching_no/",
-      "author": "/u/Disastrous_Honey_369",
-      "publishedAt": "2026-07-28T17:52:09+00:00",
-      "excerpt": "I applied for my I-140 in September 2024 and applied for premium processing at the end of May 2026. I got an email that it was received and the fees were also taken, but I still haven't received my physical receipt notice. I called USCIS and they said nothing has been sent out yet. They also have my old address in the …",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1v9324w",
       "title": "Address Change issue!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9324w/address_change_issue/",
@@ -468,9 +449,28 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1v91vvj",
+      "title": "Filling i-485 same time as NIW I-140 form? (from 19 countries)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v91vvj/filling_i485_same_time_as_niw_i140_form_from_19/",
+      "author": "/u/Mysterious-Trust-585",
+      "publishedAt": "2026-07-28T15:32:38+00:00",
+      "excerpt": "I plan to file my NIW with PP next month, and I am from the 19 countries, and currently in the US on OPT that ends June 2027. I have a question. Should I file form AOS i-485 the same time I submit NIW i-140 form? I am worried that the immigration pause is back, and I do not hear back before my OPT ends, then I have to …",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-07-29T10:29:53.248Z",
+  "syncedAt": "2026-07-29T12:55:22.032Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
