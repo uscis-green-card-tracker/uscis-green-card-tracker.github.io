@@ -74,6 +74,23 @@
       }
     },
     {
+      "id": "t3_1v9pt3g",
+      "title": "75 Banned countries",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9pt3g/75_banned_countries/",
+      "author": "/u/Odd-Acadia-6612",
+      "publishedAt": "2026-07-29T08:12:24+00:00",
+      "excerpt": "Is it still worth pursuing EB2 NIW if you are living in a banned country, given that you will not be granted entry into the USA.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1v9i3ja",
       "title": "Is my profile good enough?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9i3ja/is_my_profile_good_enough/",
@@ -451,28 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v91vvj",
-      "title": "Filling i-485 same time as NIW I-140 form? (from 19 countries)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v91vvj/filling_i485_same_time_as_niw_i140_form_from_19/",
-      "author": "/u/Mysterious-Trust-585",
-      "publishedAt": "2026-07-28T15:32:38+00:00",
-      "excerpt": "I plan to file my NIW with PP next month, and I am from the 19 countries, and currently in the US on OPT that ends June 2027. I have a question. Should I file form AOS i-485 the same time I submit NIW i-140 form? I am worried that the immigration pause is back, and I do not hear back before my OPT ends, then I have to …",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-29T07:44:46.234Z",
+  "syncedAt": "2026-07-29T10:29:53.248Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
