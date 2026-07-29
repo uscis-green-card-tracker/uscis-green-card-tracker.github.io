@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1va4hop",
+      "title": "EB2 NIW , Self Petition",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va4hop/eb2_niw_self_petition/",
+      "author": "/u/Koddxx",
+      "publishedAt": "2026-07-29T18:23:19+00:00",
+      "excerpt": "Hi everyone. I just received my EB-2 NIW approval email and wanted to share my timeline. Texas Service Center Self-petition (no attorney) No RFE Priority Date: May 27, 2026 Premium Processing: Filed with initial package Approved: July 29, 2026 RFE: None Field: Civil Engineering / Water Resources Engineering Profile: - …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v9i9dt",
       "title": "I485 approved today",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9i9dt/i485_approved_today/",
@@ -454,28 +474,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v9622e",
-      "title": "Could You Qualify for an EB-2 NIW Without Realizing It? Ask a U.S. Immigration Attorney Anything.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9622e/could_you_qualify_for_an_eb2_niw_without/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-07-28T18:00:31+00:00",
-      "excerpt": "https://preview.redd.it/pv3s0wg1c0gh1.jpg?width=2316&format=pjpg&auto=webp&s=9a494e3ab2a7ae3e71aa35a1274c47ac5008c4d4 Hi everyone! I'm Patrick Duckett, a U.S. immigration attorney with Manifest Law. The EB-2 National Interest Waiver is one of the most talked-about employment-based green card pathways, but it's also one…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-29T17:03:54.684Z",
+  "syncedAt": "2026-07-29T18:57:05.769Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
