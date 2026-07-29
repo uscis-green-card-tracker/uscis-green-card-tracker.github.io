@@ -114,6 +114,27 @@
       }
     },
     {
+      "id": "t3_1va0396",
+      "title": "Filing I-485 after EB2-NIW approval",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va0396/filing_i485_after_eb2niw_approval/",
+      "author": "/u/Pretend-Explorer7576",
+      "publishedAt": "2026-07-29T15:50:26+00:00",
+      "excerpt": "Hey How long after biometrics should I hear back? Overthinking is torturing me :) Filed 24th of June Biometrics 14th of July",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1va9pfq",
       "title": "Does length of petition signify the time taken for decision?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1va9pfq/does_length_of_petition_signify_the_time_taken/",
@@ -198,27 +219,6 @@
       "excerpt": "We have been living in the us for 12 years. My son will age out in late 2030. Do you think that the FAD can become current before then? What about DOF? Could we get our ead by next summer? My main concern is that he won't be able to get any internships in college. Luckily we live in Texas so he qualifies for in state t…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1va0396",
-      "title": "Filing I-485 after EB2-NIW approval",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va0396/filing_i485_after_eb2niw_approval/",
-      "author": "/u/Pretend-Explorer7576",
-      "publishedAt": "2026-07-29T15:50:26+00:00",
-      "excerpt": "Hey How long after biometrics should I hear back? Overthinking is torturing me :) Filed 24th of June Biometrics 14th of July",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -475,7 +475,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-29T21:49:12.677Z",
+  "syncedAt": "2026-07-29T22:50:07.756Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
