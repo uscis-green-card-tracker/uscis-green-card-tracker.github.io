@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1v9i9dt",
+      "title": "I485 approved today",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9i9dt/i485_approved_today/",
+      "author": "/u/snorlaxkg",
+      "publishedAt": "2026-07-29T01:52:32+00:00",
+      "excerpt": "Just got approved today and wanted to share my timeline: PD: October 2025 I-140 PP upgrade filed Dec 26, 2025 Approved: February 16, 2026 AOS Package I-485 / I-765 / I-131 Filed: April 17, 2026 Receipt Block: IOE093648* (NBC) Biometrics: May 28, 2026 Silent Updates: 3 (7/1, 7/17, 7/28) Interview: Waived I-485 Approved:…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": "IOE093648",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1v9b0vy",
       "title": "What is the latest PD approved for I-140 NIW regular processing?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9b0vy/what_is_the_latest_pd_approved_for_i140_niw/",
@@ -43,6 +63,24 @@
       "excerpt": "What is the latest PD approved for I-140 NIW regular processing?",
       "topics": [
         "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v9ew4q",
+      "title": "EB2 NIW Premium Processing after 45 Business Days Still No Response.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9ew4q/eb2_niw_premium_processing_after_45_business_days/",
+      "author": "/u/Active_Library759",
+      "publishedAt": "2026-07-28T23:28:28+00:00",
+      "excerpt": "Hi guys, My PD is 29 Jan 2025 but upgraded PP and paid fees online on 25th May 2026, however I received email confirmation on 27th May 2026 and they have mentioned the I-907 received date is 22 May 2026. I dont know why? Why the received date is different? if I calculate my PP clock from 22nd May 2026 today is my 45th …",
+      "topics": [
         "i140",
         "question"
       ],
@@ -72,33 +110,15 @@
       }
     },
     {
-      "id": "t3_1v9fysv",
-      "title": "Has anyone been denied tenure as a tenure-track assistant professor after filing an EB-2 NIW petition with premium processing (PP)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9fysv/has_anyone_been_denied_tenure_as_a_tenuretrack/",
-      "author": "/u/According_Ad_1314",
-      "publishedAt": "2026-07-29T00:12:15+00:00",
-      "excerpt": "I missed the PERM filing timeline, which is 18 months, because I did not know that I could file EB-2 NIW and PERM concurrently. At that time, I was planning to file for EB-2 NIW, and the situation was not as bad as it is now. However, after I filed, things started getting worse, and I ended up missing the opportunity t…",
+      "id": "t3_1v9jm6v",
+      "title": "Would you continue with my EB-2 NIW case or take the partial refund? Looking for objective opinions.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9jm6v/would_you_continue_with_my_eb2_niw_case_or_take/",
+      "author": "/u/No_Particular8088",
+      "publishedAt": "2026-07-29T02:53:17+00:00",
+      "excerpt": "I’m looking for honest opinions from people who’ve been through the NIW process. I hired a law firm for my EB-2 NIW and have already paid about $9,500 . If I cancel now, I’ll get 35% back (around $3,250 ). If I continue, I’ll likely pay for premium processing, and if I’m denied, the firm will file a second petition. Af…",
       "topics": [
         "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v9ew4q",
-      "title": "EB2 NIW Premium Processing after 45 Business Days Still No Response.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9ew4q/eb2_niw_premium_processing_after_45_business_days/",
-      "author": "/u/Active_Library759",
-      "publishedAt": "2026-07-28T23:28:28+00:00",
-      "excerpt": "Hi guys, My PD is 29 Jan 2025 but upgraded PP and paid fees online on 25th May 2026, however I received email confirmation on 27th May 2026 and they have mentioned the I-907 received date is 22 May 2026. I dont know why? Why the received date is different? if I calculate my PP clock from 22nd May 2026 today is my 45th …",
-      "topics": [
-        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -119,6 +139,23 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1v9i3ja",
+      "title": "Is my profile good enough?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9i3ja/is_my_profile_good_enough/",
+      "author": "/u/Ok-Hearing-2840",
+      "publishedAt": "2026-07-29T01:45:17+00:00",
+      "excerpt": "Hello, I would like to hear your opinions on my case/profile. Education: I have my Bachelor’s degree in Micro/Biotech, and master’s degree in Molecular Bio from the US. Just graduated this May. Research experience: I have a thesis-based master’s degree, and 4 years of research experience. My focus was on nanomaterials …",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -169,15 +206,15 @@
       }
     },
     {
-      "id": "t3_1v96ec8",
-      "title": "EAD card with pending I140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v96ec8/ead_card_with_pending_i140/",
-      "author": "/u/Ok-Attention1112",
-      "publishedAt": "2026-07-28T18:12:15+00:00",
-      "excerpt": "Does anyone got their I765 EAD card with a pending I140 NIW and pending I485?",
+      "id": "t3_1v9fysv",
+      "title": "Has anyone been denied tenure as a tenure-track assistant professor after filing an EB-2 NIW petition with premium processing (PP)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9fysv/has_anyone_been_denied_tenure_as_a_tenuretrack/",
+      "author": "/u/According_Ad_1314",
+      "publishedAt": "2026-07-29T00:12:15+00:00",
+      "excerpt": "I missed the PERM filing timeline, which is 18 months, because I did not know that I could file EB-2 NIW and PERM concurrently. At that time, I was planning to file for EB-2 NIW, and the situation was not as bad as it is now. However, after I filed, things started getting worse, and I ended up missing the opportunity t…",
       "topics": [
-        "i485",
         "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -188,16 +225,15 @@
       }
     },
     {
-      "id": "t3_1v9fjxj",
-      "title": "Duplicate I-485 for derivative spouse — need advice from anyone who’s dealt with this.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v9fjxj/duplicate_i485_for_derivative_spouse_need_advice/",
-      "author": "/u/Catguy_2023",
-      "publishedAt": "2026-07-28T23:55:46+00:00",
-      "excerpt": "Trying to untangle a mess with my wife’s I-485 (she’s the derivative; I’m the principal, EB-2 NIW). Timeline: • June 26 — filed her I-485 online. Rejected June 29 (“underlying petition could not be located”). • July 10 — mailed a paper package to the lockbox instead. • July 21 — that paper package was rejected for a fe…",
+      "id": "t3_1v96ec8",
+      "title": "EAD card with pending I140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v96ec8/ead_card_with_pending_i140/",
+      "author": "/u/Ok-Attention1112",
+      "publishedAt": "2026-07-28T18:12:15+00:00",
+      "excerpt": "Does anyone got their I765 EAD card with a pending I140 NIW and pending I485?",
       "topics": [
         "i485",
         "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -434,48 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1v86a7a",
-      "title": "Approved! EB-2 NIW (Self-Petitioned, No Lawyer) - Fiscal Policy / Applied Economics Profile & Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v86a7a/approved_eb2_niw_selfpetitioned_no_lawyer_fiscal/",
-      "author": "/u/Melodic-Confusion-98",
-      "publishedAt": "2026-07-27T17:02:00+00:00",
-      "excerpt": "Hi everyone! I received my I-140 approval notice yesterday for an EB-2 NIW and wanted to share my timeline, profile, and strategy to give back to this community, as reading other posts helped me tremendously while preparing my petition on my own. (Using AI to avoid non-native grammatical errors) Timeline Service Center…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1v8uo3y",
-      "title": "EB2 NIW applying",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1v8uo3y/eb2_niw_applying/",
-      "author": "/u/GasStrong2096",
-      "publishedAt": "2026-07-28T10:42:39+00:00",
-      "excerpt": "Hi everyone, I would really appreciate some honest feedback on whether my profile is competitive for an EB-2 NIW petition. Here's my background: Pakistani national, currently residing and working in the UAE. Over 10 years of experience in AML, KYC, Financial Crime Compliance, and Regulatory Compliance within the bankin…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-29T01:42:25.014Z",
+  "syncedAt": "2026-07-29T04:59:52.787Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
