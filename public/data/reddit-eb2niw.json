@@ -165,24 +165,6 @@
       }
     },
     {
-      "id": "t3_1vaffrv",
-      "title": "Requesting a digital copy of RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vaffrv/requesting_a_digital_copy_of_rfe/",
-      "author": "/u/Agreeable_Base420",
-      "publishedAt": "2026-07-30T01:26:55+00:00",
-      "excerpt": "Hey all, ​Could anyone share the best way to request a digital copy of an RFE? I didn't create an online account while filing, so I’m unable to add the case now (it requires an Online Access Code, which I haven't been able to get). ​It has only been two business days since the RFE was issued, so I’m also not sure if it…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1va5vdf",
       "title": "Any March 2026 Filer with similar situation?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1va5vdf/any_march_2026_filer_with_similar_situation/",
@@ -193,6 +175,24 @@
         "approval",
         "i485",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vaffrv",
+      "title": "Requesting a digital copy of RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vaffrv/requesting_a_digital_copy_of_rfe/",
+      "author": "/u/Agreeable_Base420",
+      "publishedAt": "2026-07-30T01:26:55+00:00",
+      "excerpt": "Hey all, ​Could anyone share the best way to request a digital copy of an RFE? I didn't create an online account while filing, so I’m unable to add the case now (it requires an Online Access Code, which I haven't been able to get). ​It has only been two business days since the RFE was issued, so I’m also not sure if it…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -253,27 +253,6 @@
       ],
       "signals": {
         "blockNumber": "IOE093648",
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1va0396",
-      "title": "Filing I-485 after EB2-NIW approval",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va0396/filing_i485_after_eb2niw_approval/",
-      "author": "/u/Pretend-Explorer7576",
-      "publishedAt": "2026-07-29T15:50:26+00:00",
-      "excerpt": "Hey How long after biometrics should I hear back? Overthinking is torturing me :) Filed 24th of June Biometrics 14th of July",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
@@ -345,6 +324,27 @@
       "excerpt": "We have been living in the us for 12 years. My son will age out in late 2030. Do you think that the FAD can become current before then? What about DOF? Could we get our ead by next summer? My main concern is that he won't be able to get any internships in college. Luckily we live in Texas so he qualifies for in state t…",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1va0396",
+      "title": "Filing I-485 after EB2-NIW approval",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va0396/filing_i485_after_eb2niw_approval/",
+      "author": "/u/Pretend-Explorer7576",
+      "publishedAt": "2026-07-29T15:50:26+00:00",
+      "excerpt": "Hey How long after biometrics should I hear back? Overthinking is torturing me :) Filed 24th of June Biometrics 14th of July",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-30T07:27:06.053Z",
+  "syncedAt": "2026-07-30T10:12:27.155Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
