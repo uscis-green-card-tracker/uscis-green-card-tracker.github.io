@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1vb4bza",
+      "title": "Approved✅",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vb4bza/approved/",
+      "author": "/u/Super-Economist-2567",
+      "publishedAt": "2026-07-30T19:55:21+00:00",
+      "excerpt": "Literally just received the email 6 minutes ago. Status changed straight from “Received RFE…” to “USCIS is currently Processing the Case” but I just got the email. So perhaps it’s yet to update on the site as well. 03/13/2025 - Filed i 140 ( Self Petition) 02/25/2026 - i 907 (Upgrade to premium) received by uscis 04/01…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vayi4g",
       "title": "3rd FTA0",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vayi4g/3rd_fta0/",
@@ -43,6 +61,42 @@
       "excerpt": "Is it true that after third FTA0, there is 90 days deadline that an action must be taken? Or is it just a myth?",
       "topics": [
         "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vb4qiw",
+      "title": "Chen focusing only on research for proposed endeavor?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vb4qiw/chen_focusing_only_on_research_for_proposed/",
+      "author": "/u/CortexCrisis",
+      "publishedAt": "2026-07-30T20:09:53+00:00",
+      "excerpt": "For those who worked with Chen, did they push toward making proposed endeavor almost entirely research focused? I have significant work outside of research that I think is part of my endeavor but their feedback was essentially that a stronger research-focused endeavor would make for a stronger petition. Did anyone succ…",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vb5qqo",
+      "title": "Is there an optimal time to apply for/upgrade to Premium Processing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vb5qqo/is_there_an_optimal_time_to_apply_forupgrade_to/",
+      "author": "/u/CaribbeanRockstar",
+      "publishedAt": "2026-07-30T20:46:11+00:00",
+      "excerpt": "I submitted my case in early May (PD: May 4, 2026). Under standard processing, I expect to hear back from USCIS sometime in 2028, unless any major shifts in processing times (for better or worse). I’ve always intended to upgrade to PP, but didn't have the funds when I initially filed. Now that I’m in a position to pay …",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -409,64 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1va22o3",
-      "title": "March 2026 EB-1A filer, case transferred to field office today with new FTA0 event, thoughts?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va22o3/march_2026_eb1a_filer_case_transferred_to_field/",
-      "author": "/u/EB1A-pp-Texas",
-      "publishedAt": "2026-07-29T16:58:56+00:00",
-      "excerpt": "Timeline : RD: 3/19/2026 Bio: 4/6/2026 (interview waived per EMMA) SU on primary and spouse: 5/22 SU on whole family (primary, spouse, and kids): 6/28 SU on primary and spouse: 7/18, 7/24 (twice), 7/27 (twice), 7/28 Today (7/29): new FTA0 event surfaced on both primary and spouse (biometrics-linked entry, same underlyi…",
-      "topics": [
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": "3/19/2026",
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1va8909",
-      "title": "Doesn't Raju Law take cases with less than 3 years of work and/or research experiences?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va8909/doesnt_raju_law_take_cases_with_less_than_3_years/",
-      "author": "/u/Full_Cantaloupe_4560",
-      "publishedAt": "2026-07-29T20:35:20+00:00",
-      "excerpt": "Hi, Today I went to evaluate my profile with Raju Law. I have a US Master's degree in STEM field and currently employed in the US. I am on my initial OPT right now and have 2 years of research+work experience in the US. So, I went on to select the option that \"I have less than 3 years of research+work experience in the…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1va7kye",
-      "title": "India September 2015 eb2 priority date priority date",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va7kye/india_september_2015_eb2_priority_date_priority/",
-      "author": "/u/Queasy_Airport5585",
-      "publishedAt": "2026-07-29T20:11:18+00:00",
-      "excerpt": "We have been living in the us for 12 years. My son will age out in late 2030. Do you think that the FAD can become current before then? What about DOF? Could we get our ead by next summer? My main concern is that he won't be able to get any internships in college. Luckily we live in Texas so he qualifies for in state t…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-30T19:09:03.384Z",
+  "syncedAt": "2026-07-30T20:55:58.619Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
