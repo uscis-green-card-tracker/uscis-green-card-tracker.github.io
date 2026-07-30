@@ -74,14 +74,13 @@
       }
     },
     {
-      "id": "t3_1vag4i3",
-      "title": "Received RFE on 45 business day upgraded to Premium processing. Challenged Prong 1 &2 but accepted Eligibility and Substantial Merit.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vag4i3/received_rfe_on_45_business_day_upgraded_to/",
-      "author": "/u/Active_Library759",
-      "publishedAt": "2026-07-30T01:58:14+00:00",
-      "excerpt": "how we can judge the overall look of the case with this type of RFE? Am I still in the race or its pretty much finished? Thanks",
+      "id": "t3_1vasgvw",
+      "title": "I wanted to ask you all how do you manage to get LOR’s from government bodies",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vasgvw/i_wanted_to_ask_you_all_how_do_you_manage_to_get/",
+      "author": "/u/Creative_Section_939",
+      "publishedAt": "2026-07-30T12:37:41+00:00",
+      "excerpt": "I have seen many people in the sub giving letters of recommendations from government bodies expressing interest in their work, how do you manage to get such letters and how do you reach out to such government bodies?",
       "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -98,6 +97,24 @@
       "author": "/u/SecureFroyo5124",
       "publishedAt": "2026-07-30T05:08:49+00:00",
       "excerpt": "Got RFE in January this year and sent my response in March. I did Premium processing. It’s almost August and still no decision. Anyone else has been in a similar situation? When did hear back?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vag4i3",
+      "title": "Received RFE on 45 business day upgraded to Premium processing. Challenged Prong 1 &2 but accepted Eligibility and Substantial Merit.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vag4i3/received_rfe_on_45_business_day_upgraded_to/",
+      "author": "/u/Active_Library759",
+      "publishedAt": "2026-07-30T01:58:14+00:00",
+      "excerpt": "how we can judge the overall look of the case with this type of RFE? Am I still in the race or its pretty much finished? Thanks",
       "topics": [
         "i140",
         "question"
@@ -155,24 +172,6 @@
       "excerpt": "I’m preparing to file Form I-485 with my spouse, and we both have good health insurance. We found a USCIS-designated civil surgeon who appears to be in-network with our insurance. I understand that the I-693 form completion and administrative fee may still be self-pay. However, many of the required services—such as the…",
       "topics": [
         "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vahhwa",
-      "title": "Pulse check - do you feel I qualify? PharmD in medical affairs strategy.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vahhwa/pulse_check_do_you_feel_i_qualify_pharmd_in/",
-      "author": "/u/Tricky-Fan-3526",
-      "publishedAt": "2026-07-30T03:00:49+00:00",
-      "excerpt": "Hi there! quick profile check, would love your read on whether I’m a realistic EB-2 NIW candidate. I hold a doctorate of pharmacy (PharmD), currently working in medical affairs for a large multinational pharmaceutical company, focused on hepatology/viral hepatitis. Prior research career in infectious disease, 15+ peer-…",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -466,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-30T12:23:17.339Z",
+  "syncedAt": "2026-07-30T15:02:00.551Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
