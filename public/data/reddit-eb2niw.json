@@ -76,6 +76,24 @@
       }
     },
     {
+      "id": "t3_1vc36wm",
+      "title": "Nebraska or Texas centre.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc36wm/nebraska_or_texas_centre/",
+      "author": "/u/PayPuzzleheaded6217",
+      "publishedAt": "2026-07-31T21:00:56+00:00",
+      "excerpt": "There seems to be a lot more approval from NSC than Texas. Whst could be responsible for this? Is there an historical data to support why one centre is better even though its the same uscis",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vbxgvf",
       "title": "RFE on I-140 by EP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbxgvf/rfe_on_i140_by_ep/",
@@ -86,6 +104,23 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vbx59f",
+      "title": "Returning Premium processing fee",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbx59f/returning_premium_processing_fee/",
+      "author": "/u/Mammoth-Badger-1588",
+      "publishedAt": "2026-07-31T17:16:26+00:00",
+      "excerpt": "USCIS is returning a lot of the premium processing fees recently.",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -239,23 +274,6 @@
       "topics": [
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vbx59f",
-      "title": "Returning Premium processing fee",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbx59f/returning_premium_processing_fee/",
-      "author": "/u/Mammoth-Badger-1588",
-      "publishedAt": "2026-07-31T17:16:26+00:00",
-      "excerpt": "USCIS is returning a lot of the premium processing fees recently.",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -455,27 +473,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vayi4g",
-      "title": "3rd FTA0",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vayi4g/3rd_fta0/",
-      "author": "/u/Kitchen-Yak-3716",
-      "publishedAt": "2026-07-30T16:27:26+00:00",
-      "excerpt": "Is it true that after third FTA0, there is 90 days deadline that an action must be taken? Or is it just a myth?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-31T20:53:31.128Z",
+  "syncedAt": "2026-07-31T21:56:50.190Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
