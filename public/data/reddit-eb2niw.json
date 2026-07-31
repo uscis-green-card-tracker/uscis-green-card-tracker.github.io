@@ -189,24 +189,6 @@
       }
     },
     {
-      "id": "t3_1vbzup5",
-      "title": "PP Refund but adjudication is later?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbzup5/pp_refund_but_adjudication_is_later/",
-      "author": "/u/Papel58",
-      "publishedAt": "2026-07-31T18:55:27+00:00",
-      "excerpt": "Hi everyone, I got an update on my case status saying that USCIS will process a refund, but I thought this happens AFTER they take a decision on my case...I am part of the 39 countries, so not sure how it works now. I submitted my case in January, so if it was automatic, shouldn't I receive it back in March or April? I…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vbay51",
       "title": "Approved after RFE on all 3 prongs",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbay51/approved_after_rfe_on_all_3_prongs/",
@@ -218,6 +200,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vbzup5",
+      "title": "PP Refund but adjudication is later?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbzup5/pp_refund_but_adjudication_is_later/",
+      "author": "/u/Papel58",
+      "publishedAt": "2026-07-31T18:55:27+00:00",
+      "excerpt": "Hi everyone, I got an update on my case status saying that USCIS will process a refund, but I thought this happens AFTER they take a decision on my case...I am part of the 39 countries, so not sure how it works now. I submitted my case in January, so if it was automatic, shouldn't I receive it back in March or April? I…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -475,7 +475,7 @@
       }
     }
   ],
-  "syncedAt": "2026-07-31T21:56:50.190Z",
+  "syncedAt": "2026-07-31T22:54:52.198Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
