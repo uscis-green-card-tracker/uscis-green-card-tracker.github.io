@@ -112,6 +112,40 @@
       }
     },
     {
+      "id": "t3_1vbx59f",
+      "title": "Returning Premium processing fee",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbx59f/returning_premium_processing_fee/",
+      "author": "/u/Mammoth-Badger-1588",
+      "publishedAt": "2026-07-31T17:16:26+00:00",
+      "excerpt": "USCIS is returning a lot of the premium processing fees recently.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vbvyy7",
+      "title": "Reviews on AGS Welt & Jacob J. Sapochnick Law Firm",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbvyy7/reviews_on_ags_welt_jacob_j_sapochnick_law_firm/",
+      "author": "/u/atif412",
+      "publishedAt": "2026-07-31T16:33:40+00:00",
+      "excerpt": "Hi Folks, Could you please share reviews about AGS Welt & Jacob J. Sapochnick. They both are agreed to take my case. Bachelor Degree in Computer Science. Masters Degree in Project Management. 8 years of progress experience in Network & Cyber Security. Expert certification in Cisco - CCIE Security Additional industry st…",
+      "topics": [
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vbsb67",
       "title": "Recent EB-2 NIW Approvals - Burlington, VT Field Office?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbsb67/recent_eb2_niw_approvals_burlington_vt_field/",
@@ -429,49 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vb1yns",
-      "title": "My experience with URPE INTEGRAL SERVICES (EB-2 NIW) – Why I decided not to file my petition",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vb1yns/my_experience_with_urpe_integral_services_eb2_niw/",
-      "author": "/u/FitWalk3526",
-      "publishedAt": "2026-07-30T18:29:17+00:00",
-      "excerpt": "I'm sharing my experience in case it helps someone considering hiring URPE for an EB-2 NIW case. At the end of 2024, I hired URPE and paid more than USD $10,000 for a package that included the preparation of my petition, professional fees, copies and mailing expenses, preparation of any future RFE response, and the fut…",
-      "topics": [
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1va4hop",
-      "title": "EB2 NIW , Self Petition",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1va4hop/eb2_niw_self_petition/",
-      "author": "/u/Koddxx",
-      "publishedAt": "2026-07-29T18:23:19+00:00",
-      "excerpt": "Hi everyone. I just received my EB-2 NIW approval email and wanted to share my timeline. Texas Service Center Self-petition (no attorney) No RFE Priority Date: May 27, 2026 Premium Processing: Filed with initial package Approved: July 29, 2026 RFE: None Field: Civil Engineering / Water Resources Engineering Profile: - …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-07-31T15:54:16.906Z",
+  "syncedAt": "2026-07-31T17:18:47.161Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
