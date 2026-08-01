@@ -76,6 +76,25 @@
       }
     },
     {
+      "id": "t3_1vcmaz4",
+      "title": "I-140 premium processing mail Carol Stream,IL",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcmaz4/i140_premium_processing_mail_carol_streamil/",
+      "author": "/u/Late-Monk2623",
+      "publishedAt": "2026-08-01T12:37:32+00:00",
+      "excerpt": "I had some questions: Has anyone submitted their EB-2 I-140 application (premium processing) to Carol Stream, IL? How long does it take to receive the case? How would they notify me if file is received or not? Is there any way to know if full petition reached in order without any harm? When can I expect the credit card…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vcd8mb",
       "title": "Does Chemical Engineering profiles (non PhD) have better chances of approval?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcd8mb/does_chemical_engineering_profiles_non_phd_have/",
@@ -186,25 +205,6 @@
       }
     },
     {
-      "id": "t3_1vcc8ld",
-      "title": "Need advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcc8ld/need_advice/",
-      "author": "/u/Able_Appointment_776",
-      "publishedAt": "2026-08-01T03:36:31+00:00",
-      "excerpt": "Guys, do you think it is possible to a 65 year old be approved on EB2-NIW? Is it a red flag somehow?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vbx59f",
       "title": "Returning Premium processing fee",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbx59f/returning_premium_processing_fee/",
@@ -231,6 +231,25 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vcc8ld",
+      "title": "Need advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcc8ld/need_advice/",
+      "author": "/u/Able_Appointment_776",
+      "publishedAt": "2026-08-01T03:36:31+00:00",
+      "excerpt": "Guys, do you think it is possible to a 65 year old be approved on EB2-NIW? Is it a red flag somehow?",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -452,30 +471,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vbasu8",
-      "title": "Is it normal to have so many silent updated with no status change? (EB-2 NIW I-485)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbasu8/is_it_normal_to_have_so_many_silent_updated_with/",
-      "author": "/u/Mecha_Sha_2026",
-      "publishedAt": "2026-07-31T00:08:27+00:00",
-      "excerpt": "Hi everyone, I’m an EB-2 NIW (ROW) applicant. I-485 filed: March 23, 2026 Biometrics: April 27, 2026 Interview: Emma recently confirmed it is waived Current location: NBC No RFE, no notices, no documents, no action required I’ve been monitoring the USCIS API, and my case has had multiple silent update with no public st…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-01T11:57:17.819Z",
+  "syncedAt": "2026-08-01T12:57:56.757Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
