@@ -94,6 +94,25 @@
       }
     },
     {
+      "id": "t3_1vc94eh",
+      "title": "April filers with dependent",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc94eh/april_filers_with_dependent/",
+      "author": "/u/dr_lostsoul",
+      "publishedAt": "2026-08-01T01:07:23+00:00",
+      "excerpt": "So… radio silent … anyone who filed with dependent i. April and biometrics in May gotten I-485 approval? I got radio silence not a single silent updates. Just crickets and eternal sadness and silence",
+      "topics": [
+        "approval",
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vc9ygr",
       "title": "Time requirement from I485 filing to approval (Please help me understand)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc9ygr/time_requirement_from_i485_filing_to_approval/",
@@ -194,25 +213,6 @@
       "excerpt": "USCIS is returning a lot of the premium processing fees recently.",
       "topics": [
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vc94eh",
-      "title": "April filers with dependent",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc94eh/april_filers_with_dependent/",
-      "author": "/u/dr_lostsoul",
-      "publishedAt": "2026-08-01T01:07:23+00:00",
-      "excerpt": "So… radio silent … anyone who filed with dependent i. April and biometrics in May gotten I-485 approval? I got radio silence not a single silent updates. Just crickets and eternal sadness and silence",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -475,7 +475,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-01T05:18:19.186Z",
+  "syncedAt": "2026-08-01T08:03:15.642Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
