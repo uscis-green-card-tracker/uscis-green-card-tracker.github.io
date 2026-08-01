@@ -56,6 +56,24 @@
       }
     },
     {
+      "id": "t3_1vcr253",
+      "title": "Received EB-2 NIW RFE — Need Help Understanding USCIS Concerns and Evidence Required",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcr253/received_eb2_niw_rfe_need_help_understanding/",
+      "author": "/u/hamzaikramch7",
+      "publishedAt": "2026-08-01T15:58:53+00:00",
+      "excerpt": "I recently received an RFE for my EB-2 NIW petition. USCIS appears to question whether my proposed endeavor has national importance, whether I am well positioned to advance it, and whether waiving the job offer requirement would benefit the United States. My proposed endeavor focuses on healthcare cybersecurity, includ…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vbxn6o",
       "title": "EB-2 NIW + I-485 Approved — Timeline Update",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbxn6o/eb2_niw_i485_approved_timeline_update/",
@@ -451,26 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vbvyy7",
-      "title": "Reviews on AGS Welt & Jacob J. Sapochnick Law Firm",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbvyy7/reviews_on_ags_welt_jacob_j_sapochnick_law_firm/",
-      "author": "/u/atif412",
-      "publishedAt": "2026-07-31T16:33:40+00:00",
-      "excerpt": "Hi Folks, Could you please share reviews about AGS Welt & Jacob J. Sapochnick. They both are agreed to take my case. Bachelor Degree in Computer Science. Masters Degree in Project Management. 8 years of progress experience in Network & Cyber Security. Expert certification in Cisco - CCIE Security Additional industry st…",
-      "topics": [
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-01T15:52:16.818Z",
+  "syncedAt": "2026-08-01T16:48:12.953Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
