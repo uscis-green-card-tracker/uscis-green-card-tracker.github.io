@@ -56,6 +56,24 @@
       }
     },
     {
+      "id": "t3_1vcskax",
+      "title": "EB-2 NIW RFE - Need Advice on How to Strengthen My Response (Healthcare Cybersecurity Research)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcskax/eb2_niw_rfe_need_advice_on_how_to_strengthen_my/",
+      "author": "/u/EconomicsCareful2034",
+      "publishedAt": "2026-08-01T16:59:11+00:00",
+      "excerpt": "Hi everyone, I recently received an RFE on my EB-2 NIW (I-140) petition under the Matter of Dhanasar framework, and I’m looking for advice from anyone who has successfully responded to a similar RFE or works in this area. My proposed endeavor is healthcare cybersecurity, focusing on Zero Trust, AI-based risk assessment…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vcr253",
       "title": "Received EB-2 NIW RFE — Need Help Understanding USCIS Concerns and Evidence Required",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcr253/received_eb2_niw_rfe_need_help_understanding/",
@@ -451,27 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vbxcv6",
-      "title": "Officer ID",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbxcv6/officer_id/",
-      "author": "/u/Trusty3Wood",
-      "publishedAt": "2026-07-31T17:23:48+00:00",
-      "excerpt": "Hi. My NIW case received an RFE back in November and recently I received my denial notice. Both the RFE and denial notice did NOT have officer ID on them. Is this normal?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-01T16:48:12.953Z",
+  "syncedAt": "2026-08-01T17:52:26.046Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
