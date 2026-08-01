@@ -209,14 +209,15 @@
       }
     },
     {
-      "id": "t3_1vcd8mb",
-      "title": "Does Chemical Engineering profiles (non PhD) have better chances of approval?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcd8mb/does_chemical_engineering_profiles_non_phd_have/",
-      "author": "/u/Special-Debt8460",
-      "publishedAt": "2026-08-01T04:24:59+00:00",
-      "excerpt": "Is it true that field like chemical engineering with a PE related to advanced manufacturing techniques and reliability improvement have better chances of approval since those are rare and not a lot of people apply in this domain?",
+      "id": "t3_1vc94eh",
+      "title": "April filers with dependent",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc94eh/april_filers_with_dependent/",
+      "author": "/u/dr_lostsoul",
+      "publishedAt": "2026-08-01T01:07:23+00:00",
+      "excerpt": "So… radio silent … anyone who filed with dependent i. April and biometrics in May gotten I-485 approval? I got radio silence not a single silent updates. Just crickets and eternal sadness and silence",
       "topics": [
         "approval",
+        "i485",
         "question"
       ],
       "signals": {
@@ -227,15 +228,14 @@
       }
     },
     {
-      "id": "t3_1vc94eh",
-      "title": "April filers with dependent",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc94eh/april_filers_with_dependent/",
-      "author": "/u/dr_lostsoul",
-      "publishedAt": "2026-08-01T01:07:23+00:00",
-      "excerpt": "So… radio silent … anyone who filed with dependent i. April and biometrics in May gotten I-485 approval? I got radio silence not a single silent updates. Just crickets and eternal sadness and silence",
+      "id": "t3_1vcd8mb",
+      "title": "Does Chemical Engineering profiles (non PhD) have better chances of approval?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcd8mb/does_chemical_engineering_profiles_non_phd_have/",
+      "author": "/u/Special-Debt8460",
+      "publishedAt": "2026-08-01T04:24:59+00:00",
+      "excerpt": "Is it true that field like chemical engineering with a PE related to advanced manufacturing techniques and reliability improvement have better chances of approval since those are rare and not a lot of people apply in this domain?",
       "topics": [
         "approval",
-        "i485",
         "question"
       ],
       "signals": {
@@ -413,26 +413,6 @@
       }
     },
     {
-      "id": "t3_1vc1ez8",
-      "title": "Should I do premium processing for MTR my i140 case",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc1ez8/should_i_do_premium_processing_for_mtr_my_i140/",
-      "author": "/u/nxph2108",
-      "publishedAt": "2026-07-31T19:54:10+00:00",
-      "excerpt": "Hello, I filed for i-140 with PD of May 15,2024. On July 2025, I got RFE and responded in due time. However USCIS sent me denial letter mentioning case is denied due to abandonment i.e USCIS didn’t receive our RFE response. My lawyer (Dunn law) had fedex receipt showing it was received by uscis in due time. So we filed…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vbay51",
       "title": "Approved after RFE on all 3 prongs",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vbay51/approved_after_rfe_on_all_3_prongs/",
@@ -444,6 +424,26 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vc1ez8",
+      "title": "Should I do premium processing for MTR my i140 case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc1ez8/should_i_do_premium_processing_for_mtr_my_i140/",
+      "author": "/u/nxph2108",
+      "publishedAt": "2026-07-31T19:54:10+00:00",
+      "excerpt": "Hello, I filed for i-140 with PD of May 15,2024. On July 2025, I got RFE and responded in due time. However USCIS sent me denial letter mentioning case is denied due to abandonment i.e USCIS didn’t receive our RFE response. My lawyer (Dunn law) had fedex receipt showing it was received by uscis in due time. So we filed…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -471,7 +471,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-01T20:05:06.970Z",
+  "syncedAt": "2026-08-01T21:44:03.241Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
