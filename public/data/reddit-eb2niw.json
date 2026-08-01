@@ -56,14 +56,16 @@
       }
     },
     {
-      "id": "t3_1vcskax",
-      "title": "EB-2 NIW RFE - Need Advice on How to Strengthen My Response (Healthcare Cybersecurity Research)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcskax/eb2_niw_rfe_need_advice_on_how_to_strengthen_my/",
-      "author": "/u/EconomicsCareful2034",
-      "publishedAt": "2026-08-01T16:59:11+00:00",
-      "excerpt": "Hi everyone, I recently received an RFE on my EB-2 NIW (I-140) petition under the Matter of Dhanasar framework, and I’m looking for advice from anyone who has successfully responded to a similar RFE or works in this area. My proposed endeavor is healthcare cybersecurity, focusing on Zero Trust, AI-based risk assessment…",
+      "id": "t3_1vcve79",
+      "title": "Concurrent I-140/I-485 filing: How should I organize the package?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcve79/concurrent_i140i485_filing_how_should_i_organize/",
+      "author": "/u/InstructionMain8249",
+      "publishedAt": "2026-08-01T18:51:46+00:00",
+      "excerpt": "I'm preparing to file my EB-2 NIW I-140 and I-485 concurrently . My attorney is representing me for the I-140 only. Once the I-140 package is finalized, they'll upload it for me, and I'll mail the I-140 together with my DIY I-485/I-765/I-131 package in the same box to USCIS. Since he is not representing me for the adju…",
       "topics": [
+        "i485",
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -229,24 +231,6 @@
       }
     },
     {
-      "id": "t3_1vc36wm",
-      "title": "Nebraska or Texas centre.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc36wm/nebraska_or_texas_centre/",
-      "author": "/u/PayPuzzleheaded6217",
-      "publishedAt": "2026-07-31T21:00:56+00:00",
-      "excerpt": "There seems to be a lot more approval from NSC than Texas. Whst could be responsible for this? Is there an historical data to support why one centre is better even though its the same uscis",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vcceqp",
       "title": "Can an NIW and a later EB-1A be in completely different fields?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcceqp/can_an_niw_and_a_later_eb1a_be_in_completely/",
@@ -289,6 +273,24 @@
       "excerpt": "USCIS is returning a lot of the premium processing fees recently.",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vc36wm",
+      "title": "Nebraska or Texas centre.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc36wm/nebraska_or_texas_centre/",
+      "author": "/u/PayPuzzleheaded6217",
+      "publishedAt": "2026-07-31T21:00:56+00:00",
+      "excerpt": "There seems to be a lot more approval from NSC than Texas. Whst could be responsible for this? Is there an historical data to support why one centre is better even though its the same uscis",
+      "topics": [
+        "approval",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -471,7 +473,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-01T17:52:26.046Z",
+  "syncedAt": "2026-08-01T18:54:08.189Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
