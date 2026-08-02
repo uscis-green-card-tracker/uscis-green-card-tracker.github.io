@@ -56,6 +56,24 @@
       }
     },
     {
+      "id": "t3_1vd95xw",
+      "title": "Do I have a realistic chance ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vd95xw/do_i_have_a_realistic_chance/",
+      "author": "/u/Saev12",
+      "publishedAt": "2026-08-02T05:16:54+00:00",
+      "excerpt": "Hi everyone, I’d appreciate your honest feedback on whether my profile is competitive for an EB2-NIW petition. Here is my background: - 30 years old. - Bachelor’s degree in Civil Engineering. - Master’s degree in Steel and Composite Structures. - Around 8 years of professional experience in civil engineering, structura…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vcqe1v",
       "title": "Approved EB-2 NIW + Pending AOS Journey (Approved I-140, Waiting on I-485)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcqe1v/approved_eb2_niw_pending_aos_journey_approved/",
@@ -67,24 +85,6 @@
         "i485",
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vd95xw",
-      "title": "Do I have a realistic chance ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vd95xw/do_i_have_a_realistic_chance/",
-      "author": "/u/Saev12",
-      "publishedAt": "2026-08-02T05:16:54+00:00",
-      "excerpt": "Hi everyone, I’d appreciate your honest feedback on whether my profile is competitive for an EB2-NIW petition. Here is my background: - 30 years old. - Bachelor’s degree in Civil Engineering. - Master’s degree in Steel and Composite Structures. - Around 8 years of professional experience in civil engineering, structura…",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -474,7 +474,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-02T14:27:18.297Z",
+  "syncedAt": "2026-08-02T15:52:46.378Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
