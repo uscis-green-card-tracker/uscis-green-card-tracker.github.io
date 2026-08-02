@@ -56,6 +56,61 @@
       }
     },
     {
+      "id": "t3_1vdtzbx",
+      "title": "NIW RFE response — how much does it matter that I have NO letter from a government entity?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdtzbx/niw_rfe_response_how_much_does_it_matter_that_i/",
+      "author": "/u/Worried_Win_2478",
+      "publishedAt": "2026-08-02T21:21:56+00:00",
+      "excerpt": "EB-2 NIW self-petition (tech/AI field), got an RFE challenging all three Dhanasar prongs. Responding with premium processing, deadline is close. Under Prong 2 (\"interest of potential customers, users, investors, or other relevant entities\"), the RFE lists \"letters from a government entity demonstrating its interest in …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vdtfja",
+      "title": "NIW RFE hit on all 3 prongs (Dhanasar) — looking for community input on strengthening my response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdtfja/niw_rfe_hit_on_all_3_prongs_dhanasar_looking_for/",
+      "author": "/u/CandidBlueberry6262",
+      "publishedAt": "2026-08-02T21:00:09+00:00",
+      "excerpt": "Hi everyone, Would appreciate your suggestions on how to respond to the following RFE. My endeavor is machine learning methods for scarce/limited labeled data. RFE findings: Prong 1 — Substantial Merit: Satisfied Prong 1 — National Importance: Not satisfied Techniques/methodologies deemed not sufficiently innovative or…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vdss85",
+      "title": "July PP timeline EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdss85/july_pp_timeline_eb2_niw/",
+      "author": "/u/TieSuspicious4362",
+      "publishedAt": "2026-08-02T20:33:49+00:00",
+      "excerpt": "Just want to post this so we can share our timeline and help each other during the process. I submitted my EB2 NIW on July 17 with PP. Nebraska center. No updates yet.",
+      "topics": [
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vdrmru",
       "title": "Need advice",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdrmru/need_advice/",
@@ -417,66 +472,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vcnn8o",
-      "title": "Chances on getting EB2 NIW approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcnn8o/chances_on_getting_eb2_niw_approved/",
-      "author": "/u/Negative_Mixture5484",
-      "publishedAt": "2026-08-01T13:36:40+00:00",
-      "excerpt": "Hi folks, I am finishing my phd from an overseas country, in environmental analytical chemistry. I have one first author publication, and planing for two more by the time i finish my phd. Have few more co-authored publications with 22 citations all together to date. TwO firms told me that i have a case for eb2 and offe…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vcmaz4",
-      "title": "I-140 premium processing mail Carol Stream,IL",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vcmaz4/i140_premium_processing_mail_carol_streamil/",
-      "author": "/u/Late-Monk2623",
-      "publishedAt": "2026-08-01T12:37:32+00:00",
-      "excerpt": "I had some questions: Has anyone submitted their EB-2 I-140 application (premium processing) to Carol Stream, IL? How long does it take to receive the case? How would they notify me if file is received or not? Is there any way to know if full petition reached in order without any harm? When can I expect the credit card…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vc94eh",
-      "title": "April filers with dependent",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vc94eh/april_filers_with_dependent/",
-      "author": "/u/dr_lostsoul",
-      "publishedAt": "2026-08-01T01:07:23+00:00",
-      "excerpt": "So… radio silent … anyone who filed with dependent i. April and biometrics in May gotten I-485 approval? I got radio silence not a single silent updates. Just crickets and eternal sadness and silence",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-02T20:05:39.557Z",
+  "syncedAt": "2026-08-02T21:44:22.791Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
