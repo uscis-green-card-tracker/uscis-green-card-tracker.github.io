@@ -35,6 +35,41 @@
       }
     },
     {
+      "id": "t3_1vdvv7k",
+      "title": "Call for judge of the works of others",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdvv7k/call_for_judge_of_the_works_of_others/",
+      "author": "/u/Present-Bike8556",
+      "publishedAt": "2026-08-02T22:41:02+00:00",
+      "excerpt": "Serving as a judge of the work of others in your field or a related field is one of the ten criteria for demonstrating extraordinary ability or that you are \"well-positioned to advance the proposed endeavor.\" https://www.adea.org/2027/submit/call-for-reviewers https://www.emeraldgrouppublishing.com/journal/qea/call-rev…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vdss85",
+      "title": "July PP timeline EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdss85/july_pp_timeline_eb2_niw/",
+      "author": "/u/TieSuspicious4362",
+      "publishedAt": "2026-08-02T20:33:49+00:00",
+      "excerpt": "Just want to post this so we can share our timeline and help each other during the process. I submitted my EB2 NIW on July 17 with PP. Nebraska center. No updates yet.",
+      "topics": [
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vdtzbx",
       "title": "NIW RFE response — how much does it matter that I have NO letter from a government entity?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdtzbx/niw_rfe_response_how_much_does_it_matter_that_i/",
@@ -66,41 +101,6 @@
         "i485",
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdss85",
-      "title": "July PP timeline EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdss85/july_pp_timeline_eb2_niw/",
-      "author": "/u/TieSuspicious4362",
-      "publishedAt": "2026-08-02T20:33:49+00:00",
-      "excerpt": "Just want to post this so we can share our timeline and help each other during the process. I submitted my EB2 NIW on July 17 with PP. Nebraska center. No updates yet.",
-      "topics": [
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdvv7k",
-      "title": "Call for judge of the works of others",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdvv7k/call_for_judge_of_the_works_of_others/",
-      "author": "/u/Present-Bike8556",
-      "publishedAt": "2026-08-02T22:41:02+00:00",
-      "excerpt": "Serving as a judge of the work of others in your field or a related field is one of the ten criteria for demonstrating extraordinary ability or that you are \"well-positioned to advance the proposed endeavor.\" https://www.adea.org/2027/submit/call-for-reviewers https://www.emeraldgrouppublishing.com/journal/qea/call-rev…",
-      "topics": [
         "question"
       ],
       "signals": {
@@ -470,7 +470,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-02T22:44:44.964Z",
+  "syncedAt": "2026-08-02T23:50:25.012Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
