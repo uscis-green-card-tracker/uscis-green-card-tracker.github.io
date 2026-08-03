@@ -73,6 +73,25 @@
       }
     },
     {
+      "id": "t3_1vepcmn",
+      "title": "PP refund mailed",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vepcmn/pp_refund_mailed/",
+      "author": "/u/SPjean",
+      "publishedAt": "2026-08-03T20:42:27+00:00",
+      "excerpt": "My Eb2-NIW was under Premium processing. I sent RFE responses since November 2026. Because I am from one of the banned countries, adjudication was on pause. While tracking my case, USCIS says “ Fee refund was mailed”. USCIS says this does not affect the case processing time. However, I wanted to if there is/was any sim…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vekyqy",
       "title": "USCIS currently processing case",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vekyqy/uscis_currently_processing_case/",
@@ -99,6 +118,26 @@
       "publishedAt": "2026-08-03T17:24:40+00:00",
       "excerpt": "RFE deadline last Wednesday, FedEx shows delivered on Monday, but the portal hasn’t updated. Do you all encounter it’s a problem?",
       "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ven0dw",
+      "title": "Address Issue on I-485 (EB2-NIW ROW)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ven0dw/address_issue_on_i485_eb2niw_row/",
+      "author": "/u/Think_Rip136",
+      "publishedAt": "2026-08-03T19:15:57+00:00",
+      "excerpt": "I already have an approved I-140. I am going to file I-485 very soon, keeping my wife as a derivative. However, I'm concerned about our addresses. We have been living in State A together for the last 2 years. I have defended my Ph.D. recently, and will be joining my workplace in mid-September, which is in State B . My …",
+      "topics": [
+        "approval",
+        "i485",
         "i140",
         "question"
       ],
@@ -147,6 +186,41 @@
       }
     },
     {
+      "id": "t3_1vepg6x",
+      "title": "EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vepg6x/eb2_niw/",
+      "author": "/u/Constant-Society-552",
+      "publishedAt": "2026-08-03T20:46:11+00:00",
+      "excerpt": "I work in the data management space and have 6 years of experience. Looking to build my profile in governance and ai governance domain. No publications yet but planning to. Any suggestions and recommendations from similar folks in the area.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1veos2j",
+      "title": "Changing Mailing address",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veos2j/changing_mailing_address/",
+      "author": "/u/InfiniteDirection281",
+      "publishedAt": "2026-08-03T20:21:12+00:00",
+      "excerpt": "Hello all, My spouse and I have pending I-485 application. We live in neighbouring states because of enrolment in different PhD program at different universities. I recently moved within the same state, so we both need to update our mailing address as we used my mailing address for both of our cases. How can my spouse …",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vei6g0",
       "title": "Indicação de Advogado",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vei6g0/indicação_de_advogado/",
@@ -164,16 +238,13 @@
       }
     },
     {
-      "id": "t3_1ven0dw",
-      "title": "Address Issue on I-485 (EB2-NIW ROW)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ven0dw/address_issue_on_i485_eb2niw_row/",
-      "author": "/u/Think_Rip136",
-      "publishedAt": "2026-08-03T19:15:57+00:00",
-      "excerpt": "I already have an approved I-140. I am going to file I-485 very soon, keeping my wife as a derivative. However, I'm concerned about our addresses. We have been living in State A together for the last 2 years. I have defended my Ph.D. recently, and will be joining my workplace in mid-September, which is in State B . My …",
+      "id": "t3_1veoeny",
+      "title": "GC Has Been Stuck in Kansas City for 11 Days. Is There Still a Chance I’ll Receive It?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veoeny/gc_has_been_stuck_in_kansas_city_for_11_days_is/",
+      "author": "/u/RareEarth37",
+      "publishedAt": "2026-08-03T20:07:26+00:00",
+      "excerpt": "My GC arrived at the Kansas City, MO Distribution Center on July 23 and was originally scheduled for delivery on July 27 . However, there has been no tracking update since then. I have already submitted a USPS service request and a Missing Mail Search . More than 3 business days have passed, but I still have not receiv…",
       "topics": [
-        "approval",
-        "i485",
-        "i140",
         "question"
       ],
       "signals": {
@@ -386,85 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1ve0bt4",
-      "title": "Eb2 niw self petition",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve0bt4/eb2_niw_self_petition/",
-      "author": "/u/Forward_Jellyfish805",
-      "publishedAt": "2026-08-03T02:03:42+00:00",
-      "excerpt": "How did you file for eb2 niw if you did it yourself? Did you have examples or samples? Did anyone used ai to prepare the i-140 for eb2 niw package, if so, how helpful and how accurate was ai to you? I am hesitant to use ai to help completing the petition, any thoughts",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vd7a8w",
-      "title": "Got my Green card today!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vd7a8w/got_my_green_card_today/",
-      "author": "/u/Low-Definition3851",
-      "publishedAt": "2026-08-02T03:39:31+00:00",
-      "excerpt": "I finally got my Green card! Relieved beyond words! I wanted to share my timeline to give hope to anyone thinking of applying. I was very worried about long wait times (Have friends that waited around 3 years), but I know it’s different for everyone. I actually started putting together my case back in 2023, but I did n…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdzq80",
-      "title": "How many pages should be the dossier or paperwork?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdzq80/how_many_pages_should_be_the_dossier_or_paperwork/",
-      "author": "/u/redditor3900",
-      "publishedAt": "2026-08-03T01:35:02+00:00",
-      "excerpt": "Hello all For those who already submitted the I140, may I ask how many pages was the paperwork you submitted? I am trying to figure out how many pages the Proposed Endeavor should be (approx). Thanks in advance",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdzjmf",
-      "title": "Advise regarding EB-2 submission for research in AI in education and concurrent submission",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdzjmf/advise_regarding_eb2_submission_for_research_in/",
-      "author": "/u/Adorable-Smile6223",
-      "publishedAt": "2026-08-03T01:26:06+00:00",
-      "excerpt": "Hi everyone, I am a PhD student with 2 publications, 13 citations, completed 20+ reviews, I have a fellowship and a senior member professional membership, received a couple of grants for my research projects of which I am the senior personnel while my faculty advisor is the PI. My research areas are in AI in education,…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-03T19:18:19.667Z",
+  "syncedAt": "2026-08-03T20:54:34.792Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
