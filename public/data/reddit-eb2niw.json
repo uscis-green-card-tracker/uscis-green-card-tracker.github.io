@@ -170,6 +170,25 @@
       }
     },
     {
+      "id": "t3_1vesjkq",
+      "title": "Looking for NIW-EB2 Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vesjkq/looking_for_niweb2_advice/",
+      "author": "/u/Jumpy_Type_6532",
+      "publishedAt": "2026-08-03T22:46:44+00:00",
+      "excerpt": "Hi everyone, I'm currently a Ph.D. student in Chemistry at the University of Southern California (USC) and would appreciate some advice regarding the right time to file an EB-2 NIW petition. My background: Ph.D. student in Chemistry at USC M.S. from one of the top universities in Turkey B.S. with a 3.94/4.00 GPA 2 publ…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vdz3tq",
       "title": "Got My I485 Approved Today",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdz3tq/got_my_i485_approved_today/",
@@ -251,25 +270,6 @@
       "topics": [
         "approval",
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1veq5y3",
-      "title": "Filling two EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veq5y3/filling_two_eb2_niw/",
-      "author": "/u/Stunning_Block1317",
-      "publishedAt": "2026-08-03T21:12:47+00:00",
-      "excerpt": "did anyone here ever try filling two eb2 application like one from the lawyer and for your own maybe because you realize you missed something on the initial application?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -462,7 +462,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-03T21:58:08.750Z",
+  "syncedAt": "2026-08-03T22:57:50.429Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
