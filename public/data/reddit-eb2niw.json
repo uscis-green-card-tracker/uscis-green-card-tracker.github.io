@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1vedmoz",
-      "title": "Patterns recent EB2-NIW premium cases seem to be following - direct approvals at ~38-43 business days, RFEs on the same clock, post-RFE denials faster",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vedmoz/patterns_recent_eb2niw_premium_cases_seem_to_be/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-08-03T13:35:25+00:00",
-      "excerpt": "https://preview.redd.it/jy8s2m2yv5hh1.png?width=760&format=png&auto=webp&s=bd1a1dfe7d17bad72da6bbbafd2475785ec50f02 Hey everyone, Just sharing some patterns that recent cases seem to be following, from the USCIS responses I'm tracking on NIWStats. First: around business day 40, cases move one way or the other. Direct a…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vefsp8",
       "title": "I-140 Approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vefsp8/i140_approved/",
@@ -64,6 +45,25 @@
         "approval",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vedmoz",
+      "title": "Patterns recent EB2-NIW premium cases seem to be following - direct approvals at ~38-43 business days, RFEs on the same clock, post-RFE denials faster",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vedmoz/patterns_recent_eb2niw_premium_cases_seem_to_be/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-08-03T13:35:25+00:00",
+      "excerpt": "https://preview.redd.it/jy8s2m2yv5hh1.png?width=760&format=png&auto=webp&s=bd1a1dfe7d17bad72da6bbbafd2475785ec50f02 Hey everyone, Just sharing some patterns that recent cases seem to be following, from the USCIS responses I'm tracking on NIWStats. First: around business day 40, cases move one way or the other. Direct a…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -110,6 +110,98 @@
       }
     },
     {
+      "id": "t3_1vejwrj",
+      "title": "RFE deadline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vejwrj/rfe_deadline/",
+      "author": "/u/Ok-Bluejay-937",
+      "publishedAt": "2026-08-03T17:24:40+00:00",
+      "excerpt": "RFE deadline last Wednesday, FedEx shows delivered on Monday, but the portal hasn’t updated. Do you all encounter it’s a problem?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1veeeup",
+      "title": "Wasted money on attorney",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veeeup/wasted_money_on_attorney/",
+      "author": "/u/Ok_Anxiety_9205",
+      "publishedAt": "2026-08-03T14:05:30+00:00",
+      "excerpt": "Attorney for RFE recommends no additional evidence, no more LOR, when the RFE specifically states what it’s missing for but attorney says ‘it won’t make a difference’…. Anyone else experience this? I believe the attorney is just swamped and doesn’t want any more work",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vejtfj",
+      "title": "NIW Automotive Software",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vejtfj/niw_automotive_software/",
+      "author": "/u/thunder24mh",
+      "publishedAt": "2026-08-03T17:21:18+00:00",
+      "excerpt": "Thinking about going the EB2-NIW route but from four contacted law firms so far I’ve received mixed signals: - Manifest: No - EP: Yes - Chen: No - Colombo&Hurd: Yes Background of ~10y in automotive software M.Sc. EE Two patents accepted, some more pending One paper w/ minimal citations One conference talk Any thoughts …",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vejsah",
+      "title": "Filing I-485 While I-140 Is Pending? Looking for Second Opinions",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vejsah/filing_i485_while_i140_is_pending_looking_for/",
+      "author": "/u/Appropriate-Piano628",
+      "publishedAt": "2026-08-03T17:20:11+00:00",
+      "excerpt": "I already filed my I-140, but I’m wondering whether people generally recommend filing the I-485 while the I-140 is still pending. I’ve seen some people file them concurrently, and I heard the I-485 simply remains pending until USCIS makes a decision on the I-140. Would it make sense to take the risk and file now?",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vei6g0",
+      "title": "Indicação de Advogado",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vei6g0/indicação_de_advogado/",
+      "author": "/u/Remarkable-Story761",
+      "publishedAt": "2026-08-03T16:23:07+00:00",
+      "excerpt": "Pessoal, boa tarde! Vocês conhecem algum advogado que já tenha representado um aplicante do ramo de Telecom? ou... Alguém aqui já fez aplicação para o ramo de telecomunicações? + de 16 anos de experiencia. Agradeço, desde já!",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vea3v6",
       "title": "Lawyer recommendation for EB-2 NIW scientist",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vea3v6/lawyer_recommendation_for_eb2_niw_scientist/",
@@ -129,12 +221,31 @@
       }
     },
     {
-      "id": "t3_1veeeup",
-      "title": "Wasted money on attorney",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veeeup/wasted_money_on_attorney/",
-      "author": "/u/Ok_Anxiety_9205",
-      "publishedAt": "2026-08-03T14:05:30+00:00",
-      "excerpt": "Attorney for RFE recommends no additional evidence, no more LOR, when the RFE specifically states what it’s missing for but attorney says ‘it won’t make a difference’…. Anyone else experience this? I believe the attorney is just swamped and doesn’t want any more work",
+      "id": "t3_1ve1sjx",
+      "title": "Citation count dropped from 300 to 25 right before filing NIW Premium Processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve1sjx/citation_count_dropped_from_300_to_25_right/",
+      "author": "/u/Prior_Brilliant_9962",
+      "publishedAt": "2026-08-03T03:14:23+00:00",
+      "excerpt": "Hey everyone, I am in a really stressful situation and hoping someone here has experienced something similar or can offer some advice. I filed my EB-2 NIW I-140 recently, and I was just about to upgrade my petition to Premium Processing (PP) . However, I went to update/verify my Google Scholar profile before sending in…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1ve0gt6",
+      "title": "NIW RFE - Looking for Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve0gt6/niw_rfe_looking_for_advice/",
+      "author": "/u/Ciipphers",
+      "publishedAt": "2026-08-03T02:09:59+00:00",
+      "excerpt": "Hi everyone, I recently received an RFE for my EB-2 NIW. The officer accepted that I qualify for the EB-2 advanced degree requirement and that my proposed endeavor has substantial merit, but questioned all three Dhanasar prongs. My lawyer is Ellis Porter. For context, I am a mechanical engineer with 5+ years of experie…",
       "topics": [
         "i140",
         "lawyer",
@@ -183,25 +294,6 @@
       }
     },
     {
-      "id": "t3_1ve0gt6",
-      "title": "NIW RFE - Looking for Advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve0gt6/niw_rfe_looking_for_advice/",
-      "author": "/u/Ciipphers",
-      "publishedAt": "2026-08-03T02:09:59+00:00",
-      "excerpt": "Hi everyone, I recently received an RFE for my EB-2 NIW. The officer accepted that I qualify for the EB-2 advanced degree requirement and that my proposed endeavor has substantial merit, but questioned all three Dhanasar prongs. My lawyer is Ellis Porter. For context, I am a mechanical engineer with 5+ years of experie…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1ve4dm8",
       "title": "Need Advice on Finding an Expert for an EB-2",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve4dm8/need_advice_on_finding_an_expert_for_an_eb2/",
@@ -210,25 +302,6 @@
       "excerpt": "Hi everyone, I hope you’re doing well. I have a question regarding EB-2 NIW expert opinion letters . How do people usually find independent experts willing to provide these letters? I’ve contacted a few professors and industry experts, but unfortunately I haven’t received any responses. Also, does the expert have to be…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ve1sjx",
-      "title": "Citation count dropped from 300 to 25 right before filing NIW Premium Processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve1sjx/citation_count_dropped_from_300_to_25_right/",
-      "author": "/u/Prior_Brilliant_9962",
-      "publishedAt": "2026-08-03T03:14:23+00:00",
-      "excerpt": "Hey everyone, I am in a really stressful situation and hoping someone here has experienced something similar or can offer some advice. I filed my EB-2 NIW I-140 recently, and I was just about to upgrade my petition to Premium Processing (PP) . However, I went to update/verify my Google Scholar profile before sending in…",
-      "topics": [
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -267,26 +340,6 @@
       "topics": [
         "i140",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdz5jz",
-      "title": "FTA0 (I-485) Timeline Hub – Please Share Your Experience",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdz5jz/fta0_i485_timeline_hub_please_share_your/",
-      "author": "/u/Prior-Strawberry-465",
-      "publishedAt": "2026-08-03T01:07:41+00:00",
-      "excerpt": "I'd like this thread to become a hub for anyone trying to understand the USCIS FTA0 internal code. From what many of us have observed: The initial code is usually IAF after the case is received. After biometrics, many applicants see two FTA0 entries in their case history. Beyond that, there isn't much reliable informat…",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -392,67 +445,15 @@
       }
     },
     {
-      "id": "t3_1vdxmzh",
-      "title": "Submitting I-485 Without AP and EAD",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdxmzh/submitting_i485_without_ap_and_ead/",
-      "author": "/u/One-Switch4511",
-      "publishedAt": "2026-08-02T23:59:37+00:00",
-      "excerpt": "Will it affect my I-485 application if I choose not to apply for EAD and AP? just want to submit 485. Thanks in advance.",
+      "id": "t3_1vdz5jz",
+      "title": "FTA0 (I-485) Timeline Hub – Please Share Your Experience",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdz5jz/fta0_i485_timeline_hub_please_share_your/",
+      "author": "/u/Prior-Strawberry-465",
+      "publishedAt": "2026-08-03T01:07:41+00:00",
+      "excerpt": "I'd like this thread to become a hub for anyone trying to understand the USCIS FTA0 internal code. From what many of us have observed: The initial code is usually IAF after the case is received. After biometrics, many applicants see two FTA0 entries in their case history. Beyond that, there isn't much reliable informat…",
       "topics": [
+        "approval",
         "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdxllu",
-      "title": "Is anyone here building their EB2 NIW profile through research papers?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdxllu/is_anyone_here_building_their_eb2_niw_profile/",
-      "author": "/u/aura_2100",
-      "publishedAt": "2026-08-02T23:57:45+00:00",
-      "excerpt": "Hey folks, I'm currently working on building my EB2 NIW profile and am planning to publish research papers as part of it. If you're on the same journey, I'd love to connect, learn from your experience, and discuss the publication process. Thanks!",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdrmru",
-      "title": "Need advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdrmru/need_advice/",
-      "author": "/u/NeuroticENTJ",
-      "publishedAt": "2026-08-02T19:48:53+00:00",
-      "excerpt": "so I am working in the USA currently on a work visa. been here for 4 years. I work in big pharma. I have a (Canadian) B.Eng, M.Eng and P.Eng (Canadian). I do have a publication too (NIH) and it’s adjacent to my field. I could possibly write to qualify as a P.Eng in my state too if required. I can also start mentoring s…",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdpuf7",
-      "title": "Premium Processing Refund Check Timeline & Case Processing Question",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdpuf7/premium_processing_refund_check_timeline_case/",
-      "author": "/u/Swot_11681",
-      "publishedAt": "2026-08-02T18:39:39+00:00",
-      "excerpt": "https://preview.redd.it/2oxsf2dca0hh1.png?width=1014&format=png&auto=webp&s=fa7c4c750107b3a09a88bc4712eb1feb9b9896ca Has anyone here received their premium processing refund check in the mail? If so, how long did it take to arrive after your USCIS online case status was updated or after the refund notice appeared? Also…",
-      "topics": [
-        "i140",
         "timeline",
         "question"
       ],
@@ -464,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-03T15:37:13.735Z",
+  "syncedAt": "2026-08-03T17:46:34.543Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
