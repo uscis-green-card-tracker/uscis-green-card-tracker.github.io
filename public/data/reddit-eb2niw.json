@@ -108,6 +108,24 @@
       }
     },
     {
+      "id": "t3_1ve4dm8",
+      "title": "Need Advice on Finding an Expert for an EB-2",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve4dm8/need_advice_on_finding_an_expert_for_an_eb2/",
+      "author": "/u/Either-Wave3621",
+      "publishedAt": "2026-08-03T05:28:56+00:00",
+      "excerpt": "Hi everyone, I hope you’re doing well. I have a question regarding EB-2 NIW expert opinion letters . How do people usually find independent experts willing to provide these letters? I’ve contacted a few professors and industry experts, but unfortunately I haven’t received any responses. Also, does the expert have to be…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ve1sjx",
       "title": "Citation count dropped from 300 to 25 right before filing NIW Premium Processing",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve1sjx/citation_count_dropped_from_300_to_25_right/",
@@ -155,24 +173,6 @@
       "topics": [
         "i140",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ve4dm8",
-      "title": "Need Advice on Finding an Expert for an EB-2",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve4dm8/need_advice_on_finding_an_expert_for_an_eb2/",
-      "author": "/u/Either-Wave3621",
-      "publishedAt": "2026-08-03T05:28:56+00:00",
-      "excerpt": "Hi everyone, I hope you’re doing well. I have a question regarding EB-2 NIW expert opinion letters . How do people usually find independent experts willing to provide these letters? I’ve contacted a few professors and industry experts, but unfortunately I haven’t received any responses. Also, does the expert have to be…",
-      "topics": [
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -370,25 +370,6 @@
       }
     },
     {
-      "id": "t3_1vdpb01",
-      "title": "I-485 Approval without Advisory Opinion After J-1 Extension",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdpb01/i485_approval_without_advisory_opinion_after_j1/",
-      "author": "/u/Nomi_1189",
-      "publishedAt": "2026-08-02T18:18:37+00:00",
-      "excerpt": "Has anyone received I-485 approval without an Advisory Opinion in a similar J-1 situation? My J-1 visa and original DS-2019 both state “Not Subject” to the two-year home-residency requirement under INA §212(e). My program was later extended under the same sponsor, program number, and J-1 category, but the §212(e) secti…",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vdre8k",
       "title": "Anyone Have an RFE Experience with Nebraska Officer EX0105?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdre8k/anyone_have_an_rfe_experience_with_nebraska/",
@@ -415,6 +396,25 @@
       "excerpt": "Hello everyone, I'm a Machine Learning Engineer seeking to connect with experts working at the intersection of artificial intelligence and mental healthcare. As part of my EB-2 National Interest Waiver (NIW) petition, my proposed endeavor focuses on advancing AI-driven capabilities that could contribute to improving me…",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vdpb01",
+      "title": "I-485 Approval without Advisory Opinion After J-1 Extension",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdpb01/i485_approval_without_advisory_opinion_after_j1/",
+      "author": "/u/Nomi_1189",
+      "publishedAt": "2026-08-02T18:18:37+00:00",
+      "excerpt": "Has anyone received I-485 approval without an Advisory Opinion in a similar J-1 situation? My J-1 visa and original DS-2019 both state “Not Subject” to the two-year home-residency requirement under INA §212(e). My program was later extended under the same sponsor, program number, and J-1 category, but the §212(e) secti…",
+      "topics": [
+        "approval",
+        "i485",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-03T05:32:16.336Z",
+  "syncedAt": "2026-08-03T09:20:57.183Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
