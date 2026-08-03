@@ -35,6 +35,44 @@
       }
     },
     {
+      "id": "t3_1vedmoz",
+      "title": "Patterns recent EB2-NIW premium cases seem to be following - direct approvals at ~38-43 business days, RFEs on the same clock, post-RFE denials faster",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vedmoz/patterns_recent_eb2niw_premium_cases_seem_to_be/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-08-03T13:35:25+00:00",
+      "excerpt": "https://preview.redd.it/jy8s2m2yv5hh1.png?width=760&format=png&auto=webp&s=bd1a1dfe7d17bad72da6bbbafd2475785ec50f02 Hey everyone, Just sharing some patterns that recent cases seem to be following, from the USCIS responses I'm tracking on NIWStats. First: around business day 40, cases move one way or the other. Direct a…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vefsp8",
+      "title": "I-140 Approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vefsp8/i140_approved/",
+      "author": "/u/Opening_Fan7090",
+      "publishedAt": "2026-08-03T14:57:32+00:00",
+      "excerpt": "Hi everyone! I received my I-140 approval notice yesterday for an EB-2 NIW and wanted to share my timeline. Timeline Service Center: Nebraska Service Center Priority Date (Filing Date): March 18, 2026 Premium Processing Upgrade: June 3, 2026 Processing Type: Premium Processing Approval Date: August 1, 2026 RFE: None Pr…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vdz3tq",
       "title": "Got My I485 Approved Today",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdz3tq/got_my_i485_approved_today/",
@@ -54,12 +92,49 @@
       }
     },
     {
+      "id": "t3_1vecqyl",
+      "title": "Refund",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vecqyl/refund/",
+      "author": "/u/myusername_istaken",
+      "publishedAt": "2026-08-03T12:59:59+00:00",
+      "excerpt": "Did anyone notice there are massive refunds for PP on TrackmyI140 recently? What's going on!!!",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vea3v6",
       "title": "Lawyer recommendation for EB-2 NIW scientist",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vea3v6/lawyer_recommendation_for_eb2_niw_scientist/",
       "author": "/u/Cliff23434312",
       "publishedAt": "2026-08-03T10:54:01+00:00",
       "excerpt": "Can anyone recommend an immigration lawyer experienced with EB-2 NIW cases for scientists working in industry who do not have publications or citations? Looking for someone who provides a careful, individualized assessment.",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1veeeup",
+      "title": "Wasted money on attorney",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veeeup/wasted_money_on_attorney/",
+      "author": "/u/Ok_Anxiety_9205",
+      "publishedAt": "2026-08-03T14:05:30+00:00",
+      "excerpt": "Attorney for RFE recommends no additional evidence, no more LOR, when the RFE specifically states what it’s missing for but attorney says ‘it won’t make a difference’…. Anyone else experience this? I believe the attorney is just swamped and doesn’t want any more work",
       "topics": [
         "i140",
         "lawyer",
@@ -145,15 +220,15 @@
       }
     },
     {
-      "id": "t3_1vdyjyh",
-      "title": "EB-2 NIW refile, 2nd RFE hitting nearly the same core objection as the original denial, looking for outside perspective",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdyjyh/eb2_niw_refile_2nd_rfe_hitting_nearly_the_same/",
-      "author": "/u/Less-Possibility2989",
-      "publishedAt": "2026-08-03T00:39:51+00:00",
-      "excerpt": "Long post, trying to give enough context for useful advice. **Background** - H-1B, 2nd year. Work as a business analyst (senior individual contributor level) at a large US tech company, a bit over 2 years there. - Master's degree in analytics related field from a US university, completed a couple years ago. - Self peti…",
+      "id": "t3_1ve1sjx",
+      "title": "Citation count dropped from 300 to 25 right before filing NIW Premium Processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve1sjx/citation_count_dropped_from_300_to_25_right/",
+      "author": "/u/Prior_Brilliant_9962",
+      "publishedAt": "2026-08-03T03:14:23+00:00",
+      "excerpt": "Hey everyone, I am in a really stressful situation and hoping someone here has experienced something similar or can offer some advice. I filed my EB-2 NIW I-140 recently, and I was just about to upgrade my petition to Premium Processing (PP) . However, I went to update/verify my Google Scholar profile before sending in…",
       "topics": [
         "i140",
-        "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -164,15 +239,15 @@
       }
     },
     {
-      "id": "t3_1ve1sjx",
-      "title": "Citation count dropped from 300 to 25 right before filing NIW Premium Processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ve1sjx/citation_count_dropped_from_300_to_25_right/",
-      "author": "/u/Prior_Brilliant_9962",
-      "publishedAt": "2026-08-03T03:14:23+00:00",
-      "excerpt": "Hey everyone, I am in a really stressful situation and hoping someone here has experienced something similar or can offer some advice. I filed my EB-2 NIW I-140 recently, and I was just about to upgrade my petition to Premium Processing (PP) . However, I went to update/verify my Google Scholar profile before sending in…",
+      "id": "t3_1vdyjyh",
+      "title": "EB-2 NIW refile, 2nd RFE hitting nearly the same core objection as the original denial, looking for outside perspective",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdyjyh/eb2_niw_refile_2nd_rfe_hitting_nearly_the_same/",
+      "author": "/u/Less-Possibility2989",
+      "publishedAt": "2026-08-03T00:39:51+00:00",
+      "excerpt": "Long post, trying to give enough context for useful advice. **Background** - H-1B, 2nd year. Work as a business analyst (senior individual contributor level) at a large US tech company, a bit over 2 years there. - Master's degree in analytics related field from a US university, completed a couple years ago. - Self peti…",
       "topics": [
         "i140",
-        "timeline",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -387,80 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vdre8k",
-      "title": "Anyone Have an RFE Experience with Nebraska Officer EX0105?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdre8k/anyone_have_an_rfe_experience_with_nebraska/",
-      "author": "/u/AncientPrior5314",
-      "publishedAt": "2026-08-02T19:39:33+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdpb01",
-      "title": "I-485 Approval without Advisory Opinion After J-1 Extension",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdpb01/i485_approval_without_advisory_opinion_after_j1/",
-      "author": "/u/Nomi_1189",
-      "publishedAt": "2026-08-02T18:18:37+00:00",
-      "excerpt": "Has anyone received I-485 approval without an Advisory Opinion in a similar J-1 situation? My J-1 visa and original DS-2019 both state “Not Subject” to the two-year home-residency requirement under INA §212(e). My program was later extended under the same sponsor, program number, and J-1 category, but the §212(e) secti…",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdtfja",
-      "title": "NIW RFE hit on all 3 prongs (Dhanasar) — looking for community input on strengthening my response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdtfja/niw_rfe_hit_on_all_3_prongs_dhanasar_looking_for/",
-      "author": "/u/CandidBlueberry6262",
-      "publishedAt": "2026-08-02T21:00:09+00:00",
-      "excerpt": "Hi everyone, Would appreciate your suggestions on how to respond to the following RFE. My endeavor is machine learning methods for scarce/limited labeled data. RFE findings: Prong 1 — Substantial Merit: Satisfied Prong 1 — National Importance: Not satisfied Techniques/methodologies deemed not sufficiently innovative or…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vdps44",
-      "title": "Seeking AI & Mental Health Experts to Independently Evaluate an NIW Proposed Endeavor",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdps44/seeking_ai_mental_health_experts_to_independently/",
-      "author": "/u/Current-Tower-4210",
-      "publishedAt": "2026-08-02T18:37:11+00:00",
-      "excerpt": "Hello everyone, I'm a Machine Learning Engineer seeking to connect with experts working at the intersection of artificial intelligence and mental healthcare. As part of my EB-2 National Interest Waiver (NIW) petition, my proposed endeavor focuses on advancing AI-driven capabilities that could contribute to improving me…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-03T12:49:20.646Z",
+  "syncedAt": "2026-08-03T15:37:13.735Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
