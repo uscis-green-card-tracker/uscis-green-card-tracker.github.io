@@ -56,6 +56,24 @@
       }
     },
     {
+      "id": "t3_1vet7ck",
+      "title": "Approved today !! 75 countries",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vet7ck/approved_today_75_countries/",
+      "author": "/u/Alarming-Camera-188",
+      "publishedAt": "2026-08-03T23:14:04+00:00",
+      "excerpt": "Approved today !! Currently, I am on an H-1 B visa. After receiving the card, what documents need to be updated? I am assuming a driver's license and SSN. What else?",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vefsp8",
       "title": "I-140 Approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vefsp8/i140_approved/",
@@ -72,24 +90,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vet7ck",
-      "title": "Approved today !! 75 countries",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vet7ck/approved_today_75_countries/",
-      "author": "/u/Alarming-Camera-188",
-      "publishedAt": "2026-08-03T23:14:04+00:00",
-      "excerpt": "Approved today !! Currently, I am on an H-1 B visa. After receiving the card, what documents need to be updated? I am assuming a driver's license and SSN. What else?",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -122,6 +122,42 @@
         "approval",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vf07k0",
+      "title": "I-140 and I-485 online concurrent filing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vf07k0/i140_and_i485_online_concurrent_filing/",
+      "author": "/u/ToeMountain65",
+      "publishedAt": "2026-08-04T04:33:47+00:00",
+      "excerpt": "Has anyone been able to file I-140 and I-485 online concurrently?",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vf05ud",
+      "title": "Eb2 niw rfe",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vf05ud/eb2_niw_rfe/",
+      "author": "/u/Global-Wave3725",
+      "publishedAt": "2026-08-04T04:31:17+00:00",
+      "excerpt": "I applied as aircraft maintenance trainer for eb2 niw and received rfe on all 3 prongs. Whats the suggestion and is it necessary to provide publication citation article or contracts.",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -353,24 +389,6 @@
       }
     },
     {
-      "id": "t3_1vejwrj",
-      "title": "RFE deadline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vejwrj/rfe_deadline/",
-      "author": "/u/Ok-Bluejay-937",
-      "publishedAt": "2026-08-03T17:24:40+00:00",
-      "excerpt": "RFE deadline last Wednesday, FedEx shows delivered on Monday, but the portal hasn’t updated. Do you all encounter it’s a problem?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vdz3tq",
       "title": "Got My I485 Approved Today",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vdz3tq/got_my_i485_approved_today/",
@@ -381,6 +399,24 @@
         "approval",
         "i485",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vejwrj",
+      "title": "RFE deadline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vejwrj/rfe_deadline/",
+      "author": "/u/Ok-Bluejay-937",
+      "publishedAt": "2026-08-03T17:24:40+00:00",
+      "excerpt": "RFE deadline last Wednesday, FedEx shows delivered on Monday, but the portal hasn’t updated. Do you all encounter it’s a problem?",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -426,45 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1veqawc",
-      "title": "Eb2 niw for licensed geotechnical engineer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veqawc/eb2_niw_for_licensed_geotechnical_engineer/",
-      "author": "/u/Forward_Jellyfish805",
-      "publishedAt": "2026-08-03T21:17:57+00:00",
-      "excerpt": "I am a licensed geotechnical engineers focusing on mine ground failure prevention and critical minerals supply chain. I am a Professional Engineer with 11 years experience, 6 dependent recommendation letters and 3 independent with tons of reports, no citation, no publications. I have been studying this for 3 months now…",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1veq2lb",
-      "title": "How does your center get selected? Texas vs Nebraska",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veq2lb/how_does_your_center_get_selected_texas_vs/",
-      "author": "/u/Special-Debt8460",
-      "publishedAt": "2026-08-03T21:09:16+00:00",
-      "excerpt": "My receipt notice only mentions NBC and doesn’t say any information about the center. How do I know where will my application be sent?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-04T03:57:30.929Z",
+  "syncedAt": "2026-08-04T06:23:59.818Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
