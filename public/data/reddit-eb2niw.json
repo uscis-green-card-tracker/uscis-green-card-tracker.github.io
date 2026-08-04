@@ -56,6 +56,24 @@
       }
     },
     {
+      "id": "t3_1vf9cxd",
+      "title": "I485 online filling",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vf9cxd/i485_online_filling/",
+      "author": "/u/Imaginary-Trade-5375",
+      "publishedAt": "2026-08-04T12:46:35+00:00",
+      "excerpt": "I submitted the 485 petition online for me and my wife this Sunday but we haven’t received the receipt notice yet. Do you think because I put the extra pages of the page 24 in the additional evidence section? The system didn’t take the form with pages above 24. Do you think I should reach out to the USCIS to let them k…",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vet7ck",
       "title": "Approved today !! 75 countries",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vet7ck/approved_today_75_countries/",
@@ -444,27 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1veqi0j",
-      "title": "Normal Processing Times EB2",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veqi0j/normal_processing_times_eb2/",
-      "author": "/u/Murky-Bat1526",
-      "publishedAt": "2026-08-03T21:25:31+00:00",
-      "excerpt": "anyone who filed their eb2 niw petition while inside the USA under normal processing? how many months did u wait til u get ur feedback from uscis? thankyou so much.. I'm in NC, and filed only for I140.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-04T11:55:32.629Z",
+  "syncedAt": "2026-08-04T13:49:32.838Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
