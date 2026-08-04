@@ -93,15 +93,14 @@
       }
     },
     {
-      "id": "t3_1vesjkq",
-      "title": "Looking for NIW-EB2 Advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vesjkq/looking_for_niweb2_advice/",
-      "author": "/u/Jumpy_Type_6532",
-      "publishedAt": "2026-08-03T22:46:44+00:00",
-      "excerpt": "Hi everyone, I'm currently a Ph.D. student in Chemistry at the University of Southern California (USC) and would appreciate some advice regarding the right time to file an EB-2 NIW petition. My background: Ph.D. student in Chemistry at USC M.S. from one of the top universities in Turkey B.S. with a 3.94/4.00 GPA 2 publ…",
+      "id": "t3_1veylem",
+      "title": "Should I include publications published after filing in my NIW RFE response?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veylem/should_i_include_publications_published_after/",
+      "author": "/u/No_Barber1072",
+      "publishedAt": "2026-08-04T03:12:39+00:00",
+      "excerpt": "Do you think it would be beneficial to include my new publications directly related to the PE in the RFE response? I’m wondering whether the officer might disregard them on the grounds that they were published after the filing date and therefore did not exist at the time the petition was filed. Does anyone have any pos…",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -112,14 +111,15 @@
       }
     },
     {
-      "id": "t3_1veylem",
-      "title": "Should I include publications published after filing in my NIW RFE response?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veylem/should_i_include_publications_published_after/",
-      "author": "/u/No_Barber1072",
-      "publishedAt": "2026-08-04T03:12:39+00:00",
-      "excerpt": "Do you think it would be beneficial to include my new publications directly related to the PE in the RFE response? I’m wondering whether the officer might disregard them on the grounds that they were published after the filing date and therefore did not exist at the time the petition was filed. Does anyone have any pos…",
+      "id": "t3_1vesjkq",
+      "title": "Looking for NIW-EB2 Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vesjkq/looking_for_niweb2_advice/",
+      "author": "/u/Jumpy_Type_6532",
+      "publishedAt": "2026-08-03T22:46:44+00:00",
+      "excerpt": "Hi everyone, I'm currently a Ph.D. student in Chemistry at the University of Southern California (USC) and would appreciate some advice regarding the right time to file an EB-2 NIW petition. My background: Ph.D. student in Chemistry at USC M.S. from one of the top universities in Turkey B.S. with a 3.94/4.00 GPA 2 publ…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -176,24 +176,6 @@
       "excerpt": "I applied as aircraft maintenance trainer for eb2 niw and received rfe on all 3 prongs. Whats the suggestion and is it necessary to provide publication citation article or contracts.",
       "topics": [
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vev9i7",
-      "title": "Derivative 3xFTA0",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vev9i7/derivative_3xfta0/",
-      "author": "/u/Eastern-Explanation2",
-      "publishedAt": "2026-08-04T00:42:01+00:00",
-      "excerpt": "Hello everyone, I (derivative applicant) received the 3xFTA0 on my I-485 today. The primary applicant did not receive any. Our applications are at a non-local field office. Has anyone experienced this before?",
-      "topics": [
-        "i485",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -371,6 +353,24 @@
       }
     },
     {
+      "id": "t3_1vev9i7",
+      "title": "Derivative 3xFTA0",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vev9i7/derivative_3xfta0/",
+      "author": "/u/Eastern-Explanation2",
+      "publishedAt": "2026-08-04T00:42:01+00:00",
+      "excerpt": "Hello everyone, I (derivative applicant) received the 3xFTA0 on my I-485 today. The primary applicant did not receive any. Our applications are at a non-local field office. Has anyone experienced this before?",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vecqyl",
       "title": "Refund",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vecqyl/refund/",
@@ -464,7 +464,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-04T09:33:30.849Z",
+  "syncedAt": "2026-08-04T11:55:32.629Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
