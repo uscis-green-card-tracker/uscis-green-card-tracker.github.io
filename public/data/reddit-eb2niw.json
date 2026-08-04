@@ -112,6 +112,24 @@
       }
     },
     {
+      "id": "t3_1veylem",
+      "title": "Should I include publications published after filing in my NIW RFE response?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veylem/should_i_include_publications_published_after/",
+      "author": "/u/No_Barber1072",
+      "publishedAt": "2026-08-04T03:12:39+00:00",
+      "excerpt": "Do you think it would be beneficial to include my new publications directly related to the PE in the RFE response? I’m wondering whether the officer might disregard them on the grounds that they were published after the filing date and therefore did not exist at the time the petition was filed. Does anyone have any pos…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vedmoz",
       "title": "Patterns recent EB2-NIW premium cases seem to be following - direct approvals at ~38-43 business days, RFEs on the same clock, post-RFE denials faster",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vedmoz/patterns_recent_eb2niw_premium_cases_seem_to_be/",
@@ -227,24 +245,6 @@
       "author": "/u/DKRAO",
       "publishedAt": "2026-08-03T23:29:09+00:00",
       "excerpt": "Received an RFE on all 3 prongs. Biomed science profile. PhD (Neuro) in USA Working as a research scientist at a University (previous 4 year postdoc work) 8 publications, 3 first author 171 citations. Associate Editor of a Neuroscience Journal Reviewed 20+articles and judged posters at national conferences About to sub…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1veylem",
-      "title": "Should I include publications published after filing in my NIW RFE response?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1veylem/should_i_include_publications_published_after/",
-      "author": "/u/No_Barber1072",
-      "publishedAt": "2026-08-04T03:12:39+00:00",
-      "excerpt": "Do you think it would be beneficial to include my new publications directly related to the PE in the RFE response? I’m wondering whether the officer might disregard them on the grounds that they were published after the filing date and therefore did not exist at the time the petition was filed. Does anyone have any pos…",
       "topics": [
         "i140",
         "question"
@@ -464,7 +464,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-04T06:23:59.818Z",
+  "syncedAt": "2026-08-04T09:33:30.849Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
