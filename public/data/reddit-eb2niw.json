@@ -57,20 +57,19 @@
       }
     },
     {
-      "id": "t3_1vgfuhc",
-      "title": "NIW RFE response approved in 12 Business Days",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgfuhc/niw_rfe_response_approved_in_12_business_days/",
-      "author": "/u/CyberMagician40",
-      "publishedAt": "2026-08-05T18:35:19+00:00",
-      "excerpt": "PD: 20/11/2024 PP upgrade: February 2026 RFE received: 04/29/2026 RFE response submitted: 07/17/2026 Case approved: 08/05/2026 RFE response was approved in 12 business days with RFE on prong 1. Case status was updated from RFE received to I-140 processing on 08/04/2026. Case was approved the next day. My background is …",
+      "id": "t3_1vgiz5c",
+      "title": "NEW USCIS policy: USCIS to Reduce Frivolous Immigration Benefits Requests by Reinforcing Evidence Standards",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgiz5c/new_uscis_policy_uscis_to_reduce_frivolous/",
+      "author": "/u/Present-Bike8556",
+      "publishedAt": "2026-08-05T20:26:35+00:00",
+      "excerpt": "USCIS is basically saying: submit a complete and approvable case from the beginning because you may not get another chance to fix it. What does this mean for petitioners: the practical message is: Do not treat the initial filing as a placeholder or assume that USCIS will later ask for whatever is missing. The filing sh…",
       "topics": [
-        "approval",
         "i140"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
-        "priorityDate": "20/11/2024",
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -95,14 +94,34 @@
       }
     },
     {
-      "id": "t3_1vgiz5c",
-      "title": "NEW USCIS policy: USCIS to Reduce Frivolous Immigration Benefits Requests by Reinforcing Evidence Standards",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgiz5c/new_uscis_policy_uscis_to_reduce_frivolous/",
-      "author": "/u/Present-Bike8556",
-      "publishedAt": "2026-08-05T20:26:35+00:00",
-      "excerpt": "USCIS is basically saying: submit a complete and approvable case from the beginning because you may not get another chance to fix it. What does this mean for petitioners: the practical message is: Do not treat the initial filing as a placeholder or assume that USCIS will later ask for whatever is missing. The filing sh…",
+      "id": "t3_1vgfuhc",
+      "title": "NIW RFE response approved in 12 Business Days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgfuhc/niw_rfe_response_approved_in_12_business_days/",
+      "author": "/u/CyberMagician40",
+      "publishedAt": "2026-08-05T18:35:19+00:00",
+      "excerpt": "PD: 20/11/2024 PP upgrade: February 2026 RFE received: 04/29/2026 RFE response submitted: 07/17/2026 Case approved: 08/05/2026 RFE response was approved in 12 business days with RFE on prong 1. Case status was updated from RFE received to I-140 processing on 08/04/2026. Case was approved the next day. My background is …",
       "topics": [
+        "approval",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "20/11/2024",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vgj725",
+      "title": "EB-2 NIW chances of approval for an industry-based AI profile",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgj725/eb2_niw_chances_of_approval_for_an_industrybased/",
+      "author": "/u/ESTOFADO123",
+      "publishedAt": "2026-08-05T20:34:38+00:00",
+      "excerpt": "Hi all, I’m evaluating my profile for an EB-2 NIW and wanted to get your feedback, especially from folks in industry / Big Tech who applied without an academic background or publications. Profile: Education: MSc. in Software Engineering from an Austrian university. Current Role: Product Deployment Engineer at Google. L…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -122,25 +141,6 @@
         "approval",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vgj725",
-      "title": "EB-2 NIW chances of approval for an industry-based AI profile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgj725/eb2_niw_chances_of_approval_for_an_industrybased/",
-      "author": "/u/ESTOFADO123",
-      "publishedAt": "2026-08-05T20:34:38+00:00",
-      "excerpt": "Hi all, I’m evaluating my profile for an EB-2 NIW and wanted to get your feedback, especially from folks in industry / Big Tech who applied without an academic background or publications. Profile: Education: MSc. in Software Engineering from an Austrian university. Current Role: Product Deployment Engineer at Google. L…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -218,6 +218,44 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vgkkea",
+      "title": "Does August Visa Bulletin apply if USCIS receives my I-485 by Aug 31?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgkkea/does_august_visa_bulletin_apply_if_uscis_receives/",
+      "author": "/u/InevitableBorn6236",
+      "publishedAt": "2026-08-05T21:26:41+00:00",
+      "excerpt": "If USCIS receives my I-485 on or before Aug 31, does the August bulletin govern, or does the September bulletin override it once published? Is it the receipt date at the lockbox that counts, or the receipt notice date?",
+      "topics": [
+        "i485",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vgkfxn",
+      "title": "Can unrelated AI/ML employment hurt an NIW case?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgkfxn/can_unrelated_aiml_employment_hurt_an_niw_case/",
+      "author": "/u/TelephoneOk7043",
+      "publishedAt": "2026-08-05T21:21:56+00:00",
+      "excerpt": "My proposed endeavor is developing AI/ML tools for biomedical image analysis, particularly for applications in toxicologic pathology and oncology. Because directly aligned positions are limited, I may need to take a full-time general AI/ML role in another industry while continuing my proposed endeavor primarily through…",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -434,47 +472,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1vg4am7",
-      "title": "Looking for a careful EB-2 NIW lawyer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vg4am7/looking_for_a_careful_eb2_niw_lawyer/",
-      "author": "/u/Cliff23434312",
-      "publishedAt": "2026-08-05T11:07:36+00:00",
-      "excerpt": "I’m looking for recommendations for an immigration lawyer with strong experience handling EB-2 NIW petitions who takes the time to review each case individually. I have seen concerning reviews about some larger law firms using a high-volume or template-based approach. Chen Immigration and Ellis Porter declined my case,…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vfvrkc",
-      "title": "EB2 NIW - Law firm recommendation? (Computational Linguistics PhD)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfvrkc/eb2_niw_law_firm_recommendation_computational/",
-      "author": "/u/Infamous_Cricket_686",
-      "publishedAt": "2026-08-05T03:22:34+00:00",
-      "excerpt": "Hi all, I'm a final-year PhD candidate in Computational Linguistics, and I'm preparing to self-file an EB-2 National Interest Waiver (NIW) petition. I have two Master’s Degrees: English Linguistics and TESOL. My proposed endeavor is centered on \"Advancing Multilingual NLP Frameworks for Linguistic Equity\" — essentially…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-05T20:56:52.518Z",
+  "syncedAt": "2026-08-05T22:07:35.305Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
