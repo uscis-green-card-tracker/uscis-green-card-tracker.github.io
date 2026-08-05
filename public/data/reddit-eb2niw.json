@@ -35,6 +35,23 @@
       }
     },
     {
+      "id": "t3_1vgiz5c",
+      "title": "NEW USCIS policy: USCIS to Reduce Frivolous Immigration Benefits Requests by Reinforcing Evidence Standards",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgiz5c/new_uscis_policy_uscis_to_reduce_frivolous/",
+      "author": "/u/Present-Bike8556",
+      "publishedAt": "2026-08-05T20:26:35+00:00",
+      "excerpt": "USCIS is basically saying: submit a complete and approvable case from the beginning because you may not get another chance to fix it. What does this mean for petitioners: the practical message is: Do not treat the initial filing as a placeholder or assume that USCIS will later ask for whatever is missing. The filing sh…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vg8x8t",
       "title": "🎉 Both me & my wife's I-485s were approved! 🎉 RFE then interview then approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vg8x8t/both_me_my_wifes_i485s_were_approved_rfe_then/",
@@ -48,23 +65,6 @@
         "lawyer",
         "timeline",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vgiz5c",
-      "title": "NEW USCIS policy: USCIS to Reduce Frivolous Immigration Benefits Requests by Reinforcing Evidence Standards",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgiz5c/new_uscis_policy_uscis_to_reduce_frivolous/",
-      "author": "/u/Present-Bike8556",
-      "publishedAt": "2026-08-05T20:26:35+00:00",
-      "excerpt": "USCIS is basically saying: submit a complete and approvable case from the beginning because you may not get another chance to fix it. What does this mean for petitioners: the practical message is: Do not treat the initial filing as a placeholder or assume that USCIS will later ask for whatever is missing. The filing sh…",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -112,16 +112,17 @@
       }
     },
     {
-      "id": "t3_1vgj725",
-      "title": "EB-2 NIW chances of approval for an industry-based AI profile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgj725/eb2_niw_chances_of_approval_for_an_industrybased/",
-      "author": "/u/ESTOFADO123",
-      "publishedAt": "2026-08-05T20:34:38+00:00",
-      "excerpt": "Hi all, I’m evaluating my profile for an EB-2 NIW and wanted to get your feedback, especially from folks in industry / Big Tech who applied without an academic background or publications. Profile: Education: MSc. in Software Engineering from an Austrian university. Current Role: Product Deployment Engineer at Google. L…",
+      "id": "t3_1vgmt6p",
+      "title": "New USCIS policy memo on RFEs (8/5/26) - what actually changed, and why it's probably not as scary as it sounds",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgmt6p/new_uscis_policy_memo_on_rfes_8526_what_actually/",
+      "author": "/u/ManifestLaw_",
+      "publishedAt": "2026-08-05T22:55:56+00:00",
+      "excerpt": "There's been a lot of noise about the USCIS policy memo that came out on August 5, so I wanted to share a calmer read. I work with an immigration firm (Manifest Law), and this is roughly what our attorneys are telling clients: What the memo does: Officers now have discretion to deny a case for missing initial evidence …",
       "topics": [
         "approval",
+        "i485",
         "i140",
-        "question"
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -141,6 +142,25 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vgj725",
+      "title": "EB-2 NIW chances of approval for an industry-based AI profile",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgj725/eb2_niw_chances_of_approval_for_an_industrybased/",
+      "author": "/u/ESTOFADO123",
+      "publishedAt": "2026-08-05T20:34:38+00:00",
+      "excerpt": "Hi all, I’m evaluating my profile for an EB-2 NIW and wanted to get your feedback, especially from folks in industry / Big Tech who applied without an academic background or publications. Profile: Education: MSc. in Software Engineering from an Austrian university. Current Role: Product Deployment Engineer at Google. L…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -189,6 +209,46 @@
       }
     },
     {
+      "id": "t3_1vgny09",
+      "title": "I-485 approval!!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgny09/i485_approval/",
+      "author": "/u/Eastern-Explanation2",
+      "publishedAt": "2026-08-05T23:43:56+00:00",
+      "excerpt": "Finally, super, duper thrilled to share that our I-485 applications got approved today! Here is the full timeline: PD: June 2024 I-140 Approval: March 2026, via PP in Jan 2026 I-485 RD: April 6, 2026 Biometrics: April 20 (Primary), May 27 (Derivative) FO: Hartford, CT (non-local) FO transfer date: June 9, 2026 3xFTA0: …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vgn707",
+      "title": "SAVE YOURSELF - DENIED",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgn707/save_yourself_denied/",
+      "author": "/u/Formal_Ad_4418",
+      "publishedAt": "2026-08-05T23:11:57+00:00",
+      "excerpt": "Hello world, Alright I am going to be quick. Just got the news I got denied. 🫣 THE TIMELINE PD: beginning of February, 2026 RFE: March 31st, I think on all three prongs? - national importance and positioning for the endeavor were challenged RFE response received: June 9th, 2026 Final decision: denied on Aug 5th (41st …",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vfwiju",
       "title": "[TIMELINE] EB2-NIW APPROVED AND GC IN HAND!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfwiju/timeline_eb2niw_approved_and_gc_in_hand/",
@@ -218,6 +278,27 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vgmcba",
+      "title": "EB2 NIW March 2026 Filer with Dependent",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgmcba/eb2_niw_march_2026_filer_with_dependent/",
+      "author": "/u/TheGentlemen98",
+      "publishedAt": "2026-08-05T22:36:26+00:00",
+      "excerpt": "Hi everyone, I am a March 2026 EB2 NIW filer with a dependent. My priority date is August 20 . My I-140 was approved after RFE response on February 15, 2026 . I filed I-485 and I-765 (EAD) on March 20, 2026 . Including for my F2 April 15, 2026: Biometrics completed Received 2 SU on the same day after biometrics May 20,…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -274,6 +355,25 @@
       "excerpt": "I already have a packet prepared but kinda nervous to submit it. I met at least 5 criteria but waiting on my AI Bot copyright application So I just wanted to hear about everyone's experience",
       "topics": [
         "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vgcpcn",
+      "title": "Has anyone with an EB2 NIW I-140 (Premium Processing) whose receipt date was in the first week of July received a decision from USCIS yet?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgcpcn/has_anyone_with_an_eb2_niw_i140_premium/",
+      "author": "/u/PsychologicalPace836",
+      "publishedAt": "2026-08-05T16:44:03+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -377,104 +477,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vgek5g",
-      "title": "Is it permissible for Amazon, Meta, Google, LinkedIn ... employees to provide recommendation letters in company's letterhead?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgek5g/is_it_permissible_for_amazon_meta_google_linkedin/",
-      "author": "/u/Sad_Wash818",
-      "publishedAt": "2026-08-05T17:49:34+00:00",
-      "excerpt": "I’m curious to know if letterheads are provided or permitted for recommendation letters from individuals employed at top companies for EB2 NIW applications. If letterheads are provided, is there a company policy that prohibits their use? Or is there a company policy that specifically prohibits their use for such a reco…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vgcpcn",
-      "title": "Has anyone with an EB2 NIW I-140 (Premium Processing) whose receipt date was in the first week of July received a decision from USCIS yet?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgcpcn/has_anyone_with_an_eb2_niw_i140_premium/",
-      "author": "/u/PsychologicalPace836",
-      "publishedAt": "2026-08-05T16:44:03+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vg4x4r",
-      "title": "Refund or refile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vg4x4r/refund_or_refile/",
-      "author": "/u/Responsible-Pack-658",
-      "publishedAt": "2026-08-05T11:39:09+00:00",
-      "excerpt": "Please, I need a law firm that offers refund or refile in EB-2 petition. Can anyone help?",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vfv9wx",
-      "title": "Has anyone had trouble receiving their Green Card from USPS after I-485 approval? What did you do as an F-1 student?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfv9wx/has_anyone_had_trouble_receiving_their_green_card/",
-      "author": "/u/RareEarth37",
-      "publishedAt": "2026-08-05T02:59:16+00:00",
-      "excerpt": "USCIS mailed my Green Card about two weeks ago, but the USPS tracking has been stuck at the same location with no new scans or estimated delivery date. I submitted a service request and Missing Mail Search, but there have been no updates so far. I do not know whether or when I will receive the card. In the meantime, I …",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vfxy6w",
-      "title": "RFE :/",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfxy6w/rfe/",
-      "author": "/u/Living-Skirt2603",
-      "publishedAt": "2026-08-05T05:13:22+00:00",
-      "excerpt": "I recently received an EB-2 NIW RFE and would appreciate feedback from people with similar research-based cases. I am working with an attorney. Ellis Porter and their offer was approval or resubmission. My original endeavor focused on MBSE-based secure digital twins and supply-chain cybersecurity for industrial systems…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-08-05T22:07:35.305Z",
+  "syncedAt": "2026-08-05T23:48:29.690Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
