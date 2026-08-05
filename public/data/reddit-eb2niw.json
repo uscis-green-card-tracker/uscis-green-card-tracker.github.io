@@ -55,6 +55,26 @@
       }
     },
     {
+      "id": "t3_1vfxy6w",
+      "title": "RFE :/",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfxy6w/rfe/",
+      "author": "/u/Living-Skirt2603",
+      "publishedAt": "2026-08-05T05:13:22+00:00",
+      "excerpt": "I recently received an EB-2 NIW RFE and would appreciate feedback from people with similar research-based cases. I am working with an attorney. Ellis Porter and their offer was approval or resubmission. My original endeavor focused on MBSE-based secure digital twins and supply-chain cybersecurity for industrial systems…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vfbnbt",
       "title": "I-140 Approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfbnbt/i140_approved/",
@@ -66,6 +86,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vfybx3",
+      "title": "Seeking practical advice on obtaining genuine U.S. technical interest for an NIW RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfybx3/seeking_practical_advice_on_obtaining_genuine_us/",
+      "author": "/u/Kind-Try942",
+      "publishedAt": "2026-08-05T05:34:05+00:00",
+      "excerpt": "Hi everyone, I recently received an RFE for my self-petitioned EB-2 NIW after 44 B-days of Premium Processing, and I'd really appreciate hearing from anyone who has gone through something similar. My proposed endeavor focuses on physics-informed AI for semiconductor manufacturing, specifically improving manufacturing r…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -133,6 +171,23 @@
       }
     },
     {
+      "id": "t3_1vfo621",
+      "title": "Wave of we’ve taken an action on your case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfo621/wave_of_weve_taken_an_action_on_your_case/",
+      "author": "/u/owuraku_ababio",
+      "publishedAt": "2026-08-04T21:49:58+00:00",
+      "excerpt": "Was there just a wave of we’ve taken an action on your case ? I have 2 accounts and got emails on both . I have pending cases in one and nothing in the other. I must say I tried linking a case to the empty account but it wasn’t successful.",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vfl8cv",
       "title": "Attorney hasn't prepared my EB-2 NIW RFE response and only 2 weeks remain before the deadline. Should I be worried?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfl8cv/attorney_hasnt_prepared_my_eb2_niw_rfe_response/",
@@ -180,23 +235,6 @@
       "topics": [
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vfo621",
-      "title": "Wave of we’ve taken an action on your case",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfo621/wave_of_weve_taken_an_action_on_your_case/",
-      "author": "/u/owuraku_ababio",
-      "publishedAt": "2026-08-04T21:49:58+00:00",
-      "excerpt": "Was there just a wave of we’ve taken an action on your case ? I have 2 accounts and got emails on both . I have pending cases in one and nothing in the other. I must say I tried linking a case to the empty account but it wasn’t successful.",
-      "topics": [
         "question"
       ],
       "signals": {
@@ -423,46 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vfbjco",
-      "title": "I-765 after I-485 biometrics – Another biometrics?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vfbjco/i765_after_i485_biometrics_another_biometrics/",
-      "author": "/u/Old-Client6764",
-      "publishedAt": "2026-08-04T14:13:18+00:00",
-      "excerpt": "I already completed biometrics for my pending EB2-NIW I-485 and am now filing Form I-765. Did USCIS reuse your I-485 biometrics, or did you receive another biometrics appointment for the I-765? Please share your experience.",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vet7ck",
-      "title": "Approved today !! 75 countries",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vet7ck/approved_today_75_countries/",
-      "author": "/u/Alarming-Camera-188",
-      "publishedAt": "2026-08-03T23:14:04+00:00",
-      "excerpt": "Approved today !! Currently, I am on an H-1 B visa. After receiving the card, what documents need to be updated? I am assuming a driver's license and SSN. What else?",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-08-05T04:55:20.882Z",
+  "syncedAt": "2026-08-05T07:32:31.855Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
