@@ -95,23 +95,6 @@
       }
     },
     {
-      "id": "t3_1vgiz5c",
-      "title": "NEW USCIS policy: USCIS to Reduce Frivolous Immigration Benefits Requests by Reinforcing Evidence Standards",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgiz5c/new_uscis_policy_uscis_to_reduce_frivolous/",
-      "author": "/u/Present-Bike8556",
-      "publishedAt": "2026-08-05T20:26:35+00:00",
-      "excerpt": "USCIS is basically saying: submit a complete and approvable case from the beginning because you may not get another chance to fix it. What does this mean for petitioners: the practical message is: Do not treat the initial filing as a placeholder or assume that USCIS will later ask for whatever is missing. The filing sh…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vgtn0i",
       "title": "Finally I-485 approved today 08/05/2026!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgtn0i/finally_i485_approved_today_08052026/",
@@ -123,6 +106,23 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vgiz5c",
+      "title": "NEW USCIS policy: USCIS to Reduce Frivolous Immigration Benefits Requests by Reinforcing Evidence Standards",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgiz5c/new_uscis_policy_uscis_to_reduce_frivolous/",
+      "author": "/u/Present-Bike8556",
+      "publishedAt": "2026-08-05T20:26:35+00:00",
+      "excerpt": "USCIS is basically saying: submit a complete and approvable case from the beginning because you may not get another chance to fix it. What does this mean for petitioners: the practical message is: Do not treat the initial filing as a placeholder or assume that USCIS will later ask for whatever is missing. The filing sh…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -479,7 +479,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-06T07:33:50.603Z",
+  "syncedAt": "2026-08-06T10:27:36.532Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
