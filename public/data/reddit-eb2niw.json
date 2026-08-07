@@ -57,6 +57,24 @@
       }
     },
     {
+      "id": "t3_1via0vh",
+      "title": "Question on post-filing evidence",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1via0vh/question_on_postfiling_evidence/",
+      "author": "/u/CartoonistSad1108",
+      "publishedAt": "2026-08-07T19:19:07+00:00",
+      "excerpt": "I recently received a RFE from my NIW petition and have submitted response. I just realize that most of my evidence is from post-filing as pointed out by Claude. I was questioned on Prongs 2 and 3. My papers and my code have been published prior to filing and were discussed in the original petition. But in the RFE resp…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vi6dbe",
       "title": "Anyone adding a letter explaining why you’re doing AOS instead of consular processing?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi6dbe/anyone_adding_a_letter_explaining_why_youre_doing/",
@@ -114,6 +132,23 @@
       }
     },
     {
+      "id": "t3_1vid71r",
+      "title": "Eb2NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vid71r/eb2niw/",
+      "author": "/u/Accurate_Stomach_536",
+      "publishedAt": "2026-08-07T21:22:00+00:00",
+      "excerpt": "If I leave F1 after applying the status adjustment, but it has not yet been approved. Cause any problem in my process or keep the F1 is just keep a plan B. About EB2NIW",
+      "topics": [
+        "approval"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vi6509",
       "title": "Looking for advise: EB2-NIW vs Australia subclass 858",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi6509/looking_for_advise_eb2niw_vs_australia_subclass/",
@@ -152,24 +187,6 @@
       }
     },
     {
-      "id": "t3_1vib2h5",
-      "title": "How much time does Ellis Porter take to file PP after signing the acknowledgment form?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vib2h5/how_much_time_does_ellis_porter_take_to_file_pp/",
-      "author": "/u/WorriedHedgehog1600",
-      "publishedAt": "2026-08-07T19:58:59+00:00",
-      "excerpt": "I signed the form 2 weeks ago",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1viauwz",
       "title": "Law Firm choice",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1viauwz/law_firm_choice/",
@@ -180,24 +197,6 @@
         "i485",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1via0vh",
-      "title": "Question on post-filing evidence",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1via0vh/question_on_postfiling_evidence/",
-      "author": "/u/CartoonistSad1108",
-      "publishedAt": "2026-08-07T19:19:07+00:00",
-      "excerpt": "I recently received a RFE from my NIW petition and have submitted response. I just realize that most of my evidence is from post-filing as pointed out by Claude. I was questioned on Prongs 2 and 3. My papers and my code have been published prior to filing and were discussed in the original petition. But in the RFE resp…",
-      "topics": [
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -468,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-07T20:29:12.987Z",
+  "syncedAt": "2026-08-07T21:28:14.379Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
