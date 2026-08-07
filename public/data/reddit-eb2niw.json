@@ -35,14 +35,15 @@
       }
     },
     {
-      "id": "t3_1vhcxw8",
-      "title": "June PP filers EB2 NIW 140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhcxw8/june_pp_filers_eb2_niw_140/",
-      "author": "/u/No_Barber1072",
-      "publishedAt": "2026-08-06T18:44:18+00:00",
-      "excerpt": "June premium processing filers, any news or case updates? Let’s track progress together here",
+      "id": "t3_1vhmgjl",
+      "title": "En2-niw denied twice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhmgjl/en2niw_denied_twice/",
+      "author": "/u/Exotic-Tie-6400",
+      "publishedAt": "2026-08-07T01:08:38+00:00",
+      "excerpt": "Hey all, I submitted eb2 niw twice based on my skills not PERM and got rejected. Each with a different attorney. They said its a good profile but also rejection rate is increasing, the attorney said we should try again but honestly i dont have tge mental and financial power to redo the whole thing again. My question is…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -53,15 +54,15 @@
       }
     },
     {
-      "id": "t3_1vhjyk6",
-      "title": "NIW RFE Only Requesting an Updated ETA Form 8089",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhjyk6/niw_rfe_only_requesting_an_updated_eta_form_8089/",
-      "author": "/u/No-Gold-8343",
-      "publishedAt": "2026-08-06T23:17:13+00:00",
-      "excerpt": "I just received the paper copy of the RFE in the mail today, and I'd love some help understanding what this means and how to proceed. The RFE came back as a single page double-sided document, with the front being boilerplate government stuff, and the back having the following: Reference is made to this Form I-140, Immi…",
+      "id": "t3_1vhcxw8",
+      "title": "June PP filers EB2 NIW 140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhcxw8/june_pp_filers_eb2_niw_140/",
+      "author": "/u/No_Barber1072",
+      "publishedAt": "2026-08-06T18:44:18+00:00",
+      "excerpt": "June premium processing filers, any news or case updates? Let’s track progress together here",
       "topics": [
         "i140",
-        "lawyer"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -109,6 +110,65 @@
       }
     },
     {
+      "id": "t3_1vhjyk6",
+      "title": "NIW RFE Only Requesting an Updated ETA Form 8089",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhjyk6/niw_rfe_only_requesting_an_updated_eta_form_8089/",
+      "author": "/u/No-Gold-8343",
+      "publishedAt": "2026-08-06T23:17:13+00:00",
+      "excerpt": "I just received the paper copy of the RFE in the mail today, and I'd love some help understanding what this means and how to proceed. The RFE came back as a single page double-sided document, with the front being boilerplate government stuff, and the back having the following: Reference is made to this Form I-140, Immi…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vhl6vq",
+      "title": "New RFE rule: Marriage evidence",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhl6vq/new_rfe_rule_marriage_evidence/",
+      "author": "/u/InfiniteDirection281",
+      "publishedAt": "2026-08-07T00:10:32+00:00",
+      "excerpt": "Hello all, As you all are aware that USCIS published a new rule on August 5th regarding RFE/NOID. My spouse and I submitted our I-485 early May this year based on an approved I-140. We followed our lawyer’s advice and didn’t submit any marriage evidence except the marriage certificate. The idea is that is we receive an…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vhiwlr",
+      "title": "Any EB1A/EB2 NIW AOS Approvals from 39 Countries in 2026?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhiwlr/any_eb1aeb2_niw_aos_approvals_from_39_countries/",
+      "author": "/u/SprinklesIntrepid384",
+      "publishedAt": "2026-08-06T22:33:24+00:00",
+      "excerpt": "Hello Everyone, I’m curious to know if anyone with an EB1A/EB2 NIW case from either the 39 or 75 countries lists, who filed in 2026 has gotten any approval. If it has already been shared then I’m sorry I missed it but my country is on both lists and I wanted to get a pulse on what’s going on with others. Thank you!",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vh64hj",
       "title": "Matter of Katigbak, 14 I. & N. Dec. 45 (Reg. Comm’r 1971)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh64hj/matter_of_katigbak_14_i_n_dec_45_reg_commr_1971/",
@@ -117,6 +177,43 @@
       "excerpt": "This is a follow-up to my yesterday's post on USCIS to Reduce Frivolous Immigration Benefits Requests by Reinforcing Evidence Standards Here is the link to read the entire article: https://www.justice.gov/sites/default/files/eoir/legacy/2012/08/17/2125.pdf Matter of Katigbak, 14 I. & N. Dec. 45 (Reg. Comm’r 1971) is on…",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vh9ef1",
+      "title": "I140 EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh9ef1/i140_eb2_niw/",
+      "author": "/u/Anxious-Past-7127",
+      "publishedAt": "2026-08-06T16:37:50+00:00",
+      "excerpt": "I upgraded to premium on November 17th and haven’t gotten a decision since then and my status recently changed to fee refund was mailed on July 30th. I have called and emailed them several times and no reasonable answer from them. I am just confused on what to do next whether to resubmit premium processing. I am so fru…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vhkshf",
+      "title": "Have EB2 NIW approved filed by my employer. What are the odds of EB1A?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhkshf/have_eb2_niw_approved_filed_by_my_employer_what/",
+      "author": "/u/GS19882001",
+      "publishedAt": "2026-08-06T23:53:52+00:00",
+      "excerpt": "Indian Citizen Looking to file for EB1A . Automotive Controls Domain.",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -162,44 +259,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vh9ef1",
-      "title": "I140 EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh9ef1/i140_eb2_niw/",
-      "author": "/u/Anxious-Past-7127",
-      "publishedAt": "2026-08-06T16:37:50+00:00",
-      "excerpt": "I upgraded to premium on November 17th and haven’t gotten a decision since then and my status recently changed to fee refund was mailed on July 30th. I have called and emailed them several times and no reasonable answer from them. I am just confused on what to do next whether to resubmit premium processing. I am so fru…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vhiwlr",
-      "title": "Any EB1A/EB2 NIW AOS Approvals from 39 Countries in 2026?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhiwlr/any_eb1aeb2_niw_aos_approvals_from_39_countries/",
-      "author": "/u/SprinklesIntrepid384",
-      "publishedAt": "2026-08-06T22:33:24+00:00",
-      "excerpt": "Hello Everyone, I’m curious to know if anyone with an EB1A/EB2 NIW case from either the 39 or 75 countries lists, who filed in 2026 has gotten any approval. If it has already been shared then I’m sorry I missed it but my country is on both lists and I wanted to get a pulse on what’s going on with others. Thank you!",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -277,24 +336,6 @@
       }
     },
     {
-      "id": "t3_1vh8f1c",
-      "title": "Can i file a new petition?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh8f1c/can_i_file_a_new_petition/",
-      "author": "/u/theguyfrombidesh23",
-      "publishedAt": "2026-08-06T16:02:41+00:00",
-      "excerpt": "Hello all, Can i file a new petition while my current petition is already submitted and under processing? Also, after getting a denial in i-140 ,after how many days i can apply again? or can i just refile again immediately? Thank you",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vgny09",
       "title": "I-485 approval!!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgny09/i485_approval/",
@@ -306,6 +347,24 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vh8f1c",
+      "title": "Can i file a new petition?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh8f1c/can_i_file_a_new_petition/",
+      "author": "/u/theguyfrombidesh23",
+      "publishedAt": "2026-08-06T16:02:41+00:00",
+      "excerpt": "Hello all, Can i file a new petition while my current petition is already submitted and under processing? Also, after getting a denial in i-140 ,after how many days i can apply again? or can i just refile again immediately? Thank you",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -407,71 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vg8x8t",
-      "title": "🎉 Both me & my wife's I-485s were approved! 🎉 RFE then interview then approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vg8x8t/both_me_my_wifes_i485s_were_approved_rfe_then/",
-      "author": "/u/Only-Tie-7093",
-      "publishedAt": "2026-08-05T14:28:05+00:00",
-      "excerpt": "After 10 months of following Reddit timelines, checking silent updates, and refreshing the USCIS APIs, it was an incredible feeling to finally see \"Case Approved\" on both of our applications. This journey wasn't straightforward. There were moments when I genuinely thought everything was over. Looking back now, I'm grat…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vgmt6p",
-      "title": "New USCIS policy memo on RFEs (8/5/26) - what actually changed, and why it's probably not as scary as it sounds",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgmt6p/new_uscis_policy_memo_on_rfes_8526_what_actually/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-08-05T22:55:56+00:00",
-      "excerpt": "There's been a lot of noise about the USCIS policy memo that came out on August 5, so I wanted to share a calmer read. I work with an immigration firm (Manifest Law), and this is roughly what our attorneys are telling clients: What the memo does: Officers now have discretion to deny a case for missing initial evidence …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vgir4v",
-      "title": "I-485 CASE APPROVED | PORTLAND FO",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgir4v/i485_case_approved_portland_fo/",
-      "author": "/u/ahsanways",
-      "publishedAt": "2026-08-05T20:18:22+00:00",
-      "excerpt": "Finally approved. Sharing my timeline in case it helps anyone tracking Portland FO or API events. Case details: - EB-2 NIW / ROW - PD: 10/18/2024 - I-485 received: 03/23/2026 - Biometrics: 04/08/2026 - Transferred to Portland FO: 06/04/2026 - Interview waived - No RFE - EAD/AP not approved before green card - Final sta…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "10/18/2024",
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-06T23:49:19.008Z",
+  "syncedAt": "2026-08-07T02:06:56.854Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
