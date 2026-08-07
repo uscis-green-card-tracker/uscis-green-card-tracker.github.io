@@ -335,25 +335,6 @@
       }
     },
     {
-      "id": "t3_1vhkshf",
-      "title": "Have EB2 NIW approved filed by my employer. What are the odds of EB1A?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhkshf/have_eb2_niw_approved_filed_by_my_employer_what/",
-      "author": "/u/GS19882001",
-      "publishedAt": "2026-08-06T23:53:52+00:00",
-      "excerpt": "Indian Citizen Looking to file for EB1A . Automotive Controls Domain.",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vh9we2",
       "title": "Attorney Recommendations for Non-STEM Petitions (Finance)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh9we2/attorney_recommendations_for_nonstem_petitions/",
@@ -465,9 +446,27 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1vh8f1c",
+      "title": "Can i file a new petition?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh8f1c/can_i_file_a_new_petition/",
+      "author": "/u/theguyfrombidesh23",
+      "publishedAt": "2026-08-06T16:02:41+00:00",
+      "excerpt": "Hello all, Can i file a new petition while my current petition is already submitted and under processing? Also, after getting a denial in i-140 ,after how many days i can apply again? or can i just refile again immediately? Thank you",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-08-07T09:51:03.408Z",
+  "syncedAt": "2026-08-07T10:42:04.414Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
