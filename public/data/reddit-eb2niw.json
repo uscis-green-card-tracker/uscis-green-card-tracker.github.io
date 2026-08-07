@@ -169,6 +169,25 @@
       }
     },
     {
+      "id": "t3_1vhryj4",
+      "title": "August 3rd premium upgrade I-140?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhryj4/august_3rd_premium_upgrade_i140/",
+      "author": "/u/EnthusiasmPossible75",
+      "publishedAt": "2026-08-07T05:41:15+00:00",
+      "excerpt": "Anyone recently upgraded their pending I-140 to premium? Nebraska? How long did you wait to receive a decision?",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vhkcm0",
       "title": "About I-140",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhkcm0/about_i140/",
@@ -448,27 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vhcv3u",
-      "title": "Should I upload my updated DS-2019 to a pending I-485 case?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhcv3u/should_i_upload_my_updated_ds2019_to_a_pending/",
-      "author": "/u/Nomi_1189",
-      "publishedAt": "2026-08-06T18:41:33+00:00",
-      "excerpt": "I submitted a valid DS-2019 upto 2028 with my I-485. But my university recently issued a new DS-2019 extending my program, with no change in category, sponsor, or funding. After the recent USCIS memo , should I upload it as unsolicited evidence? https://www.uscis.gov/sites/default/files/document/policy-manual-updates/2…",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-07T04:47:10.716Z",
+  "syncedAt": "2026-08-07T06:04:15.285Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
