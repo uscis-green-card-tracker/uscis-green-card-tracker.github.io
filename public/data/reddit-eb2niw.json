@@ -54,6 +54,43 @@
       }
     },
     {
+      "id": "t3_1vi3qi8",
+      "title": "RFE status still shows unreceived, should I worry about denial?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi3qi8/rfe_status_still_shows_unreceived_should_i_worry/",
+      "author": "/u/Outrageous_Honey_849",
+      "publishedAt": "2026-08-07T15:27:29+00:00",
+      "excerpt": "Hi everyone! For my NIW case, the RFE response deadline was July 30th. It was finally delivered on the morning of the 29th, as my lawyer kept delaying and making mistakes right up until the last minute. What worries me is that the case status hasn't been updated. It's still showing \"RFE\" instead of \"RFE Response Receiv…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vi2xni",
+      "title": "Questions as to how to prepare I-140 RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi2xni/questions_as_to_how_to_prepare_i140_rfe/",
+      "author": "/u/Independent-Tonight2",
+      "publishedAt": "2026-08-07T14:57:22+00:00",
+      "excerpt": "​Hi everyone, ​I recently received an RFE on all three prongs for my I-140 (EB-2 NIW). My original petition was filed by myself, and self-prepare the RFE response to ensure my highly specialized endeavor is articulated correctly. I am already on Premium Processing. ​I would love to get the community's opinion on my def…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vhryj4",
       "title": "August 3rd premium upgrade I-140?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhryj4/august_3rd_premium_upgrade_i140/",
@@ -63,6 +100,25 @@
       "topics": [
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vi1w8v",
+      "title": "Should I apply for 765 EAD concurrently with I-485, while I have valid STEM OPT till mid 2028?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi1w8v/should_i_apply_for_765_ead_concurrently_with_i485/",
+      "author": "/u/Foreign-Sleep-1362",
+      "publishedAt": "2026-08-07T14:17:44+00:00",
+      "excerpt": "Basically the title: I have valid STEM OPT till June 2028 and am currently planning to apply for I-485 AOS. Does it make sense to apply for EAD concurrently? Would I lose my STEM OPT, if my EAD gets approved? Also, is the EAD (C)(9) valid for 18 months or 5 years? I appreciate your help!",
+      "topics": [
+        "approval",
+        "i485",
         "question"
       ],
       "signals": {
@@ -125,6 +181,27 @@
       }
     },
     {
+      "id": "t3_1vhl6vq",
+      "title": "New RFE rule: Marriage evidence",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhl6vq/new_rfe_rule_marriage_evidence/",
+      "author": "/u/InfiniteDirection281",
+      "publishedAt": "2026-08-07T00:10:32+00:00",
+      "excerpt": "Hello all, As you all are aware that USCIS published a new rule on August 5th regarding RFE/NOID. My spouse and I submitted our I-485 early May this year based on an approved I-140. We followed our lawyer’s advice and didn’t submit any marriage evidence except the marriage certificate. The idea is that is we receive an…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vhcxw8",
       "title": "June PP filers EB2 NIW 140",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhcxw8/june_pp_filers_eb2_niw_140/",
@@ -170,27 +247,6 @@
       "publishedAt": "2026-08-07T04:23:20+00:00",
       "excerpt": "Hi all, I'm a final-year PhD candidate in Computational Linguistics, and I'm preparing to self-file an EB-2 National Interest Waiver (NIW) petition. I have two Master’s Degrees: English Linguistics and TESOL. My proposed endeavor is centered on \"Advancing Multilingual NLP Frameworks for Linguistic Equity\" — essentially…",
       "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vhl6vq",
-      "title": "New RFE rule: Marriage evidence",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhl6vq/new_rfe_rule_marriage_evidence/",
-      "author": "/u/InfiniteDirection281",
-      "publishedAt": "2026-08-07T00:10:32+00:00",
-      "excerpt": "Hello all, As you all are aware that USCIS published a new rule on August 5th regarding RFE/NOID. My spouse and I submitted our I-485 early May this year based on an approved I-140. We followed our lawyer’s advice and didn’t submit any marriage evidence except the marriage certificate. The idea is that is we receive an…",
-      "topics": [
-        "approval",
-        "i485",
         "i140",
         "lawyer",
         "question"
@@ -408,65 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vh5ztm",
-      "title": "I received an RFE on my I-140 (EB-2 NIW) petition on August 4th, 2026. The expected arrival date for the physical RFE letter is August 19th. Is there any fast or easy way to get a copy of the RFE notice electronically (e.g., via email)? I would appreciate any tips or tricks!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh5ztm/i_received_an_rfe_on_my_i140_eb2_niw_petition_on/",
-      "author": "/u/Fit-Number-8060",
-      "publishedAt": "2026-08-06T14:34:28+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vgny09",
-      "title": "I-485 approval!!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vgny09/i485_approval/",
-      "author": "/u/Eastern-Explanation2",
-      "publishedAt": "2026-08-05T23:43:56+00:00",
-      "excerpt": "Finally, super, duper thrilled to share that our I-485 applications got approved today! Here is the full timeline: PD: June 2024 I-140 Approval: March 2026, via PP in Jan 2026 I-485 RD: April 6, 2026 Biometrics: April 20 (Primary), May 27 (Derivative) FO: Hartford, CT (non-local) FO transfer date: June 9, 2026 3xFTA0: …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vh8f1c",
-      "title": "Can i file a new petition?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh8f1c/can_i_file_a_new_petition/",
-      "author": "/u/theguyfrombidesh23",
-      "publishedAt": "2026-08-06T16:02:41+00:00",
-      "excerpt": "Hello all, Can i file a new petition while my current petition is already submitted and under processing? Also, after getting a denial in i-140 ,after how many days i can apply again? or can i just refile again immediately? Thank you",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-07T14:04:52.274Z",
+  "syncedAt": "2026-08-07T15:44:00.696Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
