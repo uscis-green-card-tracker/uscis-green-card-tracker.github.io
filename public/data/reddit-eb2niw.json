@@ -110,6 +110,24 @@
       }
     },
     {
+      "id": "t3_1vhjyk6",
+      "title": "NIW RFE Only Requesting an Updated ETA Form 8089",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhjyk6/niw_rfe_only_requesting_an_updated_eta_form_8089/",
+      "author": "/u/No-Gold-8343",
+      "publishedAt": "2026-08-06T23:17:13+00:00",
+      "excerpt": "I just received the paper copy of the RFE in the mail today, and I'd love some help understanding what this means and how to proceed. The RFE came back as a single page double-sided document, with the front being boilerplate government stuff, and the back having the following: Reference is made to this Form I-140, Immi…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vh276g",
       "title": "Approved after RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vh276g/approved_after_rfe/",
@@ -198,24 +216,6 @@
         "approval",
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vhjyk6",
-      "title": "NIW RFE Only Requesting an Updated ETA Form 8089",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhjyk6/niw_rfe_only_requesting_an_updated_eta_form_8089/",
-      "author": "/u/No-Gold-8343",
-      "publishedAt": "2026-08-06T23:17:13+00:00",
-      "excerpt": "I just received the paper copy of the RFE in the mail today, and I'd love some help understanding what this means and how to proceed. The RFE came back as a single page double-sided document, with the front being boilerplate government stuff, and the back having the following: Reference is made to this Form I-140, Immi…",
-      "topics": [
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-07T10:42:04.414Z",
+  "syncedAt": "2026-08-07T11:37:39.844Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
