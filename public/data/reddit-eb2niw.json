@@ -170,14 +170,15 @@
       }
     },
     {
-      "id": "t3_1vj2da6",
-      "title": "EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vj2da6/eb2_niw/",
-      "author": "/u/EitherLemon3388",
-      "publishedAt": "2026-08-08T17:50:25+00:00",
-      "excerpt": "I keep seeing people describe EB-2 NIW as \"a green card without an employer,\" but that description can be misleading. Yes, NIW can allow self-petitioning. The central challenge is proving that the work itself has broader U.S. importance and that the person is well positioned to advance it. A strong profile is usually n…",
+      "id": "t3_1vip553",
+      "title": "I-485 API timestamp changed twice after interview, but no case status update — anyone experienced this?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vip553/i485_api_timestamp_changed_twice_after_interview/",
+      "author": "/u/Difficult_Ad_9971",
+      "publishedAt": "2026-08-08T07:03:48+00:00",
+      "excerpt": "I completed my I-485 interview about 4 days ago. The officer gave me a notice saying my case is being held for review and that no further documents are required at this time. He said hopefully I would hear back \"sooner rather than later.\" He also verbally asked me to upload my educational documents, which I did after t…",
       "topics": [
-        "i140",
+        "i485",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -188,15 +189,14 @@
       }
     },
     {
-      "id": "t3_1vip553",
-      "title": "I-485 API timestamp changed twice after interview, but no case status update — anyone experienced this?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vip553/i485_api_timestamp_changed_twice_after_interview/",
-      "author": "/u/Difficult_Ad_9971",
-      "publishedAt": "2026-08-08T07:03:48+00:00",
-      "excerpt": "I completed my I-485 interview about 4 days ago. The officer gave me a notice saying my case is being held for review and that no further documents are required at this time. He said hopefully I would hear back \"sooner rather than later.\" He also verbally asked me to upload my educational documents, which I did after t…",
+      "id": "t3_1vj2da6",
+      "title": "EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vj2da6/eb2_niw/",
+      "author": "/u/EitherLemon3388",
+      "publishedAt": "2026-08-08T17:50:25+00:00",
+      "excerpt": "I keep seeing people describe EB-2 NIW as \"a green card without an employer,\" but that description can be misleading. Yes, NIW can allow self-petitioning. The central challenge is proving that the work itself has broader U.S. importance and that the person is well positioned to advance it. A strong profile is usually n…",
       "topics": [
-        "i485",
-        "timeline",
+        "i140",
         "question"
       ],
       "signals": {
@@ -467,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-08T18:21:46.380Z",
+  "syncedAt": "2026-08-08T19:21:11.452Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
