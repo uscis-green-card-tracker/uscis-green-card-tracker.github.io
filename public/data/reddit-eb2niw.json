@@ -77,6 +77,25 @@
       }
     },
     {
+      "id": "t3_1viy430",
+      "title": "Independent recommendation letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1viy430/independent_recommendation_letter/",
+      "author": "/u/omaratef3221",
+      "publishedAt": "2026-08-08T14:57:07+00:00",
+      "excerpt": "I got an RFE for all 3 prongs. (Working with Chen). I am in AI Field and I hold a MSc in AI. I have more than 500 citations and I am interested in getting some independent recommendation letters. I would love if anyone in the AI field in US here can help me with that or if you can connect me to someone who is willing t…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1viwqdm",
       "title": "I-140 paper filing",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1viwqdm/i140_paper_filing/",
@@ -448,28 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vhq0ey",
-      "title": "Premium Processing Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhq0ey/premium_processing_timeline/",
-      "author": "/u/Responsible9ja",
-      "publishedAt": "2026-08-07T03:58:41+00:00",
-      "excerpt": "Hi all, New comer. First post. I mailed my PP on Monday and got the receipt it was received on Tuesday. I've been checking my card for update, if I've been charged, but nothing yet. How long does it typically take before they charge the card?",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-08T14:22:38.958Z",
+  "syncedAt": "2026-08-08T15:19:30.130Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
