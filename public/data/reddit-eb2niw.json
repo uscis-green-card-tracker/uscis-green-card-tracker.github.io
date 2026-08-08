@@ -77,6 +77,25 @@
       }
     },
     {
+      "id": "t3_1vivbju",
+      "title": "How did you use AI for your EB-2 NIW application?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vivbju/how_did_you_use_ai_for_your_eb2_niw_application/",
+      "author": "/u/Cliff23434312",
+      "publishedAt": "2026-08-08T12:55:20+00:00",
+      "excerpt": "For those who filed or are preparing an EB-2 NIW petition, did you use AI during the process? If so, which AI tools did you use: ChatGPT, Claude, Gemini, Perplexity, or something else? I’m especially interested in how you used AI for: Organizing the petition and evidence Refining the proposed endeavor Drafting or revie…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vilnei",
       "title": "NIW RFE challenging all three prongs despite 57 publications — routine or concerning?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vilnei/niw_rfe_challenging_all_three_prongs_despite_57/",
@@ -449,27 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vhcxw8",
-      "title": "June PP filers EB2 NIW 140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhcxw8/june_pp_filers_eb2_niw_140/",
-      "author": "/u/No_Barber1072",
-      "publishedAt": "2026-08-06T18:44:18+00:00",
-      "excerpt": "June premium processing filers, any news or case updates? Let’s track progress together here",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-08T12:25:56.730Z",
+  "syncedAt": "2026-08-08T13:37:33.440Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
