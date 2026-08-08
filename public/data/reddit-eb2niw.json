@@ -132,23 +132,6 @@
       }
     },
     {
-      "id": "t3_1vi910w",
-      "title": "Creating Poll for Getting EB2 NIW stats for last 3 months ( don’t vote if not applicable)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi910w/creating_poll_for_getting_eb2_niw_stats_for_last/",
-      "author": "/u/Worried_Win_2478",
-      "publishedAt": "2026-08-07T18:42:25+00:00",
-      "excerpt": "Don’t vote on accepted/rejected if your case is not judged in last 3 months View Poll",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vi84m7",
       "title": "Need advice on law firm (non-researcher profile)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi84m7/need_advice_on_law_firm_nonresearcher_profile/",
@@ -253,6 +236,23 @@
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vi910w",
+      "title": "Creating Poll for Getting EB2 NIW stats for last 3 months ( don’t vote if not applicable)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi910w/creating_poll_for_getting_eb2_niw_stats_for_last/",
+      "author": "/u/Worried_Win_2478",
+      "publishedAt": "2026-08-07T18:42:25+00:00",
+      "excerpt": "Don’t vote on accepted/rejected if your case is not judged in last 3 months View Poll",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-08T05:34:44.227Z",
+  "syncedAt": "2026-08-08T06:34:00.751Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
