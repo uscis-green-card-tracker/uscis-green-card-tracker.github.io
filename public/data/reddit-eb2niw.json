@@ -77,6 +77,24 @@
       }
     },
     {
+      "id": "t3_1viwqdm",
+      "title": "I-140 paper filing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1viwqdm/i140_paper_filing/",
+      "author": "/u/Late-Monk2623",
+      "publishedAt": "2026-08-08T13:58:34+00:00",
+      "excerpt": "During sending I-140 by mail to USCIS, do you have to send two copies of ETA-9089 Appendix A, ETA-9089 Final Determination? Is there any other forms to attach apart from payment forms?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vivbju",
       "title": "How did you use AI for your EB-2 NIW application?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vivbju/how_did_you_use_ai_for_your_eb2_niw_application/",
@@ -449,28 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vhp4zy",
-      "title": "Industry Profile for EB2- NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhp4zy/industry_profile_for_eb2_niw/",
-      "author": "/u/ejmej101021",
-      "publishedAt": "2026-08-07T03:14:33+00:00",
-      "excerpt": "Hey everyone, I’m looking for some community feedback on whether my profile stands a realistic chance for an EB-2 NIW self-petition . I’ve been reading through case breakdowns here, but wanted to see how my specific mix of industry experience, teaching, and practical tech applications holds up—especially since I hold a…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-08T13:37:33.440Z",
+  "syncedAt": "2026-08-08T14:22:38.958Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
