@@ -57,6 +57,24 @@
       }
     },
     {
+      "id": "t3_1vilnei",
+      "title": "NIW RFE challenging all three prongs despite 57 publications — routine or concerning?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vilnei/niw_rfe_challenging_all_three_prongs_despite_57/",
+      "author": "/u/Outrageous_Driver556",
+      "publishedAt": "2026-08-08T03:52:59+00:00",
+      "excerpt": "I received an RFE on a self-prepared EB-2 NIW petition filed with premium processing (both on-line)and consular processing. I am currently outside the United States and did not identify a specific U.S. employer. Profile at filing: 06/05/2026 PD 08/06/2026 RFE decision M.D./Ph.D., board-certified dermatologist Associate…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "08/06/2026",
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1via0vh",
       "title": "Question on post-filing evidence",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1via0vh/question_on_postfiling_evidence/",
@@ -65,24 +83,6 @@
       "excerpt": "I recently received a RFE from my NIW petition and have submitted response. I just realize that most of my evidence is from post-filing as pointed out by Claude. I was questioned on Prongs 2 and 3. My papers and my code have been published prior to filing and were discussed in the original petition. But in the RFE resp…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vi6dbe",
-      "title": "Anyone adding a letter explaining why you’re doing AOS instead of consular processing?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi6dbe/anyone_adding_a_letter_explaining_why_youre_doing/",
-      "author": "/u/InevitableBorn6236",
-      "publishedAt": "2026-08-07T17:04:23+00:00",
-      "excerpt": "Wondering if people are including a short cover letter explaining why they chose adjustment of status over consular processing, or if that’s unnecessary and just adds noise to the packet.",
-      "topics": [
-        "i485",
         "question"
       ],
       "signals": {
@@ -157,6 +157,24 @@
       "excerpt": "If I leave F1 after applying the status adjustment, but it has not yet been approved. Cause any problem in my process or keep the F1 is just keep a plan B. About EB2NIW",
       "topics": [
         "approval"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vi6dbe",
+      "title": "Anyone adding a letter explaining why you’re doing AOS instead of consular processing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi6dbe/anyone_adding_a_letter_explaining_why_youre_doing/",
+      "author": "/u/InevitableBorn6236",
+      "publishedAt": "2026-08-07T17:04:23+00:00",
+      "excerpt": "Wondering if people are including a short cover letter explaining why they chose adjustment of status over consular processing, or if that’s unnecessary and just adds noise to the packet.",
+      "topics": [
+        "i485",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -337,21 +355,6 @@
       }
     },
     {
-      "id": "t3_1vhszs8",
-      "title": "MEDICAL RESEARCHER ON F-2 VISA APPLYING.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhszs8/medical_researcher_on_f2_visa_applying/",
-      "author": "/u/romzcool97",
-      "publishedAt": "2026-08-07T06:39:19+00:00",
-      "excerpt": "Hi I am a physician from India, my husband is saudi born is a student.I am on F2 visa.I have worked on multiple research projects with international collaboration, have leadership skills too. I couldnt find any USA research position as no one is offering visa. I have 15 publications, 6 first author publications, 145 ci…",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vhqi59",
       "title": "EB2 NIW - Law firm recommendation? (Computational Linguistics PhD)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhqi59/eb2_niw_law_firm_recommendation_computational/",
@@ -466,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-08T02:49:53.641Z",
+  "syncedAt": "2026-08-08T04:04:00.157Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
