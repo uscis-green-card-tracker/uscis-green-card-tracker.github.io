@@ -95,6 +95,25 @@
       }
     },
     {
+      "id": "t3_1vip553",
+      "title": "I-485 API timestamp changed twice after interview, but no case status update — anyone experienced this?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vip553/i485_api_timestamp_changed_twice_after_interview/",
+      "author": "/u/Difficult_Ad_9971",
+      "publishedAt": "2026-08-08T07:03:48+00:00",
+      "excerpt": "I completed my I-485 interview about 4 days ago. The officer gave me a notice saying my case is being held for review and that no further documents are required at this time. He said hopefully I would hear back \"sooner rather than later.\" He also verbally asked me to upload my educational documents, which I did after t…",
+      "topics": [
+        "i485",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1via0vh",
       "title": "Question on post-filing evidence",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1via0vh/question_on_postfiling_evidence/",
@@ -448,27 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vhjyk6",
-      "title": "NIW RFE Only Requesting an Updated ETA Form 8089",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhjyk6/niw_rfe_only_requesting_an_updated_eta_form_8089/",
-      "author": "/u/No-Gold-8343",
-      "publishedAt": "2026-08-06T23:17:13+00:00",
-      "excerpt": "I just received the paper copy of the RFE in the mail today, and I'd love some help understanding what this means and how to proceed. The RFE came back as a single page double-sided document, with the front being boilerplate government stuff, and the back having the following: Reference is made to this Form I-140, Immi…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-08T06:34:00.751Z",
+  "syncedAt": "2026-08-08T07:40:13.709Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
