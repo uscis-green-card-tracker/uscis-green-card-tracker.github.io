@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1vin89z",
+      "title": "EB2-NIW I-485 Timeline (Principal + Dependent) – Approved Without Interview 🎉",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vin89z/eb2niw_i485_timeline_principal_dependent_approved/",
+      "author": "/u/ClassroomLive5994",
+      "publishedAt": "2026-08-08T05:15:19+00:00",
+      "excerpt": "I wanted to share my complete timeline since reading other people's posts helped me a lot during this process. Background Category: EB2-NIW Priority Date (PD): February 2024 I-140 Approved: June 2025 I-485 Filed (Principal + Dependent): November 2025 Case Transferred to: San Bernardino Non-Local Field Office Timeline F…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vi8kzl",
       "title": "EB2NIW I1-40 Approved after Prong 2&3 RFE, ALSO concurrently filed I-485 (DIY)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi8kzl/eb2niw_i140_approved_after_prong_23_rfe_also/",
@@ -48,26 +68,6 @@
         "lawyer",
         "timeline",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vin89z",
-      "title": "EB2-NIW I-485 Timeline (Principal + Dependent) – Approved Without Interview 🎉",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vin89z/eb2niw_i485_timeline_principal_dependent_approved/",
-      "author": "/u/ClassroomLive5994",
-      "publishedAt": "2026-08-08T05:15:19+00:00",
-      "excerpt": "I wanted to share my complete timeline since reading other people's posts helped me a lot during this process. Background Category: EB2-NIW Priority Date (PD): February 2024 I-140 Approved: June 2025 I-485 Filed (Principal + Dependent): November 2025 Case Transferred to: San Bernardino Non-Local Field Office Timeline F…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -139,26 +139,6 @@
       "publishedAt": "2026-08-07T15:27:29+00:00",
       "excerpt": "Hi everyone! For my NIW case, the RFE response deadline was July 30th. It was finally delivered on the morning of the 29th, as my lawyer kept delaying and making mistakes right up until the last minute. What worries me is that the case status hasn't been updated. It's still showing \"RFE\" instead of \"RFE Response Receiv…",
       "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vi84m7",
-      "title": "Need advice on law firm (non-researcher profile)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi84m7/need_advice_on_law_firm_nonresearcher_profile/",
-      "author": "/u/Nice_Case6420",
-      "publishedAt": "2026-08-07T18:09:18+00:00",
-      "excerpt": "So about me, I have an MS in EE from a well known US school and 5 YOE EE experience in top semiconductor companies. Currently working at a high growth startup which caters heavily to defense so it feels like my work has a good correlation with “national importance”. I have close to 40 citations and some peer reviewing …",
-      "topics": [
-        "approval",
         "i140",
         "lawyer",
         "question"
@@ -288,6 +268,26 @@
       "publishedAt": "2026-08-07T01:08:38+00:00",
       "excerpt": "Hey all, I submitted eb2 niw twice based on my skills not PERM and got rejected. Each with a different attorney. They said its a good profile but also rejection rate is increasing, the attorney said we should try again but honestly i dont have tge mental and financial power to redo the whole thing again. My question is…",
       "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vi84m7",
+      "title": "Need advice on law firm (non-researcher profile)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi84m7/need_advice_on_law_firm_nonresearcher_profile/",
+      "author": "/u/Nice_Case6420",
+      "publishedAt": "2026-08-07T18:09:18+00:00",
+      "excerpt": "So about me, I have an MS in EE from a well known US school and 5 YOE EE experience in top semiconductor companies. Currently working at a high growth startup which caters heavily to defense so it feels like my work has a good correlation with “national importance”. I have close to 40 citations and some peer reviewing …",
+      "topics": [
+        "approval",
         "i140",
         "lawyer",
         "question"
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-08T11:19:53.874Z",
+  "syncedAt": "2026-08-08T12:25:56.730Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
