@@ -74,6 +74,23 @@
       }
     },
     {
+      "id": "t3_1vj6ne4",
+      "title": "Research Collaboration & Citation Opportunity",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vj6ne4/research_collaboration_citation_opportunity/",
+      "author": "/u/hamzaikramch7",
+      "publishedAt": "2026-08-08T20:47:30+00:00",
+      "excerpt": "I am currently preparing a response to an RFE (Request for Evidence) for my EB-2 NIW case and am looking to connect with researchers publishing papers related to Cybersecurity in Healthcare . If you are currently preparing or publishing research in this field and may find my work relevant for citation, please feel free…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vj4u2p",
       "title": "Physician NIW + J-1 waiver: Can we file I-485 now while H-1B/H-4 COS and I-140 are still pending, so spouse can get C09 EAD?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vj4u2p/physician_niw_j1_waiver_can_we_file_i485_now/",
@@ -449,28 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1vhryj4",
-      "title": "August 3rd premium upgrade I-140?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vhryj4/august_3rd_premium_upgrade_i140/",
-      "author": "/u/EnthusiasmPossible75",
-      "publishedAt": "2026-08-07T05:41:15+00:00",
-      "excerpt": "Anyone recently upgraded their pending I-140 to premium? Nebraska? How long did you wait to receive a decision?",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-08T20:16:57.730Z",
+  "syncedAt": "2026-08-08T21:20:06.048Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
