@@ -57,24 +57,6 @@
       }
     },
     {
-      "id": "t3_1vilnei",
-      "title": "NIW RFE challenging all three prongs despite 57 publications — routine or concerning?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vilnei/niw_rfe_challenging_all_three_prongs_despite_57/",
-      "author": "/u/Outrageous_Driver556",
-      "publishedAt": "2026-08-08T03:52:59+00:00",
-      "excerpt": "I received an RFE on a self-prepared EB-2 NIW petition filed with premium processing (both on-line)and consular processing. I am currently outside the United States and did not identify a specific U.S. employer. Profile at filing: 06/05/2026 PD 08/06/2026 RFE decision M.D./Ph.D., board-certified dermatologist Associate…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "08/06/2026",
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vin89z",
       "title": "EB2-NIW I-485 Timeline (Principal + Dependent) – Approved Without Interview 🎉",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vin89z/eb2niw_i485_timeline_principal_dependent_approved/",
@@ -91,6 +73,24 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vilnei",
+      "title": "NIW RFE challenging all three prongs despite 57 publications — routine or concerning?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vilnei/niw_rfe_challenging_all_three_prongs_despite_57/",
+      "author": "/u/Outrageous_Driver556",
+      "publishedAt": "2026-08-08T03:52:59+00:00",
+      "excerpt": "I received an RFE on a self-prepared EB-2 NIW petition filed with premium processing (both on-line)and consular processing. I am currently outside the United States and did not identify a specific U.S. employer. Profile at filing: 06/05/2026 PD 08/06/2026 RFE decision M.D./Ph.D., board-certified dermatologist Associate…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "08/06/2026",
         "mentionsCountry75": false
       }
     },
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-08T09:27:28.154Z",
+  "syncedAt": "2026-08-08T10:20:47.164Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
