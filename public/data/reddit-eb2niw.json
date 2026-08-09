@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1vjo8rh",
-      "title": "Lawyer or Law firm recommendations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjo8rh/lawyer_or_law_firm_recommendations/",
-      "author": "/u/Cliff23434312",
-      "publishedAt": "2026-08-09T12:08:41+00:00",
-      "excerpt": "Looking for a good EB-2 NIW lawyer. My profile: Currently working as a scientist in industry No publications Most evidence would come from industry work and recommendation letters Looking for someone experienced with non-academic NIW cases If you had a similar profile, which lawyer did you use and would you recommend t…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vjhanr",
       "title": "What I learned about EB2NIW after 3 years of browsing...",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjhanr/what_i_learned_about_eb2niw_after_3_years_of/",
@@ -73,15 +54,15 @@
       }
     },
     {
-      "id": "t3_1vjqxtv",
-      "title": "I485 biometric",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjqxtv/i485_biometric/",
-      "author": "/u/UnfairBrain4776",
-      "publishedAt": "2026-08-09T14:13:21+00:00",
-      "excerpt": "Hi everyone! Chicago lockbox received my petition 23 July 2026. I haven’t received biometric appointment yet. Has anyone received the appointment with same priority date?",
+      "id": "t3_1vjo8rh",
+      "title": "Lawyer or Law firm recommendations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjo8rh/lawyer_or_law_firm_recommendations/",
+      "author": "/u/Cliff23434312",
+      "publishedAt": "2026-08-09T12:08:41+00:00",
+      "excerpt": "Looking for a good EB-2 NIW lawyer. My profile: Currently working as a scientist in industry No publications Most evidence would come from industry work and recommendation letters Looking for someone experienced with non-academic NIW cases If you had a similar profile, which lawyer did you use and would you recommend t…",
       "topics": [
-        "i485",
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -92,15 +73,15 @@
       }
     },
     {
-      "id": "t3_1vjs38f",
-      "title": "For Chen: I have question What's the difference between a approval or refund And approval or refund?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjs38f/for_chen_i_have_question_whats_the_difference/",
-      "author": "/u/Effective_Weight4274",
-      "publishedAt": "2026-08-09T15:01:18+00:00",
-      "excerpt": "",
+      "id": "t3_1vjqxtv",
+      "title": "I485 biometric",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjqxtv/i485_biometric/",
+      "author": "/u/UnfairBrain4776",
+      "publishedAt": "2026-08-09T14:13:21+00:00",
+      "excerpt": "Hi everyone! Chicago lockbox received my petition 23 July 2026. I haven’t received biometric appointment yet. Has anyone received the appointment with same priority date?",
       "topics": [
-        "approval",
-        "lawyer",
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -139,6 +120,25 @@
       "topics": [
         "approval",
         "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vjs38f",
+      "title": "For Chen: I have question What's the difference between a approval or refund And approval or refund?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjs38f/for_chen_i_have_question_whats_the_difference/",
+      "author": "/u/Effective_Weight4274",
+      "publishedAt": "2026-08-09T15:01:18+00:00",
+      "excerpt": "",
+      "topics": [
+        "approval",
         "lawyer",
         "question"
       ],
@@ -472,7 +472,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-09T16:21:57.197Z",
+  "syncedAt": "2026-08-09T17:21:23.919Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
