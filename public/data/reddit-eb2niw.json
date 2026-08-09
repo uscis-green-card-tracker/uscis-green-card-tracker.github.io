@@ -133,25 +133,6 @@
       }
     },
     {
-      "id": "t3_1viy430",
-      "title": "Independent recommendation letter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1viy430/independent_recommendation_letter/",
-      "author": "/u/omaratef3221",
-      "publishedAt": "2026-08-08T14:57:07+00:00",
-      "excerpt": "I got an RFE for all 3 prongs. (Working with Chen). I am in AI Field and I hold a MSc in AI. I have more than 500 citations and I am interested in getting some independent recommendation letters. I would love if anyone in the AI field in US here can help me with that or if you can connect me to someone who is willing t…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vi8kzl",
       "title": "EB2NIW I1-40 Approved after Prong 2&3 RFE, ALSO concurrently filed I-485 (DIY)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi8kzl/eb2niw_i140_approved_after_prong_23_rfe_also/",
@@ -164,6 +145,25 @@
         "i140",
         "lawyer",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1viy430",
+      "title": "Independent recommendation letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1viy430/independent_recommendation_letter/",
+      "author": "/u/omaratef3221",
+      "publishedAt": "2026-08-08T14:57:07+00:00",
+      "excerpt": "I got an RFE for all 3 prongs. (Working with Chen). I am in AI Field and I hold a MSc in AI. I have more than 500 citations and I am interested in getting some independent recommendation letters. I would love if anyone in the AI field in US here can help me with that or if you can connect me to someone who is willing t…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -470,7 +470,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-08T23:18:17.559Z",
+  "syncedAt": "2026-08-09T00:55:53.415Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
