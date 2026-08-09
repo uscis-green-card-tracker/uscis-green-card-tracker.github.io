@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1vjhanr",
-      "title": "What I learned about EB2NIW after 3 years of browsing...",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjhanr/what_i_learned_about_eb2niw_after_3_years_of/",
-      "author": "/u/EbbAvailable4338",
-      "publishedAt": "2026-08-09T05:26:06+00:00",
-      "excerpt": "The officers issue RFEs which are templated and often dont include information about your case, but someone elses - extremely unprofessional People here are stressed tf out about their cases and all they want to know is clues about someone else's PE and if they got approved The decision is entirely discretional to the …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vjo8rh",
       "title": "Lawyer or Law firm recommendations",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjo8rh/lawyer_or_law_firm_recommendations/",
@@ -73,16 +54,16 @@
       }
     },
     {
-      "id": "t3_1vjs38f",
-      "title": "For Chen: I have question What's the difference between a approval or refund And approval or refund?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjs38f/for_chen_i_have_question_whats_the_difference/",
-      "author": "/u/Effective_Weight4274",
-      "publishedAt": "2026-08-09T15:01:18+00:00",
-      "excerpt": "",
+      "id": "t3_1vjhanr",
+      "title": "What I learned about EB2NIW after 3 years of browsing...",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjhanr/what_i_learned_about_eb2niw_after_3_years_of/",
+      "author": "/u/EbbAvailable4338",
+      "publishedAt": "2026-08-09T05:26:06+00:00",
+      "excerpt": "The officers issue RFEs which are templated and often dont include information about your case, but someone elses - extremely unprofessional People here are stressed tf out about their cases and all they want to know is clues about someone else's PE and if they got approved The decision is entirely discretional to the …",
       "topics": [
         "approval",
-        "lawyer",
-        "question"
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -101,6 +82,25 @@
       "topics": [
         "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vjs38f",
+      "title": "For Chen: I have question What's the difference between a approval or refund And approval or refund?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjs38f/for_chen_i_have_question_whats_the_difference/",
+      "author": "/u/Effective_Weight4274",
+      "publishedAt": "2026-08-09T15:01:18+00:00",
+      "excerpt": "",
+      "topics": [
+        "approval",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -472,7 +472,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-09T15:21:19.296Z",
+  "syncedAt": "2026-08-09T16:21:57.197Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
