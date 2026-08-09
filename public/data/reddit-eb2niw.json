@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1vk2zht",
+      "title": "Government support letters for EB-2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk2zht/government_support_letters_for_eb2_niw/",
+      "author": "/u/khndusbsj",
+      "publishedAt": "2026-08-09T22:16:25+00:00",
+      "excerpt": "I’ve noticed that recently, several EB-2 NIW RFEs seem to be asking for or placing more emphasis on letters of support from U.S. government agencies or government officials, especially letters supporting the proposed endeavor and its national importance. For those who have received a similar RFE or included this type o…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vk0qfk",
       "title": "March 2026 EB2-NIW (F-1) — EAD/AP approved, I-485 at Seattle FO. Anyone with a similar timeline?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk0qfk/march_2026_eb2niw_f1_eadap_approved_i485_at/",
@@ -458,28 +476,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vip553",
-      "title": "I-485 API timestamp changed twice after interview, but no case status update — anyone experienced this?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vip553/i485_api_timestamp_changed_twice_after_interview/",
-      "author": "/u/Difficult_Ad_9971",
-      "publishedAt": "2026-08-08T07:03:48+00:00",
-      "excerpt": "I completed my I-485 interview about 4 days ago. The officer gave me a notice saying my case is being held for review and that no further documents are required at this time. He said hopefully I would hear back \"sooner rather than later.\" He also verbally asked me to upload my educational documents, which I did after t…",
-      "topics": [
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-09T21:21:27.335Z",
+  "syncedAt": "2026-08-09T22:19:04.541Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
