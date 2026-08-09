@@ -54,6 +54,25 @@
       }
     },
     {
+      "id": "t3_1vjo8rh",
+      "title": "Lawyer or Law firm recommendations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjo8rh/lawyer_or_law_firm_recommendations/",
+      "author": "/u/Cliff23434312",
+      "publishedAt": "2026-08-09T12:08:41+00:00",
+      "excerpt": "Looking for a good EB-2 NIW lawyer. My profile: Currently working as a scientist in industry No publications Most evidence would come from industry work and recommendation letters Looking for someone experienced with non-academic NIW cases If you had a similar profile, which lawyer did you use and would you recommend t…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vjg6az",
       "title": "Self-file or attorney?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjg6az/selffile_or_attorney/",
@@ -209,6 +228,25 @@
       }
     },
     {
+      "id": "t3_1vivbju",
+      "title": "How did you use AI for your EB-2 NIW application?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vivbju/how_did_you_use_ai_for_your_eb2_niw_application/",
+      "author": "/u/Cliff23434312",
+      "publishedAt": "2026-08-08T12:55:20+00:00",
+      "excerpt": "For those who filed or are preparing an EB-2 NIW petition, did you use AI during the process? If so, which AI tools did you use: ChatGPT, Claude, Gemini, Perplexity, or something else? I’m especially interested in how you used AI for: Organizing the petition and evidence Refining the proposed endeavor Drafting or revie…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vi8kzl",
       "title": "EB2NIW I1-40 Approved after Prong 2&3 RFE, ALSO concurrently filed I-485 (DIY)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi8kzl/eb2niw_i140_approved_after_prong_23_rfe_also/",
@@ -257,25 +295,6 @@
       "publishedAt": "2026-08-08T13:58:34+00:00",
       "excerpt": "During sending I-140 by mail to USCIS, do you have to send two copies of ETA-9089 Appendix A, ETA-9089 Final Determination? Is there any other forms to attach apart from payment forms?",
       "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vivbju",
-      "title": "How did you use AI for your EB-2 NIW application?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vivbju/how_did_you_use_ai_for_your_eb2_niw_application/",
-      "author": "/u/Cliff23434312",
-      "publishedAt": "2026-08-08T12:55:20+00:00",
-      "excerpt": "For those who filed or are preparing an EB-2 NIW petition, did you use AI during the process? If so, which AI tools did you use: ChatGPT, Claude, Gemini, Perplexity, or something else? I’m especially interested in how you used AI for: Organizing the petition and evidence Refining the proposed endeavor Drafting or revie…",
-      "topics": [
-        "approval",
         "i140",
         "question"
       ],
@@ -449,28 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1viauwz",
-      "title": "Law Firm choice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1viauwz/law_firm_choice/",
-      "author": "/u/Dramatic_Gate1310",
-      "publishedAt": "2026-08-07T19:50:59+00:00",
-      "excerpt": "Hi! I'm currently in the US with F-1 visa, I'm in my OPT STEM extension and this is going to end on January 2027 (so I don't have much time to change my status). For a while I have been thinking in applying to EB2-NIW so I can get a residence and take advantage of it being current so I can stay in the US after January …",
-      "topics": [
-        "i485",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-09T11:20:40.481Z",
+  "syncedAt": "2026-08-09T12:28:36.923Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
