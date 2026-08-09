@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1vjx7mq",
+      "title": "I received my i140 NIW approval notice on June 2025, but NOW USCIS case status online shows a different date!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjx7mq/i_received_my_i140_niw_approval_notice_on_june/",
+      "author": "/u/Momishroom",
+      "publishedAt": "2026-08-09T18:23:35+00:00",
+      "excerpt": "Hi everyone, I am experiencing an odd issue with USCIS and came here to ask if anyone had the similar issue! I have received physical approval notice of my NIW on June 2025. A few days ago I checked USCIS Case Status Online tool and I saw it says \"On January 15, 2026 , we approved your Form I-140, Immigrant Petition fo…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vjo8rh",
       "title": "Lawyer or Law firm recommendations",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjo8rh/lawyer_or_law_firm_recommendations/",
@@ -73,17 +93,15 @@
       }
     },
     {
-      "id": "t3_1vjx7mq",
-      "title": "I received my i140 NIW approval notice on June 2025, but NOW USCIS case status online shows a different date!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjx7mq/i_received_my_i140_niw_approval_notice_on_june/",
-      "author": "/u/Momishroom",
-      "publishedAt": "2026-08-09T18:23:35+00:00",
-      "excerpt": "Hi everyone, I am experiencing an odd issue with USCIS and came here to ask if anyone had the similar issue! I have received physical approval notice of my NIW on June 2025. A few days ago I checked USCIS Case Status Online tool and I saw it says \"On January 15, 2026 , we approved your Form I-140, Immigrant Petition fo…",
+      "id": "t3_1vjxnzc",
+      "title": "Has any self-filer using premium processing been approved in under 40 days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjxnzc/has_any_selffiler_using_premium_processing_been/",
+      "author": "/u/Patient_Ad1152",
+      "publishedAt": "2026-08-09T18:41:12+00:00",
+      "excerpt": "I wonder how rare it is to get approved in just like 10 or 20 days for PP. best regards",
       "topics": [
         "approval",
-        "i140",
-        "lawyer",
-        "question"
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -452,28 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vi3qi8",
-      "title": "RFE status still shows unreceived, should I worry about denial?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vi3qi8/rfe_status_still_shows_unreceived_should_i_worry/",
-      "author": "/u/Outrageous_Honey_849",
-      "publishedAt": "2026-08-07T15:27:29+00:00",
-      "excerpt": "Hi everyone! For my NIW case, the RFE response deadline was July 30th. It was finally delivered on the morning of the 29th, as my lawyer kept delaying and making mistakes right up until the last minute. What worries me is that the case status hasn't been updated. It's still showing \"RFE\" instead of \"RFE Response Receiv…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-09T18:24:30.389Z",
+  "syncedAt": "2026-08-09T19:24:40.106Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
