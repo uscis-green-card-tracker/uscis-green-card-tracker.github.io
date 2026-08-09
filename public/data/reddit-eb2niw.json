@@ -35,16 +35,17 @@
       }
     },
     {
-      "id": "t3_1vjx7mq",
-      "title": "I received my i140 NIW approval notice on June 2025, but NOW USCIS case status online shows a different date!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjx7mq/i_received_my_i140_niw_approval_notice_on_june/",
-      "author": "/u/Momishroom",
-      "publishedAt": "2026-08-09T18:23:35+00:00",
-      "excerpt": "Hi everyone, I am experiencing an odd issue with USCIS and came here to ask if anyone had the similar issue! I have received physical approval notice of my NIW on June 2025. A few days ago I checked USCIS Case Status Online tool and I saw it says \"On January 15, 2026 , we approved your Form I-140, Immigrant Petition fo…",
+      "id": "t3_1vk0qfk",
+      "title": "March 2026 EB2-NIW (F-1) — EAD/AP approved, I-485 at Seattle FO. Anyone with a similar timeline?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk0qfk/march_2026_eb2niw_f1_eadap_approved_i485_at/",
+      "author": "/u/Weekly-Ad5697",
+      "publishedAt": "2026-08-09T20:42:26+00:00",
+      "excerpt": "Hi everyone, I’m a self-petitioned EB2-NIW applicant , currently on F-1 status . I filed my I-485 as a single applicant (no spouse/dependents) . Just wanted to see if anyone has a similar timeline, especially cases processed at the Seattle Field Office. My timeline: EB2-NIW, self-petitioned (ROW) Current status: F-1 Si…",
       "topics": [
         "approval",
+        "i485",
         "i140",
-        "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -141,6 +142,26 @@
       "topics": [
         "approval",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vjx7mq",
+      "title": "I received my i140 NIW approval notice on June 2025, but NOW USCIS case status online shows a different date!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjx7mq/i_received_my_i140_niw_approval_notice_on_june/",
+      "author": "/u/Momishroom",
+      "publishedAt": "2026-08-09T18:23:35+00:00",
+      "excerpt": "Hi everyone, I am experiencing an odd issue with USCIS and came here to ask if anyone had the similar issue! I have received physical approval notice of my NIW on June 2025. A few days ago I checked USCIS Case Status Online tool and I saw it says \"On January 15, 2026 , we approved your Form I-140, Immigrant Petition fo…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -456,27 +477,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vj2da6",
-      "title": "EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vj2da6/eb2_niw/",
-      "author": "/u/EitherLemon3388",
-      "publishedAt": "2026-08-08T17:50:25+00:00",
-      "excerpt": "I keep seeing people describe EB-2 NIW as \"a green card without an employer,\" but that description can be misleading. Yes, NIW can allow self-petitioning. The central challenge is proving that the work itself has broader U.S. importance and that the person is well positioned to advance it. A strong profile is usually n…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-09T20:19:51.289Z",
+  "syncedAt": "2026-08-09T21:21:27.335Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
