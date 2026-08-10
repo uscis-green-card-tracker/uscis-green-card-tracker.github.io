@@ -72,6 +72,23 @@
       }
     },
     {
+      "id": "t3_1vkzdub",
+      "title": "Claude will now invisibly watermark AI-generated text so it can be detected after being copied & pasted.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkzdub/claude_will_now_invisibly_watermark_aigenerated/",
+      "author": "/u/tomerh120",
+      "publishedAt": "2026-08-10T22:25:15+00:00",
+      "excerpt": "Probably asked by USCIS 😂. So be careful guys. https://x.com/Polymarket/status/2086930292971917563?s=20",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vkxyed",
       "title": "WIC and Medicaid for I-485",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkxyed/wic_and_medicaid_for_i485/",
@@ -107,13 +124,33 @@
       }
     },
     {
-      "id": "t3_1vkzdub",
-      "title": "Claude will now invisibly watermark AI-generated text so it can be detected after being copied & pasted.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkzdub/claude_will_now_invisibly_watermark_aigenerated/",
-      "author": "/u/tomerh120",
-      "publishedAt": "2026-08-10T22:25:15+00:00",
-      "excerpt": "Probably asked by USCIS 😂. So be careful guys. https://x.com/Polymarket/status/2086930292971917563?s=20",
+      "id": "t3_1vl0sdy",
+      "title": "EP or Manifest?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl0sdy/ep_or_manifest/",
+      "author": "/u/Cliff23434312",
+      "publishedAt": "2026-08-10T23:23:32+00:00",
+      "excerpt": "Would appreciate you commenting your experience if you used either one of them thank you",
       "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vl0r3h",
+      "title": "After what timeline your profile comes out of RFE window ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl0r3h/after_what_timeline_your_profile_comes_out_of_rfe/",
+      "author": "/u/MiddleGovernment5977",
+      "publishedAt": "2026-08-10T23:22:02+00:00",
+      "excerpt": "Is there any criteria USCIS follows that we can expect no rfe after a certain timeline or you can get it anytime during the waiting period?",
+      "topics": [
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -422,47 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vjo8rh",
-      "title": "Lawyer or Law firm recommendations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjo8rh/lawyer_or_law_firm_recommendations/",
-      "author": "/u/Cliff23434312",
-      "publishedAt": "2026-08-09T12:08:41+00:00",
-      "excerpt": "Looking for a good EB-2 NIW lawyer. My profile: Currently working as a scientist in industry No publications Most evidence would come from industry work and recommendation letters Looking for someone experienced with non-academic NIW cases If you had a similar profile, which lawyer did you use and would you recommend t…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vjzifg",
-      "title": "Transfer to f-1 after i140???",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjzifg/transfer_to_f1_after_i140/",
-      "author": "/u/OkChAyeah17",
-      "publishedAt": "2026-08-09T19:53:36+00:00",
-      "excerpt": "“I have I-485 pending and I-140 RFE pending. If I transfer my SEVIS to Ivy Tech and maintain an active F-1 I-20 while the I-485/I-140 are still pending (but don’t file I-539), it just transfer, would USCIS interpret that as abandonment of my adjustment application? Would it hurt my case? I just don’t want to be illegal…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-10T22:26:08.581Z",
+  "syncedAt": "2026-08-10T23:25:24.354Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
