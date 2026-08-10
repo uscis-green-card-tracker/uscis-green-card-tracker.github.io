@@ -262,6 +262,23 @@
       }
     },
     {
+      "id": "t3_1vk4nmp",
+      "title": "I-140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk4nmp/i140/",
+      "author": "/u/MudassarH4823",
+      "publishedAt": "2026-08-09T23:29:15+00:00",
+      "excerpt": "Anyone who did PP in July.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vjhanr",
       "title": "What I learned about EB2NIW after 3 years of browsing...",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjhanr/what_i_learned_about_eb2niw_after_3_years_of/",
@@ -272,23 +289,6 @@
         "approval",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vk4nmp",
-      "title": "I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk4nmp/i140/",
-      "author": "/u/MudassarH4823",
-      "publishedAt": "2026-08-09T23:29:15+00:00",
-      "excerpt": "Anyone who did PP in July.",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -472,7 +472,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-10T16:42:19.778Z",
+  "syncedAt": "2026-08-10T17:42:39.380Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
