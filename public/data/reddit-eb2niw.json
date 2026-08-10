@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1vkpbqk",
+      "title": "Revised Proposed Endeavor after RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkpbqk/revised_proposed_endeavor_after_rfe/",
+      "author": "/u/ElderberryOk5664",
+      "publishedAt": "2026-08-10T16:15:13+00:00",
+      "excerpt": "Hello altruists, I am writing a revised proposed endeavor to address a 3 prong RFE. I have added my newly published projects as well as I am trying to provide evidence to back up the national importance of my research. However, I am concerned about the page limit. It has already been 5/6 pages. Should I compress it mor…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vkkvj8",
       "title": "My case is at a local FO, I am trying to understand if this means an interview is a must",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkkvj8/my_case_is_at_a_local_fo_i_am_trying_to/",
@@ -451,28 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vjheng",
-      "title": "Can Anyone Please share their experience with Chen Approved or Refund offer ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjheng/can_anyone_please_share_their_experience_with/",
-      "author": "/u/Wise_While2907",
-      "publishedAt": "2026-08-09T05:32:28+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-10T15:50:41.912Z",
+  "syncedAt": "2026-08-10T16:42:19.778Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
