@@ -54,6 +54,25 @@
       }
     },
     {
+      "id": "t3_1vkwb6d",
+      "title": "How long between EAD approval and I 485?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkwb6d/how_long_between_ead_approval_and_i_485/",
+      "author": "/u/JahWins",
+      "publishedAt": "2026-08-10T20:26:22+00:00",
+      "excerpt": "I submitted I 485, AP, and EAD together Oct 2025. My EAD just got approved standalone and now waiting for a decision on my I 485 and AP. How long would it take from your experiences?",
+      "topics": [
+        "approval",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vktbfd",
       "title": "Manchester FO?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vktbfd/manchester_fo/",
@@ -450,29 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vj8l8z",
-      "title": "Resident Physician",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vj8l8z/resident_physician/",
-      "author": "/u/Life_Store_8482",
-      "publishedAt": "2026-08-08T22:12:33+00:00",
-      "excerpt": "I'm currently an emergency medicine resident physician. I am planning to apply for the EB2-NIW visa. Originally, I wanted to do it once I'm an attending, but I need to quickly stabilize my current legal status. Has anyone completed it as a resident, or do you know someone who completed it as a resident physician and wa…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-10T19:47:22.648Z",
+  "syncedAt": "2026-08-10T20:31:03.708Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
