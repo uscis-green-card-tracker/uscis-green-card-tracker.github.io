@@ -72,6 +72,26 @@
       }
     },
     {
+      "id": "t3_1vkmvru",
+      "title": "NIW with 0 publications",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkmvru/niw_with_0_publications/",
+      "author": "/u/madnoodles1989",
+      "publishedAt": "2026-08-10T14:45:43+00:00",
+      "excerpt": "Hi folks, I'm quite new to this and need your help. Looks like you all are researchers or have tons of publications, my background is kind of weak and is pure industry. I have 13years of working experience, served as director of data science at big tech companies, but got cut due to cost reduction lately. I can still s…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vkkkh7",
       "title": "Chen - approval analysis on Approval or refile",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkkkh7/chen_approval_analysis_on_approval_or_refile/",
@@ -184,24 +204,6 @@
       }
     },
     {
-      "id": "t3_1vk6awb",
-      "title": "Can anyone share their experience with Alma immigration for niw?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk6awb/can_anyone_share_their_experience_with_alma/",
-      "author": "/u/CrewComprehensive561",
-      "publishedAt": "2026-08-10T00:44:23+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vk0qfk",
       "title": "March 2026 EB2-NIW (F-1) — EAD/AP approved, I-485 at Seattle FO. Anyone with a similar timeline?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk0qfk/march_2026_eb2niw_f1_eadap_approved_i485_at/",
@@ -223,14 +225,15 @@
       }
     },
     {
-      "id": "t3_1vk4nmp",
-      "title": "I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk4nmp/i140/",
-      "author": "/u/MudassarH4823",
-      "publishedAt": "2026-08-09T23:29:15+00:00",
-      "excerpt": "Anyone who did PP in July.",
+      "id": "t3_1vk6awb",
+      "title": "Can anyone share their experience with Alma immigration for niw?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk6awb/can_anyone_share_their_experience_with_alma/",
+      "author": "/u/CrewComprehensive561",
+      "publishedAt": "2026-08-10T00:44:23+00:00",
+      "excerpt": "",
       "topics": [
-        "i140"
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -250,6 +253,23 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vk4nmp",
+      "title": "I-140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk4nmp/i140/",
+      "author": "/u/MudassarH4823",
+      "publishedAt": "2026-08-09T23:29:15+00:00",
+      "excerpt": "Anyone who did PP in July.",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -450,27 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vjd3ip",
-      "title": "When do you receive PP receipt",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjd3ip/when_do_you_receive_pp_receipt/",
-      "author": "/u/No_Bird_4819",
-      "publishedAt": "2026-08-09T01:45:01+00:00",
-      "excerpt": "My PP for NIW was delivered on 22nd, July. And the money is charged on 24th. But I didn’t receive anything after that. No email nor text. No mail receipt. No status change in tracker. Is this normal? If I still have received my receipt, what should I do? I contacted Emma, and she said even without a receipt my case sho…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-10T14:12:57.569Z",
+  "syncedAt": "2026-08-10T15:50:41.912Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
