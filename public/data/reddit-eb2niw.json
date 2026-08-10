@@ -35,24 +35,6 @@
       }
     },
     {
-      "id": "t3_1vk2zht",
-      "title": "Government support letters for EB-2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk2zht/government_support_letters_for_eb2_niw/",
-      "author": "/u/khndusbsj",
-      "publishedAt": "2026-08-09T22:16:25+00:00",
-      "excerpt": "I’ve noticed that recently, several EB-2 NIW RFEs seem to be asking for or placing more emphasis on letters of support from U.S. government agencies or government officials, especially letters supporting the proposed endeavor and its national importance. For those who have received a similar RFE or included this type o…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vk65vd",
       "title": "EB-2 NIW – October 2024 cases WITHOUT Premium Processing",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk65vd/eb2_niw_october_2024_cases_without_premium/",
@@ -63,6 +45,24 @@
         "approval",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vk2zht",
+      "title": "Government support letters for EB-2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk2zht/government_support_letters_for_eb2_niw/",
+      "author": "/u/khndusbsj",
+      "publishedAt": "2026-08-09T22:16:25+00:00",
+      "excerpt": "I’ve noticed that recently, several EB-2 NIW RFEs seem to be asking for or placing more emphasis on letters of support from U.S. government agencies or government officials, especially letters supporting the proposed endeavor and its national importance. For those who have received a similar RFE or included this type o…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -474,7 +474,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-10T07:09:57.259Z",
+  "syncedAt": "2026-08-10T09:06:50.603Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
