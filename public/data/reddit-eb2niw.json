@@ -54,6 +54,25 @@
       }
     },
     {
+      "id": "t3_1vktbfd",
+      "title": "Manchester FO?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vktbfd/manchester_fo/",
+      "author": "/u/Low-Style7519",
+      "publishedAt": "2026-08-10T18:37:17+00:00",
+      "excerpt": "Hi everyone, I’m curious to know if anyone has experience with Manchester FO. According to Emma, my I-485 was transferred to Manchester FO (non-local) in June, but I haven’t received any updates since then. Eb2 NIW category I140 priority date - December 30, 2024 I 485 received date - April 6, 2026",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vkkvj8",
       "title": "My case is at a local FO, I am trying to understand if this means an interview is a must",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkkvj8/my_case_is_at_a_local_fo_i_am_trying_to/",
@@ -451,28 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vjs38f",
-      "title": "For Chen: I have question What's the difference between a approval or refund And approval or refund?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjs38f/for_chen_i_have_question_whats_the_difference/",
-      "author": "/u/Effective_Weight4274",
-      "publishedAt": "2026-08-09T15:01:18+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-10T17:42:39.380Z",
+  "syncedAt": "2026-08-10T18:41:52.060Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
