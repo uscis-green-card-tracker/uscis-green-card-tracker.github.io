@@ -54,6 +54,77 @@
       }
     },
     {
+      "id": "t3_1vkxyed",
+      "title": "WIC and Medicaid for I-485",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkxyed/wic_and_medicaid_for_i485/",
+      "author": "/u/KindWatercress5675",
+      "publishedAt": "2026-08-10T21:28:25+00:00",
+      "excerpt": "https://preview.redd.it/pq5kzruv7mih1.png?width=2476&format=png&auto=webp&s=7085adb13eda1a8f5ff2e27a6fd974bf2a6a1da0 If my wife got WIC and Medicaid, do we need to answer yes here? I asked Claude and Gemini, and they said no",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vkwwe0",
+      "title": "Anyone got a result from June 8th PP filing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkwwe0/anyone_got_a_result_from_june_8th_pp_filing/",
+      "author": "/u/DeepBlue_5",
+      "publishedAt": "2026-08-10T20:48:13+00:00",
+      "excerpt": "Hi All, I filled for EB2-NIW with PP on 8th Jun( on the USCIS official receipt ) . I am wondering if anyone with filing around 8th June has gotten their result as 12th August will be the 45th business day. Thank you!",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vkwpia",
+      "title": "XM2383 TSC anyone received decision recently from this officer?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkwpia/xm2383_tsc_anyone_received_decision_recently_from/",
+      "author": "/u/Worried_Win_2478",
+      "publishedAt": "2026-08-10T20:41:09+00:00",
+      "excerpt": "TSIA",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vkxox6",
+      "title": "Need feedback on profile for EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkxox6/need_feedback_on_profile_for_eb2_niw/",
+      "author": "/u/anonymous_batm_an",
+      "publishedAt": "2026-08-10T21:18:26+00:00",
+      "excerpt": "Hi- My sister is looking to apply for EB2NIW. Need some inputs on profile and also if you could recommend good attorneys that would be great. Education: Masters Work Ex: 12.6 years, working in a tech firm in Florida as a Senior Software Engineer Pubs: 0 Visa status: Currently on H1B Would love to get some feedback on i…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vkwb6d",
       "title": "How long between EAD approval and I 485?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkwb6d/how_long_between_ead_approval_and_i_485/",
@@ -300,23 +371,6 @@
       }
     },
     {
-      "id": "t3_1vk4nmp",
-      "title": "I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk4nmp/i140/",
-      "author": "/u/MudassarH4823",
-      "publishedAt": "2026-08-09T23:29:15+00:00",
-      "excerpt": "Anyone who did PP in July.",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vjhanr",
       "title": "What I learned about EB2NIW after 3 years of browsing...",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjhanr/what_i_learned_about_eb2niw_after_3_years_of/",
@@ -327,6 +381,23 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vk4nmp",
+      "title": "I-140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk4nmp/i140/",
+      "author": "/u/MudassarH4823",
+      "publishedAt": "2026-08-09T23:29:15+00:00",
+      "excerpt": "Anyone who did PP in July.",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -392,86 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vjxnzc",
-      "title": "Has any self-filer using premium processing been approved in under 40 days",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjxnzc/has_any_selffiler_using_premium_processing_been/",
-      "author": "/u/Patient_Ad1152",
-      "publishedAt": "2026-08-09T18:41:12+00:00",
-      "excerpt": "I wonder how rare it is to get approved in just like 10 or 20 days for PP. best regards",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vjx7mq",
-      "title": "I received my i140 NIW approval notice on June 2025, but NOW USCIS case status online shows a different date!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjx7mq/i_received_my_i140_niw_approval_notice_on_june/",
-      "author": "/u/Momishroom",
-      "publishedAt": "2026-08-09T18:23:35+00:00",
-      "excerpt": "Hi everyone, I am experiencing an odd issue with USCIS and came here to ask if anyone had the similar issue! I have received physical approval notice of my NIW on June 2025. A few days ago I checked USCIS Case Status Online tool and I saw it says \"On January 15, 2026 , we approved your Form I-140, Immigrant Petition fo…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vjqxtv",
-      "title": "I485 biometric",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjqxtv/i485_biometric/",
-      "author": "/u/UnfairBrain4776",
-      "publishedAt": "2026-08-09T14:13:21+00:00",
-      "excerpt": "Hi everyone! Chicago lockbox received my petition 23 July 2026. I haven’t received biometric appointment yet. Has anyone received the appointment with same priority date?",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vjg6az",
-      "title": "Self-file or attorney?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vjg6az/selffile_or_attorney/",
-      "author": "/u/Academic-Tomato8563",
-      "publishedAt": "2026-08-09T04:24:56+00:00",
-      "excerpt": "I am a PhD student in demography and health (sociology program) with a Master's in Statistics and Sociology and a BA from an Ivy League-like university from abroad (rising 5th year, plan to graduate after 6). I have 8 pubs (4 first-author; one is forthcoming in a top journal in my field, like top of the top) and 50ish …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-10T20:31:03.708Z",
+  "syncedAt": "2026-08-10T21:31:51.078Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
