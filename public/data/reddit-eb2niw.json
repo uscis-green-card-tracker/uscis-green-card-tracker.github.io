@@ -40,7 +40,7 @@
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vlp906/has_anyone_with_a_subpar_or_nonacademic_profile/",
       "author": "/u/ConsequenceNovel5879",
       "publishedAt": "2026-08-11T18:12:17+00:00",
-      "excerpt": "I’m trying to get a realistic sense of what’s actually possible outside of the typical PhD/researcher profiles I see on here. I have an MBA, several years of management consulting experience, and currently work in a FAANG in transportation/supply chain. I don’t have a PhD, publications, citations, major awards, or a hu…",
+      "excerpt": "I’m trying to get a realistic sense of what’s actually possible outside of the typical PhD/researcher profiles I see on here. I don’t have a PhD, publications, citations, major awards, or a huge list of academic accomplishments. I’m considering EB-2 NIW and potentially building my profile over the next 1–2 years, but I…",
       "topics": [
         "approval",
         "i140",
@@ -163,6 +163,23 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1vltshu",
+      "title": "RFE BECAUSE OF ETA FORMS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vltshu/rfe_because_of_eta_forms/",
+      "author": "/u/TAHIR_EB2NIW",
+      "publishedAt": "2026-08-11T20:56:50+00:00",
+      "excerpt": "Got all prongs satisfied except the ETA forms 😭😭",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -439,28 +456,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vkpbqk",
-      "title": "Revised Proposed Endeavor after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vkpbqk/revised_proposed_endeavor_after_rfe/",
-      "author": "/u/ElderberryOk5664",
-      "publishedAt": "2026-08-10T16:15:13+00:00",
-      "excerpt": "Hello altruists, I am writing a revised proposed endeavor to address a 3 prong RFE. I have added my newly published projects as well as I am trying to provide evidence to back up the national importance of my research. However, I am concerned about the page limit. It has already been 5/6 pages. Should I compress it mor…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-11T20:33:58.300Z",
+  "syncedAt": "2026-08-11T21:35:17.714Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
