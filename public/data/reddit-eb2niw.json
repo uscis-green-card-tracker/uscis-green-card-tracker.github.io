@@ -91,6 +91,21 @@
       }
     },
     {
+      "id": "t3_1vl8z5e",
+      "title": "Preparation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl8z5e/preparation/",
+      "author": "/u/MiddleLawfulness2207",
+      "publishedAt": "2026-08-11T05:55:56+00:00",
+      "excerpt": "I’m currently a CompSci undergrad sophomore planning to apply for eb2_niw in the future(probably during master or phd). Can I have some advice on what to prepare now and in the future. And when do i start applying.",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vl1hbq",
       "title": "Ellis Porter NIW free evaluation",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl1hbq/ellis_porter_niw_free_evaluation/",
@@ -442,28 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vk8acv",
-      "title": "EB2-NIW STATUS - SEPTEMBER 2025; without PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vk8acv/eb2niw_status_september_2025_without_pp/",
-      "author": "/u/Diligent-Bit8606",
-      "publishedAt": "2026-08-10T02:18:26+00:00",
-      "excerpt": "Anyone got the approval yet? Any change of status?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-11T05:51:25.593Z",
+  "syncedAt": "2026-08-11T06:47:39.701Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
