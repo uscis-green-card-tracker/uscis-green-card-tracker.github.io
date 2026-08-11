@@ -127,14 +127,15 @@
       }
     },
     {
-      "id": "t3_1vlovj5",
-      "title": "Please help! About prong 1: National importance",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vlovj5/please_help_about_prong_1_national_importance/",
-      "author": "/u/Enough_Difference528",
-      "publishedAt": "2026-08-11T17:59:28+00:00",
-      "excerpt": "I have a question about my NIW case and what I should do if I receive an RFE. If I receive an RFE, what happens next, and how should I approach strengthening my case rather than simply submitting additional documents? I currently work on a SUNY-funded grant as a graduate assistant. Although the grant is not federally f…",
+      "id": "t3_1vlv679",
+      "title": "EB-2 NIW (Industry Profile) - Ellis Porter accepted my case. Would you move forward or get more opinions?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vlv679/eb2_niw_industry_profile_ellis_porter_accepted_my/",
+      "author": "/u/Forsaken_Educator174",
+      "publishedAt": "2026-08-11T21:50:05+00:00",
+      "excerpt": "Hi everyone, I’m looking for some honest feedback from people who have gone through the EB-2 NIW process, especially those with an industry (non-academic) background. Here’s my profile: Indian citizen, currently in the U.S. on STEM OPT (moving to H-1B soon). M.S. in Computer Science from a U.S. university. Currently wo…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -163,6 +164,24 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1vlovj5",
+      "title": "Please help! About prong 1: National importance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vlovj5/please_help_about_prong_1_national_importance/",
+      "author": "/u/Enough_Difference528",
+      "publishedAt": "2026-08-11T17:59:28+00:00",
+      "excerpt": "I have a question about my NIW case and what I should do if I receive an RFE. If I receive an RFE, what happens next, and how should I approach strengthening my case rather than simply submitting additional documents? I currently work on a SUNY-funded grant as a graduate assistant. Although the grant is not federally f…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -438,27 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vl0sdy",
-      "title": "EP or Manifest?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl0sdy/ep_or_manifest/",
-      "author": "/u/Cliff23434312",
-      "publishedAt": "2026-08-10T23:23:32+00:00",
-      "excerpt": "Would appreciate you commenting your experience if you used either one of them thank you",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-11T21:35:17.714Z",
+  "syncedAt": "2026-08-11T22:31:38.127Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
