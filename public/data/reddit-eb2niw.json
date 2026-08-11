@@ -109,6 +109,24 @@
       }
     },
     {
+      "id": "t3_1vl5cci",
+      "title": "Any June filers?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl5cci/any_june_filers/",
+      "author": "/u/Sea_Manufacturer580",
+      "publishedAt": "2026-08-11T02:48:01+00:00",
+      "excerpt": "Hi, I was just wondering if there is any filer from June 15, 3026 that received a decision on their i-140 petition. Thanks.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vl8z5e",
       "title": "Preparation",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl8z5e/preparation/",
@@ -170,24 +188,6 @@
       "topics": [
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vl5cci",
-      "title": "Any June filers?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl5cci/any_june_filers/",
-      "author": "/u/Sea_Manufacturer580",
-      "publishedAt": "2026-08-11T02:48:01+00:00",
-      "excerpt": "Hi, I was just wondering if there is any filer from June 15, 3026 that received a decision on their i-140 petition. Thanks.",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-11T10:41:38.200Z",
+  "syncedAt": "2026-08-11T11:36:54.244Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
