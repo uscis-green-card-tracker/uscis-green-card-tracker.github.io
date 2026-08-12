@@ -75,6 +75,26 @@
       }
     },
     {
+      "id": "t3_1vmrtzu",
+      "title": "NIW Just denied, PhD student with 700+ citations, research conducted within a federal research center, reported by New York Times, etc.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmrtzu/niw_just_denied_phd_student_with_700_citations/",
+      "author": "/u/Fragrant_Air4191",
+      "publishedAt": "2026-08-12T21:52:24+00:00",
+      "excerpt": "This is just a rant post on how absurd the current immigration process can be. Initially got a three-prong RFE from XM2616 and spent a considerable amount of time responding to it. Still eventually denied. The evidence submitted includes, but is not limited to: Research being conducted within a federally funded researc…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vmgtqi",
       "title": "NIW Self petitioned approved_PD 06/11/26",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmgtqi/niw_self_petitioned_approved_pd_061126/",
@@ -440,26 +460,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vm2040",
-      "title": "Why the rampant TEMPLATED RFEs",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vm2040/why_the_rampant_templated_rfes/",
-      "author": "/u/Sea_Manufacturer580",
-      "publishedAt": "2026-08-12T02:48:01+00:00",
-      "excerpt": "Just my thinking: The rising cases of templated RFEs strongly suggest that most officers had just a few days on each petition. So the templated RFE is muddled up so they don't refund the filing fee. It's business for them.",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-12T21:34:50.567Z",
+  "syncedAt": "2026-08-12T22:30:16.777Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
