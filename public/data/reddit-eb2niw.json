@@ -133,6 +133,24 @@
       }
     },
     {
+      "id": "t3_1vm3zkg",
+      "title": "Reg. Recommendation letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vm3zkg/reg_recommendation_letter/",
+      "author": "/u/vkachar",
+      "publishedAt": "2026-08-12T04:26:45+00:00",
+      "excerpt": "Hi all, I’m currently preparing to file an EB-2 NIW petition and am looking for independent experts who may be willing to provide a recommendation letter . I work primarily in open-source software, cloud infrastructure, and security , and I’m hoping to connect with someone with experience in these or related areas who …",
+      "topics": [
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vltshu",
       "title": "RFE BECAUSE OF ETA FORMS",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vltshu/rfe_because_of_eta_forms/",
@@ -446,29 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vlh5h2",
-      "title": "Title: EB-2 NIW profile evaluation — Cardiovascular/EP Technologist working in emerging cardiac technology and research",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vlh5h2/title_eb2_niw_profile_evaluation_cardiovascularep/",
-      "author": "/u/xyzbored4",
-      "publishedAt": "2026-08-11T13:14:47+00:00",
-      "excerpt": "Hi everyone, I’m considering filing an EB-2 NIW petition and would appreciate feedback from people who have gone through the process, especially those with healthcare, clinical research, or allied-health backgrounds. Background: MS in Exercise Physiology BS in Exercise Science Currently working as a Cardiovascular Tech…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-12T03:55:03.837Z",
+  "syncedAt": "2026-08-12T05:23:57.269Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
