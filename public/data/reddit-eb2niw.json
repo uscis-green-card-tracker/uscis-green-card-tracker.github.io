@@ -111,6 +111,25 @@
       }
     },
     {
+      "id": "t3_1vml0ac",
+      "title": "EB2 Niw industrial profile",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vml0ac/eb2_niw_industrial_profile/",
+      "author": "/u/CalligrapherSea6979",
+      "publishedAt": "2026-08-12T17:38:42+00:00",
+      "excerpt": "I was just curious has anybody received approval for NIW from an industrial profile?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vmio1s",
       "title": "EB-2 NIW RFE – Looking for Help with LOI (Healthcare + AI)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmio1s/eb2_niw_rfe_looking_for_help_with_loi_healthcare/",
@@ -139,25 +158,6 @@
         "i140",
         "lawyer",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vml0ac",
-      "title": "EB2 Niw industrial profile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vml0ac/eb2_niw_industrial_profile/",
-      "author": "/u/CalligrapherSea6979",
-      "publishedAt": "2026-08-12T17:38:42+00:00",
-      "excerpt": "I was just curious has anybody received approval for NIW from an industrial profile?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -461,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-12T17:50:56.844Z",
+  "syncedAt": "2026-08-12T18:47:35.210Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
