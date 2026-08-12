@@ -56,6 +56,25 @@
       }
     },
     {
+      "id": "t3_1vmjs53",
+      "title": "Approved!!!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmjs53/approved/",
+      "author": "/u/Far_Adhesiveness_660",
+      "publishedAt": "2026-08-12T16:55:51+00:00",
+      "excerpt": "I got my I140 approved yesterday by the TSC!! My degree is Master's in Engineering Technology Citation count: 9 4 research articles (all of them as first author) Submitted 4 LOR No RFE Date received 05/29 Upgraded to PP on 06/11 Approval date: 08/11 My research is in Soft robotics Firm: Chen immigration",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vmgtqi",
       "title": "NIW Self petitioned approved_PD 06/11/26",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmgtqi/niw_self_petitioned_approved_pd_061126/",
@@ -66,6 +85,23 @@
         "approval",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vmhh53",
+      "title": "Ellis Porter - Terminated",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmhh53/ellis_porter_terminated/",
+      "author": "/u/Forward_Jellyfish805",
+      "publishedAt": "2026-08-12T15:33:01+00:00",
+      "excerpt": "I have made a decision to terminate the contract with Ellis porter, dealing with them is very frustrating with lack of response. I feel that i personally do a better job. Anyone experiencing the same frustration?",
+      "topics": [
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -112,13 +148,15 @@
       }
     },
     {
-      "id": "t3_1vmhh53",
-      "title": "Ellis Porter - Terminated",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmhh53/ellis_porter_terminated/",
-      "author": "/u/Forward_Jellyfish805",
-      "publishedAt": "2026-08-12T15:33:01+00:00",
-      "excerpt": "I have made a decision to terminate the contract with Ellis porter, dealing with them is very frustrating with lack of response. I feel that i personally do a better job. Anyone experiencing the same frustration?",
+      "id": "t3_1vml0ac",
+      "title": "EB2 Niw industrial profile",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vml0ac/eb2_niw_industrial_profile/",
+      "author": "/u/CalligrapherSea6979",
+      "publishedAt": "2026-08-12T17:38:42+00:00",
+      "excerpt": "I was just curious has anybody received approval for NIW from an industrial profile?",
       "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -169,16 +207,32 @@
       }
     },
     {
-      "id": "t3_1vm898o",
-      "title": "September Visa Bulletin Predictions for EB2 NIW ROW?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vm898o/september_visa_bulletin_predictions_for_eb2_niw/",
-      "author": "/u/Shebaro",
-      "publishedAt": "2026-08-12T08:30:05+00:00",
-      "excerpt": "",
+      "id": "t3_1vmkuw4",
+      "title": "RFE notice via email request",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmkuw4/rfe_notice_via_email_request/",
+      "author": "/u/Zestyclose_Degree_85",
+      "publishedAt": "2026-08-12T17:33:12+00:00",
+      "excerpt": "I received RFE for my EB2 NIW on Monday and sent them an email ( TSC-Premium.Prpcessing@uscis.dhs.gov ) asking for a soft copy, my attorney told me that they will receive the mail in a week. My application is filed through paper, not online. I still didn't received yet and its been almost 48 hours. Did anyone received …",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vmjn5l",
+      "title": "Finding Individuals who can help provide Recommendation Letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmjn5l/finding_individuals_who_can_help_provide/",
+      "author": "/u/med_guy14",
+      "publishedAt": "2026-08-12T16:50:53+00:00",
+      "excerpt": "Hi everyone, I’m looking for help with two independent recommendation letters highlighting my experience in cell and gene therapy for my permanent residency application to USCIS. I currently work in industry, and much of my work has focused on developing, setting up, and optimizing off-target assays for cardiometabolic…",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -196,6 +250,24 @@
       "topics": [
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vm898o",
+      "title": "September Visa Bulletin Predictions for EB2 NIW ROW?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vm898o/september_visa_bulletin_predictions_for_eb2_niw/",
+      "author": "/u/Shebaro",
+      "publishedAt": "2026-08-12T08:30:05+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -237,6 +309,26 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vm0wcz",
+      "title": "No PP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vm0wcz/no_pp/",
+      "author": "/u/Spirited_Link6540",
+      "publishedAt": "2026-08-12T01:56:21+00:00",
+      "excerpt": "I was wondering whether anyone here has gotten approved without PP and was not from one of the 75 countries. If so, what was your timeline?",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
       }
     },
     {
@@ -291,26 +383,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vm0wcz",
-      "title": "No PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vm0wcz/no_pp/",
-      "author": "/u/Spirited_Link6540",
-      "publishedAt": "2026-08-12T01:56:21+00:00",
-      "excerpt": "I was wondering whether anyone here has gotten approved without PP and was not from one of the 75 countries. If so, what was your timeline?",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -387,82 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vlr8uf",
-      "title": "Dependents employment cases stuck at NBC even after multiple silent updates",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vlr8uf/dependents_employment_cases_stuck_at_nbc_even/",
-      "author": "/u/Spirited_Opinion1887",
-      "publishedAt": "2026-08-11T19:23:21+00:00",
-      "excerpt": "Did any body got approved directly from NBC or transferred to field offices after silent updates from 08/04 and 08/06 from last week?",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vlmmge",
-      "title": "PD July 2024 Regular Processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vlmmge/pd_july_2024_regular_processing/",
-      "author": "/u/AlbatrossWinter5057",
-      "publishedAt": "2026-08-11T16:39:04+00:00",
-      "excerpt": "Anybody here have PD around July 2024 Nebraska got decision of I-140 without Premium Processing?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vlq75v",
-      "title": "Changing proposed endeavors during refile.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vlq75v/changing_proposed_endeavors_during_refile/",
-      "author": "/u/FitEntertainment5063",
-      "publishedAt": "2026-08-11T18:45:55+00:00",
-      "excerpt": "Wanted to check if changing proposed endeavor during a refile is allowed.",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vl35tz",
-      "title": "Case got approved. 65 business days. 96 cal days. Not feeling excited, yet... 😭",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vl35tz/case_got_approved_65_business_days_96_cal_days/",
-      "author": "/u/Asleep_Cellist4072",
-      "publishedAt": "2026-08-11T01:07:20+00:00",
-      "excerpt": "My I-485 just got approved and saw the approval email after coming out of a gruesome meeting. Not feeling anything special yet, but I guess I'm just tired. PhD is going tough, prof is horrible, may need to drop. Oh also yah, from the 75 countries. ROW. No interview nothing. Never talked to live agent Here's the timelin…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-08-12T16:45:43.682Z",
+  "syncedAt": "2026-08-12T17:50:56.844Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
