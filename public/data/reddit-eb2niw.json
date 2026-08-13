@@ -314,6 +314,23 @@
       }
     },
     {
+      "id": "t3_1vn7cw7",
+      "title": "EB2NIW Lawyers",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vn7cw7/eb2niw_lawyers/",
+      "author": "/u/Cliff23434312",
+      "publishedAt": "2026-08-13T10:52:11+00:00",
+      "excerpt": "Ellis Porter or Manifest? Who should i go with?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vmh80c",
       "title": "EB-2 NIW Approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmh80c/eb2_niw_approved/",
@@ -345,23 +362,6 @@
         "approval",
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vn7cw7",
-      "title": "EB2NIW Lawyers",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vn7cw7/eb2niw_lawyers/",
-      "author": "/u/Cliff23434312",
-      "publishedAt": "2026-08-13T10:52:11+00:00",
-      "excerpt": "Ellis Porter or Manifest? Who should i go with?",
-      "topics": [
         "question"
       ],
       "signals": {
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-13T20:30:30.858Z",
+  "syncedAt": "2026-08-13T21:34:20.267Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
