@@ -96,6 +96,42 @@
       }
     },
     {
+      "id": "t3_1vnecw9",
+      "title": "RFE OFFICER XM2170",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnecw9/rfe_officer_xm2170/",
+      "author": "/u/supertrouperrs",
+      "publishedAt": "2026-08-13T15:43:36+00:00",
+      "excerpt": "Anyone have any experience with officer XM2170?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vndjt0",
+      "title": "Rfe response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vndjt0/rfe_response/",
+      "author": "/u/No_Bug_9518",
+      "publishedAt": "2026-08-13T15:14:35+00:00",
+      "excerpt": "I am about to send out rfe response and need help and suggestions on how to send the response. Does my current flow looks good? I am doing everything on my own 1) RFE document 2) my Rfe reply document 3 my updated resume 4) updated education document 5) Evidence referenced out in the rfe response 6) LORs Does this look…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vn7sfx",
       "title": "Looking for an independent recommendation - Data Engineering and AI Infrastructure",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vn7sfx/looking_for_an_independent_recommendation_data/",
@@ -418,46 +454,9 @@
         "priorityDate": "7/8/25",
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vmio1s",
-      "title": "EB-2 NIW RFE – Looking for Help with LOI (Healthcare + AI)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmio1s/eb2_niw_rfe_looking_for_help_with_loi_healthcare/",
-      "author": "/u/Legitimate-Brush-487",
-      "publishedAt": "2026-08-12T16:16:24+00:00",
-      "excerpt": "Hi everyone! I’m reaching out to ask for some help from anyone who has gone through a similar process or works in the healthcare/technology field. I am a physician and a specialist in Healthcare Services Management. I filed an EB-2 NIW petition under an industry profile, with a proposed endeavor focused on healthcare a…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vmqenj",
-      "title": "I-485 AOS employment letter question",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmqenj/i485_aos_employment_letter_question/",
-      "author": "/u/Friendly-Mix8159",
-      "publishedAt": "2026-08-12T20:57:25+00:00",
-      "excerpt": "Hi, all, I have a quick question related to the 485 process. I recently got an acceptance letter for my 140 NIW, and now preparing for 485, but self DIY kit provided by the law firm who did my 140 raised some questions, considering my current situations. Specifically, I recently graduated my Ph.D. coursework early Augu…",
-      "topics": [
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-13T14:15:08.750Z",
+  "syncedAt": "2026-08-13T15:49:31.878Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
