@@ -75,6 +75,25 @@
       }
     },
     {
+      "id": "t3_1vnjdxa",
+      "title": "Question about approval chances.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnjdxa/question_about_approval_chances/",
+      "author": "/u/fit_girl1995",
+      "publishedAt": "2026-08-13T18:41:15+00:00",
+      "excerpt": "Hello, I am just curious if I even have a chance. I got a masters in civil engineering with a transportation focus. I only have one paper, but I do have 3 professor recommendations(one from where I did my masters), and the others from other universities. I also have 2-3 expert letters from a former engineering firm own…",
+      "topics": [
+        "approval",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vnlghl",
       "title": "Waiting for the EB2_NIW decision for 24 month.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnlghl/waiting_for_the_eb2_niw_decision_for_24_month/",
@@ -131,15 +150,14 @@
       }
     },
     {
-      "id": "t3_1vnjdxa",
-      "title": "Question about approval chances.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnjdxa/question_about_approval_chances/",
-      "author": "/u/fit_girl1995",
-      "publishedAt": "2026-08-13T18:41:15+00:00",
-      "excerpt": "Hello, I am just curious if I even have a chance. I got a masters in civil engineering with a transportation focus. I only have one paper, but I do have 3 professor recommendations(one from where I did my masters), and the others from other universities. I also have 2-3 expert letters from a former engineering firm own…",
+      "id": "t3_1vnob5p",
+      "title": "EB2-NIW with pending asylum",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnob5p/eb2niw_with_pending_asylum/",
+      "author": "/u/One_Huckleberry_5889",
+      "publishedAt": "2026-08-13T21:44:01+00:00",
+      "excerpt": "Has somebody tried to adjust status through EB2-NIW with a pending asylum inside the U.S?",
       "topics": [
-        "approval",
-        "lawyer",
+        "i140",
         "question"
       ],
       "signals": {
@@ -439,27 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vn49xa",
-      "title": "XM2030",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vn49xa/xm2030/",
-      "author": "/u/Mibugiii",
-      "publishedAt": "2026-08-13T07:53:23+00:00",
-      "excerpt": "Did anyone get rfe from IO XM2030. What’s the decision after response?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-13T21:34:20.267Z",
+  "syncedAt": "2026-08-13T22:30:20.474Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
