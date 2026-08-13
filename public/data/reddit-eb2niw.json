@@ -115,6 +115,23 @@
       }
     },
     {
+      "id": "t3_1vn7cw7",
+      "title": "EB2NIW Lawyers",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vn7cw7/eb2niw_lawyers/",
+      "author": "/u/Cliff23434312",
+      "publishedAt": "2026-08-13T10:52:11+00:00",
+      "excerpt": "Ellis Porter or Manifest? Who should i go with?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vmhh53",
       "title": "Ellis Porter - Terminated",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmhh53/ellis_porter_terminated/",
@@ -402,21 +419,6 @@
       }
     },
     {
-      "id": "t3_1vmjn5l",
-      "title": "Finding Individuals who can help provide Recommendation Letter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmjn5l/finding_individuals_who_can_help_provide/",
-      "author": "/u/med_guy14",
-      "publishedAt": "2026-08-12T16:50:53+00:00",
-      "excerpt": "Hi everyone, I’m looking for help with two independent recommendation letters highlighting my experience in cell and gene therapy for my permanent residency application to USCIS. I currently work in industry, and much of my work has focused on developing, setting up, and optimizing off-target assays for cardiometabolic…",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vm0ave",
       "title": "Finally!! I-485 Approved! 🎉",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vm0ave/finally_i485_approved/",
@@ -455,7 +457,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-13T09:02:27.745Z",
+  "syncedAt": "2026-08-13T10:52:39.794Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
