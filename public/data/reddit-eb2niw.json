@@ -35,6 +35,27 @@
       }
     },
     {
+      "id": "t3_1vni7kh",
+      "title": "I-140 NIW Approved - No RFE! Sharing timeline for the community",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vni7kh/i140_niw_approved_no_rfe_sharing_timeline_for_the/",
+      "author": "/u/InsectActive95",
+      "publishedAt": "2026-08-13T17:59:58+00:00",
+      "excerpt": "I wanted to share my good news with this community. Honestly, I was mentally preparing myself for an RFE because I did not submit any recommendation letters, and I had been seeing a lot of people reporting rejections and RFEs from cases filed through my law firm recently. So this approval genuinely surprised me. To mak…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vn9hha",
       "title": "NIWStats: 77 June PP cases - 25 RFEs, 11 approvals, 41 still waiting",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vn9hha/niwstats_77_june_pp_cases_25_rfes_11_approvals_41/",
@@ -46,6 +67,24 @@
         "i140",
         "lawyer",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vngc3r",
+      "title": "Temporary job",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vngc3r/temporary_job/",
+      "author": "/u/Adventurous_Ride3811",
+      "publishedAt": "2026-08-13T16:53:49+00:00",
+      "excerpt": "I’m asking on behalf of a friend. He recently received his green card through EB-2 National Interest Waiver (NIW), about three months ago. His previous project recently concluded, and he is currently looking for a full-time job related to his professional background. In the meantime, would there be any immigration or g…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -76,15 +115,14 @@
       }
     },
     {
-      "id": "t3_1vmrtzu",
-      "title": "NIW Just denied, PhD student with 700+ citations, research conducted within a federal research center, reported by New York Times, etc.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmrtzu/niw_just_denied_phd_student_with_700_citations/",
-      "author": "/u/Fragrant_Air4191",
-      "publishedAt": "2026-08-12T21:52:24+00:00",
-      "excerpt": "This is just a rant post on how absurd the current immigration process can be. Initially got a three-prong RFE from XM2616 and spent a considerable amount of time responding to it. Still eventually denied. The evidence submitted includes, but is not limited to: Research being conducted within a federally funded researc…",
+      "id": "t3_1vnjdxa",
+      "title": "Question about approval chances.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnjdxa/question_about_approval_chances/",
+      "author": "/u/fit_girl1995",
+      "publishedAt": "2026-08-13T18:41:15+00:00",
+      "excerpt": "Hello, I am just curious if I even have a chance. I got a masters in civil engineering with a transportation focus. I only have one paper, but I do have 3 professor recommendations(one from where I did my masters), and the others from other universities. I also have 2-3 expert letters from a former engineering firm own…",
       "topics": [
         "approval",
-        "i140",
         "lawyer",
         "question"
       ],
@@ -96,14 +134,33 @@
       }
     },
     {
-      "id": "t3_1vngc3r",
-      "title": "Temporary job",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vngc3r/temporary_job/",
-      "author": "/u/Adventurous_Ride3811",
-      "publishedAt": "2026-08-13T16:53:49+00:00",
-      "excerpt": "I’m asking on behalf of a friend. He recently received his green card through EB-2 National Interest Waiver (NIW), about three months ago. His previous project recently concluded, and he is currently looking for a full-time job related to his professional background. In the meantime, would there be any immigration or g…",
+      "id": "t3_1vnj548",
+      "title": "FRE from TSC officer XM1566",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnj548/fre_from_tsc_officer_xm1566/",
+      "author": "/u/Kyoko_P",
+      "publishedAt": "2026-08-13T18:32:23+00:00",
+      "excerpt": "Hi, does anyone have any experience with this TSC officer? Thanks in advance!",
       "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vmrtzu",
+      "title": "NIW Just denied, PhD student with 700+ citations, research conducted within a federal research center, reported by New York Times, etc.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmrtzu/niw_just_denied_phd_student_with_700_citations/",
+      "author": "/u/Fragrant_Air4191",
+      "publishedAt": "2026-08-12T21:52:24+00:00",
+      "excerpt": "This is just a rant post on how absurd the current immigration process can be. Initially got a three-prong RFE from XM2616 and spent a considerable amount of time responding to it. Still eventually denied. The evidence submitted includes, but is not limited to: Research being conducted within a federally funded researc…",
+      "topics": [
+        "approval",
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -400,63 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vmxg4y",
-      "title": "Only one week left before RFE response deadline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmxg4y/only_one_week_left_before_rfe_response_deadline/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-13T01:53:06+00:00",
-      "excerpt": "Attorney has only sent initial draft a week ago which I edited the same day and sent back now it has been a week since I sent my edits with no response from them and only one week is left for the response deadline, what are the chances the respone could be sent on time? What should I do? And what are my options if the …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vmvxdu",
-      "title": "Recommendation Letter – Urban Planning / City Planning",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vmvxdu/recommendation_letter_urban_planning_city_planning/",
-      "author": "/u/khndusbsj",
-      "publishedAt": "2026-08-13T00:44:54+00:00",
-      "excerpt": "Hi everyone, I’m currently looking for an independent professional in the Urban Planning / City Planning field who might be willing to provide a recommendation letter in support of my professional work and proposed endeavor. Ideally, I’m looking for someone with experience in areas such as urban planning, municipal pla…",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vm0icd",
-      "title": "I140 Approved After RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vm0icd/i140_approved_after_rfe/",
-      "author": "/u/TarlanEcho",
-      "publishedAt": "2026-08-12T01:38:22+00:00",
-      "excerpt": "Hi all, I finally got my I-140 approved after an RFE, so I wanted to share my timeline and background in case it helps others who are going through the NIW process. About me: M.Eng. in Mechatronics PhD student in Mechanical Engineering Proposed endeavor: Developing novel control and optimization algorithms for advanced…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-13T17:49:14.229Z",
+  "syncedAt": "2026-08-13T18:48:07.762Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
