@@ -113,6 +113,24 @@
       }
     },
     {
+      "id": "t3_1vol644",
+      "title": "Any decision?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vol644/any_decision/",
+      "author": "/u/Sea_Manufacturer580",
+      "publishedAt": "2026-08-14T22:11:41+00:00",
+      "excerpt": "Anyone with a priority date of June 15 received a decision?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vo7rup",
       "title": "Is this proposed endeavor/business plan structure sufficient for an EB-2 NIW petition?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo7rup/is_this_proposed_endeavorbusiness_plan_structure/",
@@ -206,14 +224,13 @@
       }
     },
     {
-      "id": "t3_1vo9b4k",
-      "title": "I140 approval odds after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo9b4k/i140_approval_odds_after_rfe/",
-      "author": "/u/Available_Body2829",
-      "publishedAt": "2026-08-14T14:47:30+00:00",
-      "excerpt": "I received RFE on all three prongs in May 2026 and just submitted the RFE response. I have a PhD in Civil Engineering but low number of citations (7). What are the approval odds based on some recent cases?",
+      "id": "t3_1voanv0",
+      "title": "EB-2 NIW and USCIS's new policy: still waiting on the RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voanv0/eb2_niw_and_usciss_new_policy_still_waiting_on/",
+      "author": "/u/SnooAdvice5639",
+      "publishedAt": "2026-08-14T15:38:18+00:00",
+      "excerpt": "I've been going through USCIS's new Policy Alert on evidence, RFEs, and NOIDs, and I think it's worth discussing among people who work on EB-2 NIW cases. First, a clarification: PA-2026-05 isn't a policy specific to EB-2 NIW. It's a general update on how USCIS handles initial evidence, RFEs, and NOIDs. But the shift ma…",
       "topics": [
-        "approval",
         "i140",
         "question"
       ],
@@ -299,12 +316,12 @@
       }
     },
     {
-      "id": "t3_1voanv0",
-      "title": "EB-2 NIW and USCIS's new policy: still waiting on the RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voanv0/eb2_niw_and_usciss_new_policy_still_waiting_on/",
-      "author": "/u/SnooAdvice5639",
-      "publishedAt": "2026-08-14T15:38:18+00:00",
-      "excerpt": "I've been going through USCIS's new Policy Alert on evidence, RFEs, and NOIDs, and I think it's worth discussing among people who work on EB-2 NIW cases. First, a clarification: PA-2026-05 isn't a policy specific to EB-2 NIW. It's a general update on how USCIS handles initial evidence, RFEs, and NOIDs. But the shift ma…",
+      "id": "t3_1voae09",
+      "title": "Eb2NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voae09/eb2niw/",
+      "author": "/u/AdventurousFault9046",
+      "publishedAt": "2026-08-14T15:28:10+00:00",
+      "excerpt": "Hello everyone! Has anyone worked with Adrian Pandev for EB2 NIW ? If yes, how was your experience?",
       "topics": [
         "i140",
         "question"
@@ -317,13 +334,14 @@
       }
     },
     {
-      "id": "t3_1voae09",
-      "title": "Eb2NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voae09/eb2niw/",
-      "author": "/u/AdventurousFault9046",
-      "publishedAt": "2026-08-14T15:28:10+00:00",
-      "excerpt": "Hello everyone! Has anyone worked with Adrian Pandev for EB2 NIW ? If yes, how was your experience?",
+      "id": "t3_1vo9b4k",
+      "title": "I140 approval odds after RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo9b4k/i140_approval_odds_after_rfe/",
+      "author": "/u/Available_Body2829",
+      "publishedAt": "2026-08-14T14:47:30+00:00",
+      "excerpt": "I received RFE on all three prongs in May 2026 and just submitted the RFE response. I have a PhD in Civil Engineering but low number of citations (7). What are the approval odds based on some recent cases?",
       "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -447,28 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vnwojj",
-      "title": "Second I-485 RFE – Old school records / sealed envelope question",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnwojj/second_i485_rfe_old_school_records_sealed/",
-      "author": "/u/BothImagination6187",
-      "publishedAt": "2026-08-14T04:00:26+00:00",
-      "excerpt": "Hi everyone, looking for advice from anyone who had a similar situation. My situation is: I originally got admission and I-20 from School A . I entered the U.S. using School A's I-20. Before classes started, I decided to transfer to School B . I reported to School A and requested the SEVIS transfer. About 5 days later,…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-14T21:15:50.307Z",
+  "syncedAt": "2026-08-14T22:11:54.734Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
