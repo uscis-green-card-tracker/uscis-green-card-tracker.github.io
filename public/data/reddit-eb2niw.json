@@ -75,6 +75,26 @@
       }
     },
     {
+      "id": "t3_1vntlws",
+      "title": "Anyone else get a 3rd FTA0 after one years on I-485 today (Aug 13) tied to old biometrics date?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vntlws/anyone_else_get_a_3rd_fta0_after_one_years_on/",
+      "author": "/u/Old-Onion5385",
+      "publishedAt": "2026-08-14T01:32:25+00:00",
+      "excerpt": "Hi everyone, I’m EB-2 and noticed a 3rd FTA0 appear in my I-485 API today, August 13, 2026. My timeline: I-485 receipt date: Aug 3, 2025 Biometrics: Aug 23, 2025 First two FTA0 events: Aug 23, 2025 I-485 had a silent/top-level update on August 7, 2026 3rd FTA0 created today, August 13, 2026 What is strange is that the …",
+      "topics": [
+        "approval",
+        "i485",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vnptez",
       "title": "RFE on All 3 Prongs – How Did You Find Independent Recommenders?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnptez/rfe_on_all_3_prongs_how_did_you_find_independent/",
@@ -94,16 +114,15 @@
       }
     },
     {
-      "id": "t3_1vntlws",
-      "title": "Anyone else get a 3rd FTA0 after one years on I-485 today (Aug 13) tied to old biometrics date?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vntlws/anyone_else_get_a_3rd_fta0_after_one_years_on/",
-      "author": "/u/Old-Onion5385",
-      "publishedAt": "2026-08-14T01:32:25+00:00",
-      "excerpt": "Hi everyone, I’m EB-2 and noticed a 3rd FTA0 appear in my I-485 API today, August 13, 2026. My timeline: I-485 receipt date: Aug 3, 2025 Biometrics: Aug 23, 2025 First two FTA0 events: Aug 23, 2025 I-485 had a silent/top-level update on August 7, 2026 3rd FTA0 created today, August 13, 2026 What is strange is that the …",
+      "id": "t3_1vo1s4k",
+      "title": "Form I140 + I485 filling",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo1s4k/form_i140_i485_filling/",
+      "author": "/u/ToeMountain65",
+      "publishedAt": "2026-08-14T08:46:53+00:00",
+      "excerpt": "When filing a new EB-2 petition concurrently with I485 but you have a pending EB1 with no decision yet, do you fill in the alien registration number from the EB1a petition for the new I140 for EB2 and I485 or leave it empty? Has anyone gotten RFE for leaving alien number empty? I’m asking because I’m wondering if my I-…",
       "topics": [
-        "approval",
         "i485",
-        "timeline",
+        "i140",
         "question"
       ],
       "signals": {
@@ -450,27 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vndjt0",
-      "title": "Rfe response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vndjt0/rfe_response/",
-      "author": "/u/No_Bug_9518",
-      "publishedAt": "2026-08-13T15:14:35+00:00",
-      "excerpt": "I am about to send out rfe response and need help and suggestions on how to send the response. Does my current flow looks good? I am doing everything on my own 1) RFE document 2) my Rfe reply document 3 my updated resume 4) updated education document 5) Evidence referenced out in the rfe response 6) LORs Does this look…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-14T07:08:38.231Z",
+  "syncedAt": "2026-08-14T08:57:40.707Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
