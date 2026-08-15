@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1vovep9",
+      "title": "EB2 NIW approved after 3 prong RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vovep9/eb2_niw_approved_after_3_prong_rfe/",
+      "author": "/u/Inside_Shock6834",
+      "publishedAt": "2026-08-15T06:32:23+00:00",
+      "excerpt": "Self petitioned PhD student at R1 uni 2 papers Priority Date: Oct 2025 Premium Processing: February 2026 RFE recieved: March 2026 Response: 2 days before deadline in June Approved: Aug 15th (38 business days) Recieved notification via email. USCIS site still says “under processing”. but it was “RFE recieved” up until t…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vom0d2",
       "title": "EB-2 NIW I-485 APPROVED , Premium Processing, Two RFEs & Interview",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vom0d2/eb2_niw_i485_approved_premium_processing_two_rfes/",
@@ -55,24 +73,6 @@
       }
     },
     {
-      "id": "t3_1vovep9",
-      "title": "EB2 NIW approved after 3 prong RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vovep9/eb2_niw_approved_after_3_prong_rfe/",
-      "author": "/u/Inside_Shock6834",
-      "publishedAt": "2026-08-15T06:32:23+00:00",
-      "excerpt": "Self petitioned PhD student at R1 uni 2 papers Priority Date: Oct 2025 Premium Processing: February 2026 RFE recieved: March 2026 Response: 2 days before deadline in June Approved: Aug 15th (38 business days) Recieved notification via email. USCIS site still says “under processing”. but it was “RFE recieved” up until t…",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vor1af",
       "title": "Do USCIS officers contact recommenders",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vor1af/do_uscis_officers_contact_recommenders/",
@@ -83,6 +83,21 @@
         "i140",
         "question"
       ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vowa4l",
+      "title": "Profile check Wi-Fi & 5G technology related",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vowa4l/profile_check_wifi_5g_technology_related/",
+      "author": "/u/Rohanred89",
+      "publishedAt": "2026-08-15T07:22:24+00:00",
+      "excerpt": "Endevour is related to Wifi technology and specifically hardware surrounding W & 5G and evolving the tecnology and also reducing dependency on foreign products. Dont want to be too specific but not AI related. 8 - patents filled in the same field since i was responsible for developing latest generation Wifi routers for…",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -446,28 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vo92r2",
-      "title": "I-140 PP Self-petition Mail",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo92r2/i140_pp_selfpetition_mail/",
-      "author": "/u/Late-Monk2623",
-      "publishedAt": "2026-08-14T14:38:23+00:00",
-      "excerpt": "Good day all, I had some questions. Your insights will be really helpful to relieve my stress. Is there a specific way to know if the 1-140+I-907 (premium processing) package was received by USCIS? It is showing delivered at Elgin,IL by UPS currently. How long usually to get a notification from USCIS from Elgin,IL offi…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-15T07:21:11.527Z",
+  "syncedAt": "2026-08-15T08:15:42.934Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
