@@ -73,6 +73,23 @@
       }
     },
     {
+      "id": "t3_1vp0n7i",
+      "title": "NIW denial on just prong 3",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vp0n7i/niw_denial_on_just_prong_3/",
+      "author": "/u/Left-Jello-5738",
+      "publishedAt": "2026-08-15T11:40:11+00:00",
+      "excerpt": "Just got the letter and i was denied after responding to rfe on prong 2 and 3. My prong 2 was accepted but was ultimately denied due to prong 3. Im trying to see if this is common. I dont see many other posts saying people getting denied on just prong 3. Any advice or recommendations would be appreciated. Thanks",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vor1af",
       "title": "Do USCIS officers contact recommenders",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vor1af/do_uscis_officers_contact_recommenders/",
@@ -442,28 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vo9b4k",
-      "title": "I140 approval odds after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo9b4k/i140_approval_odds_after_rfe/",
-      "author": "/u/Available_Body2829",
-      "publishedAt": "2026-08-14T14:47:30+00:00",
-      "excerpt": "I received RFE on all three prongs in May 2026 and just submitted the RFE response. I have a PhD in Civil Engineering but low number of citations (7). What are the approval odds based on some recent cases?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-15T11:10:04.252Z",
+  "syncedAt": "2026-08-15T12:17:19.289Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
