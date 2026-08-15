@@ -53,6 +53,23 @@
       }
     },
     {
+      "id": "t3_1vp0n7i",
+      "title": "NIW denial on just prong 3",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vp0n7i/niw_denial_on_just_prong_3/",
+      "author": "/u/Left-Jello-5738",
+      "publishedAt": "2026-08-15T11:40:11+00:00",
+      "excerpt": "Just got the letter and i was denied after responding to rfe on prong 2 and 3. My prong 2 was accepted but was ultimately denied due to prong 3. Im trying to see if this is common. I dont see many other posts saying people getting denied on just prong 3. Any advice or recommendations would be appreciated. Thanks",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vom0d2",
       "title": "EB-2 NIW I-485 APPROVED , Premium Processing, Two RFEs & Interview",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vom0d2/eb2_niw_i485_approved_premium_processing_two_rfes/",
@@ -73,14 +90,15 @@
       }
     },
     {
-      "id": "t3_1vp0n7i",
-      "title": "NIW denial on just prong 3",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vp0n7i/niw_denial_on_just_prong_3/",
-      "author": "/u/Left-Jello-5738",
-      "publishedAt": "2026-08-15T11:40:11+00:00",
-      "excerpt": "Just got the letter and i was denied after responding to rfe on prong 2 and 3. My prong 2 was accepted but was ultimately denied due to prong 3. Im trying to see if this is common. I dont see many other posts saying people getting denied on just prong 3. Any advice or recommendations would be appreciated. Thanks",
+      "id": "t3_1vp1oru",
+      "title": "EB2NIW lawyer",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vp1oru/eb2niw_lawyer/",
+      "author": "/u/Cliff23434312",
+      "publishedAt": "2026-08-15T12:32:22+00:00",
+      "excerpt": "So on my previous post a lot of people say do not go with EP or Manifest who did you use then?",
       "topics": [
-        "i140"
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -108,21 +126,6 @@
       }
     },
     {
-      "id": "t3_1vowa4l",
-      "title": "Profile check Wi-Fi & 5G technology related",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vowa4l/profile_check_wifi_5g_technology_related/",
-      "author": "/u/Rohanred89",
-      "publishedAt": "2026-08-15T07:22:24+00:00",
-      "excerpt": "Endevour is related to Wifi technology and specifically hardware surrounding W & 5G and evolving the tecnology and also reducing dependency on foreign products. Dont want to be too specific but not AI related. 8 - patents filled in the same field since i was responsible for developing latest generation Wifi routers for…",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1voq6cr",
       "title": "July 2nd filer, EB-2 NIW, any updates on upgrading I-140 to premium processing?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1voq6cr/july_2nd_filer_eb2_niw_any_updates_on_upgrading/",
@@ -133,6 +136,21 @@
         "i140",
         "question"
       ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vowa4l",
+      "title": "Profile check Wi-Fi & 5G technology related",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vowa4l/profile_check_wifi_5g_technology_related/",
+      "author": "/u/Rohanred89",
+      "publishedAt": "2026-08-15T07:22:24+00:00",
+      "excerpt": "Endevour is related to Wifi technology and specifically hardware surrounding W & 5G and evolving the tecnology and also reducing dependency on foreign products. Dont want to be too specific but not AI related. 8 - patents filled in the same field since i was responsible for developing latest generation Wifi routers for…",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -173,24 +191,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vosu34",
-      "title": "Eb2 gc- getting married in the states.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vosu34/eb2_gc_getting_married_in_the_states/",
-      "author": "/u/LowNo3631",
-      "publishedAt": "2026-08-15T04:11:13+00:00",
-      "excerpt": "My i485 has been approved, finally. I am planning to get married to my partner of six years(not USC). 1.5 years engaged. Fiance now lives in Europe. My work doesn’t allow me enough time to travel to Europe, plan wedding there and get married. We have evidence of our relationship for all six years including trips, trans…",
-      "topics": [
-        "approval",
-        "i485"
       ],
       "signals": {
         "blockNumber": null,
@@ -461,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-15T12:17:19.289Z",
+  "syncedAt": "2026-08-15T13:22:34.409Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
