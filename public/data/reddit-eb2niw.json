@@ -112,6 +112,26 @@
       }
     },
     {
+      "id": "t3_1vojg2j",
+      "title": "Has anyone recently had their I-140 approved after accepting a job offer in the industry?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vojg2j/has_anyone_recently_had_their_i140_approved_after/",
+      "author": "/u/wannabe_Karen",
+      "publishedAt": "2026-08-14T21:02:16+00:00",
+      "excerpt": "Hello all, I am in a dilemma and could use some suggestions. I just completed my PhD with a quite decent profile for good NIW approval chances (according to my lawyer). However, they have been strongly suggesting to go for a postdoc since that would help my case. But I recently got a good industry offer that’s not a R&…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vosu34",
       "title": "Eb2 gc- getting married in the states.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vosu34/eb2_gc_getting_married_in_the_states/",
@@ -137,26 +157,6 @@
       "publishedAt": "2026-08-14T18:31:09+00:00",
       "excerpt": "Hi, I'm looking for lawyer recommendations after a DIY petition. I am looking for a lawyer to prepare an RFE response, preferably those who are affordable. Does anyone have recommendations based on their personal experience?",
       "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vojg2j",
-      "title": "Has anyone recently had their I-140 approved after accepting a job offer in the industry?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vojg2j/has_anyone_recently_had_their_i140_approved_after/",
-      "author": "/u/wannabe_Karen",
-      "publishedAt": "2026-08-14T21:02:16+00:00",
-      "excerpt": "Hello all, I am in a dilemma and could use some suggestions. I just completed my PhD with a quite decent profile for good NIW approval chances (according to my lawyer). However, they have been strongly suggesting to go for a postdoc since that would help my case. But I recently got a good industry offer that’s not a R&…",
-      "topics": [
-        "approval",
         "i140",
         "lawyer",
         "question"
@@ -467,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-15T05:15:58.094Z",
+  "syncedAt": "2026-08-15T06:20:20.734Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
