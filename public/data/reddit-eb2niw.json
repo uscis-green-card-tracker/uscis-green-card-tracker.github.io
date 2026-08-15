@@ -55,6 +55,24 @@
       }
     },
     {
+      "id": "t3_1vovep9",
+      "title": "EB2 NIW approved after 3 prong RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vovep9/eb2_niw_approved_after_3_prong_rfe/",
+      "author": "/u/Inside_Shock6834",
+      "publishedAt": "2026-08-15T06:32:23+00:00",
+      "excerpt": "Self petitioned PhD student at R1 uni 2 papers Priority Date: Oct 2025 Premium Processing: February 2026 RFE recieved: March 2026 Response: 2 days before deadline in June Approved: Aug 15th (38 business days) Recieved notification via email. USCIS site still says “under processing”. but it was “RFE recieved” up until t…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vor1af",
       "title": "Do USCIS officers contact recommenders",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vor1af/do_uscis_officers_contact_recommenders/",
@@ -411,6 +429,25 @@
       }
     },
     {
+      "id": "t3_1vo9b4k",
+      "title": "I140 approval odds after RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo9b4k/i140_approval_odds_after_rfe/",
+      "author": "/u/Available_Body2829",
+      "publishedAt": "2026-08-14T14:47:30+00:00",
+      "excerpt": "I received RFE on all three prongs in May 2026 and just submitted the RFE response. I have a PhD in Civil Engineering but low number of citations (7). What are the approval odds based on some recent cases?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vo92r2",
       "title": "I-140 PP Self-petition Mail",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo92r2/i140_pp_selfpetition_mail/",
@@ -428,46 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vnwm27",
-      "title": "EB-2 NIW EAD Approved 1 Day After Biometrics | AOS Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnwm27/eb2_niw_ead_approved_1_day_after_biometrics_aos/",
-      "author": "/u/Limp_Investigator918",
-      "publishedAt": "2026-08-14T03:57:07+00:00",
-      "excerpt": "EB-2 NIW Adjustment of Status + EAD + Advance Parole Timeline (DIY for everything) Sharing my timeline for anyone tracking employment-based AOS processing, particularly applicants from countries affected by the 19-country/expanded travel-ban restrictions : March 2025: EB-2 petition filed May 2025: Received RFE on 3pron…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vocnma",
-      "title": "How strict is the Exceptional Ability criteria?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vocnma/how_strict_is_the_exceptional_ability_criteria/",
-      "author": "/u/The-Milky-Bar-Kid",
-      "publishedAt": "2026-08-14T16:51:15+00:00",
-      "excerpt": "Hi all, long time lurker here that has been slowly trying to figure out my EB2 possibilities. Unfortunately I don't have an advanced degree and don't have 5 years of post degree work experience. I did my degree alongside my job, so although I have 5 years of experience, it's not post degree. I feel like I may fit into …",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-15T06:20:20.734Z",
+  "syncedAt": "2026-08-15T07:21:11.527Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
