@@ -55,6 +55,42 @@
       }
     },
     {
+      "id": "t3_1vor1af",
+      "title": "Do USCIS officers contact recommenders",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vor1af/do_uscis_officers_contact_recommenders/",
+      "author": "/u/Forward_Jellyfish805",
+      "publishedAt": "2026-08-15T02:40:54+00:00",
+      "excerpt": "I read somewhere on an EB-2 NIW forum that a petitioner claimed USCIS contacted one of his recommenders to verify the recommendation letter. The post was from 2022, which seemed unusual to me. Has anyone come across a similar situation or heard of USCIS doing this before?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1voq6cr",
+      "title": "July 2nd filer, EB-2 NIW, any updates on upgrading I-140 to premium processing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voq6cr/july_2nd_filer_eb2_niw_any_updates_on_upgrading/",
+      "author": "/u/PsychologicalPace836",
+      "publishedAt": "2026-08-15T01:59:04+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vofew2",
       "title": "Lawyer recommendations for RFE response",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vofew2/lawyer_recommendations_for_rfe_response/",
@@ -74,13 +110,14 @@
       }
     },
     {
-      "id": "t3_1voq6cr",
-      "title": "July 2nd filer, EB-2 NIW, any updates on upgrading I-140 to premium processing?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voq6cr/july_2nd_filer_eb2_niw_any_updates_on_upgrading/",
-      "author": "/u/PsychologicalPace836",
-      "publishedAt": "2026-08-15T01:59:04+00:00",
-      "excerpt": "",
+      "id": "t3_1voqhft",
+      "title": "EB2-NIW I-485 Silent update today (8/14) after 8/12, 8/6 and 5/23",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voqhft/eb2niw_i485_silent_update_today_814_after_812_86/",
+      "author": "/u/UncorkedGraph",
+      "publishedAt": "2026-08-15T02:13:44+00:00",
+      "excerpt": "Received a SU on my I-485 today during working hours. This would be the third SU after 5/23 'freeze' on my case. Anyone else got the same update today? Just trying to understand if this was a mass update or not.",
       "topics": [
+        "i485",
         "i140",
         "question"
       ],
@@ -428,47 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vo9b4k",
-      "title": "I140 approval odds after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo9b4k/i140_approval_odds_after_rfe/",
-      "author": "/u/Available_Body2829",
-      "publishedAt": "2026-08-14T14:47:30+00:00",
-      "excerpt": "I received RFE on all three prongs in May 2026 and just submitted the RFE response. I have a PhD in Civil Engineering but low number of citations (7). What are the approval odds based on some recent cases?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vo2h92",
-      "title": "QC chemist With 9 Years experience with MS in US for NIW EB2",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo2h92/qc_chemist_with_9_years_experience_with_ms_in_us/",
-      "author": "/u/Normal-Signature-467",
-      "publishedAt": "2026-08-14T09:28:06+00:00",
-      "excerpt": "Hi, I have 9 years of pharmaceutical industry experience as a QC chemist.Within 9 , 2 years in US.Right now I am in renowned pharmaceutical CDMo which is a top 5 world ranking.I have one MS in chemistry which is directly to my job.right now I am in stem opt.I have filled my petition for NIW eb2 .I have 18 citation duri…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-15T02:07:54.535Z",
+  "syncedAt": "2026-08-15T03:32:02.289Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
