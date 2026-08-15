@@ -112,17 +112,15 @@
       }
     },
     {
-      "id": "t3_1voatib",
-      "title": "I-485 API Tracking After Biometrics: FTA0/FTA1 + ackedByAdjudicatorAndCms",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voatib/i485_api_tracking_after_biometrics_fta0fta1/",
-      "author": "/u/Limp_Investigator918",
-      "publishedAt": "2026-08-14T15:44:03+00:00",
-      "excerpt": "Quick update on my EB-2 NIW AOS case for those who also track the USCIS API. I completed biometrics on August 12 . My I-765 and I-485 changed to “currently processing” the same day, and my C09 EAD was approved August 13, one day after biometrics . I checked the API for my I-485 , and noticed the following: updatedAt: A…",
+      "id": "t3_1voo18y",
+      "title": "RFE: want a RFE attorney for 2nd opinion",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voo18y/rfe_want_a_rfe_attorney_for_2nd_opinion/",
+      "author": "/u/idkwimdtbh",
+      "publishedAt": "2026-08-15T00:17:21+00:00",
+      "excerpt": "Hi everyone, I recently got RFEed for my niw application. USCIS accepted my advanced-degree EB-2 qualification but challenged the NIW under all three Dhanasar prongs, particularly: - substantial merit / national importance of the specific endeavor - whether my methodology has sufficiently broad implications beyond one …",
       "topics": [
-        "approval",
-        "i485",
         "i140",
-        "timeline",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -159,6 +157,27 @@
       "excerpt": "Anyone with a priority date of June 15 received a decision?",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1voatib",
+      "title": "I-485 API Tracking After Biometrics: FTA0/FTA1 + ackedByAdjudicatorAndCms",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voatib/i485_api_tracking_after_biometrics_fta0fta1/",
+      "author": "/u/Limp_Investigator918",
+      "publishedAt": "2026-08-14T15:44:03+00:00",
+      "excerpt": "Quick update on my EB-2 NIW AOS case for those who also track the USCIS API. I completed biometrics on August 12 . My I-765 and I-485 changed to “currently processing” the same day, and my C09 EAD was approved August 13, one day after biometrics . I checked the API for my I-485 , and noticed the following: updatedAt: A…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -317,6 +336,23 @@
       }
     },
     {
+      "id": "t3_1vocnma",
+      "title": "How strict is the Exceptional Ability criteria?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vocnma/how_strict_is_the_exceptional_ability_criteria/",
+      "author": "/u/The-Milky-Bar-Kid",
+      "publishedAt": "2026-08-14T16:51:15+00:00",
+      "excerpt": "Hi all, long time lurker here that has been slowly trying to figure out my EB2 possibilities. Unfortunately I don't have an advanced degree and don't have 5 years of post degree work experience. I did my degree alongside my job, so although I have 5 years of experience, it's not post degree. I feel like I may fit into …",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vnwm27",
       "title": "EB-2 NIW EAD Approved 1 Day After Biometrics | AOS Timeline",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vnwm27/eb2_niw_ead_approved_1_day_after_biometrics_aos/",
@@ -328,23 +364,6 @@
         "i485",
         "i140",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vocnma",
-      "title": "How strict is the Exceptional Ability criteria?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vocnma/how_strict_is_the_exceptional_ability_criteria/",
-      "author": "/u/The-Milky-Bar-Kid",
-      "publishedAt": "2026-08-14T16:51:15+00:00",
-      "excerpt": "Hi all, long time lurker here that has been slowly trying to figure out my EB2 possibilities. Unfortunately I don't have an advanced degree and don't have 5 years of post degree work experience. I did my degree alongside my job, so although I have 5 years of experience, it's not post degree. I feel like I may fit into …",
-      "topics": [
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -444,29 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vntlws",
-      "title": "Anyone else get a 3rd FTA0 after one years on I-485 today (Aug 13) tied to old biometrics date?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vntlws/anyone_else_get_a_3rd_fta0_after_one_years_on/",
-      "author": "/u/Old-Onion5385",
-      "publishedAt": "2026-08-14T01:32:25+00:00",
-      "excerpt": "Hi everyone, I’m EB-2 and noticed a 3rd FTA0 appear in my I-485 API today, August 13, 2026. My timeline: I-485 receipt date: Aug 3, 2025 Biometrics: Aug 23, 2025 First two FTA0 events: Aug 23, 2025 I-485 had a silent/top-level update on August 7, 2026 3rd FTA0 created today, August 13, 2026 What is strange is that the …",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-14T23:12:21.460Z",
+  "syncedAt": "2026-08-15T00:38:52.149Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
