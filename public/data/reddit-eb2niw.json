@@ -107,6 +107,24 @@
       }
     },
     {
+      "id": "t3_1vpgnhj",
+      "title": "How to know RFE issued",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpgnhj/how_to_know_rfe_issued/",
+      "author": "/u/Affectionate_Pin5562",
+      "publishedAt": "2026-08-15T22:57:10+00:00",
+      "excerpt": "I updated i140 to pp on August 10. Just wanted to know how do you get to know that you were issued an RFE?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vpbusq",
       "title": "EB2 NIW VISA",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpbusq/eb2_niw_visa/",
@@ -438,28 +456,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1voj51e",
-      "title": "DS260 and civils documents submitted and DQ timeline!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voj51e/ds260_and_civils_documents_submitted_and_dq/",
-      "author": "/u/Far-Bet-706",
-      "publishedAt": "2026-08-14T20:50:28+00:00",
-      "excerpt": "Hello all, I already submitted my DS-260 a week ago and all the civil documents required by the NVC. I'm applying for an immigrant visa under an EB2-NIW petition. Based on your experience, how long does it take to be DQ? Thank you!",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-15T22:10:17.373Z",
+  "syncedAt": "2026-08-15T23:10:41.414Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
