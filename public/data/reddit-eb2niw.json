@@ -404,6 +404,25 @@
       }
     },
     {
+      "id": "t3_1vo92r2",
+      "title": "I-140 PP Self-petition Mail",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo92r2/i140_pp_selfpetition_mail/",
+      "author": "/u/Late-Monk2623",
+      "publishedAt": "2026-08-14T14:38:23+00:00",
+      "excerpt": "Good day all, I had some questions. Your insights will be really helpful to relieve my stress. Is there a specific way to know if the 1-140+I-907 (premium processing) package was received by USCIS? It is showing delivered at Elgin,IL by UPS currently. How long usually to get a notification from USCIS from Elgin,IL offi…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1voh4hb",
       "title": "EB-2 AOS stuck in \"interview queue\" after 3rd FTA0 on June 02 update normal timeline?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1voh4hb/eb2_aos_stuck_in_interview_queue_after_3rd_fta0/",
@@ -439,28 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vo9b4k",
-      "title": "I140 approval odds after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vo9b4k/i140_approval_odds_after_rfe/",
-      "author": "/u/Available_Body2829",
-      "publishedAt": "2026-08-14T14:47:30+00:00",
-      "excerpt": "I received RFE on all three prongs in May 2026 and just submitted the RFE response. I have a PhD in Civil Engineering but low number of citations (7). What are the approval odds based on some recent cases?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-15T18:13:54.559Z",
+  "syncedAt": "2026-08-15T19:14:08.178Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
