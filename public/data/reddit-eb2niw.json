@@ -70,6 +70,24 @@
       }
     },
     {
+      "id": "t3_1vpdxom",
+      "title": "Approved in 2nd Attempt?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpdxom/approved_in_2nd_attempt/",
+      "author": "/u/maradonepoleon",
+      "publishedAt": "2026-08-15T20:57:59+00:00",
+      "excerpt": "Hi, Is there anyone who has got approval in 2nd attempt recently? Thanks",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vp1oru",
       "title": "EB2NIW lawyer",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vp1oru/eb2niw_lawyer/",
@@ -440,27 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vogvr0",
-      "title": "EB2 Employer sponsored",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vogvr0/eb2_employer_sponsored/",
-      "author": "/u/ilkinoid92",
-      "publishedAt": "2026-08-14T19:24:37+00:00",
-      "excerpt": "If an employee has a pending asylum application and is currently waiting for an initial Master Calendar Hearing in immigration court, is it legally viable for an employer to sponsor them for an EB-2 green card through the PERM process, and eventually seek a change of status or adjustment of status once the petitions ar…",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-15T20:10:59.899Z",
+  "syncedAt": "2026-08-15T21:11:42.208Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
