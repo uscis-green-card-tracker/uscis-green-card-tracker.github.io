@@ -131,26 +131,6 @@
       }
     },
     {
-      "id": "t3_1vpi7ql",
-      "title": "Civil surgeon cost + I-693 turnaround time — anyone recently been through this?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpi7ql/civil_surgeon_cost_i693_turnaround_time_anyone/",
-      "author": "/u/InsectActive95",
-      "publishedAt": "2026-08-16T00:09:22+00:00",
-      "excerpt": "Booked my civil surgeon appointment for the I-485 medical exam. Front desk quoted a base of $325 but said there could be additional charges on top depending on what testing ends up being needed, and she couldn't give me a firm total ahead of time. Also don't have old vaccination records available (moved from abroad and…",
-      "topics": [
-        "i485",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vpp43u",
       "title": "EB-2 NIW: proprietary methodology instead of academic research/publications",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpp43u/eb2_niw_proprietary_methodology_instead_of/",
@@ -178,6 +158,26 @@
       "topics": [
         "approval",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vpi7ql",
+      "title": "Civil surgeon cost + I-693 turnaround time — anyone recently been through this?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpi7ql/civil_surgeon_cost_i693_turnaround_time_anyone/",
+      "author": "/u/InsectActive95",
+      "publishedAt": "2026-08-16T00:09:22+00:00",
+      "excerpt": "Booked my civil surgeon appointment for the I-485 medical exam. Front desk quoted a base of $325 but said there could be additional charges on top depending on what testing ends up being needed, and she couldn't give me a firm total ahead of time. Also don't have old vaccination records available (moved from abroad and…",
+      "topics": [
+        "i485",
+        "lawyer",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -463,7 +463,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-16T13:23:23.212Z",
+  "syncedAt": "2026-08-16T14:12:47.492Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
