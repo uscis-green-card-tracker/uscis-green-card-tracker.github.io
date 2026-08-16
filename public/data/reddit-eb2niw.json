@@ -92,6 +92,24 @@
       }
     },
     {
+      "id": "t3_1vpp43u",
+      "title": "EB-2 NIW: proprietary methodology instead of academic research/publications",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpp43u/eb2_niw_proprietary_methodology_instead_of/",
+      "author": "/u/Friendly-Eggplant341",
+      "publishedAt": "2026-08-16T06:04:15+00:00",
+      "excerpt": "Hi everyone, I’m preparing a self-petitioned EB-2 NIW based on a management methodology I developed that has a relevant degree of originality. It was tested for years in my company abroad with incredible success. I haven’t found many cases from people with a similar profile, so I’d really appreciate hearing from anyone…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vovep9",
       "title": "EB2 NIW approved after 3 prong RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vovep9/eb2_niw_approved_after_3_prong_rfe/",
@@ -406,6 +424,24 @@
       }
     },
     {
+      "id": "t3_1voanv0",
+      "title": "EB-2 NIW and USCIS's new policy: still waiting on the RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voanv0/eb2_niw_and_usciss_new_policy_still_waiting_on/",
+      "author": "/u/SnooAdvice5639",
+      "publishedAt": "2026-08-14T15:38:18+00:00",
+      "excerpt": "I've been going through USCIS's new Policy Alert on evidence, RFEs, and NOIDs, and I think it's worth discussing among people who work on EB-2 NIW cases. First, a clarification: PA-2026-05 isn't a policy specific to EB-2 NIW. It's a general update on how USCIS handles initial evidence, RFEs, and NOIDs. But the shift ma…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vomi1c",
       "title": "Pp refund",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vomi1c/pp_refund/",
@@ -422,48 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vol644",
-      "title": "Any decision?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vol644/any_decision/",
-      "author": "/u/Sea_Manufacturer580",
-      "publishedAt": "2026-08-14T22:11:41+00:00",
-      "excerpt": "Anyone with a priority date of June 15 received a decision?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1voatib",
-      "title": "I-485 API Tracking After Biometrics: FTA0/FTA1 + ackedByAdjudicatorAndCms",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voatib/i485_api_tracking_after_biometrics_fta0fta1/",
-      "author": "/u/Limp_Investigator918",
-      "publishedAt": "2026-08-14T15:44:03+00:00",
-      "excerpt": "Quick update on my EB-2 NIW AOS case for those who also track the USCIS API. I completed biometrics on August 12 . My I-765 and I-485 changed to “currently processing” the same day, and my C09 EAD was approved August 13, one day after biometrics . I checked the API for my I-485 , and noticed the following: updatedAt: A…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-16T05:18:38.741Z",
+  "syncedAt": "2026-08-16T06:21:55.810Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
