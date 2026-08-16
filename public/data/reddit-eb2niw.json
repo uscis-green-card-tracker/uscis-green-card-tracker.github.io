@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1vpyiav",
+      "title": "EB2 NIW PP TSC Delay of 310 days!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpyiav/eb2_niw_pp_tsc_delay_of_310_days/",
+      "author": "/u/Brave-Back152",
+      "publishedAt": "2026-08-16T14:29:23+00:00",
+      "excerpt": "EB-2 NIW — Premium Processing Priority Date: 09/30/2025 Service Center: TSC Processing: Premium Processing Still no decision. Every time I contact USCIS, I receive the same response: “The case is undergoing additional security checks/review.” It has been many months since filing, and the 45-business-day Premium Process…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vpf5ng",
       "title": "EB 2 NIW Approved After RFE | Premium Processing | Self Filed",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpf5ng/eb_2_niw_approved_after_rfe_premium_processing/",
@@ -167,16 +186,14 @@
       }
     },
     {
-      "id": "t3_1vpi7ql",
-      "title": "Civil surgeon cost + I-693 turnaround time — anyone recently been through this?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpi7ql/civil_surgeon_cost_i693_turnaround_time_anyone/",
-      "author": "/u/InsectActive95",
-      "publishedAt": "2026-08-16T00:09:22+00:00",
-      "excerpt": "Booked my civil surgeon appointment for the I-485 medical exam. Front desk quoted a base of $325 but said there could be additional charges on top depending on what testing ends up being needed, and she couldn't give me a firm total ahead of time. Also don't have old vaccination records available (moved from abroad and…",
+      "id": "t3_1vpdxom",
+      "title": "Approved in 2nd Attempt?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpdxom/approved_in_2nd_attempt/",
+      "author": "/u/maradonepoleon",
+      "publishedAt": "2026-08-15T20:57:59+00:00",
+      "excerpt": "Hi, Is there anyone who has got approval in 2nd attempt recently? Thanks",
       "topics": [
-        "i485",
-        "lawyer",
-        "timeline",
+        "approval",
         "question"
       ],
       "signals": {
@@ -187,14 +204,16 @@
       }
     },
     {
-      "id": "t3_1vpdxom",
-      "title": "Approved in 2nd Attempt?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpdxom/approved_in_2nd_attempt/",
-      "author": "/u/maradonepoleon",
-      "publishedAt": "2026-08-15T20:57:59+00:00",
-      "excerpt": "Hi, Is there anyone who has got approval in 2nd attempt recently? Thanks",
+      "id": "t3_1vpi7ql",
+      "title": "Civil surgeon cost + I-693 turnaround time — anyone recently been through this?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpi7ql/civil_surgeon_cost_i693_turnaround_time_anyone/",
+      "author": "/u/InsectActive95",
+      "publishedAt": "2026-08-16T00:09:22+00:00",
+      "excerpt": "Booked my civil surgeon appointment for the I-485 medical exam. Front desk quoted a base of $325 but said there could be additional charges on top depending on what testing ends up being needed, and she couldn't give me a firm total ahead of time. Also don't have old vaccination records available (moved from abroad and…",
       "topics": [
-        "approval",
+        "i485",
+        "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -442,28 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1voo18y",
-      "title": "RFE: want a RFE attorney for 2nd opinion",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voo18y/rfe_want_a_rfe_attorney_for_2nd_opinion/",
-      "author": "/u/idkwimdtbh",
-      "publishedAt": "2026-08-15T00:17:21+00:00",
-      "excerpt": "Hi everyone, I recently got RFEed for my niw application. USCIS accepted my advanced-degree EB-2 qualification but challenged the NIW under all three Dhanasar prongs, particularly: - substantial merit / national importance of the specific endeavor - whether my methodology has sufficiently broad implications beyond one …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-16T14:12:47.492Z",
+  "syncedAt": "2026-08-16T15:11:18.016Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
