@@ -73,24 +73,6 @@
       }
     },
     {
-      "id": "t3_1vovep9",
-      "title": "EB2 NIW approved after 3 prong RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vovep9/eb2_niw_approved_after_3_prong_rfe/",
-      "author": "/u/Inside_Shock6834",
-      "publishedAt": "2026-08-15T06:32:23+00:00",
-      "excerpt": "Self petitioned PhD student at R1 uni 2 papers Priority Date: Oct 2025 Premium Processing: February 2026 RFE recieved: March 2026 Response: 2 days before deadline in June Approved: Aug 15th (38 business days) Recieved notification via email. USCIS site still says “under processing”. but it was “RFE recieved” up until t…",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vpjcqw",
       "title": "EB-2 NIW with only 8 citations - any chance?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpjcqw/eb2_niw_with_only_8_citations_any_chance/",
@@ -101,6 +83,24 @@
         "approval",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vovep9",
+      "title": "EB2 NIW approved after 3 prong RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vovep9/eb2_niw_approved_after_3_prong_rfe/",
+      "author": "/u/Inside_Shock6834",
+      "publishedAt": "2026-08-15T06:32:23+00:00",
+      "excerpt": "Self petitioned PhD student at R1 uni 2 papers Priority Date: Oct 2025 Premium Processing: February 2026 RFE recieved: March 2026 Response: 2 days before deadline in June Approved: Aug 15th (38 business days) Recieved notification via email. USCIS site still says “under processing”. but it was “RFE recieved” up until t…",
+      "topics": [
+        "approval",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -229,24 +229,6 @@
       "excerpt": "So on my previous post a lot of people say do not go with EP or Manifest who did you use then?",
       "topics": [
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vor1af",
-      "title": "Do USCIS officers contact recommenders",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vor1af/do_uscis_officers_contact_recommenders/",
-      "author": "/u/Forward_Jellyfish805",
-      "publishedAt": "2026-08-15T02:40:54+00:00",
-      "excerpt": "I read somewhere on an EB-2 NIW forum that a petitioner claimed USCIS contacted one of his recommenders to verify the recommendation letter. The post was from 2022, which seemed unusual to me. Has anyone come across a similar situation or heard of USCIS doing this before?",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -458,9 +440,30 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1voatib",
+      "title": "I-485 API Tracking After Biometrics: FTA0/FTA1 + ackedByAdjudicatorAndCms",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voatib/i485_api_tracking_after_biometrics_fta0fta1/",
+      "author": "/u/Limp_Investigator918",
+      "publishedAt": "2026-08-14T15:44:03+00:00",
+      "excerpt": "Quick update on my EB-2 NIW AOS case for those who also track the USCIS API. I completed biometrics on August 12 . My I-765 and I-485 changed to “currently processing” the same day, and my C09 EAD was approved August 13, one day after biometrics . I checked the API for my I-485 , and noticed the following: updatedAt: A…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-08-16T03:39:18.316Z",
+  "syncedAt": "2026-08-16T04:25:36.747Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
