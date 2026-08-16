@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1vqa11l",
+      "title": "Asking for advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqa11l/asking_for_advice/",
+      "author": "/u/Nothintosayy2",
+      "publishedAt": "2026-08-16T22:03:18+00:00",
+      "excerpt": "Hi everyone, I’m an F-1 international student currently in the first year of my PhD (already completed my Master’s). I’m starting to look into applying for a Green Card through the EB-2 NIW, but I’m pretty overwhelmed and don't know where to start. A quick summary of my profile: Degree: Master’s completed in US, curren…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vq5zgf",
       "title": "Seeking guidance on RFE response (all 3 prongs). Technical Product Manager with 10+ YOE, no published research or citations.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq5zgf/seeking_guidance_on_rfe_response_all_3_prongs/",
@@ -110,15 +129,14 @@
       }
     },
     {
-      "id": "t3_1vqa11l",
-      "title": "Asking for advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqa11l/asking_for_advice/",
-      "author": "/u/Nothintosayy2",
-      "publishedAt": "2026-08-16T22:03:18+00:00",
-      "excerpt": "Hi everyone, I’m an F-1 international student currently in the first year of my PhD (already completed my Master’s). I’m starting to look into applying for a Green Card through the EB-2 NIW, but I’m pretty overwhelmed and don't know where to start. A quick summary of my profile: Degree: Master’s completed in US, curren…",
+      "id": "t3_1vqbbal",
+      "title": "I-140 EB-2 NIW pending for 580 days — is this normal?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqbbal/i140_eb2_niw_pending_for_580_days_is_this_normal/",
+      "author": "/u/Royale115",
+      "publishedAt": "2026-08-16T22:59:07+00:00",
+      "excerpt": "My EB-2 NIW I-140 has been pending for about 580 days with no RFE or decision yet. Has anyone here waited this long under regular processing? If so, how many days did it take before you received a decision? Just trying to understand whether 580 days is still considered normal for an NIW case.",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -446,27 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1voq6cr",
-      "title": "July 2nd filer, EB-2 NIW, any updates on upgrading I-140 to premium processing?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voq6cr/july_2nd_filer_eb2_niw_any_updates_on_upgrading/",
-      "author": "/u/PsychologicalPace836",
-      "publishedAt": "2026-08-15T01:59:04+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-16T22:10:18.026Z",
+  "syncedAt": "2026-08-16T23:10:25.119Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
