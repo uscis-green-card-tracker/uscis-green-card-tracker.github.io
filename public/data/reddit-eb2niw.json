@@ -110,6 +110,25 @@
       }
     },
     {
+      "id": "t3_1vqa11l",
+      "title": "Asking for advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqa11l/asking_for_advice/",
+      "author": "/u/Nothintosayy2",
+      "publishedAt": "2026-08-16T22:03:18+00:00",
+      "excerpt": "Hi everyone, I’m an F-1 international student currently in the first year of my PhD (already completed my Master’s). I’m starting to look into applying for a Green Card through the EB-2 NIW, but I’m pretty overwhelmed and don't know where to start. A quick summary of my profile: Degree: Master’s completed in US, curren…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vq75i4",
       "title": "Lawyer recommendation for I140",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq75i4/lawyer_recommendation_for_i140/",
@@ -186,26 +205,6 @@
       }
     },
     {
-      "id": "t3_1vq3ncd",
-      "title": "Master's, one paper, 4 citations. Is my NIW actually viable?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq3ncd/masters_one_paper_4_citations_is_my_niw_actually/",
-      "author": "/u/Backstab988",
-      "publishedAt": "2026-08-16T17:51:39+00:00",
-      "excerpt": "Throwaway. Keeping specifics vague on purpose. Attorney retained, brief being drafted now. I want honest reads, harsh ones included. Who I am - Field : Biomedical Engineering - BS and MSE in biomedical engineering, US schools. No PhD. - Six years on one large-animal research platform, from student researcher to ongoing…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vpwhk7",
       "title": "Recommendation letters post RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpwhk7/recommendation_letters_post_rfe/",
@@ -233,6 +232,26 @@
       "publishedAt": "2026-08-16T12:11:36+00:00",
       "excerpt": "Hi everyone, I’m preparing to file an EB2-NIW (National Interest Waiver) and am currently looking for an experienced immigration attorney or firm that has strong experience handling MBA / business background profiles. A lot of the big-name firms either charge sky-high flat fees or tend to shy away from business/MBA pro…",
       "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vq3ncd",
+      "title": "Master's, one paper, 4 citations. Is my NIW actually viable?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq3ncd/masters_one_paper_4_citations_is_my_niw_actually/",
+      "author": "/u/Backstab988",
+      "publishedAt": "2026-08-16T17:51:39+00:00",
+      "excerpt": "Throwaway. Keeping specifics vague on purpose. Attorney retained, brief being drafted now. I want honest reads, harsh ones included. Who I am - Field : Biomedical Engineering - BS and MSE in biomedical engineering, US schools. No PhD. - Six years on one large-animal research platform, from student researcher to ongoing…",
+      "topics": [
+        "approval",
         "i140",
         "lawyer",
         "question"
@@ -445,30 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1voozrx",
-      "title": "A 3-prong RFE on day 45: Confused regarding the next steps.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1voozrx/a_3prong_rfe_on_day_45_confused_regarding_the/",
-      "author": "/u/Snake5541",
-      "publishedAt": "2026-08-15T01:02:32+00:00",
-      "excerpt": "Hello, just received a RFE on day 45 that challenges all 3 prongs. Definitely did not expect this and feel very confused about preparing for the next steps in a short period of time. Background:about Current Position: Hospitalist with research interest and career aspiration in Cardiology. Education: MBBS (outside the U…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-16T21:10:43.408Z",
+  "syncedAt": "2026-08-16T22:10:18.026Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
