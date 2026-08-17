@@ -54,6 +54,24 @@
       }
     },
     {
+      "id": "t3_1vr32xk",
+      "title": "Anyone got RFE from xm2383 TSC recent?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr32xk/anyone_got_rfe_from_xm2383_tsc_recent/",
+      "author": "/u/Worried_Win_2478",
+      "publishedAt": "2026-08-17T19:59:58+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqo8zz",
       "title": "How do you go about getting recommendation letters?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqo8zz/how_do_you_go_about_getting_recommendation_letters/",
@@ -129,6 +147,21 @@
       }
     },
     {
+      "id": "t3_1vqukws",
+      "title": "Any June 15 & above filer",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqukws/any_june_15_above_filer/",
+      "author": "/u/Sea_Manufacturer580",
+      "publishedAt": "2026-08-17T14:53:36+00:00",
+      "excerpt": "Hi, I was wondering if there is any June 15 onward filer who received a decision. Thank you",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqzrsk",
       "title": "Rfe( Plan for how to continue your work)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqzrsk/rfe_plan_for_how_to_continue_your_work/",
@@ -177,21 +210,6 @@
         "i140",
         "question"
       ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vqukws",
-      "title": "Any June 15 & above filer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqukws/any_june_15_above_filer/",
-      "author": "/u/Sea_Manufacturer580",
-      "publishedAt": "2026-08-17T14:53:36+00:00",
-      "excerpt": "Hi, I was wondering if there is any June 15 onward filer who received a decision. Thank you",
-      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -441,27 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vq609n",
-      "title": "EB2 NIW RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq609n/eb2_niw_rfe/",
-      "author": "/u/Designer_Currency_80",
-      "publishedAt": "2026-08-16T19:21:34+00:00",
-      "excerpt": "Is there anyone from the community who submitted response to RFE in February 13 window 2026 and is yet to receive a response? I submitted mine around the same period from the 38/75 countries and no response till date. I have seen people from the 38/75 countries who submitted response to RFE in June 2026 get decision al…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-08-17T19:20:13.273Z",
+  "syncedAt": "2026-08-17T20:14:51.764Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
