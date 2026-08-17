@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1vqo8zz",
+      "title": "How do you go about getting recommendation letters?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqo8zz/how_do_you_go_about_getting_recommendation_letters/",
+      "author": "/u/username6626",
+      "publishedAt": "2026-08-17T10:14:08+00:00",
+      "excerpt": "I am currently preparing my case with the Chen agency, and I’ve run into a major hurdle: where do I get letters of recommendation? A little about me and my case: I am based in Europe and work for a fairly large international IT corporation (Nokia). At the same time, I defended my dissertation this past March on a topic…",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqcsjv",
       "title": "NIW RFE – Researcher/Non-PI Experiences?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqcsjv/niw_rfe_researchernonpi_experiences/",
@@ -63,24 +81,6 @@
       "topics": [
         "approval",
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vqo8zz",
-      "title": "How do you go about getting recommendation letters?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqo8zz/how_do_you_go_about_getting_recommendation_letters/",
-      "author": "/u/username6626",
-      "publishedAt": "2026-08-17T10:14:08+00:00",
-      "excerpt": "I am currently preparing my case with the Chen agency, and I’ve run into a major hurdle: where do I get letters of recommendation? A little about me and my case: I am based in Europe and work for a fairly large international IT corporation (Nokia). At the same time, I defended my dissertation this past March on a topic…",
-      "topics": [
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-17T10:21:34.407Z",
+  "syncedAt": "2026-08-17T11:16:14.741Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
