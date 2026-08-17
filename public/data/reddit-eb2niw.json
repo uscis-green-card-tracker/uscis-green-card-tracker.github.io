@@ -92,6 +92,26 @@
       }
     },
     {
+      "id": "t3_1vqjazh",
+      "title": "Have you filled i485 online under Eb2?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqjazh/have_you_filled_i485_online_under_eb2/",
+      "author": "/u/InvestmentCandid3159",
+      "publishedAt": "2026-08-17T05:26:18+00:00",
+      "excerpt": "I am in the process of filing i485 based on my approved I 140 under EB2 NIW. I noticed that there is an option to file the application online. Has anyone here filed AoS online? I would really appreciate it if you could share your experience, especially regarding the process and whether you faced any issues. I need to f…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqii8f",
       "title": "anyone who applied PP in July? any update?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqii8f/anyone_who_applied_pp_in_july_any_update/",
@@ -333,24 +353,6 @@
       }
     },
     {
-      "id": "t3_1vq519u",
-      "title": "EB-2 NIW Profile Evaluation / Sanity Check — Is my profile fit for this visa ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq519u/eb2_niw_profile_evaluation_sanity_check_is_my/",
-      "author": "/u/Many_Dimension_2774",
-      "publishedAt": "2026-08-16T18:43:54+00:00",
-      "excerpt": "Hi everyone, I'm planning to apply for an EB-2 NIW (Consular Processing / ROW) and would love to get your honest feedback on my profile. Education & Credentials Master’s Degree (M.Sc.): Completed a thesis focused on advanced time-series prediction models using Convolutional Neural Networks (CNN) and Genetic Algorithms …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vph3wo",
       "title": "I-140 Approved - Concurrently filed I-485, non-PP, PD Apr 2026, self-filed",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vph3wo/i140_approved_concurrently_filed_i485_nonpp_pd/",
@@ -465,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-17T05:26:17.660Z",
+  "syncedAt": "2026-08-17T06:33:25.537Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
