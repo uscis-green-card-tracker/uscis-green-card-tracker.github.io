@@ -73,25 +73,6 @@
       }
     },
     {
-      "id": "t3_1vqa11l",
-      "title": "Asking for advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqa11l/asking_for_advice/",
-      "author": "/u/Nothintosayy2",
-      "publishedAt": "2026-08-16T22:03:18+00:00",
-      "excerpt": "Hi everyone, I’m an F-1 international student currently in the first year of my PhD (already completed my Master’s). I’m starting to look into applying for a Green Card through the EB-2 NIW, but I’m pretty overwhelmed and don't know where to start. A quick summary of my profile: Degree: Master’s completed in US, curren…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vqjazh",
       "title": "Have you filled i485 online under Eb2?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqjazh/have_you_filled_i485_online_under_eb2/",
@@ -102,6 +83,43 @@
         "approval",
         "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vqkxw0",
+      "title": "Do I have a realistic eb2 niw case?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqkxw0/do_i_have_a_realistic_eb2_niw_case/",
+      "author": "/u/Just-Builder-955",
+      "publishedAt": "2026-08-17T06:58:45+00:00",
+      "excerpt": "US BSBA Finance U.S. STEM M.S. Finance CFA level 1 2 years finance experience, including one of the largest global asset manager (top 10 in the world) Current 1099 contract financial-AI evaluation work: 1k+ AI evaluation/benchmark tasks across 5+ projects Build SEC/FRED-based financial reasoning benchmarks Evaluate hal…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vqa11l",
+      "title": "Asking for advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqa11l/asking_for_advice/",
+      "author": "/u/Nothintosayy2",
+      "publishedAt": "2026-08-16T22:03:18+00:00",
+      "excerpt": "Hi everyone, I’m an F-1 international student currently in the first year of my PhD (already completed my Master’s). I’m starting to look into applying for a Green Card through the EB-2 NIW, but I’m pretty overwhelmed and don't know where to start. A quick summary of my profile: Degree: Master’s completed in US, curren…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -447,27 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vpp43u",
-      "title": "EB-2 NIW: proprietary methodology instead of academic research/publications",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpp43u/eb2_niw_proprietary_methodology_instead_of/",
-      "author": "/u/Friendly-Eggplant341",
-      "publishedAt": "2026-08-16T06:04:15+00:00",
-      "excerpt": "Hi everyone, I’m preparing a self-petitioned EB-2 NIW based on a management methodology I developed that has a relevant degree of originality. It was tested for years in my company abroad with incredible success. I haven’t found many cases from people with a similar profile, so I’d really appreciate hearing from anyone…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-17T06:33:25.537Z",
+  "syncedAt": "2026-08-17T07:42:58.794Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
