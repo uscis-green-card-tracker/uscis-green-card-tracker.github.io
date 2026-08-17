@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1vr14c6",
+      "title": "March filer Eb2 NIW-I485 with current dates for last 5 months with one dependent, Case still at NBC after 5 silent updates, 05/05, 05/23, 08/04, 08/06 and last one today 08/17 with 3rd FTAO, so what does it mean or how to interpret it?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr14c6/march_filer_eb2_niwi485_with_current_dates_for/",
+      "author": "/u/Spirited_Opinion1887",
+      "publishedAt": "2026-08-17T18:49:43+00:00",
+      "excerpt": "",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqo8zz",
       "title": "How do you go about getting recommendation letters?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqo8zz/how_do_you_go_about_getting_recommendation_letters/",
@@ -90,6 +109,26 @@
       }
     },
     {
+      "id": "t3_1vqwxcj",
+      "title": "Anyone who received FTA0 on Aug 13 — any updates since then?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqwxcj/anyone_who_received_fta0_on_aug_13_any_updates/",
+      "author": "/u/Old-Onion5385",
+      "publishedAt": "2026-08-17T16:26:02+00:00",
+      "excerpt": "Anyone who received FTA0 on Aug 13 — any updates since then? Hi everyone, I posted a few days ago about receiving a new FTA0 on August 13, 2026 on my I-485, which pointed back to my original biometrics date. I wanted to follow up and see whether anyone else who received an FTA0 on Aug 13 has had any additional updates …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqzrsk",
       "title": "Rfe( Plan for how to continue your work)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqzrsk/rfe_plan_for_how_to_continue_your_work/",
@@ -117,45 +156,6 @@
       "topics": [
         "i485",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vqrb0r",
-      "title": "EB2-NIW → I-485 → interview in Orlando → F-1 related RFE → response on April 10 → Orlando FO → 129 days of silence",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrb0r/eb2niw_i485_interview_in_orlando_f1_related_rfe/",
-      "author": "/u/CommonGuess3588",
-      "publishedAt": "2026-08-17T12:44:07+00:00",
-      "excerpt": "Hey everyone, is anyone else without any updates? After responding to the RFE (which came after the I-485 interview), there haven't been any further updates; I don't know if this is specific to the Orlando field office.",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vqwxcj",
-      "title": "Anyone who received FTA0 on Aug 13 — any updates since then?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqwxcj/anyone_who_received_fta0_on_aug_13_any_updates/",
-      "author": "/u/Old-Onion5385",
-      "publishedAt": "2026-08-17T16:26:02+00:00",
-      "excerpt": "Anyone who received FTA0 on Aug 13 — any updates since then? Hi everyone, I posted a few days ago about receiving a new FTA0 on August 13, 2026 on my I-485, which pointed back to my original biometrics date. I wanted to follow up and see whether anyone else who received an FTA0 on Aug 13 has had any additional updates …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
         "question"
       ],
       "signals": {
@@ -461,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-17T18:22:14.388Z",
+  "syncedAt": "2026-08-17T19:20:13.273Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
