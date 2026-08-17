@@ -53,6 +53,43 @@
       }
     },
     {
+      "id": "t3_1vqxoik",
+      "title": "RFE response sent, USCIS not received/updated case yet",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqxoik/rfe_response_sent_uscis_not_receivedupdated_case/",
+      "author": "/u/Rare_Bee_8751",
+      "publishedAt": "2026-08-17T16:51:18+00:00",
+      "excerpt": "Hey everyone, May lawyer sent my RFE response via FedEx, and tracking shows it was successfully delivered on August 12 . The deadline to respond is today, August 17 . However, my USCIS online tracker still hasn't updated to show that its received. How long does it usually take for the online portal to reflect that they…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vqxcqj",
+      "title": "Online filing of I-140 + premium processing (concurrently)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqxcqj/online_filing_of_i140_premium_processing/",
+      "author": "/u/Broad-Lab-3626",
+      "publishedAt": "2026-08-17T16:40:07+00:00",
+      "excerpt": "Hi there. I was wondering if anyone has filed the I-140 and PP online concurrently, since it is apparently now an option.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqsikd",
       "title": "Lawyer for i485?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqsikd/lawyer_for_i485/",
@@ -79,6 +116,26 @@
       "publishedAt": "2026-08-17T12:44:07+00:00",
       "excerpt": "Hey everyone, is anyone else without any updates? After responding to the RFE (which came after the I-485 interview), there haven't been any further updates; I don't know if this is specific to the Orlando field office.",
       "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vqwxcj",
+      "title": "Anyone who received FTA0 on Aug 13 — any updates since then?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqwxcj/anyone_who_received_fta0_on_aug_13_any_updates/",
+      "author": "/u/Old-Onion5385",
+      "publishedAt": "2026-08-17T16:26:02+00:00",
+      "excerpt": "Anyone who received FTA0 on Aug 13 — any updates since then? Hi everyone, I posted a few days ago about receiving a new FTA0 on August 13, 2026 on my I-485, which pointed back to my original biometrics date. I wanted to follow up and see whether anyone else who received an FTA0 on Aug 13 has had any additional updates …",
+      "topics": [
+        "approval",
         "i485",
         "i140",
         "question"
@@ -238,24 +295,6 @@
       }
     },
     {
-      "id": "t3_1vqrakt",
-      "title": "The biggest misconception I hear about EB-2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrakt/the_biggest_misconception_i_hear_about_eb2_niw/",
-      "author": "/u/Maxim_Michaeli_Esq",
-      "publishedAt": "2026-08-17T12:43:35+00:00",
-      "excerpt": "A lot of people hear that EB-2 NIW can be self-petitioned and immediately assume: “No employer = simple green card case.” Not necessarily. The ability to self-petition is important, but the real analysis is much deeper. First, the applicant still has to qualify for the underlying EB-2 category. Then the National Intere…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vq5zgf",
       "title": "Seeking guidance on RFE response (all 3 prongs). Technical Product Manager with 10+ YOE, no published research or citations.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq5zgf/seeking_guidance_on_rfe_response_all_3_prongs/",
@@ -300,6 +339,24 @@
       "author": "/u/Different_Pie_6531",
       "publishedAt": "2026-08-17T00:50:22+00:00",
       "excerpt": "I'm an F1 PhD student. My PhD is in datacenter cooling and I genuinely wanna build a venture in oceanwater cooled datacenters. I have a privately owned patent for the concept and two preprints on experimental testing for oceanwater cooled datacenters which are under review at pretty good journals (Nature and Applied Th…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vqrakt",
+      "title": "The biggest misconception I hear about EB-2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrakt/the_biggest_misconception_i_hear_about_eb2_niw/",
+      "author": "/u/Maxim_Michaeli_Esq",
+      "publishedAt": "2026-08-17T12:43:35+00:00",
+      "excerpt": "A lot of people hear that EB-2 NIW can be self-petitioned and immediately assume: “No employer = simple green card case.” Not necessarily. The ability to self-petition is important, but the real analysis is much deeper. First, the applicant still has to qualify for the underlying EB-2 category. Then the National Intere…",
       "topics": [
         "i140",
         "question"
@@ -402,64 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vq9puv",
-      "title": "Is my profile fit for EB2-NIW Visa ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq9puv/is_my_profile_fit_for_eb2niw_visa/",
-      "author": "/u/Many_Dimension_2774",
-      "publishedAt": "2026-08-16T21:50:34+00:00",
-      "excerpt": "Hi everyone, I'm planning to apply for an EB-2 NIW (Consular Processing / ROW) and would love to get your honest feedback on my profile. Education & Credentials Master’s Degree (M.Sc.): Completed a thesis focused on advanced time-series prediction models using Convolutional Neural Networks (CNN) and Genetic Algorithms …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vq38aj",
-      "title": "3rd FTA0 on I485, LED on already approved I765",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq38aj/3rd_fta0_on_i485_led_on_already_approved_i765/",
-      "author": "/u/LegitimateParfait913",
-      "publishedAt": "2026-08-16T17:35:39+00:00",
-      "excerpt": "Hi, I got my 3rd FTA0 on 8/13 on the i485, and a different LED code on my already approved I765 around the same time. Similar patter?",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vqdztt",
-      "title": "What should my Proposed Endeavor be? (Financial ops / AI analytics background)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqdztt/what_should_my_proposed_endeavor_be_financial_ops/",
-      "author": "/u/Alarmed_Plan1383",
-      "publishedAt": "2026-08-17T01:01:23+00:00",
-      "excerpt": "Trying to figure out how to frame my Proposed Endeavor and would appreciate outside opinions before I take it to an attorney. Background (~9 yrs experience): FP&A and financial operations across IT services, e-commerce, enterprise software, healthcare, and consulting industries. M.S. Business Analytics + BBA. Career: P…",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-17T16:15:22.894Z",
+  "syncedAt": "2026-08-17T17:17:17.139Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
