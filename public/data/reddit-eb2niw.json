@@ -238,6 +238,24 @@
       }
     },
     {
+      "id": "t3_1vqrakt",
+      "title": "The biggest misconception I hear about EB-2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrakt/the_biggest_misconception_i_hear_about_eb2_niw/",
+      "author": "/u/Maxim_Michaeli_Esq",
+      "publishedAt": "2026-08-17T12:43:35+00:00",
+      "excerpt": "A lot of people hear that EB-2 NIW can be self-petitioned and immediately assume: “No employer = simple green card case.” Not necessarily. The ability to self-petition is important, but the real analysis is much deeper. First, the applicant still has to qualify for the underlying EB-2 category. Then the National Intere…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vq5zgf",
       "title": "Seeking guidance on RFE response (all 3 prongs). Technical Product Manager with 10+ YOE, no published research or citations.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq5zgf/seeking_guidance_on_rfe_response_all_3_prongs/",
@@ -302,24 +320,6 @@
       "excerpt": "What if I have an approved NIW I-140 but I am not pursuing the endeavor anymore due to job change or losing interest or simply completing the endeavor? In this case, can I still use the NIW I-140 for an H1B extension if I'm from a backlogged country? Does USCIS ask about the endeavor's progress during H1B extension?",
       "topics": [
         "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vqrakt",
-      "title": "The biggest misconception I hear about EB-2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrakt/the_biggest_misconception_i_hear_about_eb2_niw/",
-      "author": "/u/Maxim_Michaeli_Esq",
-      "publishedAt": "2026-08-17T12:43:35+00:00",
-      "excerpt": "A lot of people hear that EB-2 NIW can be self-petitioned and immediately assume: “No employer = simple green card case.” Not necessarily. The ability to self-petition is important, but the real analysis is much deeper. First, the applicant still has to qualify for the underlying EB-2 category. Then the National Intere…",
-      "topics": [
         "i140",
         "question"
       ],
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-17T15:15:49.983Z",
+  "syncedAt": "2026-08-17T16:15:22.894Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
