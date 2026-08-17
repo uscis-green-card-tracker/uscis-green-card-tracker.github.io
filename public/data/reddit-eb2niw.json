@@ -54,6 +54,25 @@
       }
     },
     {
+      "id": "t3_1vqhvgs",
+      "title": "Anyone here with a non-science background who got EB-2 NIW approved?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqhvgs/anyone_here_with_a_nonscience_background_who_got/",
+      "author": "/u/Certain_Ad_2684",
+      "publishedAt": "2026-08-17T04:09:21+00:00",
+      "excerpt": "I’m curious about the people who have gotten their EB-2 NIW approved. When I read posts here, I mostly see people with PhDs, research backgrounds, STEM degrees, etc. I haven’t seen many people from other fields. Are there people here who got approved with backgrounds in things like business, education, management, inte…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqa11l",
       "title": "Asking for advice",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqa11l/asking_for_advice/",
@@ -277,24 +296,6 @@
       }
     },
     {
-      "id": "t3_1vq519u",
-      "title": "EB-2 NIW Profile Evaluation / Sanity Check — Is my profile fit for this visa ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq519u/eb2_niw_profile_evaluation_sanity_check_is_my/",
-      "author": "/u/Many_Dimension_2774",
-      "publishedAt": "2026-08-16T18:43:54+00:00",
-      "excerpt": "Hi everyone, I'm planning to apply for an EB-2 NIW (Consular Processing / ROW) and would love to get your honest feedback on my profile. Education & Credentials Master’s Degree (M.Sc.): Completed a thesis focused on advanced time-series prediction models using Convolutional Neural Networks (CNN) and Genetic Algorithms …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vpf5ng",
       "title": "EB 2 NIW Approved After RFE | Premium Processing | Self Filed",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpf5ng/eb_2_niw_approved_after_rfe_premium_processing/",
@@ -305,6 +306,24 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vq519u",
+      "title": "EB-2 NIW Profile Evaluation / Sanity Check — Is my profile fit for this visa ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vq519u/eb2_niw_profile_evaluation_sanity_check_is_my/",
+      "author": "/u/Many_Dimension_2774",
+      "publishedAt": "2026-08-16T18:43:54+00:00",
+      "excerpt": "Hi everyone, I'm planning to apply for an EB-2 NIW (Consular Processing / ROW) and would love to get your honest feedback on my profile. Education & Credentials Master’s Degree (M.Sc.): Completed a thesis focused on advanced time-series prediction models using Convolutional Neural Networks (CNN) and Genetic Algorithms …",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -445,27 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vpdxom",
-      "title": "Approved in 2nd Attempt?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpdxom/approved_in_2nd_attempt/",
-      "author": "/u/maradonepoleon",
-      "publishedAt": "2026-08-15T20:57:59+00:00",
-      "excerpt": "Hi, Is there anyone who has got approval in 2nd attempt recently? Thanks",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-17T03:40:18.992Z",
+  "syncedAt": "2026-08-17T04:31:19.068Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
