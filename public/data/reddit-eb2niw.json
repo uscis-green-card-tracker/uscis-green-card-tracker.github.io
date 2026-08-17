@@ -91,6 +91,25 @@
       }
     },
     {
+      "id": "t3_1vqrb0r",
+      "title": "EB2-NIW → I-485 → interview in Orlando → F-1 related RFE → response on April 10 → Orlando FO → 129 days of silence",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrb0r/eb2niw_i485_interview_in_orlando_f1_related_rfe/",
+      "author": "/u/CommonGuess3588",
+      "publishedAt": "2026-08-17T12:44:07+00:00",
+      "excerpt": "Hey everyone, is anyone else without any updates? After responding to the RFE (which came after the I-485 interview), there haven't been any further updates; I don't know if this is specific to the Orlando field office.",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqjazh",
       "title": "Have you filled i485 online under Eb2?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqjazh/have_you_filled_i485_online_under_eb2/",
@@ -100,6 +119,24 @@
       "topics": [
         "approval",
         "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vqrakt",
+      "title": "The biggest misconception I hear about EB-2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrakt/the_biggest_misconception_i_hear_about_eb2_niw/",
+      "author": "/u/Maxim_Michaeli_Esq",
+      "publishedAt": "2026-08-17T12:43:35+00:00",
+      "excerpt": "A lot of people hear that EB-2 NIW can be self-petitioned and immediately assume: “No employer = simple green card case.” Not necessarily. The ability to self-petition is important, but the real analysis is much deeper. First, the applicant still has to qualify for the underlying EB-2 category. Then the National Intere…",
+      "topics": [
         "i140",
         "question"
       ],
@@ -425,48 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vpwhk7",
-      "title": "Recommendation letters post RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpwhk7/recommendation_letters_post_rfe/",
-      "author": "/u/LiorZim",
-      "publishedAt": "2026-08-16T13:01:30+00:00",
-      "excerpt": "Hi everyone, I filed my I-485 with premium processing on July 31st (my priority date is 02/2025), using Chen's services, which were very helpful throughout. After reviewing my application with Claude, I got some critical feedback that makes me worried about receiving an RFE. Since I need my green card by next September…",
-      "topics": [
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vpvfwn",
-      "title": "Looking for reliable & reasonably priced EB2-NIW immigration lawyers for an MBA profile?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vpvfwn/looking_for_reliable_reasonably_priced_eb2niw/",
-      "author": "/u/Rare-Cricket-4084",
-      "publishedAt": "2026-08-16T12:11:36+00:00",
-      "excerpt": "Hi everyone, I’m preparing to file an EB2-NIW (National Interest Waiver) and am currently looking for an experienced immigration attorney or firm that has strong experience handling MBA / business background profiles. A lot of the big-name firms either charge sky-high flat fees or tend to shy away from business/MBA pro…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-17T12:21:53.528Z",
+  "syncedAt": "2026-08-17T13:32:01.632Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
