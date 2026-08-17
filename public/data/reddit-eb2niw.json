@@ -90,6 +90,24 @@
       }
     },
     {
+      "id": "t3_1vqzrsk",
+      "title": "Rfe( Plan for how to continue your work)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqzrsk/rfe_plan_for_how_to_continue_your_work/",
+      "author": "/u/Mother-Ad8565",
+      "publishedAt": "2026-08-17T18:02:42+00:00",
+      "excerpt": "can anyone provide any insights on how to go about the plan describing how the self-petitioner intends to continue her work in the United States? Or can someone share a template?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqsikd",
       "title": "Lawyer for i485?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqsikd/lawyer_for_i485/",
@@ -351,13 +369,14 @@
       }
     },
     {
-      "id": "t3_1vqrakt",
-      "title": "The biggest misconception I hear about EB-2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrakt/the_biggest_misconception_i_hear_about_eb2_niw/",
-      "author": "/u/Maxim_Michaeli_Esq",
-      "publishedAt": "2026-08-17T12:43:35+00:00",
-      "excerpt": "A lot of people hear that EB-2 NIW can be self-petitioned and immediately assume: “No employer = simple green card case.” Not necessarily. The ability to self-petition is important, but the real analysis is much deeper. First, the applicant still has to qualify for the underlying EB-2 category. Then the National Intere…",
+      "id": "t3_1vqgwrw",
+      "title": "H1B Extension with Approved NIW I-140 But Not Pursuing Endeavor",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqgwrw/h1b_extension_with_approved_niw_i140_but_not/",
+      "author": "/u/op_blackhawk",
+      "publishedAt": "2026-08-17T03:21:02+00:00",
+      "excerpt": "What if I have an approved NIW I-140 but I am not pursuing the endeavor anymore due to job change or losing interest or simply completing the endeavor? In this case, can I still use the NIW I-140 for an H1B extension if I'm from a backlogged country? Does USCIS ask about the endeavor's progress during H1B extension?",
       "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -369,14 +388,13 @@
       }
     },
     {
-      "id": "t3_1vqgwrw",
-      "title": "H1B Extension with Approved NIW I-140 But Not Pursuing Endeavor",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqgwrw/h1b_extension_with_approved_niw_i140_but_not/",
-      "author": "/u/op_blackhawk",
-      "publishedAt": "2026-08-17T03:21:02+00:00",
-      "excerpt": "What if I have an approved NIW I-140 but I am not pursuing the endeavor anymore due to job change or losing interest or simply completing the endeavor? In this case, can I still use the NIW I-140 for an H1B extension if I'm from a backlogged country? Does USCIS ask about the endeavor's progress during H1B extension?",
+      "id": "t3_1vqrakt",
+      "title": "The biggest misconception I hear about EB-2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqrakt/the_biggest_misconception_i_hear_about_eb2_niw/",
+      "author": "/u/Maxim_Michaeli_Esq",
+      "publishedAt": "2026-08-17T12:43:35+00:00",
+      "excerpt": "A lot of people hear that EB-2 NIW can be self-petitioned and immediately assume: “No employer = simple green card case.” Not necessarily. The ability to self-petition is important, but the real analysis is much deeper. First, the applicant still has to qualify for the underlying EB-2 category. Then the National Intere…",
       "topics": [
-        "approval",
         "i140",
         "question"
       ],
@@ -441,27 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1vqbbal",
-      "title": "I-140 EB-2 NIW pending for 580 days — is this normal?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqbbal/i140_eb2_niw_pending_for_580_days_is_this_normal/",
-      "author": "/u/Royale115",
-      "publishedAt": "2026-08-16T22:59:07+00:00",
-      "excerpt": "My EB-2 NIW I-140 has been pending for about 580 days with no RFE or decision yet. Has anyone here waited this long under regular processing? If so, how many days did it take before you received a decision? Just trying to understand whether 580 days is still considered normal for an NIW case.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-17T17:17:17.139Z",
+  "syncedAt": "2026-08-17T18:22:14.388Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
