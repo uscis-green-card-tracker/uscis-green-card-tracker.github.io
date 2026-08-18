@@ -91,6 +91,27 @@
       }
     },
     {
+      "id": "t3_1vr8qrk",
+      "title": "Estimated I-485 timelines. Card in hand by Christmas?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr8qrk/estimated_i485_timelines_card_in_hand_by_christmas/",
+      "author": "/u/threeighty",
+      "publishedAt": "2026-08-17T23:41:19+00:00",
+      "excerpt": "Trying to work out when I can expect approval so I can plan to travel around Christmas time or early next year. Appreciate the insight! Here are my dates: I-140 PD - 26 Dec 2025 I-140 Approved - 12 Feb 2026 (PP) I-485 RD - 18 June 2026 Biometrics Completed - 31 July 2026 Two FTA0 Events - 31 July 2026 First Silent Upda…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vr7jqq",
       "title": "Attorneys who specialize in or have experience with NIW in non-STEM?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr7jqq/attorneys_who_specialize_in_or_have_experience/",
@@ -273,6 +294,24 @@
       }
     },
     {
+      "id": "t3_1vr83w7",
+      "title": "Seeking Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr83w7/seeking_advice/",
+      "author": "/u/CrazySerious6287",
+      "publishedAt": "2026-08-17T23:14:14+00:00",
+      "excerpt": "Has anyone filed for themselves without an attorney? If so, could you please leave a comment or DM me? I have a short question. Thanks.",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vqcsjv",
       "title": "NIW RFE – Researcher/Non-PI Experiences?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqcsjv/niw_rfe_researchernonpi_experiences/",
@@ -423,45 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1vqii8f",
-      "title": "anyone who applied PP in July? any update?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqii8f/anyone_who_applied_pp_in_july_any_update/",
-      "author": "/u/ParticularDull1623",
-      "publishedAt": "2026-08-17T04:42:52+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vqdrb6",
-      "title": "Should I apply now or wait another year?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqdrb6/should_i_apply_now_or_wait_another_year/",
-      "author": "/u/Different_Pie_6531",
-      "publishedAt": "2026-08-17T00:50:22+00:00",
-      "excerpt": "I'm an F1 PhD student. My PhD is in datacenter cooling and I genuinely wanna build a venture in oceanwater cooled datacenters. I have a privately owned patent for the concept and two preprints on experimental testing for oceanwater cooled datacenters which are under review at pretty good journals (Nature and Applied Th…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-17T23:13:13.928Z",
+  "syncedAt": "2026-08-18T00:38:47.226Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
