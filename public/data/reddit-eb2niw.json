@@ -112,6 +112,24 @@
       }
     },
     {
+      "id": "t3_1vs4xvd",
+      "title": "NIW 2 Exceptional Ability",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs4xvd/niw_2_exceptional_ability/",
+      "author": "/u/NShani96",
+      "publishedAt": "2026-08-18T23:01:45+00:00",
+      "excerpt": "Hello, I am a PhD student who is thinking about applying for a green card under the exceptional ability track. However, I don't have a master's degree, and I can't get one on my way to a PhD. Has anyone been successful without a master's degree? Thank you.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vrxrz4",
       "title": "I-485 Birth Certificate Question — Late registered BC with mother’s nickname, getting new English version. Need affidavit?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrxrz4/i485_birth_certificate_question_late_registered/",
@@ -158,25 +176,6 @@
       "excerpt": "Hey everyone, I'm currently putting together my paperwork and trying to map out the exact document checklist for an EB-2 National Interest Waiver (NIW) filed via Form I-140. I keep running into conflicting info regarding Form ETA-9089 (the Application for Permanent Employment Certification) and its various appendices (…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vrz5yo",
-      "title": "EB3 to EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrz5yo/eb3_to_eb2_niw/",
-      "author": "/u/arfurious",
-      "publishedAt": "2026-08-18T19:21:52+00:00",
-      "excerpt": "Hello, Is there anyone that is aware or has switched from EB3 to EB2 NIW (Self Petition category)? Can you please share your experience and if you have any lawyer recommendation? I have 5 plus years of experience as a Mechanical Engineer in heavy equipment manufacturing. I dont have an advanced degree or any citations.",
-      "topics": [
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -470,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-18T22:11:50.152Z",
+  "syncedAt": "2026-08-18T23:12:34.684Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
