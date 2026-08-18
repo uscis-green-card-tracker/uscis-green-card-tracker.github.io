@@ -220,6 +220,27 @@
       }
     },
     {
+      "id": "t3_1vr8qrk",
+      "title": "Estimated I-485 timelines. Card in hand by Christmas?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr8qrk/estimated_i485_timelines_card_in_hand_by_christmas/",
+      "author": "/u/threeighty",
+      "publishedAt": "2026-08-17T23:41:19+00:00",
+      "excerpt": "Trying to work out when I can expect approval so I can plan to travel around Christmas time or early next year. Appreciate the insight! Here are my dates: I-140 PD - 26 Dec 2025 I-140 Approved - 12 Feb 2026 (PP) I-485 RD - 18 June 2026 Biometrics Completed - 31 July 2026 Two FTA0 Events - 31 July 2026 First Silent Upda…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vrd9pp",
       "title": "Is ETA 9089 perm form needed to be filed with I-140",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrd9pp/is_eta_9089_perm_form_needed_to_be_filed_with_i140/",
@@ -247,27 +268,6 @@
       "topics": [
         "i485",
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vr8qrk",
-      "title": "Estimated I-485 timelines. Card in hand by Christmas?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr8qrk/estimated_i485_timelines_card_in_hand_by_christmas/",
-      "author": "/u/threeighty",
-      "publishedAt": "2026-08-17T23:41:19+00:00",
-      "excerpt": "Trying to work out when I can expect approval so I can plan to travel around Christmas time or early next year. Appreciate the insight! Here are my dates: I-140 PD - 26 Dec 2025 I-140 Approved - 12 Feb 2026 (PP) I-485 RD - 18 June 2026 Biometrics Completed - 31 July 2026 Two FTA0 Events - 31 July 2026 First Silent Upda…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -461,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-18T15:21:03.718Z",
+  "syncedAt": "2026-08-18T16:19:01.920Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
