@@ -93,24 +93,6 @@
       }
     },
     {
-      "id": "t3_1vrgzq1",
-      "title": "I-140 RFE Response Submitted — What are the typical min/max decision timelines in your experience?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrgzq1/i140_rfe_response_submitted_what_are_the_typical/",
-      "author": "/u/Rare_Bee_8751",
-      "publishedAt": "2026-08-18T06:17:18+00:00",
-      "excerpt": "My response to I-140 RFE was recently received by USCIS, and I’m trying to set realistic expectations while waiting for the decision. For those who went through an I-140 RFE: How fast did you hear back at the earliest, and what was the longest wait you've seen/experienced?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vrb6bg",
       "title": "Anyone else stuck waiting on Ellis Porter to file?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrb6bg/anyone_else_stuck_waiting_on_ellis_porter_to_file/",
@@ -121,6 +103,24 @@
         "i140",
         "lawyer",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vrgzq1",
+      "title": "I-140 RFE Response Submitted — What are the typical min/max decision timelines in your experience?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrgzq1/i140_rfe_response_submitted_what_are_the_typical/",
+      "author": "/u/Rare_Bee_8751",
+      "publishedAt": "2026-08-18T06:17:18+00:00",
+      "excerpt": "My response to I-140 RFE was recently received by USCIS, and I’m trying to set realistic expectations while waiting for the decision. For those who went through an I-140 RFE: How fast did you hear back at the earliest, and what was the longest wait you've seen/experienced?",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -460,7 +460,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-18T08:23:30.441Z",
+  "syncedAt": "2026-08-18T09:21:43.962Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
