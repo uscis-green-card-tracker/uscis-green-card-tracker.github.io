@@ -56,6 +56,43 @@
       }
     },
     {
+      "id": "t3_1vrxgwt",
+      "title": "EB2 NIW Approval Email",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrxgwt/eb2_niw_approval_email/",
+      "author": "/u/Majestic-Sand932",
+      "publishedAt": "2026-08-18T18:22:35+00:00",
+      "excerpt": "Hi friends. I received the approval email from [ ELISdonotreply@uscis.dhs.gov ](mailto: ELISdonotreply@uscis.dhs.gov ) this morning, but the system shows USCIS Is currently Processing the Case (Changed from RFE response received). I wonder if this happens normally. Thank you!",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vrxrz4",
+      "title": "I-485 Birth Certificate Question — Late registered BC with mother’s nickname, getting new English version. Need affidavit?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrxrz4/i485_birth_certificate_question_late_registered/",
+      "author": "/u/Wild-Cardiologist960",
+      "publishedAt": "2026-08-18T18:33:23+00:00",
+      "excerpt": "Hey everyone! I am preparing for my I-485 application and had a question about birth certificates. Would really appreciate input from people who have been through this especially from ROW countries where late birth registration was common. My situation: ** I am from a ROW country where birth registration was not common…",
+      "topics": [
+        "i485",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vrwgik",
       "title": "EB-2 NIW + TN for Canadian Citizens Born in India",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrwgik/eb2_niw_tn_for_canadian_citizens_born_in_india/",
@@ -104,6 +141,25 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vryfpa",
+      "title": "Is Manchester FO moving at all? Any March 2026 I-485 filers approved recently?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vryfpa/is_manchester_fo_moving_at_all_any_march_2026/",
+      "author": "/u/kwesio2",
+      "publishedAt": "2026-08-18T18:56:20+00:00",
+      "excerpt": "My EB-2 I-485 was filed in March 2026 and transferred to the Manchester Field Office, but there’s been no decision yet. Is anyone else in the same boat, or have March filers started receiving approvals?",
+      "topics": [
+        "approval",
+        "i485",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -409,63 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vr79vl",
-      "title": "Decision time after RFE received changes to 'uscis is currently processing your case'",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr79vl/decision_time_after_rfe_received_changes_to_uscis/",
-      "author": "/u/These-Cicada-4507",
-      "publishedAt": "2026-08-17T22:40:11+00:00",
-      "excerpt": "After responding to your RFE on i140 and having it sit on 'rfe response received' for a month or two, how long after it changed to 'uscis is currently processing your case' did you get a decision and what was the decision. Trying to see the correlation between how long it takes to get a decision (after the change) and …",
-      "topics": [
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vrbx0e",
-      "title": "Decisions - 39 countries?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrbx0e/decisions_39_countries/",
-      "author": "/u/SecureFroyo5124",
-      "publishedAt": "2026-08-18T02:01:25+00:00",
-      "excerpt": "Hi! Has anybody gotten any decision on your I-140 after the 39 countries ban has been lifted?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vr32xk",
-      "title": "Anyone got RFE from xm2383 TSC recent?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr32xk/anyone_got_rfe_from_xm2383_tsc_recent/",
-      "author": "/u/Worried_Win_2478",
-      "publishedAt": "2026-08-17T19:59:58+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-18T18:22:00.614Z",
+  "syncedAt": "2026-08-18T19:20:46.799Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
