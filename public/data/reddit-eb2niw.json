@@ -315,43 +315,6 @@
       }
     },
     {
-      "id": "t3_1vr7jqq",
-      "title": "Attorneys who specialize in or have experience with NIW in non-STEM?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr7jqq/attorneys_who_specialize_in_or_have_experience/",
-      "author": "/u/paulhackett85",
-      "publishedAt": "2026-08-17T22:51:14+00:00",
-      "excerpt": "Does anyone know any attorneys who have extensive experience or specialize in non-STEM NIW cases?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vr7h0d",
-      "title": "Any NIW in non-STEM over here?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr7h0d/any_niw_in_nonstem_over_here/",
-      "author": "/u/paulhackett85",
-      "publishedAt": "2026-08-17T22:48:14+00:00",
-      "excerpt": "Hey folks, I'm just wondering, are there any non-STEM NIW applicants here who got approved/denied/thinking of applying? The majority of cases I see here are those of STEM fields. I'm just wondering if non-STEM profiles in fields like international relations/security, public policy, education, etc. face higher scrutiny …",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vqxcqj",
       "title": "Online filing of I-140 + premium processing (concurrently)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqxcqj/online_filing_of_i140_premium_processing/",
@@ -458,9 +421,46 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1vqsikd",
+      "title": "Lawyer for i485?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqsikd/lawyer_for_i485/",
+      "author": "/u/TieSuspicious4362",
+      "publishedAt": "2026-08-17T13:34:24+00:00",
+      "excerpt": "Hey guys, I have a question. Did you use a lawyer to file your I-485 petition, or did you handle it yourself? What do you recommend?",
+      "topics": [
+        "i485",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vr83w7",
+      "title": "Seeking Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr83w7/seeking_advice/",
+      "author": "/u/CrazySerious6287",
+      "publishedAt": "2026-08-17T23:14:14+00:00",
+      "excerpt": "Has anyone filed for themselves without an attorney? If so, could you please leave a comment or DM me? I have a short question. Thanks.",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-08-18T07:29:19.585Z",
+  "syncedAt": "2026-08-18T08:23:30.441Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
