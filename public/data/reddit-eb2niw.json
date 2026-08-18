@@ -35,16 +35,17 @@
       }
     },
     {
-      "id": "t3_1vr7qbz",
-      "title": "EB2 NIW i485 Approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr7qbz/eb2_niw_i485_approved/",
-      "author": "/u/olasunbo",
-      "publishedAt": "2026-08-17T22:58:42+00:00",
-      "excerpt": "Hi community, I want to add my approval to this community data point. EB2NIW Approved Nationality: Nigeria I-140 PD: Jan 25 2024 I-485 PD: October 10 2025 Biometrics: October 31 2025 I-765 approved for dependent: October 31 2025 i-765 approved for main applicant July 22 2026 i-485 approved for main applicant: August 6 …",
+      "id": "t3_1vroz3f",
+      "title": "EB-2 NIW I-485 Approved | No Interview, No RFE 🎉",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vroz3f/eb2_niw_i485_approved_no_interview_no_rfe/",
+      "author": "/u/Intrinsic137",
+      "publishedAt": "2026-08-18T13:19:21+00:00",
+      "excerpt": "After a long wait, our EB-2 NIW I-485 cases have been approved and the Green Cards are finally here. These timeline posts helped me a lot while I was waiting, so I'm sharing mine as another data point. I-140 / NIW Details Category: EB-2 NIW Priority Date: January 2024 I-140 Approved: May 2024 Processing: Regular/Normal…",
       "topics": [
         "approval",
         "i485",
-        "i140"
+        "i140",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -65,6 +66,25 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vr7qbz",
+      "title": "EB2 NIW i485 Approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vr7qbz/eb2_niw_i485_approved/",
+      "author": "/u/olasunbo",
+      "publishedAt": "2026-08-17T22:58:42+00:00",
+      "excerpt": "Hi community, I want to add my approval to this community data point. EB2NIW Approved Nationality: Nigeria I-140 PD: Jan 25 2024 I-485 PD: October 10 2025 Biometrics: October 31 2025 I-765 approved for dependent: October 31 2025 i-765 approved for main applicant July 22 2026 i-485 approved for main applicant: August 6 …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -439,24 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vqukws",
-      "title": "Any June 15 & above filer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqukws/any_june_15_above_filer/",
-      "author": "/u/Sea_Manufacturer580",
-      "publishedAt": "2026-08-17T14:53:36+00:00",
-      "excerpt": "Hi, I was wondering if there is any June 15 onward filer who received a decision. Thank you",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-18T12:23:51.028Z",
+  "syncedAt": "2026-08-18T13:34:53.388Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
