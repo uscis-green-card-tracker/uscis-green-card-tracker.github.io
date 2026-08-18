@@ -74,6 +74,25 @@
       }
     },
     {
+      "id": "t3_1vrf6zx",
+      "title": "RFE without officer ID",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrf6zx/rfe_without_officer_id/",
+      "author": "/u/Immediate-Fact1169",
+      "publishedAt": "2026-08-18T04:40:25+00:00",
+      "excerpt": "Is there anyone who got approved after an RFE without an officer ID recently?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vrb6bg",
       "title": "Anyone else stuck waiting on Ellis Porter to file?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrb6bg/anyone_else_stuck_waiting_on_ellis_porter_to_file/",
@@ -123,6 +142,25 @@
       "topics": [
         "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vrftt3",
+      "title": "Racing the clock — medical exam Aug 24, hoping to file before any Sept changes (EB-2 NIW, Rest of World)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrftt3/racing_the_clock_medical_exam_aug_24_hoping_to/",
+      "author": "/u/InsectActive95",
+      "publishedAt": "2026-08-18T05:13:52+00:00",
+      "excerpt": "My civil surgeon appointment is August 24th. From what I've gathered here, turnaround for the sealed I-693 is usually about 5 business days, but I've also seen a post mentioning it can stretch to two weeks if anything needs extra follow-up (bloodwork, titers, etc. in my case since I don't have old vaccination records).…",
+      "topics": [
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -421,47 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vqcsjv",
-      "title": "NIW RFE – Researcher/Non-PI Experiences?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqcsjv/niw_rfe_researchernonpi_experiences/",
-      "author": "/u/Dry-Chemist1316",
-      "publishedAt": "2026-08-17T00:05:04+00:00",
-      "excerpt": "Hi, I received a 10-page RFE from USCIS (Office XM2616) for my I-140 NIW, addressing all 3 prongs. I work in research/clinical research and have a master’s degree, but the evidence the officer requested seems more appropriate for a Principal Investigator or independent researcher (major publications, independent fundin…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vqhvgs",
-      "title": "Anyone here with a non-science background who got EB-2 NIW approved?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vqhvgs/anyone_here_with_a_nonscience_background_who_got/",
-      "author": "/u/Certain_Ad_2684",
-      "publishedAt": "2026-08-17T04:09:21+00:00",
-      "excerpt": "I’m curious about the people who have gotten their EB-2 NIW approved. When I read posts here, I mostly see people with PhDs, research backgrounds, STEM degrees, etc. I haven’t seen many people from other fields. Are there people here who got approved with backgrounds in things like business, education, management, inte…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-18T04:25:05.872Z",
+  "syncedAt": "2026-08-18T05:19:39.377Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
