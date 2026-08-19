@@ -169,6 +169,25 @@
       }
     },
     {
+      "id": "t3_1vrxrz4",
+      "title": "I-485 Birth Certificate Question — Late registered BC with mother’s nickname, getting new English version. Need affidavit?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrxrz4/i485_birth_certificate_question_late_registered/",
+      "author": "/u/Wild-Cardiologist960",
+      "publishedAt": "2026-08-18T18:33:23+00:00",
+      "excerpt": "Hey everyone! I am preparing for my I-485 application and had a question about birth certificates. Would really appreciate input from people who have been through this especially from ROW countries where late birth registration was common. My situation: ** I am from a ROW country where birth registration was not common…",
+      "topics": [
+        "i485",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vs5eg0",
       "title": "PP PAYMENT PROBLEM",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs5eg0/pp_payment_problem/",
@@ -214,25 +233,6 @@
       "excerpt": "Hello, I am a PhD student who is thinking about applying for a green card under the exceptional ability track. However, I don't have a master's degree, and I can't get one on my way to a PhD. Has anyone been successful without a master's degree? Thank you.",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vrxrz4",
-      "title": "I-485 Birth Certificate Question — Late registered BC with mother’s nickname, getting new English version. Need affidavit?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrxrz4/i485_birth_certificate_question_late_registered/",
-      "author": "/u/Wild-Cardiologist960",
-      "publishedAt": "2026-08-18T18:33:23+00:00",
-      "excerpt": "Hey everyone! I am preparing for my I-485 application and had a question about birth certificates. Would really appreciate input from people who have been through this especially from ROW countries where late birth registration was common. My situation: ** I am from a ROW country where birth registration was not common…",
-      "topics": [
-        "i485",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-19T03:37:52.843Z",
+  "syncedAt": "2026-08-19T04:26:33.606Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
