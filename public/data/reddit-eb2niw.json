@@ -113,6 +113,28 @@
       }
     },
     {
+      "id": "t3_1vsj4ym",
+      "title": "Recent I\\-485 experience with Ellis Porter for EB\\-2 NIW?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsj4ym/recent_i485_experience_with_ellis_porter_for_eb2/",
+      "author": "/u/Aromatic-Cut-3818",
+      "publishedAt": "2026-08-19T10:58:52+00:00",
+      "excerpt": "Has anyone recently used Ellis Porter (EP) for an I-485 adjustment-of-status filing after an approved EB-2 NIW petition? EP handled my I-140 NIW case, and my experience was generally positive. They were professional, responsive, and prompt. There were some delays, but nothing unexpected for an immigration case. However…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vs9c1z",
       "title": "RFE prong 3",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs9c1z/rfe_prong_3/",
@@ -450,29 +472,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vrb6bg",
-      "title": "Anyone else stuck waiting on Ellis Porter to file?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrb6bg/anyone_else_stuck_waiting_on_ellis_porter_to_file/",
-      "author": "/u/BrevinShill",
-      "publishedAt": "2026-08-18T01:27:57+00:00",
-      "excerpt": "I finished everything on my end almost three months ago, sent EP all the documents they asked for, and my NIW still hasn’t been filed. The communication has honestly been the worst part of this whole process. During prep I felt like I was doing most of the heavy lifting myself, and now even after I'm done, they're stil…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-19T10:18:20.049Z",
+  "syncedAt": "2026-08-19T11:15:49.568Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
