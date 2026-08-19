@@ -93,6 +93,26 @@
       }
     },
     {
+      "id": "t3_1vsepg2",
+      "title": "Low citation/publications I140 approved without RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsepg2/low_citationpublications_i140_approved_without_rfe/",
+      "author": "/u/Wild-Championship227",
+      "publishedAt": "2026-08-19T06:46:26+00:00",
+      "excerpt": "Hi all, After seeing so many cases way stronger than mine and still got RFE, would like to share some positive energy and hope for those that’s in the same shoes as me. Timeline: Case received: 06/15/2026 with PP Approved: 08/17/2026 Law firm: Chen Background: PhD candidate, CS Field: AI Citation: 30+ with 4 papers In …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vs9c1z",
       "title": "RFE prong 3",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs9c1z/rfe_prong_3/",
@@ -127,6 +147,26 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1vsf986",
+      "title": "Is it a generic reply of congressional inquiry?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsf986/is_it_a_generic_reply_of_congressional_inquiry/",
+      "author": "/u/ProfessionalWeek297",
+      "publishedAt": "2026-08-19T07:17:46+00:00",
+      "excerpt": "I was just wondering if it is a generic reply that I got from the senators office: \"Thank you for your inquiry regarding this constituent’s immigration matter. Properly-filed Form I-485 cases that do not have a visa available are held at the NBC to await visa availability. When a visa number becomes available, the NBC …",
+      "topics": [
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -430,45 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vrf6zx",
-      "title": "RFE without officer ID",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrf6zx/rfe_without_officer_id/",
-      "author": "/u/Immediate-Fact1169",
-      "publishedAt": "2026-08-18T04:40:25+00:00",
-      "excerpt": "Is there anyone who got approved after an RFE without an officer ID recently?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vrvxtq",
-      "title": "Just PhD?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrvxtq/just_phd/",
-      "author": "/u/Phoenix_Saymon",
-      "publishedAt": "2026-08-18T17:28:44+00:00",
-      "excerpt": "Hi team, I joined the chat recently. I always see post and all the applicants are PhD, none from the private sector. I am not sure if this chat is specially for this type of request or if it's general and the majority of apps are from academia. Just wanted to clarify since I'm living in Miami 12 months and I have a E2 …",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-19T06:25:33.569Z",
+  "syncedAt": "2026-08-19T07:29:58.930Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
