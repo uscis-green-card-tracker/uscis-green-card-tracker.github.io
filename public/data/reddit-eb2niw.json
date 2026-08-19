@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1vsmv8e",
+      "title": "Analysed 5,000 EB-2 NIW appeal decisions. Where petitions actually die, by prong.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsmv8e/analysed_5000_eb2_niw_appeal_decisions_where/",
+      "author": "/u/tee_jagz",
+      "publishedAt": "2026-08-19T13:44:40+00:00",
+      "excerpt": "Pulled prong-level findings from 5,087 AAO decisions on NIW petitions. Quick caveat: AAO data skews toward denials because denials are what get appealed, so this shows why cases fail rather than how often they succeed. Of 3,919 dismissals that named a specific prong, 83% failed on Prong 1, national importance. Prong 2 …",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vsepg2",
       "title": "Low citation/publications I140 approved without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsepg2/low_citationpublications_i140_approved_without_rfe/",
@@ -46,23 +64,6 @@
         "i140",
         "lawyer",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vsmv8e",
-      "title": "Analysed 5,000 EB-2 NIW appeal decisions. Where petitions actually die, by prong.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsmv8e/analysed_5000_eb2_niw_appeal_decisions_where/",
-      "author": "/u/tee_jagz",
-      "publishedAt": "2026-08-19T13:44:40+00:00",
-      "excerpt": "Pulled prong-level findings from 5,087 AAO decisions on NIW petitions. Quick caveat: AAO data skews toward denials because denials are what get appealed, so this shows why cases fail rather than how often they succeed. Of 3,919 dismissals that named a specific prong, 83% failed on Prong 1, national importance. Prong 2 …",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -91,12 +92,12 @@
       }
     },
     {
-      "id": "t3_1vsm5mh",
-      "title": "About recommendation letters",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsm5mh/about_recommendation_letters/",
-      "author": "/u/Enough_Difference528",
-      "publishedAt": "2026-08-19T13:16:36+00:00",
-      "excerpt": "Hi everyone, I have two questions regarding evidence for an EB-2 NIW case. My proposed endeavor/research area is retention of STEM domestic students to complete their degrees and gender gap in stem . For recommendation letters, do the recommenders need to be STEM researchers specifically, or could I obtain letters from…",
+      "id": "t3_1vsl01e",
+      "title": "EB-2 NIW RFE already submitted and Prong 3 was kept intentionally short. Am I cooked?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsl01e/eb2_niw_rfe_already_submitted_and_prong_3_was/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-08-19T12:26:52+00:00",
+      "excerpt": "Prong 3 in our response was basically this: \"In Dhanasar, it was concluded that the petitioner \"would benefit the United States even assuming that other qualified U.S. workers are available\" due to \"his record of successful research in an area that furthers U.S. interests\" and therefore satisfied this requirement. The …",
       "topics": [
         "i140",
         "question"
@@ -109,12 +110,12 @@
       }
     },
     {
-      "id": "t3_1vsl01e",
-      "title": "EB-2 NIW RFE already submitted and Prong 3 was kept intentionally short. Am I cooked?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsl01e/eb2_niw_rfe_already_submitted_and_prong_3_was/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-19T12:26:52+00:00",
-      "excerpt": "Prong 3 in our response was basically this: \"In Dhanasar, it was concluded that the petitioner \"would benefit the United States even assuming that other qualified U.S. workers are available\" due to \"his record of successful research in an area that furthers U.S. interests\" and therefore satisfied this requirement. The …",
+      "id": "t3_1vsm5mh",
+      "title": "About recommendation letters",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsm5mh/about_recommendation_letters/",
+      "author": "/u/Enough_Difference528",
+      "publishedAt": "2026-08-19T13:16:36+00:00",
+      "excerpt": "Hi everyone, I have two questions regarding evidence for an EB-2 NIW case. My proposed endeavor/research area is retention of STEM domestic students to complete their degrees and gender gap in stem . For recommendation letters, do the recommenders need to be STEM researchers specifically, or could I obtain letters from…",
       "topics": [
         "i140",
         "question"
@@ -136,6 +137,26 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vsf986",
+      "title": "Is it a generic reply of congressional inquiry?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsf986/is_it_a_generic_reply_of_congressional_inquiry/",
+      "author": "/u/ProfessionalWeek297",
+      "publishedAt": "2026-08-19T07:17:46+00:00",
+      "excerpt": "I was just wondering if it is a generic reply that I got from the senators office: \"Thank you for your inquiry regarding this constituent’s immigration matter. Properly-filed Form I-485 cases that do not have a visa available are held at the NBC to await visa availability. When a visa number becomes available, the NBC …",
+      "topics": [
+        "i485",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -220,26 +241,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1vsf986",
-      "title": "Is it a generic reply of congressional inquiry?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsf986/is_it_a_generic_reply_of_congressional_inquiry/",
-      "author": "/u/ProfessionalWeek297",
-      "publishedAt": "2026-08-19T07:17:46+00:00",
-      "excerpt": "I was just wondering if it is a generic reply that I got from the senators office: \"Thank you for your inquiry regarding this constituent’s immigration matter. Properly-filed Form I-485 cases that do not have a visa available are held at the NBC to await visa availability. When a visa number becomes available, the NBC …",
-      "topics": [
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
       }
     },
     {
@@ -472,7 +473,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-19T14:22:46.103Z",
+  "syncedAt": "2026-08-19T15:20:47.635Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
