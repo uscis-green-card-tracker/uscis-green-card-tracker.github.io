@@ -73,6 +73,24 @@
       }
     },
     {
+      "id": "t3_1vsl01e",
+      "title": "EB-2 NIW RFE already submitted and Prong 3 was kept intentionally short. Am I cooked?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsl01e/eb2_niw_rfe_already_submitted_and_prong_3_was/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-08-19T12:26:52+00:00",
+      "excerpt": "Prong 3 in our response was basically this: \"In Dhanasar, it was concluded that the petitioner \"would benefit the United States even assuming that other qualified U.S. workers are available\" due to \"his record of successful research in an area that furthers U.S. interests\" and therefore satisfied this requirement. The …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vs1wec",
       "title": "EB2 NIW Approved after RFE on Prongs 1 & 3",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs1wec/eb2_niw_approved_after_rfe_on_prongs_1_3/",
@@ -92,14 +110,15 @@
       }
     },
     {
-      "id": "t3_1vsl01e",
-      "title": "EB-2 NIW RFE already submitted and Prong 3 was kept intentionally short. Am I cooked?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsl01e/eb2_niw_rfe_already_submitted_and_prong_3_was/",
+      "id": "t3_1vsmljp",
+      "title": "Ellis Potter prong 3 strategy after RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsmljp/ellis_potter_prong_3_strategy_after_rfe/",
       "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-19T12:26:52+00:00",
-      "excerpt": "Prong 3 in our response was basically this: \"In Dhanasar, it was concluded that the petitioner \"would benefit the United States even assuming that other qualified U.S. workers are available\" due to \"his record of successful research in an area that furthers U.S. interests\" and therefore satisfied this requirement. The …",
+      "publishedAt": "2026-08-19T13:33:56+00:00",
+      "excerpt": "They said they have a wide firm strategy to keep prong 3 thin, merely saying that the work is beneficial to the USA and the petitioner is experienced even assuming other workers exist, and not responding to the RFE comments on urgency, labor cer impracticality and self employment etc. People who filled RFE with EP, did…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -118,25 +137,6 @@
       "excerpt": "Hi everyone, I have two questions regarding evidence for an EB-2 NIW case. My proposed endeavor/research area is retention of STEM domestic students to complete their degrees and gender gap in stem . For recommendation letters, do the recommenders need to be STEM researchers specifically, or could I obtain letters from…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vsmljp",
-      "title": "Ellis Potter prong 3 strategy after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsmljp/ellis_potter_prong_3_strategy_after_rfe/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-19T13:33:56+00:00",
-      "excerpt": "They said they have a wide firm strategy to keep prong 3 thin, merely saying that the work is beneficial to the USA and the petitioner is experienced even assuming other workers exist, and not responding to the RFE comments on urgency, labor cer impracticality and self employment etc. People who filled RFE with EP, did…",
-      "topics": [
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -473,7 +473,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-19T15:20:47.635Z",
+  "syncedAt": "2026-08-19T16:18:57.587Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
