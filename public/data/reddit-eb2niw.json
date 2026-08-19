@@ -112,6 +112,24 @@
       }
     },
     {
+      "id": "t3_1vsdnwr",
+      "title": "Looking for advice on building an EB-2 NIW profile - nuclear engineering background",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsdnwr/looking_for_advice_on_building_an_eb2_niw_profile/",
+      "author": "/u/Humble-Experience694",
+      "publishedAt": "2026-08-19T05:48:05+00:00",
+      "excerpt": "Hey there folks, Figured I should start early, so I’m looking for some advice on what I should focus on over the next 1- 3 years to build a strong profile. For context, I’m not Indian or Chinese and not from one of the 75 countries. I graduated from USMA (Yes, West Point. Long story) with a BSc in Nuclear Engineering, …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vs5n4m",
       "title": "2026 I-485 Filers - Anyone Approved Directly from NBC (No Field Office Transfer)?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs5n4m/2026_i485_filers_anyone_approved_directly_from/",
@@ -206,25 +224,6 @@
       }
     },
     {
-      "id": "t3_1vrzdwe",
-      "title": "Advice on concurrent filing (I-140, I-907, I-485, I-765) before the Sept 18th USCIS policy change?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrzdwe/advice_on_concurrent_filing_i140_i907_i485_i765/",
-      "author": "/u/Prior-Dog2561",
-      "publishedAt": "2026-08-18T19:29:51+00:00",
-      "excerpt": "Hi everyone, I’m currently preparing my EB-2 NIW petition and debating whether to file everything concurrently (I-140 + I-907 Premium Processing + I-485 + I-765/I-131) prior to the upcoming September 18, 2026 USCIS policy change regarding public charge adjudications. Assuming my priority date is current for filing, I h…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vs4xvd",
       "title": "NIW 2 Exceptional Ability",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs4xvd/niw_2_exceptional_ability/",
@@ -291,6 +290,25 @@
         "i485",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vrzdwe",
+      "title": "Advice on concurrent filing (I-140, I-907, I-485, I-765) before the Sept 18th USCIS policy change?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrzdwe/advice_on_concurrent_filing_i140_i907_i485_i765/",
+      "author": "/u/Prior-Dog2561",
+      "publishedAt": "2026-08-18T19:29:51+00:00",
+      "excerpt": "Hi everyone, I’m currently preparing my EB-2 NIW petition and debating whether to file everything concurrently (I-140 + I-907 Premium Processing + I-485 + I-765/I-131) prior to the upcoming September 18, 2026 USCIS policy change regarding public charge adjudications. Assuming my priority date is current for filing, I h…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -448,27 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vrgzq1",
-      "title": "I-140 RFE Response Submitted — What are the typical min/max decision timelines in your experience?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrgzq1/i140_rfe_response_submitted_what_are_the_typical/",
-      "author": "/u/Rare_Bee_8751",
-      "publishedAt": "2026-08-18T06:17:18+00:00",
-      "excerpt": "My response to I-140 RFE was recently received by USCIS, and I’m trying to set realistic expectations while waiting for the decision. For those who went through an I-140 RFE: How fast did you hear back at the earliest, and what was the longest wait you've seen/experienced?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-19T05:22:58.372Z",
+  "syncedAt": "2026-08-19T06:25:33.569Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
