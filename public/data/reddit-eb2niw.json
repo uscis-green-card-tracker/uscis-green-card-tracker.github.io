@@ -93,6 +93,25 @@
       }
     },
     {
+      "id": "t3_1vs9c1z",
+      "title": "RFE prong 3",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs9c1z/rfe_prong_3/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-08-19T02:13:56+00:00",
+      "excerpt": "My attorney preferred keeping it thin basically saying that becasue I am well positioned and my work of natural importance to the USA then it would be beneficial to waive the labor certificate even assuming other workers exist. Now the RFE mentioned things like urgency, creating jobs, self employment and harm to USA wo…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vs5n4m",
       "title": "2026 I-485 Filers - Anyone Approved Directly from NBC (No Field Office Transfer)?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs5n4m/2026_i485_filers_anyone_approved_directly_from/",
@@ -375,25 +394,6 @@
       }
     },
     {
-      "id": "t3_1vrf6zx",
-      "title": "RFE without officer ID",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrf6zx/rfe_without_officer_id/",
-      "author": "/u/Immediate-Fact1169",
-      "publishedAt": "2026-08-18T04:40:25+00:00",
-      "excerpt": "Is there anyone who got approved after an RFE without an officer ID recently?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vrb6bg",
       "title": "Anyone else stuck waiting on Ellis Porter to file?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrb6bg/anyone_else_stuck_waiting_on_ellis_porter_to_file/",
@@ -404,6 +404,25 @@
         "i140",
         "lawyer",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vrf6zx",
+      "title": "RFE without officer ID",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrf6zx/rfe_without_officer_id/",
+      "author": "/u/Immediate-Fact1169",
+      "publishedAt": "2026-08-18T04:40:25+00:00",
+      "excerpt": "Is there anyone who got approved after an RFE without an officer ID recently?",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -447,28 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vrmpnl",
-      "title": "Memphis Field Office EB I-485 case approval?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrmpnl/memphis_field_office_eb_i485_case_approval/",
-      "author": "/u/Tricky-Courage-9705",
-      "publishedAt": "2026-08-18T11:39:50+00:00",
-      "excerpt": "Is there anyone whose I-485 based on EB1, EB2, or EB3 has recently been approval at the memphis field office. The wait is killing me",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-19T02:11:26.131Z",
+  "syncedAt": "2026-08-19T03:37:52.843Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
