@@ -115,6 +115,43 @@
       }
     },
     {
+      "id": "t3_1vsvz3v",
+      "title": "Today’s SU for March",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsvz3v/todays_su_for_march/",
+      "author": "/u/TheGentlemen98",
+      "publishedAt": "2026-08-19T19:09:43+00:00",
+      "excerpt": "March Filer – Anyone Else Getting Silent Updates? March filer with dependent. PD: August 2025 RD: March 2026 SU: May 20, Aug 5, and Aug 18 No visible status change. Anyone else getting multiple silent updates like this? Anyone got EAD?",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vsv01g",
+      "title": "Peak Immigration Reviews",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsv01g/peak_immigration_reviews/",
+      "author": "/u/Sea-Benefit3716",
+      "publishedAt": "2026-08-19T18:35:06+00:00",
+      "excerpt": "Hello everyone, I am currently in the process of preparing my EB-2 NIW application and am looking for an immigration attorney to work with. I came across Peak Immigration and Jason Crofts and wanted to see if anyone here has worked with him. I would really appreciate hearing about your experiences.",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vsmljp",
       "title": "Ellis Potter prong 3 strategy after RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsmljp/ellis_potter_prong_3_strategy_after_rfe/",
@@ -159,6 +196,24 @@
       "excerpt": "Prong 3 in our response was basically this: \"In Dhanasar, it was concluded that the petitioner \"would benefit the United States even assuming that other qualified U.S. workers are available\" due to \"his record of successful research in an area that furthers U.S. interests\" and therefore satisfied this requirement. The …",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vsvxug",
+      "title": "Citations for independent recommendation letter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsvxug/citations_for_independent_recommendation_letter/",
+      "author": "/u/EconomicsCareful2034",
+      "publishedAt": "2026-08-19T19:08:25+00:00",
+      "excerpt": "What is the best way to gain more citations? I’m also looking for independent recommendation letters. My lawyer suggested that I email people who may be willing to write a letter, so I contacted several researchers, but I haven’t received any responses. Since I’m having difficulty finding independent recommenders, I’m …",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -417,64 +472,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vrxrz4",
-      "title": "I-485 Birth Certificate Question — Late registered BC with mother’s nickname, getting new English version. Need affidavit?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vrxrz4/i485_birth_certificate_question_late_registered/",
-      "author": "/u/Wild-Cardiologist960",
-      "publishedAt": "2026-08-18T18:33:23+00:00",
-      "excerpt": "Hey everyone! I am preparing for my I-485 application and had a question about birth certificates. Would really appreciate input from people who have been through this especially from ROW countries where late birth registration was common. My situation: ** I am from a ROW country where birth registration was not common…",
-      "topics": [
-        "i485",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vs5eg0",
-      "title": "PP PAYMENT PROBLEM",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs5eg0/pp_payment_problem/",
-      "author": "/u/Any_Supermarket3372",
-      "publishedAt": "2026-08-18T23:20:57+00:00",
-      "excerpt": "I filed my Premium Processing on August 10th, and USCIS received it on August 13th. I received a notice saying that my payment was rejected due to an issue with the payment information. Has anyone else been experiencing this? I double-checked everything I submitted, and there doesn’t seem to be any issue with the infor…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vs4xvd",
-      "title": "NIW 2 Exceptional Ability",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vs4xvd/niw_2_exceptional_ability/",
-      "author": "/u/NShani96",
-      "publishedAt": "2026-08-18T23:01:45+00:00",
-      "excerpt": "Hello, I am a PhD student who is thinking about applying for a green card under the exceptional ability track. However, I don't have a master's degree, and I can't get one on my way to a PhD. Has anyone been successful without a master's degree? Thank you.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-19T18:18:48.565Z",
+  "syncedAt": "2026-08-19T19:17:49.603Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
