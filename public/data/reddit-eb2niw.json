@@ -35,16 +35,15 @@
       }
     },
     {
-      "id": "t3_1vswirf",
-      "title": "Approved I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vswirf/approved_i140/",
-      "author": "/u/Soggy-Grapefruit8614",
-      "publishedAt": "2026-08-19T19:29:22+00:00",
-      "excerpt": "Timeline: PP date and filing date: June 17, 2026 Approval date: August 18, 2026 Center: NSC Lawyer: Chen No RFE Profile: Physician (md outside the US) Previously worked as an assistant professor in medical school Currently a resident physician at a big university hospital in nyc 26 citations at filing 9 publications (6…",
+      "id": "t3_1vsyywu",
+      "title": "Approved 140 NIW after all 3 prongs RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsyywu/approved_140_niw_after_all_3_prongs_rfe/",
+      "author": "/u/ActDependent313",
+      "publishedAt": "2026-08-19T20:59:15+00:00",
+      "excerpt": "Finally got approved after a year, want to share my timeline to just thank everybody on this platform sharing information/data, encouraging me for this desperating year. Signed contract with Shawn: 2024.7 (I DO NOT recommend AT ALL!!!! I can have another post sharing more details) PD: 202509 PP: 202603 RFE: 202606 Appr…",
       "topics": [
         "approval",
         "i140",
-        "lawyer",
         "timeline"
       ],
       "signals": {
@@ -55,15 +54,16 @@
       }
     },
     {
-      "id": "t3_1vsyywu",
-      "title": "Approved 140 NIW after all 3 prongs RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsyywu/approved_140_niw_after_all_3_prongs_rfe/",
-      "author": "/u/ActDependent313",
-      "publishedAt": "2026-08-19T20:59:15+00:00",
-      "excerpt": "Finally got approved after a year, want to share my timeline to just thank everybody on this platform sharing information/data, encouraging me for this desperating year. Signed contract with Shawn: 2024.7 (I DO NOT recommend AT ALL!!!! I can have another post sharing more details) PD: 202509 PP: 202603 RFE: 202606 Appr…",
+      "id": "t3_1vswirf",
+      "title": "Approved I-140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vswirf/approved_i140/",
+      "author": "/u/Soggy-Grapefruit8614",
+      "publishedAt": "2026-08-19T19:29:22+00:00",
+      "excerpt": "Timeline: PP date and filing date: June 17, 2026 Approval date: August 18, 2026 Center: NSC Lawyer: Chen No RFE Profile: Physician (md outside the US) Previously worked as an assistant professor in medical school Currently a resident physician at a big university hospital in nyc 26 citations at filing 9 publications (6…",
       "topics": [
         "approval",
         "i140",
+        "lawyer",
         "timeline"
       ],
       "signals": {
@@ -132,6 +132,24 @@
       }
     },
     {
+      "id": "t3_1vsv01g",
+      "title": "Peak Immigration Reviews",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsv01g/peak_immigration_reviews/",
+      "author": "/u/Sea-Benefit3716",
+      "publishedAt": "2026-08-19T18:35:06+00:00",
+      "excerpt": "Hello everyone, I am currently in the process of preparing my EB-2 NIW application and am looking for an immigration attorney to work with. I came across Peak Immigration and Jason Crofts and wanted to see if anyone here has worked with him. I would really appreciate hearing about your experiences.",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vsvz3v",
       "title": "Today’s SU for March",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsvz3v/todays_su_for_march/",
@@ -164,24 +182,6 @@
         "lawyer",
         "timeline",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vsv01g",
-      "title": "Peak Immigration Reviews",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsv01g/peak_immigration_reviews/",
-      "author": "/u/Sea-Benefit3716",
-      "publishedAt": "2026-08-19T18:35:06+00:00",
-      "excerpt": "Hello everyone, I am currently in the process of preparing my EB-2 NIW application and am looking for an immigration attorney to work with. I came across Peak Immigration and Jason Crofts and wanted to see if anyone here has worked with him. I would really appreciate hearing about your experiences.",
-      "topics": [
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -478,7 +478,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-19T22:14:03.613Z",
+  "syncedAt": "2026-08-19T23:13:34.872Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
