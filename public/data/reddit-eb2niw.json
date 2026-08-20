@@ -148,6 +148,24 @@
       }
     },
     {
+      "id": "t3_1vt62y1",
+      "title": "Need help deciding between EP vs Chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt62y1/need_help_deciding_between_ep_vs_chen/",
+      "author": "/u/Alternative-Bed-6759",
+      "publishedAt": "2026-08-20T01:53:17+00:00",
+      "excerpt": "Hi all and thanks for your help in advance! I’m an Iranian veterinarian with a masters from a well known US university currently in the 3rd year of phd in Animal Sciences in a top US university. I have 10 papers, 15 citations and a couple conference presentations and abstracts and recently received a 3 year NIH scholar…",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vt9rxu",
       "title": "What can I do to support my friend?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt9rxu/what_can_i_do_to_support_my_friend/",
@@ -252,24 +270,6 @@
       "topics": [
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vt62y1",
-      "title": "Need help deciding between EP vs Chen",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt62y1/need_help_deciding_between_ep_vs_chen/",
-      "author": "/u/Alternative-Bed-6759",
-      "publishedAt": "2026-08-20T01:53:17+00:00",
-      "excerpt": "Hi all and thanks for your help in advance! I’m an Iranian veterinarian with a masters from a well known US university currently in the 3rd year of phd in Animal Sciences in a top US university. I have 10 papers, 15 citations and a couple conference presentations and abstracts and recently received a 3 year NIH scholar…",
-      "topics": [
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-20T05:21:15.441Z",
+  "syncedAt": "2026-08-20T06:27:10.033Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
