@@ -130,6 +130,25 @@
       }
     },
     {
+      "id": "t3_1vt83ux",
+      "title": "Is it worth delaying my NIW filing to add an independent recommendation letter?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt83ux/is_it_worth_delaying_my_niw_filing_to_add_an/",
+      "author": "/u/pmonny",
+      "publishedAt": "2026-08-20T03:27:22+00:00",
+      "excerpt": "Hi everyone, I could use some advice from those who have gone through the EB-2 NIW process. I’m currently in the final stages of preparing my petition with my attorney and already have two dependent recommendation letters written and signed. I recently reached out to a professor who is willing to provide an independent…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vt3x96",
       "title": "Venting: submitted a bad prong 3 RFE based on attorney recommendations",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt3x96/venting_submitted_a_bad_prong_3_rfe_based_on/",
@@ -232,25 +251,6 @@
         "i485",
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vt83ux",
-      "title": "Is it worth delaying my NIW filing to add an independent recommendation letter?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt83ux/is_it_worth_delaying_my_niw_filing_to_add_an/",
-      "author": "/u/pmonny",
-      "publishedAt": "2026-08-20T03:27:22+00:00",
-      "excerpt": "Hi everyone, I could use some advice from those who have gone through the EB-2 NIW process. I’m currently in the final stages of preparing my petition with my attorney and already have two dependent recommendation letters written and signed. I recently reached out to a professor who is willing to provide an independent…",
-      "topics": [
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-20T07:32:33.210Z",
+  "syncedAt": "2026-08-20T08:24:46.682Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
