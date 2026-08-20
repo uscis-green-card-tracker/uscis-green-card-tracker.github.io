@@ -55,6 +55,24 @@
       }
     },
     {
+      "id": "t3_1vtpi8d",
+      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
+      "author": "/u/Other-Today-3048",
+      "publishedAt": "2026-08-20T17:11:20+00:00",
+      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vtrac4",
       "title": "IEE immigration evaluation - are educational scans enough for an official report from England?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtrac4/iee_immigration_evaluation_are_educational_scans/",
@@ -72,18 +90,18 @@
       }
     },
     {
-      "id": "t3_1vtpi8d",
-      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
-      "author": "/u/Other-Today-3048",
-      "publishedAt": "2026-08-20T17:11:20+00:00",
-      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
+      "id": "t3_1vtqrga",
+      "title": "Anyone had reciept date around 23rd June 2026(Block IOE09373) and got approved or got a decision?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtqrga/anyone_had_reciept_date_around_23rd_june/",
+      "author": "/u/Spiritual_Tie2747",
+      "publishedAt": "2026-08-20T17:56:52+00:00",
+      "excerpt": "Anyone had reciept date around 23rd June (Block IOE09373) and got approved or got a decision?",
       "topics": [
-        "lawyer",
+        "approval",
         "question"
       ],
       "signals": {
-        "blockNumber": null,
+        "blockNumber": "IOE09373",
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
@@ -139,24 +157,6 @@
       ],
       "signals": {
         "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vtqrga",
-      "title": "Anyone had reciept date around 23rd June 2026(Block IOE09373) and got approved or got a decision?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtqrga/anyone_had_reciept_date_around_23rd_june/",
-      "author": "/u/Spiritual_Tie2747",
-      "publishedAt": "2026-08-20T17:56:52+00:00",
-      "excerpt": "Anyone had reciept date around 23rd June (Block IOE09373) and got approved or got a decision?",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": "IOE09373",
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-20T22:16:08.037Z",
+  "syncedAt": "2026-08-20T23:15:53.037Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
