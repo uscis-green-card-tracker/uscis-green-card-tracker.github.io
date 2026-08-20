@@ -35,17 +35,17 @@
       }
     },
     {
-      "id": "t3_1vswirf",
-      "title": "Approved I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vswirf/approved_i140/",
-      "author": "/u/Soggy-Grapefruit8614",
-      "publishedAt": "2026-08-19T19:29:22+00:00",
-      "excerpt": "Timeline: PP date and filing date: June 17, 2026 Approval date: August 18, 2026 Center: NSC Lawyer: Chen No RFE Profile: Physician (md outside the US) Previously worked as an assistant professor in medical school Currently a resident physician at a big university hospital in nyc 26 citations at filing 9 publications (6…",
+      "id": "t3_1vtmv7p",
+      "title": "Pure industry profile (SCADA/OT, no publications)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtmv7p/pure_industry_profile_scadaot_no_publications/",
+      "author": "/u/ImaginaryMastodon459",
+      "publishedAt": "2026-08-20T15:35:51+00:00",
+      "excerpt": "Hi all, looking for honest feedback on my profile and which firm to go with. I have zero academic background in this, no publications, no citations, since my type of roles are purely industrial application based. Background: M.S. Mechanical Engineering. 6+ years as an OT/SCADA systems engineer, currently Sr. Systems En…",
       "topics": [
         "approval",
         "i140",
         "lawyer",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -66,6 +66,44 @@
         "i485",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vtnu6x",
+      "title": "Stay in the U.S. at a lower-ranked university or leave for a PhD in Canada?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtnu6x/stay_in_the_us_at_a_lowerranked_university_or/",
+      "author": "/u/Public-Orange-6708",
+      "publishedAt": "2026-08-20T16:11:04+00:00",
+      "excerpt": "Stay in the U.S. at a lower-ranked university or leave for a PhD in Canada? I’m currently trying to make an important career decision and would appreciate advice, especially from people familiar with EB2-NIW and academic/research profiles. I’m currently at a lower-ranked university in the U.S. My concern is that the pu…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vswirf",
+      "title": "Approved I-140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vswirf/approved_i140/",
+      "author": "/u/Soggy-Grapefruit8614",
+      "publishedAt": "2026-08-19T19:29:22+00:00",
+      "excerpt": "Timeline: PP date and filing date: June 17, 2026 Approval date: August 18, 2026 Center: NSC Lawyer: Chen No RFE Profile: Physician (md outside the US) Previously worked as an assistant professor in medical school Currently a resident physician at a big university hospital in nyc 26 citations at filing 9 publications (6…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -204,24 +242,6 @@
       }
     },
     {
-      "id": "t3_1vt62y1",
-      "title": "Need help deciding between EP vs Chen",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt62y1/need_help_deciding_between_ep_vs_chen/",
-      "author": "/u/Alternative-Bed-6759",
-      "publishedAt": "2026-08-20T01:53:17+00:00",
-      "excerpt": "Hi all and thanks for your help in advance! I’m an Iranian veterinarian with a masters from a well known US university currently in the 3rd year of phd in Animal Sciences in a top US university. I have 10 papers, 15 citations and a couple conference presentations and abstracts and recently received a 3 year NIH scholar…",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vt9rxu",
       "title": "What can I do to support my friend?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt9rxu/what_can_i_do_to_support_my_friend/",
@@ -317,6 +337,24 @@
       }
     },
     {
+      "id": "t3_1vt62y1",
+      "title": "Need help deciding between EP vs Chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt62y1/need_help_deciding_between_ep_vs_chen/",
+      "author": "/u/Alternative-Bed-6759",
+      "publishedAt": "2026-08-20T01:53:17+00:00",
+      "excerpt": "Hi all and thanks for your help in advance! I’m an Iranian veterinarian with a masters from a well known US university currently in the 3rd year of phd in Animal Sciences in a top US university. I have 10 papers, 15 citations and a couple conference presentations and abstracts and recently received a 3 year NIH scholar…",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vsr46n",
       "title": "C09 EAD finally approved, can I take a part-time job or change employers while I-485 is pending?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsr46n/c09_ead_finally_approved_can_i_take_a_parttime/",
@@ -329,6 +367,23 @@
         "i140",
         "lawyer",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vt2t56",
+      "title": "Urgent independent letters",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt2t56/urgent_independent_letters/",
+      "author": "/u/OkChAyeah17",
+      "publishedAt": "2026-08-19T23:30:26+00:00",
+      "excerpt": "Urgent independent letter in the field of education please?? Any help?? Also I have filed concurrently and I am now on the authorised stay but if things get denied, what are my options, I really I am terrified to accrue any unlawful status, please help!!! And thank you",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -410,62 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vsshx4",
-      "title": "Canadians: EB2-NIW I-140 Application Impact on Future TN Applications?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsshx4/canadians_eb2niw_i140_application_impact_on/",
-      "author": "/u/Melodic-Shop6147",
-      "publishedAt": "2026-08-19T17:08:06+00:00",
-      "excerpt": "Anyone have any issues applying for a new TN visa or renewing your TN visa after you've submitted the I-140 EB-2 NIW application? Technically TN visa is non-immigrant intent but applying for a greencard kind of is immigrant intent is it not?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vt2t56",
-      "title": "Urgent independent letters",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt2t56/urgent_independent_letters/",
-      "author": "/u/OkChAyeah17",
-      "publishedAt": "2026-08-19T23:30:26+00:00",
-      "excerpt": "Urgent independent letter in the field of education please?? Any help?? Also I have filed concurrently and I am now on the authorised stay but if things get denied, what are my options, I really I am terrified to accrue any unlawful status, please help!!! And thank you",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vsvxug",
-      "title": "Citations for independent recommendation letter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsvxug/citations_for_independent_recommendation_letter/",
-      "author": "/u/EconomicsCareful2034",
-      "publishedAt": "2026-08-19T19:08:25+00:00",
-      "excerpt": "What is the best way to gain more citations? I’m also looking for independent recommendation letters. My lawyer suggested that I email people who may be willing to write a letter, so I contacted several researchers, but I haven’t received any responses. Since I’m having difficulty finding independent recommenders, I’m …",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-20T15:24:13.806Z",
+  "syncedAt": "2026-08-20T16:21:50.542Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
