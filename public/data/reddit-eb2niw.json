@@ -149,24 +149,6 @@
       }
     },
     {
-      "id": "t3_1vt3x96",
-      "title": "Venting: submitted a bad prong 3 RFE based on attorney recommendations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt3x96/venting_submitted_a_bad_prong_3_rfe_based_on/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-20T00:17:38+00:00",
-      "excerpt": "This is only for venting since I am too anxious about my submission. The attorney adre3sed peong 2 RFE in details but kept prong 3 literally unaddressed at all just saying my work is of natural importance even if other employees exist and I have experience and track record. Now it seems like every other one discussed u…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vt62y1",
       "title": "Need help deciding between EP vs Chen",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt62y1/need_help_deciding_between_ep_vs_chen/",
@@ -214,6 +196,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vt3x96",
+      "title": "Venting: submitted a bad prong 3 RFE based on attorney recommendations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt3x96/venting_submitted_a_bad_prong_3_rfe_based_on/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-08-20T00:17:38+00:00",
+      "excerpt": "This is only for venting since I am too anxious about my submission. The attorney adre3sed peong 2 RFE in details but kept prong 3 literally unaddressed at all just saying my work is of natural importance even if other employees exist and I have experience and track record. Now it seems like every other one discussed u…",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -312,6 +312,24 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vsv01g",
+      "title": "Peak Immigration Reviews",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsv01g/peak_immigration_reviews/",
+      "author": "/u/Sea-Benefit3716",
+      "publishedAt": "2026-08-19T18:35:06+00:00",
+      "excerpt": "Hello everyone, I am currently in the process of preparing my EB-2 NIW application and am looking for an immigration attorney to work with. I came across Peak Immigration and Jason Crofts and wanted to see if anyone here has worked with him. I would really appreciate hearing about your experiences.",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -429,24 +447,6 @@
       }
     },
     {
-      "id": "t3_1vsv01g",
-      "title": "Peak Immigration Reviews",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsv01g/peak_immigration_reviews/",
-      "author": "/u/Sea-Benefit3716",
-      "publishedAt": "2026-08-19T18:35:06+00:00",
-      "excerpt": "Hello everyone, I am currently in the process of preparing my EB-2 NIW application and am looking for an immigration attorney to work with. I came across Peak Immigration and Jason Crofts and wanted to see if anyone here has worked with him. I would really appreciate hearing about your experiences.",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vsm5mh",
       "title": "About recommendation letters",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsm5mh/about_recommendation_letters/",
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-20T08:24:46.682Z",
+  "syncedAt": "2026-08-20T09:23:26.483Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
