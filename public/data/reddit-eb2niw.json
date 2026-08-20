@@ -74,24 +74,6 @@
       }
     },
     {
-      "id": "t3_1vt7uxe",
-      "title": "What is silent update ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt7uxe/what_is_silent_update/",
-      "author": "/u/Able_Enthusiasm2230",
-      "publishedAt": "2026-08-20T03:15:16+00:00",
-      "excerpt": "i see posts about FTAO and silent updates after I-485 application. how do you find out about silent updates? where do you go to look up these things ?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vsmv8e",
       "title": "Analysed 5,000 EB-2 NIW appeal decisions. Where petitions actually die, by prong.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsmv8e/analysed_5000_eb2_niw_appeal_decisions_where/",
@@ -101,6 +83,24 @@
       "topics": [
         "approval",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vt7uxe",
+      "title": "What is silent update ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt7uxe/what_is_silent_update/",
+      "author": "/u/Able_Enthusiasm2230",
+      "publishedAt": "2026-08-20T03:15:16+00:00",
+      "excerpt": "i see posts about FTAO and silent updates after I-485 application. how do you find out about silent updates? where do you go to look up these things ?",
+      "topics": [
+        "i485",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -130,6 +130,42 @@
       }
     },
     {
+      "id": "t3_1vt3x96",
+      "title": "Venting: submitted a bad prong 3 RFE based on attorney recommendations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt3x96/venting_submitted_a_bad_prong_3_rfe_based_on/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-08-20T00:17:38+00:00",
+      "excerpt": "This is only for venting since I am too anxious about my submission. The attorney adre3sed peong 2 RFE in details but kept prong 3 literally unaddressed at all just saying my work is of natural importance even if other employees exist and I have experience and track record. Now it seems like every other one discussed u…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vt9rxu",
+      "title": "What can I do to support my friend?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt9rxu/what_can_i_do_to_support_my_friend/",
+      "author": "/u/noideawhatimdoing_L",
+      "publishedAt": "2026-08-20T04:51:35+00:00",
+      "excerpt": "Hi everybody. A very good friend of mine recently began the EB2 application process. I’m a US citizen by birth, and I had never heard the term “EB2-NIW” before a few days ago. I’d like to know how I can be supportive as she goes through this thing. To that end, I have questions. What do you wish the Americans in your l…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vsepg2",
       "title": "Low citation/publications I140 approved without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsepg2/low_citationpublications_i140_approved_without_rfe/",
@@ -141,24 +177,6 @@
         "i140",
         "lawyer",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vt3x96",
-      "title": "Venting: submitted a bad prong 3 RFE based on attorney recommendations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt3x96/venting_submitted_a_bad_prong_3_rfe_based_on/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-20T00:17:38+00:00",
-      "excerpt": "This is only for venting since I am too anxious about my submission. The attorney adre3sed peong 2 RFE in details but kept prong 3 literally unaddressed at all just saying my work is of natural importance even if other employees exist and I have experience and track record. Now it seems like every other one discussed u…",
-      "topics": [
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -445,29 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vsf986",
-      "title": "Is it a generic reply of congressional inquiry?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsf986/is_it_a_generic_reply_of_congressional_inquiry/",
-      "author": "/u/ProfessionalWeek297",
-      "publishedAt": "2026-08-19T07:17:46+00:00",
-      "excerpt": "I was just wondering if it is a generic reply that I got from the senators office: \"Thank you for your inquiry regarding this constituent’s immigration matter. Properly-filed Form I-485 cases that do not have a visa available are held at the NBC to await visa availability. When a visa number becomes available, the NBC …",
-      "topics": [
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-20T04:26:22.765Z",
+  "syncedAt": "2026-08-20T05:21:15.441Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
