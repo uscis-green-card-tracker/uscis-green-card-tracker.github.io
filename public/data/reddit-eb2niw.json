@@ -168,15 +168,15 @@
       }
     },
     {
-      "id": "t3_1vsv01g",
-      "title": "Peak Immigration Reviews",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsv01g/peak_immigration_reviews/",
-      "author": "/u/Sea-Benefit3716",
-      "publishedAt": "2026-08-19T18:35:06+00:00",
-      "excerpt": "Hello everyone, I am currently in the process of preparing my EB-2 NIW application and am looking for an immigration attorney to work with. I came across Peak Immigration and Jason Crofts and wanted to see if anyone here has worked with him. I would really appreciate hearing about your experiences.",
+      "id": "t3_1vt62y1",
+      "title": "Need help deciding between EP vs Chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vt62y1/need_help_deciding_between_ep_vs_chen/",
+      "author": "/u/Alternative-Bed-6759",
+      "publishedAt": "2026-08-20T01:53:17+00:00",
+      "excerpt": "Hi all and thanks for your help in advance! I’m an Iranian veterinarian with a masters from a well known US university currently in the 3rd year of phd in Animal Sciences in a top US university. I have 10 papers, 15 citations and a couple conference presentations and abstracts and recently received a 3 year NIH scholar…",
       "topics": [
-        "i140",
-        "lawyer"
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -255,6 +255,24 @@
       "excerpt": "Urgent independent letter in the field of education please?? Any help?? Also I have filed concurrently and I am now on the authorised stay but if things get denied, what are my options, I really I am terrified to accrue any unlawful status, please help!!! And thank you",
       "topics": [
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vsv01g",
+      "title": "Peak Immigration Reviews",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsv01g/peak_immigration_reviews/",
+      "author": "/u/Sea-Benefit3716",
+      "publishedAt": "2026-08-19T18:35:06+00:00",
+      "excerpt": "Hello everyone, I am currently in the process of preparing my EB-2 NIW application and am looking for an immigration attorney to work with. I came across Peak Immigration and Jason Crofts and wanted to see if anyone here has worked with him. I would really appreciate hearing about your experiences.",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -449,29 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vsl00u",
-      "title": "I-485 Approved but No Card Produced Yet - anyone ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsl00u/i485_approved_but_no_card_produced_yet_anyone/",
-      "author": "/u/ahsanways",
-      "publishedAt": "2026-08-19T12:26:50+00:00",
-      "excerpt": "My I-485 was approved on Aug 4 , but as of Aug 19 I still haven’t received a “Card Was Produced” or mailing update. I did get a silent update a few days after approval, but nothing visible since. I’m seeing people approved after me already getting their cards, so I’m wondering if anyone else had a similar delay. How lo…",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-20T00:38:48.159Z",
+  "syncedAt": "2026-08-20T02:10:48.283Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
