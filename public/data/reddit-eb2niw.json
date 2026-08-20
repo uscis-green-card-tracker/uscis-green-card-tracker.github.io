@@ -55,6 +55,23 @@
       }
     },
     {
+      "id": "t3_1vtrac4",
+      "title": "IEE immigration evaluation - are educational scans enough for an official report from England?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtrac4/iee_immigration_evaluation_are_educational_scans/",
+      "author": "/u/Wonderful-Berry4982",
+      "publishedAt": "2026-08-20T18:15:12+00:00",
+      "excerpt": "Has anyone used IEE for a US immigration evaluation of a degree from England? Their England requirements say photocopies/scans are accepted for the degree and transcript for immigration evaluations. However, when I select Official Evaluation, it refers to sending original documents and charges $65 for their return. Can…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vtpi8d",
       "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
@@ -93,14 +110,13 @@
       }
     },
     {
-      "id": "t3_1vtoy50",
-      "title": "I-140 filling: Online or paper?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtoy50/i140_filling_online_or_paper/",
-      "author": "/u/Broad-Lab-3626",
-      "publishedAt": "2026-08-20T16:51:08+00:00",
-      "excerpt": "I can't decide whether to file Form I-140 online or by mail. Any recommendations? Have they fixed the glitches and errors people mentioned in this sub? Thanks",
+      "id": "t3_1vtwanm",
+      "title": "Anyone from the block LIN249000 and still waiting?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtwanm/anyone_from_the_block_lin249000_and_still_waiting/",
+      "author": "/u/Remote-Question-6842",
+      "publishedAt": "2026-08-20T21:14:39+00:00",
+      "excerpt": "I’m not sure but seems like only block IOE gets decision",
       "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -111,13 +127,14 @@
       }
     },
     {
-      "id": "t3_1vtrac4",
-      "title": "IEE immigration evaluation - are educational scans enough for an official report from England?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtrac4/iee_immigration_evaluation_are_educational_scans/",
-      "author": "/u/Wonderful-Berry4982",
-      "publishedAt": "2026-08-20T18:15:12+00:00",
-      "excerpt": "Has anyone used IEE for a US immigration evaluation of a degree from England? Their England requirements say photocopies/scans are accepted for the degree and transcript for immigration evaluations. However, when I select Official Evaluation, it refers to sending original documents and charges $65 for their return. Can…",
+      "id": "t3_1vtoy50",
+      "title": "I-140 filling: Online or paper?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtoy50/i140_filling_online_or_paper/",
+      "author": "/u/Broad-Lab-3626",
+      "publishedAt": "2026-08-20T16:51:08+00:00",
+      "excerpt": "I can't decide whether to file Form I-140 online or by mail. Any recommendations? Have they fixed the glitches and errors people mentioned in this sub? Thanks",
       "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -446,28 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vsmljp",
-      "title": "Ellis Potter prong 3 strategy after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsmljp/ellis_potter_prong_3_strategy_after_rfe/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-19T13:33:56+00:00",
-      "excerpt": "They said they have a wide firm strategy to keep prong 3 thin, merely saying that the work is beneficial to the USA and the petitioner is experienced even assuming other workers exist, and not responding to the RFE comments on urgency, labor cer impracticality and self employment etc. People who filled RFE with EP, did…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-20T20:16:59.435Z",
+  "syncedAt": "2026-08-20T21:17:55.040Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
