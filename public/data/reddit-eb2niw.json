@@ -92,25 +92,6 @@
       }
     },
     {
-      "id": "t3_1vu7vty",
-      "title": "EB2 NIW | Am I good enough? SWE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7vty/eb2_niw_am_i_good_enough_swe/",
-      "author": "/u/No-Sprinkles8062",
-      "publishedAt": "2026-08-21T06:02:16+00:00",
-      "excerpt": "Hi everyone! I am preparing an EB-2 NIW self-petition (software engineer) and would appreciate feedback from anyone with a similar background or recent experience. Here is my profile overview: Proposed Endeavor (Prong 1) Building AI-powered Govtech SaaS platforms for government agencies across the US to modernize publi…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vu7tgj",
       "title": "EB-2 NIW profile review — public-housing data modernization and AI",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7tgj/eb2_niw_profile_review_publichousing_data/",
@@ -135,6 +116,25 @@
       "author": "/u/Ovijitdas13",
       "publishedAt": "2026-08-21T01:41:46+00:00",
       "excerpt": "My RFE submission deadline was August 14, 2026. My lawyer shipped the package on August 12 and it was received by USCIS at August 13, 2026. But in the tracking, it is showing the package received by USCIS on August 17, 2026? Which date they consider? Is this a huge issue?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vu7vty",
+      "title": "EB2 NIW | Am I good enough? SWE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7vty/eb2_niw_am_i_good_enough_swe/",
+      "author": "/u/No-Sprinkles8062",
+      "publishedAt": "2026-08-21T06:02:16+00:00",
+      "excerpt": "Hi everyone! I am preparing an EB-2 NIW self-petition (software engineer) and would appreciate feedback from anyone with a similar background or recent experience. Here is my profile overview: Proposed Endeavor (Prong 1) Building AI-powered Govtech SaaS platforms for government agencies across the US to modernize publi…",
       "topics": [
         "i140",
         "lawyer",
@@ -280,24 +280,6 @@
       }
     },
     {
-      "id": "t3_1vtpi8d",
-      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
-      "author": "/u/Other-Today-3048",
-      "publishedAt": "2026-08-20T17:11:20+00:00",
-      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vu7jux",
       "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
@@ -310,6 +292,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vtpi8d",
+      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
+      "author": "/u/Other-Today-3048",
+      "publishedAt": "2026-08-20T17:11:20+00:00",
+      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
+      "topics": [
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-21T11:16:40.783Z",
+  "syncedAt": "2026-08-21T12:25:16.550Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
