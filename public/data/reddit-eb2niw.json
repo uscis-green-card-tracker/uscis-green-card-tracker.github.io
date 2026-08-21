@@ -108,6 +108,25 @@
       }
     },
     {
+      "id": "t3_1vuutnl",
+      "title": "Recommendation Letters",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuutnl/recommendation_letters/",
+      "author": "/u/LagLegend",
+      "publishedAt": "2026-08-21T22:32:58+00:00",
+      "excerpt": "My lawyer wants 2 testimonial letters and 2 recommendation letters however they are all dependent. I’m concerned as I’ve seen others say independent letters carry more weight than dependent ones. Did anyone get approval with just dependent letters?",
+      "topics": [
+        "approval",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vuomxz",
       "title": "Chance me — PhD in electrical engineering, wind power grid integration, filing from Canada. Realistic or am I fooling myself?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuomxz/chance_me_phd_in_electrical_engineering_wind/",
@@ -449,27 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vtpi8d",
-      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
-      "author": "/u/Other-Today-3048",
-      "publishedAt": "2026-08-20T17:11:20+00:00",
-      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-21T22:13:22.578Z",
+  "syncedAt": "2026-08-21T23:13:57.419Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
