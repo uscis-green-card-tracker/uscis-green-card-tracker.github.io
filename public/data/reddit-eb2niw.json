@@ -55,15 +55,17 @@
       }
     },
     {
-      "id": "t3_1vtpi8d",
-      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
-      "author": "/u/Other-Today-3048",
-      "publishedAt": "2026-08-20T17:11:20+00:00",
-      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
+      "id": "t3_1vu0xeq",
+      "title": "EB-2 NIW approved after RFE — no publications or citations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu0xeq/eb2_niw_approved_after_rfe_no_publications_or/",
+      "author": "/u/napajose",
+      "publishedAt": "2026-08-21T00:23:44+00:00",
+      "excerpt": "I’m a paralegal at an immigration law firm, and I’ll be sharing approvals as they come in to highlight an important point: EB-2 NIW cases are not simply a numbers game. You do not necessarily need published articles or citations. What matters is having a well-articulated proposed endeavor that is consistent with your e…",
       "topics": [
+        "approval",
+        "i140",
         "lawyer",
-        "question"
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -80,6 +82,24 @@
       "publishedAt": "2026-08-20T18:15:12+00:00",
       "excerpt": "Has anyone used IEE for a US immigration evaluation of a degree from England? Their England requirements say photocopies/scans are accepted for the degree and transcript for immigration evaluations. However, when I select Official Evaluation, it refers to sending original documents and charges $65 for their return. Can…",
       "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vtpi8d",
+      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
+      "author": "/u/Other-Today-3048",
+      "publishedAt": "2026-08-20T17:11:20+00:00",
+      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -441,31 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vsr46n",
-      "title": "C09 EAD finally approved, can I take a part-time job or change employers while I-485 is pending?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsr46n/c09_ead_finally_approved_can_i_take_a_parttime/",
-      "author": "/u/DisastrousShopping24",
-      "publishedAt": "2026-08-19T16:19:40+00:00",
-      "excerpt": "Hi, I'm hoping to get some advice from others who have been in a similar situation. I filed my EB-2 NIW adjustment of status concurrently with my I-765 and I-131 on October 28, 2025. Timeline: I-485 filed: October 28, 2025 I-765 filed: October 28, 2025 I-131 filed: October 28, 2025 Biometrics: November 2025 I-765 appro…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-20T23:15:53.037Z",
+  "syncedAt": "2026-08-21T00:41:07.726Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
