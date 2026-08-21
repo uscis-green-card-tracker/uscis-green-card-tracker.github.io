@@ -72,6 +72,25 @@
       }
     },
     {
+      "id": "t3_1vun394",
+      "title": "Need a second opinion on my EB-2 NIW case (Cloud Engineer)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vun394/need_a_second_opinion_on_my_eb2_niw_case_cloud/",
+      "author": "/u/Suspicious-Army2114",
+      "publishedAt": "2026-08-21T17:38:13+00:00",
+      "excerpt": "Hi everyone, I'm looking for some honest feedback from people who have gone through the EB-2 NIW process or have experience with these law firms. A little about my background: Cloud Production Engineer (financial industry) M.S. in Information Technology from a U.S. university (4.0 GPA) Received a university award for a…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vul2ku",
       "title": "June 22nd PD: anyone with a decision?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vul2ku/june_22nd_pd_anyone_with_a_decision/",
@@ -108,24 +127,6 @@
       }
     },
     {
-      "id": "t3_1vuijcy",
-      "title": "Sigma Xi membership",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuijcy/sigma_xi_membership/",
-      "author": "/u/Responsible-Pack-658",
-      "publishedAt": "2026-08-21T14:52:05+00:00",
-      "excerpt": "Hi all, Is having a full membership of Sigma Xi good enough to prove professional membership in EB2-NIW?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vu8a6l",
       "title": "I-140 PP approved, no RFE!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu8a6l/i140_pp_approved_no_rfe/",
@@ -137,6 +138,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vuijcy",
+      "title": "Sigma Xi membership",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuijcy/sigma_xi_membership/",
+      "author": "/u/Responsible-Pack-658",
+      "publishedAt": "2026-08-21T14:52:05+00:00",
+      "excerpt": "Hi all, Is having a full membership of Sigma Xi good enough to prove professional membership in EB2-NIW?",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -447,28 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vsyywu",
-      "title": "Approved 140 NIW after all 3 prongs RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsyywu/approved_140_niw_after_all_3_prongs_rfe/",
-      "author": "/u/ActDependent313",
-      "publishedAt": "2026-08-19T20:59:15+00:00",
-      "excerpt": "Finally got approved after a year, want to share my timeline to just thank everybody on this platform sharing information/data, encouraging me for this desperating year. Signed contract with Shawn: 2024.7 (I DO NOT recommend AT ALL!!!! I can have another post sharing more details) PD: 202509 PP: 202603 RFE: 202606 Appr…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-21T17:19:05.427Z",
+  "syncedAt": "2026-08-21T18:21:52.784Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
