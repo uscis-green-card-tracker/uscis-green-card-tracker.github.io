@@ -35,6 +35,23 @@
       }
     },
     {
+      "id": "t3_1vut01n",
+      "title": "Any recent zero publication success from industry?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vut01n/any_recent_zero_publication_success_from_industry/",
+      "author": "/u/Apart-History7130",
+      "publishedAt": "2026-08-21T21:19:16+00:00",
+      "excerpt": "I am thinking of self filing as a last resort with my visa situation. I have narrowed down an endeavor that’s genuinely impactful beyond my company, and also have individual contributions outside of my company work. Is there anyone who filed without any publications, and in your experience what was the most important p…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vulhq6",
       "title": "2 NIW PP Denials in 6 months with EP. Should I keep going or give up?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vulhq6/2_niw_pp_denials_in_6_months_with_ep_should_i/",
@@ -186,14 +203,15 @@
       }
     },
     {
-      "id": "t3_1vu7tgj",
-      "title": "EB-2 NIW profile review — public-housing data modernization and AI",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7tgj/eb2_niw_profile_review_publichousing_data/",
-      "author": "/u/Boring-Avocado7036",
-      "publishedAt": "2026-08-21T05:58:54+00:00",
-      "excerpt": "Hello everyone. I’m getting ready to submit my EB-2 NIW self-petition and want a reality check from people who’ve actually been through this process. Direct criticism welcome — that’s why I’m posting. Background: IMS (STEM) from a US university, no PhD About a decade in data engineering across healthcare, automotive, f…",
+      "id": "t3_1vuackt",
+      "title": "Husch Blackwell LLP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuackt/husch_blackwell_llp/",
+      "author": "/u/Dense-Flight9663",
+      "publishedAt": "2026-08-21T08:26:14+00:00",
+      "excerpt": "Has anyone worked with Husch Blackwell LLP? My lawyer (Arkell) wants me to sign form G28 to enable Husch handle my eb2 NIW case. Is it safe to do that?",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -204,15 +222,14 @@
       }
     },
     {
-      "id": "t3_1vuackt",
-      "title": "Husch Blackwell LLP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuackt/husch_blackwell_llp/",
-      "author": "/u/Dense-Flight9663",
-      "publishedAt": "2026-08-21T08:26:14+00:00",
-      "excerpt": "Has anyone worked with Husch Blackwell LLP? My lawyer (Arkell) wants me to sign form G28 to enable Husch handle my eb2 NIW case. Is it safe to do that?",
+      "id": "t3_1vu7tgj",
+      "title": "EB-2 NIW profile review — public-housing data modernization and AI",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7tgj/eb2_niw_profile_review_publichousing_data/",
+      "author": "/u/Boring-Avocado7036",
+      "publishedAt": "2026-08-21T05:58:54+00:00",
+      "excerpt": "Hello everyone. I’m getting ready to submit my EB-2 NIW self-petition and want a reality check from people who’ve actually been through this process. Direct criticism welcome — that’s why I’m posting. Background: IMS (STEM) from a US university, no PhD About a decade in data engineering across healthcare, automotive, f…",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -450,29 +467,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vswirf",
-      "title": "Approved I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vswirf/approved_i140/",
-      "author": "/u/Soggy-Grapefruit8614",
-      "publishedAt": "2026-08-19T19:29:22+00:00",
-      "excerpt": "Timeline: PP date and filing date: June 17, 2026 Approval date: August 18, 2026 Center: NSC Lawyer: Chen No RFE Profile: Physician (md outside the US) Previously worked as an assistant professor in medical school Currently a resident physician at a big university hospital in nyc 26 citations at filing 9 publications (6…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-21T21:13:48.906Z",
+  "syncedAt": "2026-08-21T22:13:22.578Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
