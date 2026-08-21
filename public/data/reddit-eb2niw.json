@@ -92,26 +92,6 @@
       }
     },
     {
-      "id": "t3_1vu8a6l",
-      "title": "I-140 PP approved, no RFE!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu8a6l/i140_pp_approved_no_rfe/",
-      "author": "/u/Actual_Way2685",
-      "publishedAt": "2026-08-21T06:24:09+00:00",
-      "excerpt": "Hi folks! After 2 years waiting, I-140 is finally approved. It is getting rarer and rarer to see I-140 approval these days, so I would love to share this good news and share luck with all here. Profile : - US university postdoc (J1) - Papers +20, (co) first authors +10 - Citations +300 when filing - Engineering - 5 let…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vtlifc",
       "title": "NIW approved… so why am I more stressed now?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtlifc/niw_approved_so_why_am_i_more_stressed_now/",
@@ -227,6 +207,26 @@
       }
     },
     {
+      "id": "t3_1vu8a6l",
+      "title": "I-140 PP approved, no RFE!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu8a6l/i140_pp_approved_no_rfe/",
+      "author": "/u/Actual_Way2685",
+      "publishedAt": "2026-08-21T06:24:09+00:00",
+      "excerpt": "Hi folks! After 2 years waiting, I-140 is finally approved. It is getting rarer and rarer to see I-140 approval these days, so I would love to share this good news and share luck with all here. Profile : - US university postdoc (J1) - Papers +20, (co) first authors +10 - Citations +300 when filing - Engineering - 5 let…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vtoy50",
       "title": "I-140 filling: Online or paper?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtoy50/i140_filling_online_or_paper/",
@@ -300,6 +300,24 @@
       }
     },
     {
+      "id": "t3_1vtpi8d",
+      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
+      "author": "/u/Other-Today-3048",
+      "publishedAt": "2026-08-20T17:11:20+00:00",
+      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vu7jux",
       "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
@@ -312,24 +330,6 @@
         "i140",
         "lawyer",
         "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vtpi8d",
-      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
-      "author": "/u/Other-Today-3048",
-      "publishedAt": "2026-08-20T17:11:20+00:00",
-      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
-      "topics": [
-        "lawyer",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -469,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-21T08:27:23.291Z",
+  "syncedAt": "2026-08-21T09:25:40.059Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
