@@ -91,14 +91,17 @@
       }
     },
     {
-      "id": "t3_1vul2ku",
-      "title": "June 22nd PD: anyone with a decision?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vul2ku/june_22nd_pd_anyone_with_a_decision/",
-      "author": "/u/Hefty-Garlic-1272",
-      "publishedAt": "2026-08-21T16:25:10+00:00",
-      "excerpt": "Unless I’m wrong, I believe the 45day deadline is today. Did you get a decision yet?",
+      "id": "t3_1vuomxz",
+      "title": "Chance me — PhD in electrical engineering, wind power grid integration, filing from Canada. Realistic or am I fooling myself?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuomxz/chance_me_phd_in_electrical_engineering_wind/",
+      "author": "/u/SnooPredictions3599",
+      "publishedAt": "2026-08-21T18:34:44+00:00",
+      "excerpt": "I'm preparing an EB-2 NIW self-petition and would appreciate honest feedback before I sink months into it. I'd rather hear \"weak case\" now than get an RFE later. Background - PhD in Electrical Engineering. Research on wind generator systems: DFIG control, D-STATCOM reactive power compensation, neural-network-based cont…",
       "topics": [
+        "approval",
         "i140",
+        "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -109,12 +112,12 @@
       }
     },
     {
-      "id": "t3_1vu7w4p",
-      "title": "Anyone getting RFEs on NIW petitions after Aug 5?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7w4p/anyone_getting_rfes_on_niw_petitions_after_aug_5/",
-      "author": "/u/Electronic-Grand9705",
-      "publishedAt": "2026-08-21T06:02:45+00:00",
-      "excerpt": "Curious if there's been a shift in USCIS behavior lately. Has anyone here received an RFE on their EB-2 NIW (I-140) after August 5? Trying to gauge if there's a trend or if it's just the usual randomness. If you got one, mind sharing: Filing date / category What the RFE was asking for Any pattern you've noticed (e.g., …",
+      "id": "t3_1vul2ku",
+      "title": "June 22nd PD: anyone with a decision?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vul2ku/june_22nd_pd_anyone_with_a_decision/",
+      "author": "/u/Hefty-Garlic-1272",
+      "publishedAt": "2026-08-21T16:25:10+00:00",
+      "excerpt": "Unless I’m wrong, I believe the 45day deadline is today. Did you get a decision yet?",
       "topics": [
         "i140",
         "question"
@@ -138,6 +141,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vu7w4p",
+      "title": "Anyone getting RFEs on NIW petitions after Aug 5?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7w4p/anyone_getting_rfes_on_niw_petitions_after_aug_5/",
+      "author": "/u/Electronic-Grand9705",
+      "publishedAt": "2026-08-21T06:02:45+00:00",
+      "excerpt": "Curious if there's been a shift in USCIS behavior lately. Has anyone here received an RFE on their EB-2 NIW (I-140) after August 5? Trying to gauge if there's a trend or if it's just the usual randomness. If you got one, mind sharing: Filing date / category What the RFE was asking for Any pattern you've noticed (e.g., …",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -299,6 +320,27 @@
       }
     },
     {
+      "id": "t3_1vu7jux",
+      "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
+      "author": "/u/Rough_Decent",
+      "publishedAt": "2026-08-21T05:44:07+00:00",
+      "excerpt": "It has been just around 2 months from submission to approval but the waiting time has been so long… Timeline: File online on June, pp, approved on Aug. 43 BD. This is my second time submitting NIW . First time in 2024 which was RFE and then denied . I also argued with AAO but the result was not getting changed. First w…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vtoy50",
       "title": "I-140 filling: Online or paper?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtoy50/i140_filling_online_or_paper/",
@@ -372,27 +414,6 @@
       }
     },
     {
-      "id": "t3_1vu7jux",
-      "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
-      "author": "/u/Rough_Decent",
-      "publishedAt": "2026-08-21T05:44:07+00:00",
-      "excerpt": "It has been just around 2 months from submission to approval but the waiting time has been so long… Timeline: File online on June, pp, approved on Aug. 43 BD. This is my second time submitting NIW . First time in 2024 which was RFE and then denied . I also argued with AAO but the result was not getting changed. First w…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vtpi8d",
       "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
@@ -449,26 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vtky4h",
-      "title": "MSc requirements completed but graduation in Fall",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtky4h/msc_requirements_completed_but_graduation_in_fall/",
-      "author": "/u/Grad-In-Need",
-      "publishedAt": "2026-08-20T14:23:38+00:00",
-      "excerpt": "Hello all! Have you all waited until your degrees were officially conferred or presented a certification of completion instead to save time in the line? I am not sure if I should fill the petition now, or just wait: I finished the requirements for my MSc a month ago, but I won't be graduating until Fall. My University …",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-21T18:21:52.784Z",
+  "syncedAt": "2026-08-21T19:19:03.052Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
