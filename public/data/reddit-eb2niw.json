@@ -53,6 +53,24 @@
       }
     },
     {
+      "id": "t3_1vuhlqy",
+      "title": "Any july pp I140 filers got the decision?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuhlqy/any_july_pp_i140_filers_got_the_decision/",
+      "author": "/u/UnfairBrain4776",
+      "publishedAt": "2026-08-21T14:16:12+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vuackt",
       "title": "Husch Blackwell LLP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuackt/husch_blackwell_llp/",
@@ -129,16 +147,17 @@
       }
     },
     {
-      "id": "t3_1vu7vty",
-      "title": "EB2 NIW | Am I good enough? SWE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7vty/eb2_niw_am_i_good_enough_swe/",
-      "author": "/u/No-Sprinkles8062",
-      "publishedAt": "2026-08-21T06:02:16+00:00",
-      "excerpt": "Hi everyone! I am preparing an EB-2 NIW self-petition (software engineer) and would appreciate feedback from anyone with a similar background or recent experience. Here is my profile overview: Proposed Endeavor (Prong 1) Building AI-powered Govtech SaaS platforms for government agencies across the US to modernize publi…",
+      "id": "t3_1vu8a6l",
+      "title": "I-140 PP approved, no RFE!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu8a6l/i140_pp_approved_no_rfe/",
+      "author": "/u/Actual_Way2685",
+      "publishedAt": "2026-08-21T06:24:09+00:00",
+      "excerpt": "Hi folks! After 2 years waiting, I-140 is finally approved. It is getting rarer and rarer to see I-140 approval these days, so I would love to share this good news and share luck with all here. Profile : - US university postdoc (J1) - Papers +20, (co) first authors +10 - Citations +300 when filing - Engineering - 5 let…",
       "topics": [
+        "approval",
         "i140",
         "lawyer",
-        "question"
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -187,17 +206,16 @@
       }
     },
     {
-      "id": "t3_1vu8a6l",
-      "title": "I-140 PP approved, no RFE!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu8a6l/i140_pp_approved_no_rfe/",
-      "author": "/u/Actual_Way2685",
-      "publishedAt": "2026-08-21T06:24:09+00:00",
-      "excerpt": "Hi folks! After 2 years waiting, I-140 is finally approved. It is getting rarer and rarer to see I-140 approval these days, so I would love to share this good news and share luck with all here. Profile : - US university postdoc (J1) - Papers +20, (co) first authors +10 - Citations +300 when filing - Engineering - 5 let…",
+      "id": "t3_1vu7vty",
+      "title": "EB2 NIW | Am I good enough? SWE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7vty/eb2_niw_am_i_good_enough_swe/",
+      "author": "/u/No-Sprinkles8062",
+      "publishedAt": "2026-08-21T06:02:16+00:00",
+      "excerpt": "Hi everyone! I am preparing an EB-2 NIW self-petition (software engineer) and would appreciate feedback from anyone with a similar background or recent experience. Here is my profile overview: Proposed Endeavor (Prong 1) Building AI-powered Govtech SaaS platforms for government agencies across the US to modernize publi…",
       "topics": [
-        "approval",
         "i140",
         "lawyer",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -447,29 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vsrilr",
-      "title": "Approved after RFE on all 3 prongs. Pending I-485",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsrilr/approved_after_rfe_on_all_3_prongs_pending_i485/",
-      "author": "/u/Emergency_Window716",
-      "publishedAt": "2026-08-19T16:33:28+00:00",
-      "excerpt": "My EB-2 NIW case was approved after got RFE on all 3 prongs. I'm sharing my timeline for anyone finding it helpful. I-140 / NIW Details Category: EB-2 NIW Priority Date: January 07th, 2025 Center: NBC PP Upgrade: Feb 27th, 2026 RFE: April 21st, 2026 RFE Response received: July 17th, 2026 I-140 Approved: Aug 19th, 2024 …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-21T13:37:01.386Z",
+  "syncedAt": "2026-08-21T14:24:25.756Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
