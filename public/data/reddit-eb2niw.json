@@ -73,17 +73,17 @@
       }
     },
     {
-      "id": "t3_1vu8a6l",
-      "title": "I-140 PP approved, no RFE!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu8a6l/i140_pp_approved_no_rfe/",
-      "author": "/u/Actual_Way2685",
-      "publishedAt": "2026-08-21T06:24:09+00:00",
-      "excerpt": "Hi folks! After 2 years waiting, I-140 is finally approved. It is getting rarer and rarer to see I-140 approval these days, so I would love to share this good news and share luck with all here. Profile : - US university postdoc (J1) - Papers +20, (co) first authors +10 - Citations +300 when filing - Engineering - 5 let…",
+      "id": "t3_1vtlifc",
+      "title": "NIW approved… so why am I more stressed now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtlifc/niw_approved_so_why_am_i_more_stressed_now/",
+      "author": "/u/SamDivaGoat",
+      "publishedAt": "2026-08-20T14:45:36+00:00",
+      "excerpt": "My NIW I-140 finally got approved and I thought I’d feel relieved. Instead I feel like the anxiety just moved to something else lol. My priority date isn’t current, so I can’t file I-485 yet. I’m still on F-1/OPT, which means I still have to worry about maintaining status, work authorization, unemployment days, travel,…",
       "topics": [
         "approval",
+        "i485",
         "i140",
-        "lawyer",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -130,26 +130,6 @@
       }
     },
     {
-      "id": "t3_1vtlifc",
-      "title": "NIW approved… so why am I more stressed now?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtlifc/niw_approved_so_why_am_i_more_stressed_now/",
-      "author": "/u/SamDivaGoat",
-      "publishedAt": "2026-08-20T14:45:36+00:00",
-      "excerpt": "My NIW I-140 finally got approved and I thought I’d feel relieved. Instead I feel like the anxiety just moved to something else lol. My priority date isn’t current, so I can’t file I-485 yet. I’m still on F-1/OPT, which means I still have to worry about maintaining status, work authorization, unemployment days, travel,…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vu2n98",
       "title": "RFE Response Received after Deadline?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu2n98/rfe_response_received_after_deadline/",
@@ -160,6 +140,26 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vu8a6l",
+      "title": "I-140 PP approved, no RFE!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu8a6l/i140_pp_approved_no_rfe/",
+      "author": "/u/Actual_Way2685",
+      "publishedAt": "2026-08-21T06:24:09+00:00",
+      "excerpt": "Hi folks! After 2 years waiting, I-140 is finally approved. It is getting rarer and rarer to see I-140 approval these days, so I would love to share this good news and share luck with all here. Profile : - US university postdoc (J1) - Papers +20, (co) first authors +10 - Citations +300 when filing - Engineering - 5 let…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -208,45 +208,6 @@
       }
     },
     {
-      "id": "t3_1vu7jux",
-      "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
-      "author": "/u/Rough_Decent",
-      "publishedAt": "2026-08-21T05:44:07+00:00",
-      "excerpt": "It has been just around 2 months from submission to approval but the waiting time has been so long… Timeline: File online on June, pp, approved on Aug. 43 BD. This is my second time submitting NIW . First time in 2024 which was RFE and then denied . I also argued with AAO but the result was not getting changed. First w…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vtpi8d",
-      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
-      "author": "/u/Other-Today-3048",
-      "publishedAt": "2026-08-20T17:11:20+00:00",
-      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vtoy50",
       "title": "I-140 filling: Online or paper?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtoy50/i140_filling_online_or_paper/",
@@ -255,26 +216,6 @@
       "excerpt": "I can't decide whether to file Form I-140 online or by mail. Any recommendations? Have they fixed the glitches and errors people mentioned in this sub? Thanks",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vu6eux",
-      "title": "DIY approved NIW after all 3 prongs RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu6eux/diy_approved_niw_after_all_3_prongs_rfe/",
-      "author": "/u/stqwq",
-      "publishedAt": "2026-08-21T04:43:19+00:00",
-      "excerpt": "Just got my EB2-NIW approval! I prepared the petition and RFE response myself, so I wanted to share my experience in case it is useful to others going through the same process. Timeline I-140 filed: 1/9/2026 RFE received: 3/18 RFE response submitted: 6/14 Approved: 8/18 Premium processing @ TSC Officer code: XM2043 Pro…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -331,6 +272,65 @@
       "excerpt": "I’m not sure but seems like only block IOE gets decision",
       "topics": [
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vtpi8d",
+      "title": "Law firm recommendation - Lopes Law and Mark Morais Law?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vtpi8d/law_firm_recommendation_lopes_law_and_mark_morais/",
+      "author": "/u/Other-Today-3048",
+      "publishedAt": "2026-08-20T17:11:20+00:00",
+      "excerpt": "Hello Does anyone have any information about Lopes Law and Mark Morais Law? Are they good? ..or not? Would you recommend any of them? TIA",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vu6eux",
+      "title": "DIY approved NIW after all 3 prongs RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu6eux/diy_approved_niw_after_all_3_prongs_rfe/",
+      "author": "/u/stqwq",
+      "publishedAt": "2026-08-21T04:43:19+00:00",
+      "excerpt": "Just got my EB2-NIW approval! I prepared the petition and RFE response myself, so I wanted to share my experience in case it is useful to others going through the same process. Timeline I-140 filed: 1/9/2026 RFE received: 3/18 RFE response submitted: 6/14 Approved: 8/18 Premium processing @ TSC Officer code: XM2043 Pro…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vu7jux",
+      "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
+      "author": "/u/Rough_Decent",
+      "publishedAt": "2026-08-21T05:44:07+00:00",
+      "excerpt": "It has been just around 2 months from submission to approval but the waiting time has been so long… Timeline: File online on June, pp, approved on Aug. 43 BD. This is my second time submitting NIW . First time in 2024 which was RFE and then denied . I also argued with AAO but the result was not getting changed. First w…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -470,7 +470,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-21T06:28:08.941Z",
+  "syncedAt": "2026-08-21T07:34:21.164Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
