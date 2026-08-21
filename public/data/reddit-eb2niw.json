@@ -35,26 +35,6 @@
       }
     },
     {
-      "id": "t3_1vu0xeq",
-      "title": "EB-2 NIW approved after RFE — no publications or citations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu0xeq/eb2_niw_approved_after_rfe_no_publications_or/",
-      "author": "/u/napajose",
-      "publishedAt": "2026-08-21T00:23:44+00:00",
-      "excerpt": "IMPORTANT: I WILL NOT DISCLOSE THE NAME OF THE LAW FIRM I WORK FOR, NOT EVEN IN PRIVATE. PLEASE DON’T ASK. THE PURPOSE HERE IS NOT TO ADVERTISE, BUT TO SHOW THAT IT’S NOT ONLY PEOPLE WITH MILLIONS OF PUBLICATIONS AND CITATIONS WHO GET APPROVED. I’m a paralegal at an immigration law firm, and I’ll be sharing approvals a…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vu7w4p",
       "title": "Anyone getting RFEs on NIW petitions after Aug 5?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7w4p/anyone_getting_rfes_on_niw_petitions_after_aug_5/",
@@ -467,9 +447,29 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1vsrilr",
+      "title": "Approved after RFE on all 3 prongs. Pending I-485",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vsrilr/approved_after_rfe_on_all_3_prongs_pending_i485/",
+      "author": "/u/Emergency_Window716",
+      "publishedAt": "2026-08-19T16:33:28+00:00",
+      "excerpt": "My EB-2 NIW case was approved after got RFE on all 3 prongs. I'm sharing my timeline for anyone finding it helpful. I-140 / NIW Details Category: EB-2 NIW Priority Date: January 07th, 2025 Center: NBC PP Upgrade: Feb 27th, 2026 RFE: April 21st, 2026 RFE Response received: July 17th, 2026 I-140 Approved: Aug 19th, 2024 …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-08-21T10:19:26.624Z",
+  "syncedAt": "2026-08-21T11:16:40.783Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
