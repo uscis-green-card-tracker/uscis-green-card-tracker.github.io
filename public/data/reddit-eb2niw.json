@@ -243,6 +243,27 @@
       }
     },
     {
+      "id": "t3_1vu7jux",
+      "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
+      "author": "/u/Rough_Decent",
+      "publishedAt": "2026-08-21T05:44:07+00:00",
+      "excerpt": "It has been just around 2 months from submission to approval but the waiting time has been so long… Timeline: File online on June, pp, approved on Aug. 43 BD. This is my second time submitting NIW . First time in 2024 which was RFE and then denied . I also argued with AAO but the result was not getting changed. First w…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vu2n98",
       "title": "RFE Response Received after Deadline?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu2n98/rfe_response_received_after_deadline/",
@@ -311,27 +332,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vu7jux",
-      "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
-      "author": "/u/Rough_Decent",
-      "publishedAt": "2026-08-21T05:44:07+00:00",
-      "excerpt": "It has been just around 2 months from submission to approval but the waiting time has been so long… Timeline: File online on June, pp, approved on Aug. 43 BD. This is my second time submitting NIW . First time in 2024 which was RFE and then denied . I also argued with AAO but the result was not getting changed. First w…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -472,7 +472,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-21T19:19:03.052Z",
+  "syncedAt": "2026-08-21T20:14:04.083Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
