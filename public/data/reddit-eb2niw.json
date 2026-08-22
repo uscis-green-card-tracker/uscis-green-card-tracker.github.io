@@ -35,6 +35,23 @@
       }
     },
     {
+      "id": "t3_1vvmxv0",
+      "title": "NIWStats guy here - looking for an LOI to respond to my RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvmxv0/niwstats_guy_here_looking_for_an_loi_to_respond/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-08-22T20:24:34+00:00",
+      "excerpt": "I’m responding to my own RFE and looking for an LOI from a US founder - ideally an early-stage startup in complex software systems, AI, or data infrastructure. If that’s you and you think it might make sense, or you know someone who might be open to it, please DM me. Really appreciate it. thanks everyone.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vvll1i",
       "title": "925 days of waiting",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvll1i/925_days_of_waiting/",
@@ -43,6 +60,25 @@
       "excerpt": "Today marks my 925 day of waiting for my I140 decision. I submitted my application at the beginning of 2024 and received an RFE in April 2026 on the 3 prongs, and currently I'm still waiting for the final decision by USCIS. Time files!",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vvimsb",
+      "title": "June PP - Biometric Appointment RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvimsb/june_pp_biometric_appointment_rfe/",
+      "author": "/u/khndusbsj",
+      "publishedAt": "2026-08-22T17:37:25+00:00",
+      "excerpt": "44 business days and received a RFE about biometric appointment request. I’m nervous?! Oh yeah",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -68,25 +104,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1vvimsb",
-      "title": "June PP - Biometric Appointment RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvimsb/june_pp_biometric_appointment_rfe/",
-      "author": "/u/khndusbsj",
-      "publishedAt": "2026-08-22T17:37:25+00:00",
-      "excerpt": "44 business days and received a RFE about biometric appointment request. I’m nervous?! Oh yeah",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
       }
     },
     {
@@ -403,25 +420,6 @@
       }
     },
     {
-      "id": "t3_1vulhq6",
-      "title": "2 NIW PP Denials in 6 months with EP. Should I keep going or give up?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vulhq6/2_niw_pp_denials_in_6_months_with_ep_should_i/",
-      "author": "/u/Code__Lyoko",
-      "publishedAt": "2026-08-21T16:40:36+00:00",
-      "excerpt": "Hi everyone, Both of my NIW petitions were denied within the past six months, and both were filed using premium processing. I used EP for both filings. My profile: Master’s degree in Computer Engineering Three first-author papers, two of which are related to my proposed endeavor 15 citations 10 years of professional so…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vuw3gj",
       "title": "Looking for attorney who does standalone petition review only (not full drafting) — EB-2 NIW self-petition",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuw3gj/looking_for_attorney_who_does_standalone_petition/",
@@ -460,7 +458,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-22T20:11:36.475Z",
+  "syncedAt": "2026-08-22T21:11:50.100Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
