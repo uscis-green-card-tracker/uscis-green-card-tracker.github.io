@@ -35,12 +35,12 @@
       }
     },
     {
-      "id": "t3_1vvmxv0",
-      "title": "NIWStats guy here - looking for an LOI to respond to my RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvmxv0/niwstats_guy_here_looking_for_an_loi_to_respond/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-08-22T20:24:34+00:00",
-      "excerpt": "I’m responding to my own RFE and looking for an LOI from a US founder - ideally an early-stage startup in complex software systems, AI, or data infrastructure. If that’s you and you think it might make sense, or you know someone who might be open to it, please DM me. Really appreciate it. thanks everyone.",
+      "id": "t3_1vvll1i",
+      "title": "925 days of waiting",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvll1i/925_days_of_waiting/",
+      "author": "/u/Agreeable_Row9156",
+      "publishedAt": "2026-08-22T19:31:12+00:00",
+      "excerpt": "Today marks my 925 day of waiting for my I140 decision. I submitted my application at the beginning of 2024 and received an RFE in April 2026 on the 3 prongs, and currently I'm still waiting for the final decision by USCIS. Time files!",
       "topics": [
         "i140"
       ],
@@ -52,12 +52,12 @@
       }
     },
     {
-      "id": "t3_1vvll1i",
-      "title": "925 days of waiting",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvll1i/925_days_of_waiting/",
-      "author": "/u/Agreeable_Row9156",
-      "publishedAt": "2026-08-22T19:31:12+00:00",
-      "excerpt": "Today marks my 925 day of waiting for my I140 decision. I submitted my application at the beginning of 2024 and received an RFE in April 2026 on the 3 prongs, and currently I'm still waiting for the final decision by USCIS. Time files!",
+      "id": "t3_1vvmxv0",
+      "title": "NIWStats guy here - looking for an LOI to respond to my RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvmxv0/niwstats_guy_here_looking_for_an_loi_to_respond/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-08-22T20:24:34+00:00",
+      "excerpt": "I’m responding to my own RFE and looking for an LOI from a US founder - ideally an early-stage startup in complex software systems, AI, or data infrastructure. If that’s you and you think it might make sense, or you know someone who might be open to it, please DM me. Really appreciate it. thanks everyone.",
       "topics": [
         "i140"
       ],
@@ -113,6 +113,24 @@
       "author": "/u/Own-Village-2352",
       "publishedAt": "2026-08-22T17:32:09+00:00",
       "excerpt": "Hello, I want to know if anyone that upgraded their I-140 to premium between June 25 - 30, 2026 has received a decision. I am more particular about the original decision not decision after RFE. Thank you.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vvpscc",
+      "title": "Cybersecurity vs Computational Medicine",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvpscc/cybersecurity_vs_computational_medicine/",
+      "author": "/u/AtmosphericExit",
+      "publishedAt": "2026-08-22T22:24:22+00:00",
+      "excerpt": "Between cybersecurity and computational medicine research, which field would you consider to have greater significance and stronger potential to satisfy the “national importance” requirement for an EB-2 NIW petition?",
       "topics": [
         "i140",
         "question"
@@ -437,28 +455,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vv0dme",
-      "title": "Form I-485, Part 1, Item 12 and 15, what should I use if I had COS H1B-B2-H1B, and the extension for new H1B is now pending, and I-94 on I-797 has expired. Which I-94 is correct for I-94 date of expiry questions?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv0dme/form_i485_part_1_item_12_and_15_what_should_i_use/",
-      "author": "/u/Salty-Alternative387",
-      "publishedAt": "2026-08-22T02:44:30+00:00",
-      "excerpt": "I came to the States on H1B capped with certain end date. I got another job in cap-exempt. On the approval notice of the new H1B, an I-94 was provided with expiration date earlier than the one on I-94 issued by CBP. Before the expiration in April, my employer applied for extension, but it has not been approved yet. Hen…",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-22T22:11:21.631Z",
+  "syncedAt": "2026-08-22T23:10:43.904Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
