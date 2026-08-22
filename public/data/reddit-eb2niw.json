@@ -94,6 +94,21 @@
       }
     },
     {
+      "id": "t3_1vvg7jj",
+      "title": "I765 expedited request",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvg7jj/i765_expedited_request/",
+      "author": "/u/Different_Peanut_327",
+      "publishedAt": "2026-08-22T16:02:03+00:00",
+      "excerpt": "I’ve been unemployed for 2 months after being laid off from H1B job. Since then I filed i765 and had a biometrics appointment a few days ago. I’m 100% sure that I will get a job offer in a few days. Please advise on expedited request. Should I initiate it now without an offer or should I wait until I get a formal offer…",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vv5u9a",
       "title": "75 countries ban have been removed?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv5u9a/75_countries_ban_have_been_removed/",
@@ -443,30 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vu7jux",
-      "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
-      "author": "/u/Rough_Decent",
-      "publishedAt": "2026-08-21T05:44:07+00:00",
-      "excerpt": "It has been just around 2 months from submission to approval but the waiting time has been so long… Timeline: File online on June, pp, approved on Aug. 43 BD. This is my second time submitting NIW . First time in 2024 which was RFE and then denied . I also argued with AAO but the result was not getting changed. First w…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-22T15:10:49.674Z",
+  "syncedAt": "2026-08-22T16:11:31.809Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
