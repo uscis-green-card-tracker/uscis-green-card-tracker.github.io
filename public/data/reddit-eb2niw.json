@@ -55,6 +55,23 @@
       }
     },
     {
+      "id": "t3_1vv0qyz",
+      "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv0qyz/us_judge_strikes_down_policy_suspending_immigrant/",
+      "author": "/u/These_Perception_356",
+      "publishedAt": "2026-08-22T03:02:34+00:00",
+      "excerpt": "https://www.reuters.com/legal/government/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-2026-08-22/ Your views on : 1.Will it immediately get enforced ? 2.Chances of retrogression in next visa bulletin for ROW? 3. Will government challenge this decision? If yes, will the ban stay on during…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vv258a",
       "title": "EB-2 NIW I-140 approved after a three-prong RFE (detailed journey)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv258a/eb2_niw_i140_approved_after_a_threeprong_rfe/",
@@ -67,23 +84,6 @@
         "i140",
         "lawyer",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1vv0qyz",
-      "title": "US judge strikes down policy suspending immigrant visa processing for 75 nations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv0qyz/us_judge_strikes_down_policy_suspending_immigrant/",
-      "author": "/u/These_Perception_356",
-      "publishedAt": "2026-08-22T03:02:34+00:00",
-      "excerpt": "https://www.reuters.com/legal/government/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-2026-08-22/ Your views on : 1.Will it immediately get enforced ? 2.Chances of retrogression in next visa bulletin for ROW? 3. Will government challenge this decision? If yes, will the ban stay on during…",
-      "topics": [
         "question"
       ],
       "signals": {
@@ -154,6 +154,25 @@
       "excerpt": "Hi everyone, On June 2026, I filled my I-140 with Chen. My proposed endeavor is to continue my research on alternative ocular infections treatments with my former research team while working in a pharma company. During the end of my PhD (2024), the outcomes of my research led to the creation of two new projects - both …",
       "topics": [
         "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vuutnl",
+      "title": "Recommendation Letters",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuutnl/recommendation_letters/",
+      "author": "/u/LagLegend",
+      "publishedAt": "2026-08-21T22:32:58+00:00",
+      "excerpt": "My lawyer wants 2 testimonial letters and 2 recommendation letters however they are all dependent. I’m concerned as I’ve seen others say independent letters carry more weight than dependent ones. Did anyone get approval with just dependent letters?",
+      "topics": [
+        "approval",
         "lawyer",
         "question"
       ],
@@ -268,25 +287,6 @@
       "topics": [
         "approval",
         "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vuutnl",
-      "title": "Recommendation Letters",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuutnl/recommendation_letters/",
-      "author": "/u/LagLegend",
-      "publishedAt": "2026-08-21T22:32:58+00:00",
-      "excerpt": "My lawyer wants 2 testimonial letters and 2 recommendation letters however they are all dependent. I’m concerned as I’ve seen others say independent letters carry more weight than dependent ones. Did anyone get approval with just dependent letters?",
-      "topics": [
-        "approval",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -467,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-22T10:12:57.245Z",
+  "syncedAt": "2026-08-22T11:11:28.224Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
