@@ -94,6 +94,24 @@
       }
     },
     {
+      "id": "t3_1vv52q4",
+      "title": "Had already got my profile vetted by EP & Chen, but didn’t go through",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv52q4/had_already_got_my_profile_vetted_by_ep_chen_but/",
+      "author": "/u/Simple-Use-9421",
+      "publishedAt": "2026-08-22T06:49:28+00:00",
+      "excerpt": "Hi, I got my profile evaluated by EP and Chen a few months ago, they both gave me a refile option if rejected and were confident about my profile. But my country is in the 75-country list so I didn’t go through since these pauses/bans don’t get lifted easily. Now seeing news/posts about the judge slashing it, should I …",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vv0u6i",
       "title": "EB2-NIW Current for September",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv0u6i/eb2niw_current_for_september/",
@@ -108,6 +126,23 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vv5u9a",
+      "title": "75 countries ban have been removed?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv5u9a/75_countries_ban_have_been_removed/",
+      "author": "/u/neelmahi",
+      "publishedAt": "2026-08-22T07:33:14+00:00",
+      "excerpt": "The news is legit? That the 75 countries ban for consular processing has been removed today by federal judge.",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
       }
     },
     {
@@ -127,24 +162,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vv52q4",
-      "title": "Had already got my profile vetted by EP & Chen, but didn’t go through",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv52q4/had_already_got_my_profile_vetted_by_ep_chen_but/",
-      "author": "/u/Simple-Use-9421",
-      "publishedAt": "2026-08-22T06:49:28+00:00",
-      "excerpt": "Hi, I got my profile evaluated by EP and Chen a few months ago, they both gave me a refile option if rejected and were confident about my profile. But my country is in the 75-country list so I didn’t go through since these pauses/bans don’t get lifted easily. Now seeing news/posts about the judge slashing it, should I …",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -448,29 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vu8a6l",
-      "title": "I-140 PP approved, no RFE!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu8a6l/i140_pp_approved_no_rfe/",
-      "author": "/u/Actual_Way2685",
-      "publishedAt": "2026-08-21T06:24:09+00:00",
-      "excerpt": "Hi folks! After 2 years waiting, I-140 is finally approved. It is getting rarer and rarer to see I-140 approval these days, so I would love to share this good news and share luck with all here. Profile : - US university postdoc (J1) - Papers +20, (co) first authors +10 - Citations +300 when filing - Engineering - 5 let…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-22T07:23:08.600Z",
+  "syncedAt": "2026-08-22T08:16:51.773Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
