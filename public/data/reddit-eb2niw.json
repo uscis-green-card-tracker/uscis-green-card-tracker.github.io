@@ -94,6 +94,23 @@
       }
     },
     {
+      "id": "t3_1vv5u9a",
+      "title": "75 countries ban have been removed?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv5u9a/75_countries_ban_have_been_removed/",
+      "author": "/u/neelmahi",
+      "publishedAt": "2026-08-22T07:33:14+00:00",
+      "excerpt": "The news is legit? That the 75 countries ban for consular processing has been removed today by federal judge.",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vv52q4",
       "title": "Had already got my profile vetted by EP & Chen, but didn’t go through",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv52q4/had_already_got_my_profile_vetted_by_ep_chen_but/",
@@ -126,23 +143,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vv5u9a",
-      "title": "75 countries ban have been removed?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv5u9a/75_countries_ban_have_been_removed/",
-      "author": "/u/neelmahi",
-      "publishedAt": "2026-08-22T07:33:14+00:00",
-      "excerpt": "The news is legit? That the 75 countries ban for consular processing has been removed today by federal judge.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -467,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-22T09:17:15.441Z",
+  "syncedAt": "2026-08-22T10:12:57.245Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
