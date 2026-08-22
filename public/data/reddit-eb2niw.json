@@ -94,12 +94,31 @@
       }
     },
     {
+      "id": "t3_1vvgobh",
+      "title": "NIW guidance",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvgobh/niw_guidance/",
+      "author": "/u/UsedNefariousness378",
+      "publishedAt": "2026-08-22T16:20:34+00:00",
+      "excerpt": "How did you prove NIW national importance as a Quality/Manufacturing Engineer without patents, publications, or evidence of industry adoption? Hi everyone, I’m a Quality Engineer working in the manufacturing industry and I’m trying to better understand how others in similar fields established national importance under …",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vvg7jj",
       "title": "I765 expedited request",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvg7jj/i765_expedited_request/",
       "author": "/u/Different_Peanut_327",
       "publishedAt": "2026-08-22T16:02:03+00:00",
-      "excerpt": "I’ve been unemployed for 2 months after being laid off from H1B job. Since then I filed i765 and had a biometrics appointment a few days ago. I’m 100% sure that I will get a job offer in a few days. Please advise on expedited request. Should I initiate it now without an offer or should I wait until I get a formal offer…",
+      "excerpt": "I’ve been unemployed for 2 months after being laid off from H1B job. Since then I filed i765 and had a biometrics appointment a few days ago. I’m 100% sure that I will get a job offer in a few days. Please advise on expedited request. Should I initiate it now without an offer or should I wait until I get a formal job o…",
       "topics": [],
       "signals": {
         "blockNumber": null,
@@ -423,24 +442,6 @@
       }
     },
     {
-      "id": "t3_1vuzbhj",
-      "title": "Should i do eb2/niw ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuzbhj/should_i_do_eb2niw/",
-      "author": "/u/Formal_Donkey3472",
-      "publishedAt": "2026-08-22T01:53:03+00:00",
-      "excerpt": "I have a masters degree in information technology and 5 years of experience in the field.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vun394",
       "title": "Need a second opinion on my EB-2 NIW case (Cloud Engineer)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vun394/need_a_second_opinion_on_my_eb2_niw_case_cloud/",
@@ -460,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-22T16:11:31.809Z",
+  "syncedAt": "2026-08-22T17:11:42.386Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
