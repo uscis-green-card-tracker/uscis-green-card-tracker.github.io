@@ -35,6 +35,42 @@
       }
     },
     {
+      "id": "t3_1vvll1i",
+      "title": "925 days of waiting",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvll1i/925_days_of_waiting/",
+      "author": "/u/Agreeable_Row9156",
+      "publishedAt": "2026-08-22T19:31:12+00:00",
+      "excerpt": "Today marks my 925 day of waiting for my I140 decision. I submitted my application at the beginning of 2024 and received an RFE in April 2026 on the 3 prongs, and currently I'm still waiting for the final decision by USCIS. Time files!",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vvjk5k",
+      "title": "EB-2 ROW retrogression after 75-country visa pause was lifted?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvjk5k/eb2_row_retrogression_after_75country_visa_pause/",
+      "author": "/u/Frequent_Currency127",
+      "publishedAt": "2026-08-22T18:12:49+00:00",
+      "excerpt": "Hello everyone, I hope you’re doing well. I’m trying to understand how the recent court decision striking down the 75-country immigrant visa pause could affect EB-2 NIW applicants from ROW . Since the pause affected immigrant visa processing abroad, and it has now been lifted, do you think the return of consular-proces…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vvimsb",
       "title": "June PP - Biometric Appointment RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvimsb/june_pp_biometric_appointment_rfe/",
@@ -109,23 +145,39 @@
       }
     },
     {
-      "id": "t3_1vuy2wy",
-      "title": "EB-2 NIW I-485 Approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuy2wy/eb2_niw_i485_approved/",
-      "author": "/u/SignificantNews611",
-      "publishedAt": "2026-08-22T00:55:15+00:00",
-      "excerpt": "Sharing my timeline since tracking other people’s cases, especially the API/FTA0/silent updates, was helpful to me. PD: October 2024 I-140 NIW approved: Late December 2024 (premium processing) I-485 + I-765 received: 04/20/2026 Country : 75 Countries, RoW Dependent : No IAF: 04/28/2026 Biometrics notice generated: 05/2…",
+      "id": "t3_1vvmldj",
+      "title": "EB-2 NIW RFE response (senior cloud infrastructure / strategic partnerships profile)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvmldj/eb2_niw_rfe_response_senior_cloud_infrastructure/",
+      "author": "/u/Brilliant-Praline658",
+      "publishedAt": "2026-08-22T20:10:50+00:00",
+      "excerpt": "Hi everyone, I wanted to get thoughts on an EB2 NIW RFE response for a senior cloud infrastructure and strategic partnerships executive. USCIS accepted that the proposed endeavor has substantial merit, but issued an RFE on all three Dhanasar prongs: national importance, whether the beneficiary is well positioned, and w…",
       "topics": [
-        "approval",
-        "i485",
         "i140",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": true
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vvm7l9",
+      "title": "I-140 (Eb2-NIW)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvm7l9/i140_eb2niw/",
+      "author": "/u/Unusual_Programmer79",
+      "publishedAt": "2026-08-22T19:56:04+00:00",
+      "excerpt": "Does anyone have any idea when i will get any response/decision for my case? PD Aug 2025 Country of origin: Pakistan",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -137,6 +189,26 @@
       "excerpt": "https://www.reuters.com/legal/government/us-judge-strikes-down-policy-suspending-immigrant-visa-processing-75-nations-2026-08-22/ Your views on : 1.Will it immediately get enforced ? 2.Chances of retrogression in next visa bulletin for ROW? 3. Will government challenge this decision? If yes, will the ban stay on during…",
       "topics": [
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1vuy2wy",
+      "title": "EB-2 NIW I-485 Approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuy2wy/eb2_niw_i485_approved/",
+      "author": "/u/SignificantNews611",
+      "publishedAt": "2026-08-22T00:55:15+00:00",
+      "excerpt": "Sharing my timeline since tracking other people’s cases, especially the API/FTA0/silent updates, was helpful to me. PD: October 2024 I-140 NIW approved: Late December 2024 (premium processing) I-485 + I-765 received: 04/20/2026 Country : 75 Countries, RoW Dependent : No IAF: 04/28/2026 Biometrics notice generated: 05/2…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -181,25 +253,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vvjk5k",
-      "title": "EB-2 ROW retrogression after 75-country visa pause was lifted?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvjk5k/eb2_row_retrogression_after_75country_visa_pause/",
-      "author": "/u/Frequent_Currency127",
-      "publishedAt": "2026-08-22T18:12:49+00:00",
-      "excerpt": "Hello everyone, I hope you’re doing well. I’m trying to understand how the recent court decision striking down the 75-country immigrant visa pause could affect EB-2 NIW applicants from ROW . Since the pause affected immigrant visa processing abroad, and it has now been lifted, do you think the return of consular-proces…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -405,62 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vut01n",
-      "title": "Any recent zero publication success from industry?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vut01n/any_recent_zero_publication_success_from_industry/",
-      "author": "/u/Apart-History7130",
-      "publishedAt": "2026-08-21T21:19:16+00:00",
-      "excerpt": "I am thinking of self filing as a last resort with my visa situation. I have narrowed down an endeavor that’s genuinely impactful beyond my company, and also have individual contributions outside of my company work. Is there anyone who filed without any publications, and in your experience what was the most important p…",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vuy692",
-      "title": "EB-2 NIW RFE response (senior cloud infrastructure / strategic partnerships profile)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuy692/eb2_niw_rfe_response_senior_cloud_infrastructure/",
-      "author": "/u/Brilliant-Praline658",
-      "publishedAt": "2026-08-22T00:59:27+00:00",
-      "excerpt": "Hi everyone, I wanted to get thoughts on an EB2 NIW RFE response for a senior cloud infrastructure and strategic partnerships executive. USCIS accepted that the proposed endeavor has substantial merit, but issued an RFE on all three Dhanasar prongs: national importance, whether the beneficiary is well positioned, and w…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vuxw74",
-      "title": "Please help a girl out",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuxw74/please_help_a_girl_out/",
-      "author": "/u/amira1909",
-      "publishedAt": "2026-08-22T00:46:46+00:00",
-      "excerpt": "Hello, I am on PP and replied to my RFE 24 business days ago, and it got moved to case is still being processed today around 6 pm I was curious if someone has had any experience, there is ppl saying that you get an approval after a few hours and if you don’t it means that I will get denied. Can someone bring light into…",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-22T19:15:18.758Z",
+  "syncedAt": "2026-08-22T20:11:36.475Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
