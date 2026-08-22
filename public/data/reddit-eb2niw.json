@@ -35,26 +35,6 @@
       }
     },
     {
-      "id": "t3_1vuy2wy",
-      "title": "EB-2 NIW I-485 Approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuy2wy/eb2_niw_i485_approved/",
-      "author": "/u/SignificantNews611",
-      "publishedAt": "2026-08-22T00:55:15+00:00",
-      "excerpt": "Sharing my timeline since tracking other people’s cases, especially the API/FTA0/silent updates, was helpful to me. PD: October 2024 I-140 NIW approved: Late December 2024 (premium processing) I-485 + I-765 received: 04/20/2026 Country : 75 Countries, RoW Dependent : No IAF: 04/28/2026 Biometrics notice generated: 05/2…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1vv258a",
       "title": "EB-2 NIW I-140 approved after a three-prong RFE (detailed journey)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv258a/eb2_niw_i140_approved_after_a_threeprong_rfe/",
@@ -68,6 +48,26 @@
         "lawyer",
         "timeline",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1vuy2wy",
+      "title": "EB-2 NIW I-485 Approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuy2wy/eb2_niw_i485_approved/",
+      "author": "/u/SignificantNews611",
+      "publishedAt": "2026-08-22T00:55:15+00:00",
+      "excerpt": "Sharing my timeline since tracking other people’s cases, especially the API/FTA0/silent updates, was helpful to me. PD: October 2024 I-140 NIW approved: Late December 2024 (premium processing) I-485 + I-765 received: 04/20/2026 Country : 75 Countries, RoW Dependent : No IAF: 04/28/2026 Biometrics notice generated: 05/2…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -350,24 +350,6 @@
       }
     },
     {
-      "id": "t3_1vuwtn4",
-      "title": "I-907 Fees",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuwtn4/i907_fees/",
-      "author": "/u/a2gam",
-      "publishedAt": "2026-08-21T23:59:08+00:00",
-      "excerpt": "I used the 3-digit code instead of the 4-digit one on my American Express card when filling out the necessary forms to upgrade my I-140 to premium processing. Should I expect USCIS to reject my request?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vuwc9m",
       "title": "Is it a red flag to use research papers that were published same year that a person applies for EB2-NIW?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vuwc9m/is_it_a_red_flag_to_use_research_papers_that_were/",
@@ -461,9 +443,30 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1vu7jux",
+      "title": "Finally I140 approved. 2nd attempted, DIY, no RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vu7jux/finally_i140_approved_2nd_attempted_diy_no_rfe/",
+      "author": "/u/Rough_Decent",
+      "publishedAt": "2026-08-21T05:44:07+00:00",
+      "excerpt": "It has been just around 2 months from submission to approval but the waiting time has been so long… Timeline: File online on June, pp, approved on Aug. 43 BD. This is my second time submitting NIW . First time in 2024 which was RFE and then denied . I also argued with AAO but the result was not getting changed. First w…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-08-22T14:11:27.918Z",
+  "syncedAt": "2026-08-22T15:10:49.674Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
