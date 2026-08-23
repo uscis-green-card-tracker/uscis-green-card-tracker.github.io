@@ -92,6 +92,24 @@
       }
     },
     {
+      "id": "t3_1vvscf4",
+      "title": "I was wondering about Prong 1..., if testimonial letters and government document are provided...",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvscf4/i_was_wondering_about_prong_1_if_testimonial/",
+      "author": "/u/Electrical-Blood7629",
+      "publishedAt": "2026-08-23T00:18:57+00:00",
+      "excerpt": "hi guys, I am just wondering, even if there are several testimonial letters from the government research center like national labs or some government documents addressing national importance things, is it still possibility to be challenging about prong 1? I'm just wondering, I know it depends on the officer, But even i…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vvmxv0",
       "title": "NIWStats guy here - looking for an LOI to respond to my RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvmxv0/niwstats_guy_here_looking_for_an_loi_to_respond/",
@@ -117,24 +135,6 @@
       "excerpt": "Today marks my 925 day of waiting for my I140 decision. I submitted my application at the beginning of 2024 and received an RFE in April 2026 on the 3 prongs, and currently I'm still waiting for the final decision by USCIS. Time files!",
       "topics": [
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vvscf4",
-      "title": "I was wondering about Prong 1..., if testimonial letters and government document are provided...",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvscf4/i_was_wondering_about_prong_1_if_testimonial/",
-      "author": "/u/Electrical-Blood7629",
-      "publishedAt": "2026-08-23T00:18:57+00:00",
-      "excerpt": "hi guys, I am just wondering, even if there are several testimonial letters from the government research center like national labs or some government documents addressing national importance things, is it still possibility to be challenging about prong 1? I'm just wondering, I know it depends on the officer, But even i…",
-      "topics": [
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -256,6 +256,25 @@
       }
     },
     {
+      "id": "t3_1vvk7r1",
+      "title": "RFE guidance NEED HELP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvk7r1/rfe_guidance_need_help/",
+      "author": "/u/Sufficient-Guess-447",
+      "publishedAt": "2026-08-22T18:38:15+00:00",
+      "excerpt": "hey everyone, I’m still waiting for my RFE letter to come in the mail. But I would like to start prepping sooner like asking people to write more letters of recommendation, maybe collecting evidence. What are the main rules of RFE and how should I approach it? What if I got an amazing offer a month after submitting my …",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vvv3sy",
       "title": "Seeking US‑based AI experts to sign EB2‑NIW RFE opinion letters",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvv3sy/seeking_usbased_ai_experts_to_sign_eb2niw_rfe/",
@@ -334,25 +353,6 @@
       "author": "/u/DapperCurrent689",
       "publishedAt": "2026-08-22T18:58:01+00:00",
       "excerpt": "Hi everyone, Has anyone with a technical profile (non Phd researcher) successfully overcome an EB-2 NIW RFE on Prongs 2 and 3? USCIS accepted my advanced degree and Prong 1, but found Prong 2 insufficient and listed evidence they expected to see. I had already submitted several of those factors, including degrees close…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vvk7r1",
-      "title": "RFE guidance NEED HELP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvk7r1/rfe_guidance_need_help/",
-      "author": "/u/Sufficient-Guess-447",
-      "publishedAt": "2026-08-22T18:38:15+00:00",
-      "excerpt": "hey everyone, I’m still waiting for my RFE letter to come in the mail. But I would like to start prepping sooner like asking people to write more letters of recommendation, maybe collecting evidence. What are the main rules of RFE and how should I approach it? What if I got an amazing offer a month after submitting my …",
       "topics": [
         "approval",
         "i140",
@@ -455,7 +455,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-23T10:13:13.848Z",
+  "syncedAt": "2026-08-23T11:12:06.195Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
