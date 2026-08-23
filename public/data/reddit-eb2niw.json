@@ -71,6 +71,25 @@
       }
     },
     {
+      "id": "t3_1vvjk5k",
+      "title": "EB-2 ROW retrogression after 75-country visa pause was lifted?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvjk5k/eb2_row_retrogression_after_75country_visa_pause/",
+      "author": "/u/Frequent_Currency127",
+      "publishedAt": "2026-08-22T18:12:49+00:00",
+      "excerpt": "Hello everyone, I hope you’re doing well. I’m trying to understand how the recent court decision striking down the 75-country immigrant visa pause could affect EB-2 NIW applicants from ROW . Since the pause affected immigrant visa processing abroad, and it has now been lifted, do you think the return of consular-proces…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vvll1i",
       "title": "925 days of waiting",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvll1i/925_days_of_waiting/",
@@ -79,6 +98,24 @@
       "excerpt": "Today marks my 925 day of waiting for my I140 decision. I submitted my application at the beginning of 2024 and received an RFE in April 2026 on the 3 prongs, and currently I'm still waiting for the final decision by USCIS. Time files!",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vvscf4",
+      "title": "I was wondering about Prong 1..., if testimonial letters and government document are provided...",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvscf4/i_was_wondering_about_prong_1_if_testimonial/",
+      "author": "/u/Electrical-Blood7629",
+      "publishedAt": "2026-08-23T00:18:57+00:00",
+      "excerpt": "hi guys, I am just wondering, even if there are several testimonial letters from the government research center like national labs or some government documents addressing national importance things, is it still possibility to be challenging about prong 1? I'm just wondering, I know it depends on the officer, But even i…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -107,40 +144,20 @@
       }
     },
     {
-      "id": "t3_1vvscf4",
-      "title": "I was wondering about Prong 1..., if testimonial letters and government document are provided...",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvscf4/i_was_wondering_about_prong_1_if_testimonial/",
-      "author": "/u/Electrical-Blood7629",
-      "publishedAt": "2026-08-23T00:18:57+00:00",
-      "excerpt": "hi guys, I am just wondering, even if there are several testimonial letters from the government research center like national labs or some government documents addressing national importance things, is it still possibility to be challenging about prong 1? I'm just wondering, I know it depends on the officer, But even i…",
+      "id": "t3_1vvv3sy",
+      "title": "Seeking US‑based AI experts to sign EB2‑NIW RFE opinion letters",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvv3sy/seeking_usbased_ai_experts_to_sign_eb2niw_rfe/",
+      "author": "/u/Choice-Spell-6827",
+      "publishedAt": "2026-08-23T02:33:07+00:00",
+      "excerpt": "Hi all, I’m responding to an EB2‑NIW RFE and need US‑based AI/ML experts who may be open to reviewing and signing an expert opinion letter. I’ll provide the full draft. You’d only need to review, adjust if needed, and sign with your name/title/contact info. If interested, please message me privately with your CV/backgr…",
       "topics": [
-        "i140",
-        "question"
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vvjk5k",
-      "title": "EB-2 ROW retrogression after 75-country visa pause was lifted?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvjk5k/eb2_row_retrogression_after_75country_visa_pause/",
-      "author": "/u/Frequent_Currency127",
-      "publishedAt": "2026-08-22T18:12:49+00:00",
-      "excerpt": "Hello everyone, I hope you’re doing well. I’m trying to understand how the recent court decision striking down the 75-country immigrant visa pause could affect EB-2 NIW applicants from ROW . Since the pause affected immigrant visa processing abroad, and it has now been lifted, do you think the return of consular-proces…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -368,6 +385,23 @@
       }
     },
     {
+      "id": "t3_1vv5u9a",
+      "title": "75 countries ban have been removed?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv5u9a/75_countries_ban_have_been_removed/",
+      "author": "/u/neelmahi",
+      "publishedAt": "2026-08-22T07:33:14+00:00",
+      "excerpt": "The news is legit? That the 75 countries ban for consular processing has been removed today by federal judge.",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vvm7l9",
       "title": "I-140 (Eb2-NIW)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvm7l9/i140_eb2niw/",
@@ -383,23 +417,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vv5u9a",
-      "title": "75 countries ban have been removed?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv5u9a/75_countries_ban_have_been_removed/",
-      "author": "/u/neelmahi",
-      "publishedAt": "2026-08-22T07:33:14+00:00",
-      "excerpt": "The news is legit? That the 75 countries ban for consular processing has been removed today by federal judge.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
       }
     },
     {
@@ -436,28 +453,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vv0x4j",
-      "title": "Proposed Endeavor on Research while Working in Industry",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv0x4j/proposed_endeavor_on_research_while_working_in/",
-      "author": "/u/Braulindo",
-      "publishedAt": "2026-08-22T03:10:53+00:00",
-      "excerpt": "Hi everyone, On June 2026, I filled my I-140 with Chen. My proposed endeavor is to continue my research on alternative ocular infections treatments with my former research team while working in a pharma company. During the end of my PhD (2024), the outcomes of my research led to the creation of two new projects - both …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-23T02:18:16.825Z",
+  "syncedAt": "2026-08-23T03:41:11.360Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
