@@ -144,23 +144,6 @@
       }
     },
     {
-      "id": "t3_1vvv3sy",
-      "title": "Seeking US‑based AI experts to sign EB2‑NIW RFE opinion letters",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvv3sy/seeking_usbased_ai_experts_to_sign_eb2niw_rfe/",
-      "author": "/u/Choice-Spell-6827",
-      "publishedAt": "2026-08-23T02:33:07+00:00",
-      "excerpt": "Hi all, I’m responding to an EB2‑NIW RFE and need US‑based AI/ML experts who may be open to reviewing and signing an expert opinion letter. I’ll provide the full draft. You’d only need to review, adjust if needed, and sign with your name/title/contact info. If interested, please message me privately with your CV/backgr…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vvimsb",
       "title": "June PP - Biometric Appointment RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvimsb/june_pp_biometric_appointment_rfe/",
@@ -252,6 +235,23 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1vvv3sy",
+      "title": "Seeking US‑based AI experts to sign EB2‑NIW RFE opinion letters",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvv3sy/seeking_usbased_ai_experts_to_sign_eb2niw_rfe/",
+      "author": "/u/Choice-Spell-6827",
+      "publishedAt": "2026-08-23T02:33:07+00:00",
+      "excerpt": "Hi all, I’m responding to an EB2‑NIW RFE and need US‑based AI/ML experts who may be open to reviewing and signing an expert opinion letter. I’ll provide the full draft. You’d only need to review, adjust if needed, and sign with your name/title/contact info. If interested, please message me privately with your CV/backgr…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -455,7 +455,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-23T04:27:12.254Z",
+  "syncedAt": "2026-08-23T05:19:45.209Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
