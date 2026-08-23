@@ -53,6 +53,23 @@
       }
     },
     {
+      "id": "t3_1vwiiju",
+      "title": "Shall I proceed with applying? Please suggest",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwiiju/shall_i_proceed_with_applying_please_suggest/",
+      "author": "/u/accountdeli",
+      "publishedAt": "2026-08-23T20:46:42+00:00",
+      "excerpt": "I'll keep it short. Suggest if i should go ahead as im seriously considering it. MS in Civil Engineering (Structures) Publication: 1(will be 4 by the time if I apply) Work experience : None, about to graduate Reason for applying: So my graduate research project is DoD funded where I've designed, constructed and load te…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vvrwkz",
       "title": "I485 Approved ~ 4 months",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvrwkz/i485_approved_4_months/",
@@ -436,26 +453,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vv5u9a",
-      "title": "75 countries ban have been removed?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv5u9a/75_countries_ban_have_been_removed/",
-      "author": "/u/neelmahi",
-      "publishedAt": "2026-08-22T07:33:14+00:00",
-      "excerpt": "The news is legit? That the 75 countries ban for consular processing has been removed today by federal judge.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-08-23T20:11:20.754Z",
+  "syncedAt": "2026-08-23T21:11:51.506Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
