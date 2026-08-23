@@ -420,6 +420,23 @@
       }
     },
     {
+      "id": "t3_1vv0u6i",
+      "title": "EB2-NIW Current for September",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv0u6i/eb2niw_current_for_september/",
+      "author": "/u/Snoo-28913",
+      "publishedAt": "2026-08-22T03:06:51+00:00",
+      "excerpt": "Great news 🙌🏻 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vv52q4",
       "title": "Had already got my profile vetted by EP & Chen, but didn’t go through",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv52q4/had_already_got_my_profile_vetted_by_ep_chen_but/",
@@ -436,26 +453,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1vv0u6i",
-      "title": "EB2-NIW Current for September",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vv0u6i/eb2niw_current_for_september/",
-      "author": "/u/Snoo-28913",
-      "publishedAt": "2026-08-22T03:06:51+00:00",
-      "excerpt": "Great news 🙌🏻 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-september-2026.html",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-23T06:23:21.374Z",
+  "syncedAt": "2026-08-23T07:24:53.082Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
