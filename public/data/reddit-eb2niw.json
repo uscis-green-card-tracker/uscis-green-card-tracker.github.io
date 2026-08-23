@@ -53,23 +53,6 @@
       }
     },
     {
-      "id": "t3_1vw8ec0",
-      "title": "Any denial becuae only prong 3?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vw8ec0/any_denial_becuae_only_prong_3/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-23T14:18:02+00:00",
-      "excerpt": "Please comment if it has hit you personally?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vvrwkz",
       "title": "I485 Approved ~ 4 months",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvrwkz/i485_approved_4_months/",
@@ -114,6 +97,23 @@
       "excerpt": "I just realized after submitting my NIW RFE response that I had multiple existing research collaborations with institutions across the U.S. and overseas that I did not include. My I-140 is still pending. Is it possible/advisable to submit unsolicited supplemental evidence now documenting these pre-existing collaboratio…",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vw8ec0",
+      "title": "Any denial becuae only prong 3?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vw8ec0/any_denial_becuae_only_prong_3/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-08-23T14:18:02+00:00",
+      "excerpt": "Please comment if it has hit you personally?",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -455,7 +455,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-23T19:15:24.909Z",
+  "syncedAt": "2026-08-23T20:11:20.754Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
