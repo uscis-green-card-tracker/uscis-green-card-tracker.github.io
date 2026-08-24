@@ -35,27 +35,6 @@
       }
     },
     {
-      "id": "t3_1vwtfqx",
-      "title": "EB-2 NIW: Concurrent filing vs. waiting for I-140 approval — does filing I-485 earlier meaningfully speed up Advance Parole?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwtfqx/eb2_niw_concurrent_filing_vs_waiting_for_i140/",
-      "author": "/u/Useful-Guidance-5066",
-      "publishedAt": "2026-08-24T05:09:12+00:00",
-      "excerpt": "I’m planning to file my EB-2 NIW I-140 with premium processing in September. I’m trying to decide whether to: Option 1: File the I-140 + I-485 + I-765 + I-131 concurrently in September. Option 2: File only the I-140 with premium processing in September, wait for the decision (let’s assume approval around November), and…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vwu2wp",
       "title": "Eb2-NIW I-140Form",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwu2wp/eb2niw_i140form/",
@@ -84,6 +63,27 @@
       "topics": [
         "approval",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwtfqx",
+      "title": "EB-2 NIW: Concurrent filing vs. waiting for I-140 approval — does filing I-485 earlier meaningfully speed up Advance Parole?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwtfqx/eb2_niw_concurrent_filing_vs_waiting_for_i140/",
+      "author": "/u/Useful-Guidance-5066",
+      "publishedAt": "2026-08-24T05:09:12+00:00",
+      "excerpt": "I’m planning to file my EB-2 NIW I-140 with premium processing in September. I’m trying to decide whether to: Option 1: File the I-140 + I-485 + I-765 + I-131 concurrently in September. Option 2: File only the I-140 with premium processing in September, wait for the decision (let’s assume approval around November), and…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-24T06:35:49.672Z",
+  "syncedAt": "2026-08-24T07:49:37.430Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
