@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1vxbhyb",
+      "title": "EB2 NIW Profile Evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxbhyb/eb2_niw_profile_evaluation/",
+      "author": "/u/New-Age-7287",
+      "publishedAt": "2026-08-24T18:42:13+00:00",
+      "excerpt": "Master’s in Electrical Engineering Senior Systems Development Engineer at a Fortune 25 technology company 2.5 years of professional experience after my master’s Work primarily in embedded systems, firmware, server infrastructure, sensing/monitoring, power optimization, and hardware/software integration Proposed endeavo…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vx5fsh",
       "title": "Status changed to processing, no further updates (41 business days)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vx5fsh/status_changed_to_processing_no_further_updates/",
@@ -62,24 +80,6 @@
       "excerpt": "Hello everyone I Just wanted to know if anyone who refilled was approved?",
       "topics": [
         "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxbhyb",
-      "title": "EB2 NIW Profile Evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxbhyb/eb2_niw_profile_evaluation/",
-      "author": "/u/New-Age-7287",
-      "publishedAt": "2026-08-24T18:42:13+00:00",
-      "excerpt": "Master’s in Electrical Engineering Senior Systems Development Engineer at a Fortune 25 technology company 2.5 years of professional experience after my master’s Work primarily in embedded systems, firmware, server infrastructure, sensing/monitoring, power optimization, and hardware/software integration Proposed endeavo…",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -165,6 +165,25 @@
       }
     },
     {
+      "id": "t3_1vwailb",
+      "title": "Case got denied",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwailb/case_got_denied/",
+      "author": "/u/amira1909",
+      "publishedAt": "2026-08-23T15:42:15+00:00",
+      "excerpt": "My case was filed with CH and was denied. I was denied by Chen and Ellis Porter, I don’t have a profile of STEM but rather a social science profile. I got a really nasty officer who denied a lot of cases, and I can be dumb, but I still believe I could refile and get it approved. I have a master's, 3 publications, 10 ci…",
+      "topics": [
+        "approval",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vwtfqx",
       "title": "EB-2 NIW: Concurrent filing vs. waiting for I-140 approval — does filing I-485 earlier meaningfully speed up Advance Parole?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwtfqx/eb2_niw_concurrent_filing_vs_waiting_for_i140/",
@@ -176,25 +195,6 @@
         "i485",
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vwailb",
-      "title": "Case got denied",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwailb/case_got_denied/",
-      "author": "/u/amira1909",
-      "publishedAt": "2026-08-23T15:42:15+00:00",
-      "excerpt": "My case was filed with CH and was denied. I was denied by Chen and Ellis Porter, I don’t have a profile of STEM but rather a social science profile. I got a really nasty officer who denied a lot of cases, and I can be dumb, but I still believe I could refile and get it approved. I have a master's, 3 publications, 10 ci…",
-      "topics": [
-        "approval",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-24T19:21:15.795Z",
+  "syncedAt": "2026-08-24T20:18:19.804Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
