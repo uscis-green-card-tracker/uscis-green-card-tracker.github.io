@@ -53,6 +53,25 @@
       }
     },
     {
+      "id": "t3_1vx5fsh",
+      "title": "Status changed to processing, no further updates (41 business days)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vx5fsh/status_changed_to_processing_no_further_updates/",
+      "author": "/u/Comfortable-Button76",
+      "publishedAt": "2026-08-24T15:07:09+00:00",
+      "excerpt": "My case status changed from \"RFE response received\" to \"USCIS is currently processing the case\" yesterday and it has been almost 24 hours without further updates. I found it weird that the status changed on a weekend morning. On business day 41 of RFE response received (pp). I haven't been able to sleep since then, is …",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vwqwcg",
       "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
@@ -439,27 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1vw94u6",
-      "title": "Can I send new evidence after submission?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vw94u6/can_i_send_new_evidence_after_submission/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-23T14:48:23+00:00",
-      "excerpt": "I just realized after submitting my NIW RFE response that I had multiple existing research collaborations with institutions across the U.S. and overseas that I did not include. My I-140 is still pending. Is it possible/advisable to submit unsolicited supplemental evidence now documenting these pre-existing collaboratio…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-24T14:31:58.212Z",
+  "syncedAt": "2026-08-24T15:29:28.614Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
