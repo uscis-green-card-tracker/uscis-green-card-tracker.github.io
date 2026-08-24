@@ -35,24 +35,6 @@
       }
     },
     {
-      "id": "t3_1vx20hi",
-      "title": "Anyone with a refile got approved?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vx20hi/anyone_with_a_refile_got_approved/",
-      "author": "/u/Creative_Section_939",
-      "publishedAt": "2026-08-24T12:54:46+00:00",
-      "excerpt": "Hello everyone I Just wanted to know if anyone who refilled was approved?",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vx5fsh",
       "title": "Status changed to processing, no further updates (41 business days)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vx5fsh/status_changed_to_processing_no_further_updates/",
@@ -72,16 +54,14 @@
       }
     },
     {
-      "id": "t3_1vwqwcg",
-      "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
-      "author": "/u/Excellent_Respond467",
-      "publishedAt": "2026-08-24T02:57:46+00:00",
-      "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
+      "id": "t3_1vx20hi",
+      "title": "Anyone with a refile got approved?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vx20hi/anyone_with_a_refile_got_approved/",
+      "author": "/u/Creative_Section_939",
+      "publishedAt": "2026-08-24T12:54:46+00:00",
+      "excerpt": "Hello everyone I Just wanted to know if anyone who refilled was approved?",
       "topics": [
         "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -122,6 +102,26 @@
       "topics": [
         "approval",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwqwcg",
+      "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
+      "author": "/u/Excellent_Respond467",
+      "publishedAt": "2026-08-24T02:57:46+00:00",
+      "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -460,7 +460,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-24T15:29:28.614Z",
+  "syncedAt": "2026-08-24T16:23:12.527Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
