@@ -53,6 +53,24 @@
       }
     },
     {
+      "id": "t3_1vwailb",
+      "title": "Case got denied",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwailb/case_got_denied/",
+      "author": "/u/amira1909",
+      "publishedAt": "2026-08-23T15:42:15+00:00",
+      "excerpt": "My case was filed with CH and got denied, I was denied by Chen and Ellis porter, I don’t have a profile of STEM but rather a social science profile. I got a really nasty officer that denied a lot of cases and I can be dumb but I still believe I could refile and get it approved. I have a masters, 3 publications 10 citat…",
+      "topics": [
+        "approval",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vwjadj",
       "title": "Need advice - EAD card timeline",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwjadj/need_advice_ead_card_timeline/",
@@ -74,15 +92,34 @@
       }
     },
     {
-      "id": "t3_1vwailb",
-      "title": "Case got denied",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwailb/case_got_denied/",
-      "author": "/u/amira1909",
-      "publishedAt": "2026-08-23T15:42:15+00:00",
-      "excerpt": "My case was filed with CH and got denied, I was denied by Chen and Ellis porter, I don’t have a profile of STEM but rather a social science profile. I got a really nasty officer that denied a lot of cases and I can be dumb but I still believe I could refile and get it approved. I have a masters, 3 publications 10 citat…",
+      "id": "t3_1vwndlc",
+      "title": "AP? or no AP?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwndlc/ap_or_no_ap/",
+      "author": "/u/Friendly-Mix8159",
+      "publishedAt": "2026-08-24T00:11:48+00:00",
+      "excerpt": "Hey guys, I just wanted to ask one quick question. Did you guys submitted AP when you are submitting 485? or you just skipped it? I mean, EAD usually comes out fast and relatively low cost. But AP is expensive and heard that it doesn't come out until your GC is approved in lots of cases. So, I wanted to quickly ask if …",
       "topics": [
         "approval",
-        "lawyer"
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwnd5k",
+      "title": "Rfe",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwnd5k/rfe/",
+      "author": "/u/Mother-Ad8565",
+      "publishedAt": "2026-08-24T00:11:15+00:00",
+      "excerpt": "Any one received an rfe from officer number XM1156 (Texas)? What are his approval rates ?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -418,46 +455,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vvpscc",
-      "title": "Cybersecurity vs Computational Medicine",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvpscc/cybersecurity_vs_computational_medicine/",
-      "author": "/u/AtmosphericExit",
-      "publishedAt": "2026-08-22T22:24:22+00:00",
-      "excerpt": "Between cybersecurity and computational medicine research, which field would you consider to have greater significance and stronger potential to satisfy the “national importance” requirement for an EB-2 NIW petition?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vvk7r1",
-      "title": "RFE guidance NEED HELP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvk7r1/rfe_guidance_need_help/",
-      "author": "/u/Sufficient-Guess-447",
-      "publishedAt": "2026-08-22T18:38:15+00:00",
-      "excerpt": "hey everyone, I’m still waiting for my RFE letter to come in the mail. But I would like to start prepping sooner like asking people to write more letters of recommendation, maybe collecting evidence. What are the main rules of RFE and how should I approach it? What if I got an amazing offer a month after submitting my …",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-23T23:11:19.643Z",
+  "syncedAt": "2026-08-24T00:40:12.691Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
