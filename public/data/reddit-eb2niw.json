@@ -53,24 +53,6 @@
       }
     },
     {
-      "id": "t3_1vwailb",
-      "title": "Case got denied",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwailb/case_got_denied/",
-      "author": "/u/amira1909",
-      "publishedAt": "2026-08-23T15:42:15+00:00",
-      "excerpt": "My case was filed with CH and got denied, I was denied by Chen and Ellis porter, I don’t have a profile of STEM but rather a social science profile. I got a really nasty officer that denied a lot of cases and I can be dumb but I still believe I could refile and get it approved. I have a masters, 3 publications 10 citat…",
-      "topics": [
-        "approval",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vwqwcg",
       "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
@@ -79,25 +61,6 @@
       "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
       "topics": [
         "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vwu2wp",
-      "title": "Eb2-NIW I-140Form",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwu2wp/eb2niw_i140form/",
-      "author": "/u/Royal_Seesaw8591",
-      "publishedAt": "2026-08-24T05:45:22+00:00",
-      "excerpt": "Does the EB-2 NIW application form require information from the family passports, including the spouse’s and child’s details? My attorney requested copies of my wife’s and child’s passports for the I-140 form. I would appreciate your thoughts on this.",
-      "topics": [
         "i140",
         "lawyer",
         "question"
@@ -121,6 +84,43 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwailb",
+      "title": "Case got denied",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwailb/case_got_denied/",
+      "author": "/u/amira1909",
+      "publishedAt": "2026-08-23T15:42:15+00:00",
+      "excerpt": "My case was filed with CH and got denied, I was denied by Chen and Ellis porter, I don’t have a profile of STEM but rather a social science profile. I got a really nasty officer that denied a lot of cases and I can be dumb but I still believe I could refile and get it approved. I have a masters, 3 publications 10 citat…",
+      "topics": [
+        "approval",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwu2wp",
+      "title": "Eb2-NIW I-140Form",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwu2wp/eb2niw_i140form/",
+      "author": "/u/Royal_Seesaw8591",
+      "publishedAt": "2026-08-24T05:45:22+00:00",
+      "excerpt": "Does the EB-2 NIW application form require information from the family passports, including the spouse’s and child’s details? My attorney requested copies of my wife’s and child’s passports for the I-140 form. I would appreciate your thoughts on this.",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -176,24 +176,6 @@
       "author": "/u/Logical-Addition-224",
       "publishedAt": "2026-08-23T22:24:26+00:00",
       "excerpt": "Hi! As anyone took advice/help from Charisma Immigration Services LLC? I want to see how legit they are",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vwjzk3",
-      "title": "rfe",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwjzk3/rfe/",
-      "author": "/u/Tricky_Stop_488",
-      "publishedAt": "2026-08-23T21:45:53+00:00",
-      "excerpt": "Has anyone received an RFE from XM2384 (Texas) I-140? Any suggestions or advice?",
       "topics": [
         "i140",
         "question"
@@ -457,9 +439,27 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
+    },
+    {
+      "id": "t3_1vw94u6",
+      "title": "Can I send new evidence after submission?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vw94u6/can_i_send_new_evidence_after_submission/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-08-23T14:48:23+00:00",
+      "excerpt": "I just realized after submitting my NIW RFE response that I had multiple existing research collaborations with institutions across the U.S. and overseas that I did not include. My I-140 is still pending. Is it possible/advisable to submit unsolicited supplemental evidence now documenting these pre-existing collaboratio…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-08-24T13:41:44.679Z",
+  "syncedAt": "2026-08-24T14:31:58.212Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
