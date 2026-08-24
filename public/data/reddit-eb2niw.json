@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1vxflu4",
+      "title": "Can I file PP for I140 online if I140 was filed by mail by lawyer",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxflu4/can_i_file_pp_for_i140_online_if_i140_was_filed/",
+      "author": "/u/Delicious_Help_5183",
+      "publishedAt": "2026-08-24T21:09:20+00:00",
+      "excerpt": "My lawyer filed my I140 for EB2-NIW via mail. I would like to upgrade to premium. I140 is still pending decision. Can I file for premium processing online? If so, what is the process like? Do I upload everything in one single PDF? Or Can I fill out the form I-907 online, and then provide the payment details and upload …",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vxbhyb",
       "title": "EB2 NIW Profile Evaluation",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxbhyb/eb2_niw_profile_evaluation/",
@@ -72,15 +91,13 @@
       }
     },
     {
-      "id": "t3_1vxflu4",
-      "title": "Can I file PP for I140 online if I140 was filed by mail by lawyer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxflu4/can_i_file_pp_for_i140_online_if_i140_was_filed/",
-      "author": "/u/Delicious_Help_5183",
-      "publishedAt": "2026-08-24T21:09:20+00:00",
-      "excerpt": "My lawyer filed my I140 for EB2-NIW via mail. I would like to upgrade to premium. I140 is still pending decision. Can I file for premium processing online? If so, what is the process like? Do I upload everything in one single PDF? Or Can I fill out the form I-907 online, and then provide the payment details and upload …",
+      "id": "t3_1vxg0ln",
+      "title": "What kind of objective evidence can be used for National Importance?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxg0ln/what_kind_of_objective_evidence_can_be_used_for/",
+      "author": "/u/ivicts30",
+      "publishedAt": "2026-08-24T21:24:41+00:00",
+      "excerpt": "What kind of objective evidence can be used for Prong 1 National Importance? Besides the alignment with government policies and expert letters outlining the national importance, what kind of objective evidence can be used to prove the broad prospective impact of the specific endeavor? Isn't the prospective impact somet…",
       "topics": [
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -441,28 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vvrwkz",
-      "title": "I485 Approved ~ 4 months",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvrwkz/i485_approved_4_months/",
-      "author": "/u/Heavy_Antelope_4188",
-      "publishedAt": "2026-08-22T23:59:51+00:00",
-      "excerpt": "Adding to the data point. I was approved in exactly 24 hours after 3rd fta0 update. Receipt date Apr 27, 2026. 3rd fta0 Aug 21, 2026.",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-24T21:19:00.708Z",
+  "syncedAt": "2026-08-24T22:15:17.378Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
