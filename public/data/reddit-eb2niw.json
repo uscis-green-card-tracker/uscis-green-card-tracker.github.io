@@ -35,13 +35,14 @@
       }
     },
     {
-      "id": "t3_1vwu2wp",
-      "title": "Eb2-NIW I-140Form",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwu2wp/eb2niw_i140form/",
-      "author": "/u/Royal_Seesaw8591",
-      "publishedAt": "2026-08-24T05:45:22+00:00",
-      "excerpt": "Does the EB-2 NIW application form require information from the family passports, including the spouse’s and child’s details? My attorney requested copies of my wife’s and child’s passports for the I-140 form. I would appreciate your thoughts on this.",
+      "id": "t3_1vwqwcg",
+      "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
+      "author": "/u/Excellent_Respond467",
+      "publishedAt": "2026-08-24T02:57:46+00:00",
+      "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
       "topics": [
+        "approval",
         "i140",
         "lawyer",
         "question"
@@ -63,6 +64,25 @@
       "topics": [
         "approval",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwu2wp",
+      "title": "Eb2-NIW I-140Form",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwu2wp/eb2niw_i140form/",
+      "author": "/u/Royal_Seesaw8591",
+      "publishedAt": "2026-08-24T05:45:22+00:00",
+      "excerpt": "Does the EB-2 NIW application form require information from the family passports, including the spouse’s and child’s details? My attorney requested copies of my wife’s and child’s passports for the I-140 form. I would appreciate your thoughts on this.",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -122,26 +142,6 @@
         "i485",
         "i140",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vwqwcg",
-      "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
-      "author": "/u/Excellent_Respond467",
-      "publishedAt": "2026-08-24T02:57:46+00:00",
-      "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-24T11:17:59.585Z",
+  "syncedAt": "2026-08-24T12:26:00.171Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
