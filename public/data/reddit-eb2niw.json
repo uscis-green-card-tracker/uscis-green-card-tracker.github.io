@@ -152,6 +152,24 @@
       }
     },
     {
+      "id": "t3_1vwkwm2",
+      "title": "EB2 NIW - Charisma Immigration Services LLC",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwkwm2/eb2_niw_charisma_immigration_services_llc/",
+      "author": "/u/Logical-Addition-224",
+      "publishedAt": "2026-08-23T22:24:26+00:00",
+      "excerpt": "Hi! As anyone took advice/help from Charisma Immigration Services LLC? I want to see how legit they are",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vwjzk3",
       "title": "rfe",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwjzk3/rfe/",
@@ -268,24 +286,6 @@
       "author": "/u/Chicken_Wing5717",
       "publishedAt": "2026-08-23T22:53:19+00:00",
       "excerpt": "Hi all, I’d appreciate it if you could evaluate my profile for EB2/NIW. Degree: PhD in neuroscience Current job: Postdoc in R1 univ also for neuroscience Citations: 150-170 (depending on which citation index used: Google scholars vs. research gate) 5 papers (1 first authored). Got some local/state grants but I would sa…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vwkwm2",
-      "title": "EB2 NIW - Charisma Immigration Services LLC",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwkwm2/eb2_niw_charisma_immigration_services_llc/",
-      "author": "/u/Logical-Addition-224",
-      "publishedAt": "2026-08-23T22:24:26+00:00",
-      "excerpt": "Hi! As anyone took advice/help from Charisma Immigration Services LLC? I want to see how legit they are",
       "topics": [
         "i140",
         "question"
@@ -459,7 +459,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-24T08:36:13.537Z",
+  "syncedAt": "2026-08-24T09:36:07.161Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
