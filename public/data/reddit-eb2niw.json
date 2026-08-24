@@ -35,16 +35,14 @@
       }
     },
     {
-      "id": "t3_1vwqwcg",
-      "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
-      "author": "/u/Excellent_Respond467",
-      "publishedAt": "2026-08-24T02:57:46+00:00",
-      "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
+      "id": "t3_1vx20hi",
+      "title": "Anyone with a refile got approved?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vx20hi/anyone_with_a_refile_got_approved/",
+      "author": "/u/Creative_Section_939",
+      "publishedAt": "2026-08-24T12:54:46+00:00",
+      "excerpt": "Hello everyone I Just wanted to know if anyone who refilled was approved?",
       "topics": [
         "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -64,6 +62,26 @@
       "topics": [
         "approval",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwqwcg",
+      "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
+      "author": "/u/Excellent_Respond467",
+      "publishedAt": "2026-08-24T02:57:46+00:00",
+      "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -113,24 +131,6 @@
       }
     },
     {
-      "id": "t3_1vwrxp3",
-      "title": "Contact",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwrxp3/contact/",
-      "author": "/u/thered1968",
-      "publishedAt": "2026-08-24T03:49:31+00:00",
-      "excerpt": "Who is Chen? I read the name in several posts and I will want to reach him/her to understand more about the EB1NIW",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vwjadj",
       "title": "Need advice - EAD card timeline",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwjadj/need_advice_ead_card_timeline/",
@@ -142,6 +142,24 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwrxp3",
+      "title": "Contact",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwrxp3/contact/",
+      "author": "/u/thered1968",
+      "publishedAt": "2026-08-24T03:49:31+00:00",
+      "excerpt": "Who is Chen? I read the name in several posts and I will want to reach him/her to understand more about the EB1NIW",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -439,27 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": true
       }
-    },
-    {
-      "id": "t3_1vw94u6",
-      "title": "Can I send new evidence after submission?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vw94u6/can_i_send_new_evidence_after_submission/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-08-23T14:48:23+00:00",
-      "excerpt": "I just realized after submitting my NIW RFE response that I had multiple existing research collaborations with institutions across the U.S. and overseas that I did not include. My I-140 is still pending. Is it possible/advisable to submit unsolicited supplemental evidence now documenting these pre-existing collaboratio…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-24T12:26:00.171Z",
+  "syncedAt": "2026-08-24T13:41:44.679Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
