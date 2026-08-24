@@ -53,6 +53,24 @@
       }
     },
     {
+      "id": "t3_1vwrxp3",
+      "title": "Contact",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwrxp3/contact/",
+      "author": "/u/thered1968",
+      "publishedAt": "2026-08-24T03:49:31+00:00",
+      "excerpt": "Who is Chen? I read the name in several posts and I will want to reach him/her to understand more about the EB1NIW",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vwrhb1",
       "title": "Need some advice - EB2niw",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwrhb1/need_some_advice_eb2niw/",
@@ -62,6 +80,27 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwjadj",
+      "title": "Need advice - EAD card timeline",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwjadj/need_advice_ead_card_timeline/",
+      "author": "/u/No_Leadership_1811",
+      "publishedAt": "2026-08-23T21:17:11+00:00",
+      "excerpt": "I’m currently on a STEM OPT visa that expires in January 2027. My H1B COS is pending. I want to make a smart decision in case it gets denied. Since I’m from ROW country, if I file my I-140 and I-485 concurrently through the National Interest Waivers (NIW) process, how long will it take to receive my EAD card so I can c…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -119,27 +158,6 @@
       "topics": [
         "approval",
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vwjadj",
-      "title": "Need advice - EAD card timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwjadj/need_advice_ead_card_timeline/",
-      "author": "/u/No_Leadership_1811",
-      "publishedAt": "2026-08-23T21:17:11+00:00",
-      "excerpt": "I’m currently on a STEM OPT visa that expires in January 2027. My H1B COS is pending. I want to make a smart decision in case it gets denied. Since I’m from ROW country, if I file my I-140 and I-485 concurrently through the National Interest Waivers (NIW) process, how long will it take to receive my EAD card so I can c…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -433,29 +451,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vvr6pt",
-      "title": "Dispute over remaining flat fee after switching attorneys mid-RFE — is my position reasonable?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvr6pt/dispute_over_remaining_flat_fee_after_switching/",
-      "author": "/u/ElectricalSecret9710",
-      "publishedAt": "2026-08-22T23:26:53+00:00",
-      "excerpt": "I hired an immigration attorney for an EB-2 NIW petition under a flat fee agreement ($3,980 total, half up front, half due upon approval). The retainer explicitly stated that if USCIS issued an RFE, the firm would respond to it at no additional charge, as part of the flat fee. An RFE was issued and the firm never reach…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-24T03:44:24.916Z",
+  "syncedAt": "2026-08-24T04:34:54.082Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
