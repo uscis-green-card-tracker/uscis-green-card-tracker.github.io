@@ -72,6 +72,24 @@
       }
     },
     {
+      "id": "t3_1vx7mx5",
+      "title": "Will be Considering EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vx7mx5/will_be_considering_eb2_niw/",
+      "author": "/u/shehroze12",
+      "publishedAt": "2026-08-24T16:26:52+00:00",
+      "excerpt": "Hello, Masters in Human Computer Interaction Design - Currently on OPT. Have my Bachelors done with 6 years of experience. I am working and researching on Mobility Access Systems and Vehicle Affordability Framework to Analyze How Transportation along with Household is becoming major costs in Household income. I would l…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vwtfqx",
       "title": "EB-2 NIW: Concurrent filing vs. waiting for I-140 approval — does filing I-485 earlier meaningfully speed up Advance Parole?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwtfqx/eb2_niw_concurrent_filing_vs_waiting_for_i140/",
@@ -439,28 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vvjk5k",
-      "title": "EB-2 ROW retrogression after 75-country visa pause was lifted?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvjk5k/eb2_row_retrogression_after_75country_visa_pause/",
-      "author": "/u/Frequent_Currency127",
-      "publishedAt": "2026-08-22T18:12:49+00:00",
-      "excerpt": "Hello everyone, I hope you’re doing well. I’m trying to understand how the recent court decision striking down the 75-country immigrant visa pause could affect EB-2 NIW applicants from ROW . Since the pause affected immigrant visa processing abroad, and it has now been lifted, do you think the return of consular-proces…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
     }
   ],
-  "syncedAt": "2026-08-24T16:23:12.527Z",
+  "syncedAt": "2026-08-24T17:22:03.884Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
