@@ -35,14 +35,34 @@
       }
     },
     {
-      "id": "t3_1vwqwcg",
-      "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
-      "author": "/u/Excellent_Respond467",
-      "publishedAt": "2026-08-24T02:57:46+00:00",
-      "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
+      "id": "t3_1vwtfqx",
+      "title": "EB-2 NIW: Concurrent filing vs. waiting for I-140 approval — does filing I-485 earlier meaningfully speed up Advance Parole?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwtfqx/eb2_niw_concurrent_filing_vs_waiting_for_i140/",
+      "author": "/u/Useful-Guidance-5066",
+      "publishedAt": "2026-08-24T05:09:12+00:00",
+      "excerpt": "I’m planning to file my EB-2 NIW I-140 with premium processing in September. I’m trying to decide whether to: Option 1: File the I-140 + I-485 + I-765 + I-131 concurrently in September. Option 2: File only the I-140 with premium processing in September, wait for the decision (let’s assume approval around November), and…",
       "topics": [
         "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwu2wp",
+      "title": "Eb2-NIW I-140Form",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwu2wp/eb2niw_i140form/",
+      "author": "/u/Royal_Seesaw8591",
+      "publishedAt": "2026-08-24T05:45:22+00:00",
+      "excerpt": "Does the EB-2 NIW application form require information from the family passports, including the spouse’s and child’s details? My attorney requested copies of my wife’s and child’s passports for the I-140 form. I would appreciate your thoughts on this.",
+      "topics": [
         "i140",
         "lawyer",
         "question"
@@ -64,27 +84,6 @@
       "topics": [
         "approval",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vwtfqx",
-      "title": "EB-2 NIW: Concurrent filing vs. waiting for I-140 approval — does filing I-485 earlier meaningfully speed up Advance Parole?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwtfqx/eb2_niw_concurrent_filing_vs_waiting_for_i140/",
-      "author": "/u/Useful-Guidance-5066",
-      "publishedAt": "2026-08-24T05:09:12+00:00",
-      "excerpt": "I’m planning to file my EB-2 NIW I-140 with premium processing in September. I’m trying to decide whether to: Option 1: File the I-140 + I-485 + I-765 + I-131 concurrently in September. Option 2: File only the I-140 with premium processing in September, wait for the decision (let’s assume approval around November), and…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -123,6 +122,26 @@
         "i485",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vwqwcg",
+      "title": "Anyone approved after a 3-prong NIW RFE with Chen? Concerned about tone/strategy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwqwcg/anyone_approved_after_a_3prong_niw_rfe_with_chen/",
+      "author": "/u/Excellent_Respond467",
+      "publishedAt": "2026-08-24T02:57:46+00:00",
+      "excerpt": "Hi everyone, I’m currently responding to an EB-2 NIW RFE where USCIS challenged all three Dhanasar prongs. I’m working with Chen and would really appreciate hearing from people who had a similar RFE and were later approved. For my RFE response, I have added: • A detailed updated personal statement explaining my propose…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -438,26 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vvmxv0",
-      "title": "NIWStats guy here - looking for an LOI to respond to my RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vvmxv0/niwstats_guy_here_looking_for_an_loi_to_respond/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-08-22T20:24:34+00:00",
-      "excerpt": "I’m responding to my own RFE and looking for an LOI from a US founder - ideally an early-stage startup in complex software systems, AI, or data infrastructure. If that’s you and you think it might make sense, or you know someone who might be open to it, please DM me. Really appreciate it. thanks everyone.",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-24T05:29:19.988Z",
+  "syncedAt": "2026-08-24T06:35:49.672Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
