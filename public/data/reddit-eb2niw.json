@@ -74,6 +74,24 @@
       }
     },
     {
+      "id": "t3_1vxzt47",
+      "title": "The decided NIW cases do not support the \"your endeavor must be unique\" advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxzt47/the_decided_niw_cases_do_not_support_the_your/",
+      "author": "/u/tee_jagz",
+      "publishedAt": "2026-08-25T13:25:32+00:00",
+      "excerpt": "Molecular biology research into cancer mechanisms and targeted therapies is a recurring endeavor in the record. It keeps getting approved: South Korea 2017 , Russia 2019 , China 2021 , Pakistan 2023 , Iran 2025 . Two bioinformatics cases: 2019 proposed machine learning applied to genetic disease. Approved on 3 journal …",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vxrg6r",
       "title": "Approved I-140 after PP, no RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxrg6r/approved_i140_after_pp_no_rfe/",
@@ -104,24 +122,6 @@
         "i140",
         "timeline",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxzt47",
-      "title": "The decided NIW cases do not support the \"your endeavor must be unique\" advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxzt47/the_decided_niw_cases_do_not_support_the_your/",
-      "author": "/u/tee_jagz",
-      "publishedAt": "2026-08-25T13:25:32+00:00",
-      "excerpt": "Molecular biology research into cancer mechanisms and targeted therapies is a recurring endeavor in the record. It keeps getting approved: South Korea 2017 , Russia 2019 , China 2021 , Pakistan 2023 , Iran 2025 . Two bioinformatics cases: 2019 proposed machine learning applied to genetic disease. Approved on 3 journal …",
-      "topics": [
-        "approval",
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -170,15 +170,13 @@
       }
     },
     {
-      "id": "t3_1vxmku8",
-      "title": "NIW RFE on Prongs 2 & 3, how did you tackle it ? Seeking advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxmku8/niw_rfe_on_prongs_2_3_how_did_you_tackle_it/",
-      "author": "/u/PikaPika-3",
-      "publishedAt": "2026-08-25T01:58:24+00:00",
-      "excerpt": "I received an NIW RFE challenging Prongs 2 and 3 and would appreciate advice from anyone with a similar case. I am in organic chemistry, with a PhD and currently a postdoc at an R1 university. At filing, I had ~34 citations, 4 peer reviewed ( 2 first author), 9 journal peer reviews [judging others' work], 4 support let…",
+      "id": "t3_1vxg0ln",
+      "title": "What kind of objective evidence can be used for National Importance?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxg0ln/what_kind_of_objective_evidence_can_be_used_for/",
+      "author": "/u/ivicts30",
+      "publishedAt": "2026-08-24T21:24:41+00:00",
+      "excerpt": "What kind of objective evidence can be used for Prong 1 National Importance? Besides the alignment with government policies and expert letters outlining the national importance, what kind of objective evidence can be used to prove the broad prospective impact of the specific endeavor? Isn't the prospective impact somet…",
       "topics": [
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -189,13 +187,15 @@
       }
     },
     {
-      "id": "t3_1vxg0ln",
-      "title": "What kind of objective evidence can be used for National Importance?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxg0ln/what_kind_of_objective_evidence_can_be_used_for/",
-      "author": "/u/ivicts30",
-      "publishedAt": "2026-08-24T21:24:41+00:00",
-      "excerpt": "What kind of objective evidence can be used for Prong 1 National Importance? Besides the alignment with government policies and expert letters outlining the national importance, what kind of objective evidence can be used to prove the broad prospective impact of the specific endeavor? Isn't the prospective impact somet…",
+      "id": "t3_1vxmku8",
+      "title": "NIW RFE on Prongs 2 & 3, how did you tackle it ? Seeking advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxmku8/niw_rfe_on_prongs_2_3_how_did_you_tackle_it/",
+      "author": "/u/PikaPika-3",
+      "publishedAt": "2026-08-25T01:58:24+00:00",
+      "excerpt": "I received an NIW RFE challenging Prongs 2 and 3 and would appreciate advice from anyone with a similar case. I am in organic chemistry, with a PhD and currently a postdoc at an R1 university. At filing, I had ~34 citations, 4 peer reviewed ( 2 first author), 9 journal peer reviews [judging others' work], 4 support let…",
       "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -464,7 +464,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-25T13:39:59.565Z",
+  "syncedAt": "2026-08-25T14:34:21.099Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
