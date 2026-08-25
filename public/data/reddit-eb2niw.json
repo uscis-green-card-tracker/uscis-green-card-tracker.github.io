@@ -73,24 +73,6 @@
       }
     },
     {
-      "id": "t3_1vy8m3q",
-      "title": "Law firms who can work with research + industry profile?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy8m3q/law_firms_who_can_work_with_research_industry/",
-      "author": "/u/goat1720",
-      "publishedAt": "2026-08-25T18:46:10+00:00",
-      "excerpt": "Hi everyone. I’m a self-made woman trying to make it on their own in the United States just like everyone else. My profile: Masters in Comp Sci 1 year as a research assistant at a lab Currently working as an industry professional Publications: 4 (2 first author) Citations: 20+ I reached out to Chen, they want to take m…",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vxzt47",
       "title": "The decided NIW cases do not support the \"your endeavor must be unique\" advice",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxzt47/the_decided_niw_cases_do_not_support_the_your/",
@@ -120,6 +102,60 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vycq6g",
+      "title": "No EAD before greencard now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
+      "author": "/u/Far-Balance2",
+      "publishedAt": "2026-08-25T21:12:00+00:00",
+      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vycmhc",
+      "title": "ETA-9089 FORMS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycmhc/eta9089_forms/",
+      "author": "/u/Broad-Lab-3626",
+      "publishedAt": "2026-08-25T21:08:13+00:00",
+      "excerpt": "Hi there, I was going over my petition that I'm ready to submit, and I saw this on the USCIS website: https://www.uscis.gov/forms/all-forms/petition-filing-and-processing-procedures-for-form-i-140-immigrant-petition-for-alien-workers I saw some people submit only ETA-9089 Appendix A and Form ETA-9089 Final Determinatio…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vycfr0",
+      "title": "EB-2 NIW with a WGU Master in Cybersecurity or Pursuing a Ph.D?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycfr0/eb2_niw_with_a_wgu_master_in_cybersecurity_or/",
+      "author": "/u/YTraci",
+      "publishedAt": "2026-08-25T21:01:15+00:00",
+      "excerpt": "Hi everyone, I have the following options: 1) To start preparing for the EB2-NIW petition based on my Master's, profession, and endeavor. Or.... 2) To first apply to a PhD program in order to strengthen my academics/research background before EB2 petition. Can someone give me an opinion on my current situation and immi…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -212,7 +248,7 @@
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyahx4/family_emergency_travel_with_pending_aos/",
       "author": "/u/LalaRHDo",
       "publishedAt": "2026-08-25T19:52:35+00:00",
-      "excerpt": "Hey, My spouse and I applied for AOS in Jan 2026, had our interviews last week, however, no approval yet. My spouse has his PA and EAD approved couple month ago (mine didn't) and now he needs to travel for critical family emergency asap. We're both on F1 visa and wanna ask if any of you had similar experience of travel…",
+      "excerpt": "Hey, My spouse and I applied for AOS in Jan 2026, had our interviews last week, however, no approval yet. My spouse has his AP and EAD approved couple month ago (mine didn't) and now he needs to travel for critical family emergency asap. We're both on F1 visa and wanna ask if any of you had similar experience of travel…",
       "topics": [
         "approval",
         "i485",
@@ -234,6 +270,24 @@
       "excerpt": "I have a pending i-485, submitted two months ago. I am moving soon. What impacts address change could bring to my case?",
       "topics": [
         "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vy8m3q",
+      "title": "Law firms who can work with research + industry profile?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy8m3q/law_firms_who_can_work_with_research_industry/",
+      "author": "/u/goat1720",
+      "publishedAt": "2026-08-25T18:46:10+00:00",
+      "excerpt": "Hi everyone. I’m a self-made woman trying to make it on their own in the United States just like everyone else. My profile: Masters in Comp Sci 1 year as a research assistant at a lab Currently working as an industry professional Publications: 4 (2 first author) Citations: 20+ I reached out to Chen, they want to take m…",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -411,63 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vxe9i6",
-      "title": "EB2 niw",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxe9i6/eb2_niw/",
-      "author": "/u/Large_Investment8022",
-      "publishedAt": "2026-08-24T20:20:18+00:00",
-      "excerpt": "Hi everyone, I’m looking for a U.S.-based professional with experience in healthcare payment integrity, claims analytics, improper-payment detection, program integrity, or healthcare fraud analytics. I need an independent expert willing to review my documented research and methodology and, if comfortable, provide a fac…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxflu4",
-      "title": "Can I file PP for I140 online if I140 was filed by mail by lawyer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxflu4/can_i_file_pp_for_i140_online_if_i140_was_filed/",
-      "author": "/u/Delicious_Help_5183",
-      "publishedAt": "2026-08-24T21:09:20+00:00",
-      "excerpt": "My lawyer filed my I140 for EB2-NIW via mail. I would like to upgrade to premium. I140 is still pending decision. Can I file for premium processing online? If so, what is the process like? Do I upload everything in one single PDF? Or Can I fill out the form I-907 online, and then provide the payment details and upload …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxbhyb",
-      "title": "EB2 NIW Profile Evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxbhyb/eb2_niw_profile_evaluation/",
-      "author": "/u/New-Age-7287",
-      "publishedAt": "2026-08-24T18:42:13+00:00",
-      "excerpt": "Master’s in Electrical Engineering Senior Systems Development Engineer at a Fortune 25 technology company 2.5 years of professional experience after my master’s Work primarily in embedded systems, firmware, server infrastructure, sensing/monitoring, power optimization, and hardware/software integration Proposed endeavo…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-25T20:17:12.464Z",
+  "syncedAt": "2026-08-25T21:17:35.143Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
