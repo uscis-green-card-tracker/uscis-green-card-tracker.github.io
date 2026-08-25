@@ -74,6 +74,26 @@
       }
     },
     {
+      "id": "t3_1vxxg5y",
+      "title": "Looking for i-485 experience with chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxxg5y/looking_for_i485_experience_with_chen/",
+      "author": "/u/PromotionRoutine6562",
+      "publishedAt": "2026-08-25T11:43:39+00:00",
+      "excerpt": "Hi, I have been working with Chen with my i-140 and is thinking of retaining them for i-485. Can anyone share with me their experience working with them for i-485? Thank you so much",
+      "topics": [
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vxq3jg",
       "title": "EB2-NIW regular processing to PP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxq3jg/eb2niw_regular_processing_to_pp/",
@@ -446,30 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vwjadj",
-      "title": "Need advice - EAD card timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwjadj/need_advice_ead_card_timeline/",
-      "author": "/u/No_Leadership_1811",
-      "publishedAt": "2026-08-23T21:17:11+00:00",
-      "excerpt": "I’m currently on a STEM OPT visa that expires in January 2027. My H1B COS is pending. I want to make a smart decision in case it gets denied. Since I’m from ROW country, if I file my I-140 and I-485 concurrently through the National Interest Waivers (NIW) process, how long will it take to receive my EAD card so I can c…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-25T11:17:14.224Z",
+  "syncedAt": "2026-08-25T12:26:45.123Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
