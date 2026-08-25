@@ -111,6 +111,24 @@
       }
     },
     {
+      "id": "t3_1vxq3jg",
+      "title": "EB2-NIW regular processing to PP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxq3jg/eb2niw_regular_processing_to_pp/",
+      "author": "/u/Plane-Juggernaut-288",
+      "publishedAt": "2026-08-25T04:50:12+00:00",
+      "excerpt": "I applied for EB2-NIW on 2nd June 2025; still nothing. I am an associate professor (PhD in chemistry). 3 years of postdoc experience, currently working in 75 countries, with 88 publications and 3000 citations, H-Index 38, 425 review assignments, 2 journal editorships, funding grants, and 2 PhD scholars who completed th…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vxn9la",
       "title": "Denial post RFE (Chen)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxn9la/denial_post_rfe_chen/",
@@ -274,14 +292,17 @@
       }
     },
     {
-      "id": "t3_1vxl07p",
-      "title": "EB2-NIW: U.S. independent technical expert for opinion letter.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxl07p/eb2niw_us_independent_technical_expert_for/",
-      "author": "/u/princeruppert",
-      "publishedAt": "2026-08-25T00:48:28+00:00",
-      "excerpt": "Any senior technologist with shipped AI/ML systems in financial services to write an EOL? ideally a former or current Head of AI/ML, VP Engineering, CDO, or a founder/founding CTO who built an AI product in a financial workflow. You would review the technical documentation and planned workflows of an agentic AI platfor…",
+      "id": "t3_1vxkquq",
+      "title": "NIW denied after RFE — considering EB1A now. Entrepreneur/business profile, would appreciate opinions",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxkquq/niw_denied_after_rfe_considering_eb1a_now/",
+      "author": "/u/MoKashef",
+      "publishedAt": "2026-08-25T00:37:05+00:00",
+      "excerpt": "Just got my EB2-NIW denial after going through an RFE, so I wanted to share my situation and get some opinions from people who have experience with EB1A, especially non-academic/industry profiles. I originally thought NIW was the better route for me, but after the denial my attorney suggested that my past accomplishmen…",
       "topics": [
+        "approval",
         "i140",
+        "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -310,17 +331,14 @@
       }
     },
     {
-      "id": "t3_1vxkquq",
-      "title": "NIW denied after RFE — considering EB1A now. Entrepreneur/business profile, would appreciate opinions",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxkquq/niw_denied_after_rfe_considering_eb1a_now/",
-      "author": "/u/MoKashef",
-      "publishedAt": "2026-08-25T00:37:05+00:00",
-      "excerpt": "Just got my EB2-NIW denial after going through an RFE, so I wanted to share my situation and get some opinions from people who have experience with EB1A, especially non-academic/industry profiles. I originally thought NIW was the better route for me, but after the denial my attorney suggested that my past accomplishmen…",
+      "id": "t3_1vxl07p",
+      "title": "EB2-NIW: U.S. independent technical expert for opinion letter.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxl07p/eb2niw_us_independent_technical_expert_for/",
+      "author": "/u/princeruppert",
+      "publishedAt": "2026-08-25T00:48:28+00:00",
+      "excerpt": "Any senior technologist with shipped AI/ML systems in financial services to write an EOL? ideally a former or current Head of AI/ML, VP Engineering, CDO, or a founder/founding CTO who built an AI product in a financial workflow. You would review the technical documentation and planned workflows of an agentic AI platfor…",
       "topics": [
-        "approval",
         "i140",
-        "lawyer",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -447,27 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vwrxp3",
-      "title": "Contact",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwrxp3/contact/",
-      "author": "/u/thered1968",
-      "publishedAt": "2026-08-24T03:49:31+00:00",
-      "excerpt": "Who is Chen? I read the name in several posts and I will want to reach him/her to understand more about the EB1NIW",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-25T04:28:55.057Z",
+  "syncedAt": "2026-08-25T05:23:04.168Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
