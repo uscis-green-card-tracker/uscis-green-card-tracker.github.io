@@ -54,6 +54,27 @@
       }
     },
     {
+      "id": "t3_1vxpg24",
+      "title": "PP upfront vs regular then upgrade to PP for EB2-NIW?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxpg24/pp_upfront_vs_regular_then_upgrade_to_pp_for/",
+      "author": "/u/Ok-Pea6066",
+      "publishedAt": "2026-08-25T04:15:24+00:00",
+      "excerpt": "I’m about to file my EB2-NIW with Chen and I’m trying to decide whether to file with premium processing from the start or file regular first and upgrade to PP after getting the receipt notice. Chen actually recommends the second option and says that, based on their internal data, filing regular first and then upgrading…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vxg0ln",
       "title": "What kind of objective evidence can be used for National Importance?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxg0ln/what_kind_of_objective_evidence_can_be_used_for/",
@@ -444,27 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vwkwm2",
-      "title": "EB2 NIW - Charisma Immigration Services LLC",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vwkwm2/eb2_niw_charisma_immigration_services_llc/",
-      "author": "/u/Logical-Addition-224",
-      "publishedAt": "2026-08-23T22:24:26+00:00",
-      "excerpt": "Hi! As anyone took advice/help from Charisma Immigration Services LLC? I want to see how legit they are",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-25T03:39:24.098Z",
+  "syncedAt": "2026-08-25T04:28:55.057Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
