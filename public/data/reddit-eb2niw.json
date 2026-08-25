@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1vxzt47",
+      "title": "The decided NIW cases do not support the \"your endeavor must be unique\" advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxzt47/the_decided_niw_cases_do_not_support_the_your/",
+      "author": "/u/tee_jagz",
+      "publishedAt": "2026-08-25T13:25:32+00:00",
+      "excerpt": "Molecular biology research into cancer mechanisms and targeted therapies is a recurring endeavor in the record. It keeps getting approved: South Korea 2017 , Russia 2019 , China 2021 , Pakistan 2023 , Iran 2025 . Two bioinformatics cases: 2019 proposed machine learning applied to genetic disease. Approved on 3 journal …",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vy45m2",
       "title": "El Paso Field Office — Any Recent Employment-Based I-485 Updates or Approvals?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy45m2/el_paso_field_office_any_recent_employmentbased/",
@@ -56,13 +74,14 @@
       }
     },
     {
-      "id": "t3_1vxmxdl",
-      "title": "Update: NIW Denied After RFE (EP)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxmxdl/update_niw_denied_after_rfe_ep/",
-      "author": "/u/ParalaxDrift",
-      "publishedAt": "2026-08-25T02:13:57+00:00",
-      "excerpt": "Hi everyone, I posted here before about my NIW RFE with Ellis Porter. Unfortunately, I recently received the denial letter. Profile: M.S. in Materials Science and Engineering, 13 publications (5 first-authored), 140 citations. Proposed endeavor tied to advanced materials, computing, energy, and national security. Timel…",
+      "id": "t3_1vxrg6r",
+      "title": "Approved I-140 after PP, no RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxrg6r/approved_i140_after_pp_no_rfe/",
+      "author": "/u/ConditionSome3738",
+      "publishedAt": "2026-08-25T06:04:36+00:00",
+      "excerpt": "Hi everyone! Sharing this for good vibes and luck. Profile: Postdoc (US R1 university) PhD in Engineering 11 journal publications (3 first author) 174 citations 7 conference abstract 15 peer reviews Law firm: Chen (approval or refund) Proposed endeavor: development of energy storage and conversion technologies ROW Time…",
       "topics": [
+        "approval",
         "i140",
         "lawyer",
         "timeline"
@@ -75,14 +94,13 @@
       }
     },
     {
-      "id": "t3_1vxrg6r",
-      "title": "Approved I-140 after PP, no RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxrg6r/approved_i140_after_pp_no_rfe/",
-      "author": "/u/ConditionSome3738",
-      "publishedAt": "2026-08-25T06:04:36+00:00",
-      "excerpt": "Hi everyone! Sharing this for good vibes and luck. Profile: Postdoc (US R1 university) PhD in Engineering 11 journal publications (3 first author) 174 citations 7 conference abstract 15 peer reviews Law firm: Chen (approval or refund) Proposed endeavor: development of energy storage and conversion technologies ROW Time…",
+      "id": "t3_1vxmxdl",
+      "title": "Update: NIW Denied After RFE (EP)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxmxdl/update_niw_denied_after_rfe_ep/",
+      "author": "/u/ParalaxDrift",
+      "publishedAt": "2026-08-25T02:13:57+00:00",
+      "excerpt": "Hi everyone, I posted here before about my NIW RFE with Ellis Porter. Unfortunately, I recently received the denial letter. Profile: M.S. in Materials Science and Engineering, 13 publications (5 first-authored), 140 citations. Proposed endeavor tied to advanced materials, computing, energy, and national security. Timel…",
       "topics": [
-        "approval",
         "i140",
         "lawyer",
         "timeline"
@@ -115,15 +133,16 @@
       }
     },
     {
-      "id": "t3_1vxzt47",
-      "title": "The decided NIW cases do not support the \"your endeavor must be unique\" advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxzt47/the_decided_niw_cases_do_not_support_the_your/",
-      "author": "/u/tee_jagz",
-      "publishedAt": "2026-08-25T13:25:32+00:00",
-      "excerpt": "Molecular biology research into cancer mechanisms and targeted therapies is a recurring endeavor in the record. It keeps getting approved: South Korea 2017 , Russia 2019 , China 2021 , Pakistan 2023 , Iran 2025 . Two bioinformatics cases: 2019 proposed machine learning applied to genetic disease. Approved on 3 journal …",
+      "id": "t3_1vxyjit",
+      "title": "NIWStats - built a small Chrome extension for silent updates, might be useful for some of you",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxyjit/niwstats_built_a_small_chrome_extension_for/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-08-25T12:32:33+00:00",
+      "excerpt": "https://preview.redd.it/8xxcvd6rjilh1.png?width=852&format=png&auto=webp&s=2ccaabb1ea8ff3a71dc5e852004c9d6035b7ca91 Hey, I built a Chrome extension that checks your I-140 for silent updates and keeps a history of them. A lot of you already know how to do this by hand - digging into your myUSCIS account data and reading…",
       "topics": [
-        "approval",
-        "i140"
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -161,25 +180,6 @@
       "topics": [
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxyjit",
-      "title": "NIWStats - built a small Chrome extension for silent updates, might be useful for some of you",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxyjit/niwstats_built_a_small_chrome_extension_for/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-08-25T12:32:33+00:00",
-      "excerpt": "https://preview.redd.it/8xxcvd6rjilh1.png?width=852&format=png&auto=webp&s=2ccaabb1ea8ff3a71dc5e852004c9d6035b7ca91 Hey, I built a Chrome extension that checks your I-140 for silent updates and keeps a history of them. A lot of you already know how to do this by hand - digging into your myUSCIS account data and reading…",
-      "topics": [
-        "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -393,27 +393,6 @@
       }
     },
     {
-      "id": "t3_1vxkquq",
-      "title": "NIW denied after RFE — considering EB1A now. Entrepreneur/business profile, would appreciate opinions",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxkquq/niw_denied_after_rfe_considering_eb1a_now/",
-      "author": "/u/MoKashef",
-      "publishedAt": "2026-08-25T00:37:05+00:00",
-      "excerpt": "Just got my EB2-NIW denial after going through an RFE, so I wanted to share my situation and get some opinions from people who have experience with EB1A, especially non-academic/industry profiles. I originally thought NIW was the better route for me, but after the denial my attorney suggested that my past accomplishmen…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vxawgy",
       "title": "What’s the earliest I-693 can be completed for I-485 ?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxawgy/whats_the_earliest_i693_can_be_completed_for_i485/",
@@ -450,6 +429,27 @@
       }
     },
     {
+      "id": "t3_1vxkquq",
+      "title": "NIW denied after RFE — considering EB1A now. Entrepreneur/business profile, would appreciate opinions",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxkquq/niw_denied_after_rfe_considering_eb1a_now/",
+      "author": "/u/MoKashef",
+      "publishedAt": "2026-08-25T00:37:05+00:00",
+      "excerpt": "Just got my EB2-NIW denial after going through an RFE, so I wanted to share my situation and get some opinions from people who have experience with EB1A, especially non-academic/industry profiles. I originally thought NIW was the better route for me, but after the denial my attorney suggested that my past accomplishmen…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vx7mx5",
       "title": "Will be Considering EB2 NIW",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vx7mx5/will_be_considering_eb2_niw/",
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-25T16:24:05.885Z",
+  "syncedAt": "2026-08-25T17:22:46.880Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
