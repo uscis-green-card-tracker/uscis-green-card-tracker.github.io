@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1vxzt47",
+      "title": "The decided NIW cases do not support the \"your endeavor must be unique\" advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxzt47/the_decided_niw_cases_do_not_support_the_your/",
+      "author": "/u/tee_jagz",
+      "publishedAt": "2026-08-25T13:25:32+00:00",
+      "excerpt": "Molecular biology research into cancer mechanisms and targeted therapies is a recurring endeavor in the record. It keeps getting approved: South Korea 2017 , Russia 2019 , China 2021 , Pakistan 2023 , Iran 2025 . Two bioinformatics cases: 2019 proposed machine learning applied to genetic disease. Approved on 3 journal …",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vxmxdl",
       "title": "Update: NIW Denied After RFE (EP)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxmxdl/update_niw_denied_after_rfe_ep/",
@@ -65,24 +83,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxzt47",
-      "title": "The decided NIW cases do not support the \"your endeavor must be unique\" advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxzt47/the_decided_niw_cases_do_not_support_the_your/",
-      "author": "/u/tee_jagz",
-      "publishedAt": "2026-08-25T13:25:32+00:00",
-      "excerpt": "Molecular biology research into cancer mechanisms and targeted therapies is a recurring endeavor in the record. It keeps getting approved: South Korea 2017 , Russia 2019 , China 2021 , Pakistan 2023 , Iran 2025 . Two bioinformatics cases: 2019 proposed machine learning applied to genetic disease. Approved on 3 journal …",
-      "topics": [
-        "approval",
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -206,14 +206,14 @@
       }
     },
     {
-      "id": "t3_1vxe9i6",
-      "title": "EB2 niw",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxe9i6/eb2_niw/",
-      "author": "/u/Large_Investment8022",
-      "publishedAt": "2026-08-24T20:20:18+00:00",
-      "excerpt": "Hi everyone, I’m looking for a U.S.-based professional with experience in healthcare payment integrity, claims analytics, improper-payment detection, program integrity, or healthcare fraud analytics. I need an independent expert willing to review my documented research and methodology and, if comfortable, provide a fac…",
+      "id": "t3_1vxm8dk",
+      "title": "Should I even bother to try",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxm8dk/should_i_even_bother_to_try/",
+      "author": "/u/djeller14",
+      "publishedAt": "2026-08-25T01:42:47+00:00",
+      "excerpt": "Hi everyone, Currently I work at Nvidia as senior engineer with specialization in high speed digital design used for their AI datacenters and was wondering to make case out of it. I have MS and 25 citations with 6 publications. Was wondering if its worth trying in this current climate. I have some student IEEE awards a…",
       "topics": [
-        "i140"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -223,14 +223,14 @@
       }
     },
     {
-      "id": "t3_1vxm8dk",
-      "title": "Should I even bother to try",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxm8dk/should_i_even_bother_to_try/",
-      "author": "/u/djeller14",
-      "publishedAt": "2026-08-25T01:42:47+00:00",
-      "excerpt": "Hi everyone, Currently I work at Nvidia as senior engineer with specialization in high speed digital design used for their AI datacenters and was wondering to make case out of it. I have MS and 25 citations with 6 publications. Was wondering if its worth trying in this current climate. I have some student IEEE awards a…",
+      "id": "t3_1vxe9i6",
+      "title": "EB2 niw",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxe9i6/eb2_niw/",
+      "author": "/u/Large_Investment8022",
+      "publishedAt": "2026-08-24T20:20:18+00:00",
+      "excerpt": "Hi everyone, I’m looking for a U.S.-based professional with experience in healthcare payment integrity, claims analytics, improper-payment detection, program integrity, or healthcare fraud analytics. I need an independent expert willing to review my documented research and methodology and, if comfortable, provide a fac…",
       "topics": [
-        "question"
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -464,7 +464,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-25T14:34:21.099Z",
+  "syncedAt": "2026-08-25T15:32:57.603Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
