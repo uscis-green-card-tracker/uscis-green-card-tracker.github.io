@@ -54,6 +54,44 @@
       }
     },
     {
+      "id": "t3_1vxrg6r",
+      "title": "Approved I-140 after PP, no RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxrg6r/approved_i140_after_pp_no_rfe/",
+      "author": "/u/ConditionSome3738",
+      "publishedAt": "2026-08-25T06:04:36+00:00",
+      "excerpt": "Hi everyone! Sharing this for good vibes and luck. Profile: Postdoc (US R1 university) PhD in Engineering 11 journal publications (3 first author) 174 citations 7 conference abstract 15 peer reviews Law firm: Chen (approval or refund) Proposed endeavor: development of energy storage and conversion technologies ROW Time…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vxq3jg",
+      "title": "EB2-NIW regular processing to PP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxq3jg/eb2niw_regular_processing_to_pp/",
+      "author": "/u/Plane-Juggernaut-288",
+      "publishedAt": "2026-08-25T04:50:12+00:00",
+      "excerpt": "I applied for EB2-NIW on 2nd June 2025; still nothing. I am an associate professor (PhD in chemistry). 3 years of postdoc experience, currently working in 75 countries, with 88 publications and 3000 citations, H-Index 38, 425 review assignments, 2 journal editorships, funding grants, and 2 PhD scholars who completed th…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1vxpg24",
       "title": "PP upfront vs regular then upgrade to PP for EB2-NIW?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxpg24/pp_upfront_vs_regular_then_upgrade_to_pp_for/",
@@ -111,33 +149,14 @@
       }
     },
     {
-      "id": "t3_1vxq3jg",
-      "title": "EB2-NIW regular processing to PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxq3jg/eb2niw_regular_processing_to_pp/",
-      "author": "/u/Plane-Juggernaut-288",
-      "publishedAt": "2026-08-25T04:50:12+00:00",
-      "excerpt": "I applied for EB2-NIW on 2nd June 2025; still nothing. I am an associate professor (PhD in chemistry). 3 years of postdoc experience, currently working in 75 countries, with 88 publications and 3000 citations, H-Index 38, 425 review assignments, 2 journal editorships, funding grants, and 2 PhD scholars who completed th…",
+      "id": "t3_1vxe9i6",
+      "title": "EB2 niw",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxe9i6/eb2_niw/",
+      "author": "/u/Large_Investment8022",
+      "publishedAt": "2026-08-24T20:20:18+00:00",
+      "excerpt": "Hi everyone, I’m looking for a U.S.-based professional with experience in healthcare payment integrity, claims analytics, improper-payment detection, program integrity, or healthcare fraud analytics. I need an independent expert willing to review my documented research and methodology and, if comfortable, provide a fac…",
       "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1vxn9la",
-      "title": "Denial post RFE (Chen)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxn9la/denial_post_rfe_chen/",
-      "author": "/u/Flashy-Ad-1221",
-      "publishedAt": "2026-08-25T02:29:30+00:00",
-      "excerpt": "I recieved a denial after RFE on prongs 1 and 3. PhD candidate at R1 University with 70 citations (5 papers, 3 first authored). Proposed endeavor related to developing drugs for cancer and other untreatable diseases(biotech related). Denial on 32 buisness day. For the rfe response, submitted a personal statement relati…",
-      "topics": [
-        "i140",
-        "lawyer"
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -192,23 +211,6 @@
       "topics": [
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxe9i6",
-      "title": "EB2 niw",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxe9i6/eb2_niw/",
-      "author": "/u/Large_Investment8022",
-      "publishedAt": "2026-08-24T20:20:18+00:00",
-      "excerpt": "Hi everyone, I’m looking for a U.S.-based professional with experience in healthcare payment integrity, claims analytics, improper-payment detection, program integrity, or healthcare fraud analytics. I need an independent expert willing to review my documented research and methodology and, if comfortable, provide a fac…",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -467,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-25T05:23:04.168Z",
+  "syncedAt": "2026-08-25T06:27:55.178Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
