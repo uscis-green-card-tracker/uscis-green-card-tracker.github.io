@@ -168,6 +168,24 @@
       }
     },
     {
+      "id": "t3_1vycmhc",
+      "title": "ETA-9089 FORMS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycmhc/eta9089_forms/",
+      "author": "/u/Broad-Lab-3626",
+      "publishedAt": "2026-08-25T21:08:13+00:00",
+      "excerpt": "Hi there, I was going over my petition that I'm ready to submit, and I saw this on the USCIS website: https://www.uscis.gov/forms/all-forms/petition-filing-and-processing-procedures-for-form-i-140-immigrant-petition-for-alien-workers I saw some people submit only ETA-9089 Appendix A and Form ETA-9089 Final Determinatio…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vy7hpj",
       "title": "I140 approved-EP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy7hpj/i140_approvedep/",
@@ -178,24 +196,6 @@
         "approval",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vycmhc",
-      "title": "ETA-9089 FORMS",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycmhc/eta9089_forms/",
-      "author": "/u/Broad-Lab-3626",
-      "publishedAt": "2026-08-25T21:08:13+00:00",
-      "excerpt": "Hi there, I was going over my petition that I'm ready to submit, and I saw this on the USCIS website: https://www.uscis.gov/forms/all-forms/petition-filing-and-processing-procedures-for-form-i-140-immigrant-petition-for-alien-workers I saw some people submit only ETA-9089 Appendix A and Form ETA-9089 Final Determinatio…",
-      "topics": [
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-26T06:29:57.751Z",
+  "syncedAt": "2026-08-26T07:37:34.357Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
