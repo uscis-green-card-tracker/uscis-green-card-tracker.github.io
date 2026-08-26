@@ -55,6 +55,25 @@
       }
     },
     {
+      "id": "t3_1vygtvl",
+      "title": "Refund and over 45 days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygtvl/refund_and_over_45_days/",
+      "author": "/u/SPjean",
+      "publishedAt": "2026-08-25T23:57:05+00:00",
+      "excerpt": "Has anyone who received an I-140 Premium Processing refund been approved yet? My case is 55 business days old.",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vyonw1",
       "title": "Need help with EB-1A/ NIW visa",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyonw1/need_help_with_eb1a_niw_visa/",
@@ -73,15 +92,14 @@
       }
     },
     {
-      "id": "t3_1vygtvl",
-      "title": "Refund and over 45 days",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygtvl/refund_and_over_45_days/",
-      "author": "/u/SPjean",
-      "publishedAt": "2026-08-25T23:57:05+00:00",
-      "excerpt": "Has anyone who received an I-140 Premium Processing refund been approved yet? My case is 55 business days old.",
+      "id": "t3_1vycq6g",
+      "title": "No EAD before greencard now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
+      "author": "/u/Far-Balance2",
+      "publishedAt": "2026-08-25T21:12:00+00:00",
+      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
       "topics": [
-        "approval",
-        "i140",
+        "i485",
         "question"
       ],
       "signals": {
@@ -140,24 +158,6 @@
       "topics": [
         "approval",
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vycq6g",
-      "title": "No EAD before greencard now?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
-      "author": "/u/Far-Balance2",
-      "publishedAt": "2026-08-25T21:12:00+00:00",
-      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
-      "topics": [
-        "i485",
         "question"
       ],
       "signals": {
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-26T07:37:34.357Z",
+  "syncedAt": "2026-08-26T08:30:50.331Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
