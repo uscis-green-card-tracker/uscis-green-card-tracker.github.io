@@ -74,24 +74,6 @@
       }
     },
     {
-      "id": "t3_1vycq6g",
-      "title": "No EAD before greencard now?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
-      "author": "/u/Far-Balance2",
-      "publishedAt": "2026-08-25T21:12:00+00:00",
-      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vy7hpj",
       "title": "I140 approved-EP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy7hpj/i140_approvedep/",
@@ -102,6 +84,24 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vycq6g",
+      "title": "No EAD before greencard now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
+      "author": "/u/Far-Balance2",
+      "publishedAt": "2026-08-25T21:12:00+00:00",
+      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
+      "topics": [
+        "i485",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-26T03:44:09.978Z",
+  "syncedAt": "2026-08-26T04:29:49.691Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
