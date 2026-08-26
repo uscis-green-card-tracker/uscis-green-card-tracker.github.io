@@ -54,6 +54,24 @@
       }
     },
     {
+      "id": "t3_1vycq6g",
+      "title": "No EAD before greencard now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
+      "author": "/u/Far-Balance2",
+      "publishedAt": "2026-08-25T21:12:00+00:00",
+      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vy9159",
       "title": "EB-2 NIW denied after RFE on all 3 prongs filed through Chen— should I refile? Looking for advice",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy9159/eb2_niw_denied_after_rfe_on_all_3_prongs_filed/",
@@ -73,14 +91,34 @@
       }
     },
     {
-      "id": "t3_1vycq6g",
-      "title": "No EAD before greencard now?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
-      "author": "/u/Far-Balance2",
-      "publishedAt": "2026-08-25T21:12:00+00:00",
-      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
+      "id": "t3_1vygtvl",
+      "title": "Refund and over 45 days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygtvl/refund_and_over_45_days/",
+      "author": "/u/SPjean",
+      "publishedAt": "2026-08-25T23:57:05+00:00",
+      "excerpt": "Has anyone who received an I-140 Premium Processing refund been approved yet? My case is 55 business days old.",
       "topics": [
-        "i485",
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vygkvy",
+      "title": "STOP if you have an industry profile and save your time and money",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygkvy/stop_if_you_have_an_industry_profile_and_save/",
+      "author": "/u/termmonkey",
+      "publishedAt": "2026-08-25T23:46:30+00:00",
+      "excerpt": "Just received my denial today, and as I process it - my read is - its currently almost impossible to get NIW approval if you have an industry profile. To find out more about my profile - you can check https://www.reddit.com/r/EB2_NIW/s/J13wdG27dZ My endeavor was building Secure-by-design, portable architecture for AI-e…",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -127,6 +165,24 @@
       }
     },
     {
+      "id": "t3_1vygyre",
+      "title": "Looking for a good immigration attorney for EB-2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygyre/looking_for_a_good_immigration_attorney_for_eb2/",
+      "author": "/u/No-Helicopter-3579",
+      "publishedAt": "2026-08-26T00:02:08+00:00",
+      "excerpt": "Hi everyone! We’ve recently started exploring the EB-2 NIW (National Interest Waiver) route and are looking for recommendations for a good immigration attorney who has significant experience handling NIW cases. We’d especially appreciate recommendations based on personal experience — attorneys who were thorough in eval…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vyfbmc",
       "title": "Any June Trackers/Chats?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyfbmc/any_june_trackerschats/",
@@ -134,6 +190,24 @@
       "publishedAt": "2026-08-25T22:54:15+00:00",
       "excerpt": "Hello, do we have a chat or a separate thread for tracking June filings? Today is the 42nd BD for me and have not heard back yet from USCIS. Was wondering if others in the same boat are sharing updates somewhere else.",
       "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vy8m3q",
+      "title": "Law firms who can work with research + industry profile?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy8m3q/law_firms_who_can_work_with_research_industry/",
+      "author": "/u/goat1720",
+      "publishedAt": "2026-08-25T18:46:10+00:00",
+      "excerpt": "Hi everyone. I’m a self-made woman trying to make it on their own in the United States just like everyone else. My profile: Masters in Comp Sci 1 year as a research assistant at a lab Currently working as an industry professional Publications: 4 (2 first author) Citations: 20+ I reached out to Chen, they want to take m…",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -315,24 +389,6 @@
       }
     },
     {
-      "id": "t3_1vy8m3q",
-      "title": "Law firms who can work with research + industry profile?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy8m3q/law_firms_who_can_work_with_research_industry/",
-      "author": "/u/goat1720",
-      "publishedAt": "2026-08-25T18:46:10+00:00",
-      "excerpt": "Hi everyone. I’m a self-made woman trying to make it on their own in the United States just like everyone else. My profile: Masters in Comp Sci 1 year as a research assistant at a lab Currently working as an industry professional Publications: 4 (2 first author) Citations: 20+ I reached out to Chen, they want to take m…",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vy8jgp",
       "title": "Refile",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy8jgp/refile/",
@@ -406,67 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vy3dgy",
-      "title": "Can I File EB-2 NIW Premium Processing Myself While a Lawyer Is Attorney of Record?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy3dgy/can_i_file_eb2_niw_premium_processing_myself/",
-      "author": "/u/FantonEngg",
-      "publishedAt": "2026-08-25T15:41:10+00:00",
-      "excerpt": "I self-filed my EB-2 NIW petition and later hired a lawyer to respond to the RFE. The lawyer submitted the RFE response along with a new Form G-28. USCIS has shown the response as received since June, but my lawyer is very slow in responding. I am considering submitting Form I-907 for premium processing online by mysel…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxq3jg",
-      "title": "EB2-NIW regular processing to PP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxq3jg/eb2niw_regular_processing_to_pp/",
-      "author": "/u/Plane-Juggernaut-288",
-      "publishedAt": "2026-08-25T04:50:12+00:00",
-      "excerpt": "I applied for EB2-NIW on 2nd June 2025; still nothing. I am an associate professor (PhD in chemistry). 3 years of postdoc experience, currently working in 75 countries, with 88 publications and 3000 citations, H-Index 38, 425 review assignments, 2 journal editorships, funding grants, and 2 PhD scholars who completed th…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1vxpg24",
-      "title": "PP upfront vs regular then upgrade to PP for EB2-NIW?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxpg24/pp_upfront_vs_regular_then_upgrade_to_pp_for/",
-      "author": "/u/Ok-Pea6066",
-      "publishedAt": "2026-08-25T04:15:24+00:00",
-      "excerpt": "I’m about to file my EB2-NIW with Chen and I’m trying to decide whether to file with premium processing from the start or file regular first and upgrade to PP after getting the receipt notice. Chen actually recommends the second option and says that, based on their internal data, filing regular first and then upgrading…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-25T23:16:25.093Z",
+  "syncedAt": "2026-08-26T00:40:48.094Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
