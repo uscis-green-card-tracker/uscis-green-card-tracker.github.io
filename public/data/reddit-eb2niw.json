@@ -35,62 +35,6 @@
       }
     },
     {
-      "id": "t3_1vy7hpj",
-      "title": "I140 approved-EP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy7hpj/i140_approvedep/",
-      "author": "/u/Unlucky_Worry_8312",
-      "publishedAt": "2026-08-25T18:07:08+00:00",
-      "excerpt": "Hi all, Been following this sub for a while and glad to share that my I-140 was approved. Filed date 06/17 PP- 06/25 Approved 08/25 Endeavour- In a nutshell- molecular biology- finding new treatments for cancer Work in research lab - MSc 2 papers- 1 first author- 70 citations most from review article. Worked with EP, f…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vycq6g",
-      "title": "No EAD before greencard now?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
-      "author": "/u/Far-Balance2",
-      "publishedAt": "2026-08-25T21:12:00+00:00",
-      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vy9159",
-      "title": "EB-2 NIW denied after RFE on all 3 prongs filed through Chen— should I refile? Looking for advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy9159/eb2_niw_denied_after_rfe_on_all_3_prongs_filed/",
-      "author": "/u/Sufficient_Meal_9834",
-      "publishedAt": "2026-08-25T19:01:00+00:00",
-      "excerpt": "Hi everyone, Unfortunately, my EB-2 NIW I-140 was denied today after receiving and responding to an RFE. The officer number was XM2594 . A little about my profile: Currently working for a state agency in the environmental/safety field while on STEM OPT My current work is directly related to my proposed endeavor Around …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vygtvl",
       "title": "Refund and over 45 days",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygtvl/refund_and_over_45_days/",
@@ -119,7 +63,63 @@
       "topics": [
         "approval",
         "i140",
+        "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vyflun",
+      "title": "Responding to RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyflun/responding_to_rfe/",
+      "author": "/u/kaylee0510",
+      "publishedAt": "2026-08-25T23:05:32+00:00",
+      "excerpt": "Mine is June 18 PP nebreska .but i got RFE from texas.. I received an NIW RFE signed by Carrie M., and the document also shows officer code XM1926. The RFE acknowledges that I am highly educated and recognizes my past work and the merit of my field. However, it says the evidence is insufficient to prove national import…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vycq6g",
+      "title": "No EAD before greencard now?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vycq6g/no_ead_before_greencard_now/",
+      "author": "/u/Far-Balance2",
+      "publishedAt": "2026-08-25T21:12:00+00:00",
+      "excerpt": "I’m curious about the recent stats, if anyone knows. Is USCIS no longer issuing EAD cards because they’re approving the green card before the EAD, or are people simply not submitting an I-765 along with their I-485 anymore?",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vy7hpj",
+      "title": "I140 approved-EP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy7hpj/i140_approvedep/",
+      "author": "/u/Unlucky_Worry_8312",
+      "publishedAt": "2026-08-25T18:07:08+00:00",
+      "excerpt": "Hi all, Been following this sub for a while and glad to share that my I-140 was approved. Filed date 06/17 PP- 06/25 Approved 08/25 Endeavour- In a nutshell- molecular biology- finding new treatments for cancer Work in research lab - MSc 2 papers- 1 first author- 70 citations most from review article. Worked with EP, f…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -147,12 +147,12 @@
       }
     },
     {
-      "id": "t3_1vyflun",
-      "title": "Responding to RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyflun/responding_to_rfe/",
-      "author": "/u/kaylee0510",
-      "publishedAt": "2026-08-25T23:05:32+00:00",
-      "excerpt": "Mine is June 18 PP nebreska .but i got RFE from texas.. I received an NIW RFE signed by Carrie M., and the document also shows officer code XM1926. The RFE acknowledges that I am highly educated and recognizes my past work and the merit of my field. However, it says the evidence is insufficient to prove national import…",
+      "id": "t3_1vyjc6k",
+      "title": "Signature on Form I-907. Can I submit without any signature like it shows in this video?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyjc6k/signature_on_form_i907_can_i_submit_without_any/",
+      "author": "/u/Delicious_Help_5183",
+      "publishedAt": "2026-08-26T01:47:42+00:00",
+      "excerpt": "I saw this USCIS video to submit PDF forms online. https://www.youtube.com/watch?v=rohUswP_Hbs Even though it demonstrates uploading the application form I-129, I am curious if it applies to I-907 (premium processing). The instructions state that if I do not sign the PDF document, it will ask for electronic signature. …",
       "topics": [
         "i140",
         "question"
@@ -295,6 +295,25 @@
       }
     },
     {
+      "id": "t3_1vxmxdl",
+      "title": "Update: NIW Denied After RFE (EP)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxmxdl/update_niw_denied_after_rfe_ep/",
+      "author": "/u/ParalaxDrift",
+      "publishedAt": "2026-08-25T02:13:57+00:00",
+      "excerpt": "Hi everyone, I posted here before about my NIW RFE with Ellis Porter. Unfortunately, I recently received the denial letter. Profile: M.S. in Materials Science and Engineering, 13 publications (5 first-authored), 140 citations. Proposed endeavor tied to advanced materials, computing, energy, and national security. Timel…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vyb0as",
       "title": "Recommendations for attorney",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyb0as/recommendations_for_attorney/",
@@ -324,25 +343,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxmxdl",
-      "title": "Update: NIW Denied After RFE (EP)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxmxdl/update_niw_denied_after_rfe_ep/",
-      "author": "/u/ParalaxDrift",
-      "publishedAt": "2026-08-25T02:13:57+00:00",
-      "excerpt": "Hi everyone, I posted here before about my NIW RFE with Ellis Porter. Unfortunately, I recently received the denial letter. Profile: M.S. in Materials Science and Engineering, 13 publications (5 first-authored), 140 citations. Proposed endeavor tied to advanced materials, computing, energy, and national security. Timel…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -389,14 +389,16 @@
       }
     },
     {
-      "id": "t3_1vy8jgp",
-      "title": "Refile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy8jgp/refile/",
-      "author": "/u/Flashy-Ad-1221",
-      "publishedAt": "2026-08-25T18:43:34+00:00",
-      "excerpt": "Hello, After a denial with Chen on prongs 1 and 3, I am not sure if refiling with them would be a good idea. I would like to know if anyone had experience with Getson and Schatz, would you recommend them or better to avoid. Thank you.",
+      "id": "t3_1vy9159",
+      "title": "EB-2 NIW denied after RFE on all 3 prongs filed through Chen— should I refile? Looking for advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy9159/eb2_niw_denied_after_rfe_on_all_3_prongs_filed/",
+      "author": "/u/Sufficient_Meal_9834",
+      "publishedAt": "2026-08-25T19:01:00+00:00",
+      "excerpt": "Hi everyone, Unfortunately, my EB-2 NIW I-140 was denied today after receiving and responding to an RFE. The officer number was XM2594 . A little about my profile: Currently working for a state agency in the environmental/safety field while on STEM OPT My current work is directly related to my proposed endeavor Around …",
       "topics": [
-        "lawyer"
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -464,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-26T00:40:48.094Z",
+  "syncedAt": "2026-08-26T02:18:41.521Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
