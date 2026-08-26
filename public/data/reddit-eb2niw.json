@@ -150,24 +150,6 @@
       }
     },
     {
-      "id": "t3_1vynvon",
-      "title": "My realistic chances?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vynvon/my_realistic_chances/",
-      "author": "/u/Secure_Dust7661",
-      "publishedAt": "2026-08-26T05:24:35+00:00",
-      "excerpt": "Hi All, I’m looking to go through EB2-NIW route for my I-140. Below is my profile, please suggest if I have any realistic chance. MS in Business Analytics MBA from FMS Delhi BE in computer science Currently working as Associate Director, advanced analytics in pharma consulting domain with over 15+ years of total experi…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vy7hpj",
       "title": "I140 approved-EP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy7hpj/i140_approvedep/",
@@ -229,6 +211,24 @@
       "author": "/u/Delicious_Help_5183",
       "publishedAt": "2026-08-26T01:47:42+00:00",
       "excerpt": "I saw this USCIS video to submit PDF forms online. https://www.youtube.com/watch?v=rohUswP_Hbs Even though it demonstrates uploading the application form I-129, I am curious if it applies to I-907 (premium processing). The instructions state that if I do not sign the PDF document, it will ask for electronic signature. …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vynvon",
+      "title": "My realistic chances?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vynvon/my_realistic_chances/",
+      "author": "/u/Secure_Dust7661",
+      "publishedAt": "2026-08-26T05:24:35+00:00",
+      "excerpt": "Hi All, I’m looking to go through EB2-NIW route for my I-140. Below is my profile, please suggest if I have any realistic chance. MS in Business Analytics MBA from FMS Delhi BE in computer science Currently working as Associate Director, advanced analytics in pharma consulting domain with over 15+ years of total experi…",
       "topics": [
         "i140",
         "question"
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-26T11:19:51.755Z",
+  "syncedAt": "2026-08-26T12:29:23.633Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
