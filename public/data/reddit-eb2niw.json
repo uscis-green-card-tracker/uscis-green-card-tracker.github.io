@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1vygtvl",
-      "title": "Refund and over 45 days",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygtvl/refund_and_over_45_days/",
-      "author": "/u/SPjean",
-      "publishedAt": "2026-08-25T23:57:05+00:00",
-      "excerpt": "Has anyone who received an I-140 Premium Processing refund been approved yet? My case is 55 business days old.",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1vygkvy",
       "title": "STOP if you have an industry profile and save your time and money",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygkvy/stop_if_you_have_an_industry_profile_and_save/",
@@ -74,13 +55,14 @@
       }
     },
     {
-      "id": "t3_1vyflun",
-      "title": "Responding to RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyflun/responding_to_rfe/",
-      "author": "/u/kaylee0510",
-      "publishedAt": "2026-08-25T23:05:32+00:00",
-      "excerpt": "Mine is June 18 PP nebreska .but i got RFE from texas.. I received an NIW RFE signed by Carrie M., and the document also shows officer code XM1926. The RFE acknowledges that I am highly educated and recognizes my past work and the merit of my field. However, it says the evidence is insufficient to prove national import…",
+      "id": "t3_1vygtvl",
+      "title": "Refund and over 45 days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vygtvl/refund_and_over_45_days/",
+      "author": "/u/SPjean",
+      "publishedAt": "2026-08-25T23:57:05+00:00",
+      "excerpt": "Has anyone who received an I-140 Premium Processing refund been approved yet? My case is 55 business days old.",
       "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -147,6 +129,24 @@
       }
     },
     {
+      "id": "t3_1vyflun",
+      "title": "Responding to RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyflun/responding_to_rfe/",
+      "author": "/u/kaylee0510",
+      "publishedAt": "2026-08-25T23:05:32+00:00",
+      "excerpt": "Mine is June 18 PP nebreska .but i got RFE from texas.. I received an NIW RFE signed by Carrie M., and the document also shows officer code XM1926. The RFE acknowledges that I am highly educated and recognizes my past work and the merit of my field. However, it says the evidence is insufficient to prove national import…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vyjc6k",
       "title": "Signature on Form I-907. Can I submit without any signature like it shows in this video?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyjc6k/signature_on_form_i907_can_i_submit_without_any/",
@@ -155,6 +155,24 @@
       "excerpt": "I saw this USCIS video to submit PDF forms online. https://www.youtube.com/watch?v=rohUswP_Hbs Even though it demonstrates uploading the application form I-129, I am curious if it applies to I-907 (premium processing). The instructions state that if I do not sign the PDF document, it will ask for electronic signature. …",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1vy8m3q",
+      "title": "Law firms who can work with research + industry profile?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy8m3q/law_firms_who_can_work_with_research_industry/",
+      "author": "/u/goat1720",
+      "publishedAt": "2026-08-25T18:46:10+00:00",
+      "excerpt": "Hi everyone. I’m a self-made woman trying to make it on their own in the United States just like everyone else. My profile: Masters in Comp Sci 1 year as a research assistant at a lab Currently working as an industry professional Publications: 4 (2 first author) Citations: 20+ I reached out to Chen, they want to take m…",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -200,15 +218,17 @@
       }
     },
     {
-      "id": "t3_1vy8m3q",
-      "title": "Law firms who can work with research + industry profile?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vy8m3q/law_firms_who_can_work_with_research_industry/",
-      "author": "/u/goat1720",
-      "publishedAt": "2026-08-25T18:46:10+00:00",
-      "excerpt": "Hi everyone. I’m a self-made woman trying to make it on their own in the United States just like everyone else. My profile: Masters in Comp Sci 1 year as a research assistant at a lab Currently working as an industry professional Publications: 4 (2 first author) Citations: 20+ I reached out to Chen, they want to take m…",
+      "id": "t3_1vxrg6r",
+      "title": "Approved I-140 after PP, no RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxrg6r/approved_i140_after_pp_no_rfe/",
+      "author": "/u/ConditionSome3738",
+      "publishedAt": "2026-08-25T06:04:36+00:00",
+      "excerpt": "Hi everyone! Sharing this for good vibes and luck. Profile: Postdoc (US R1 university) PhD in Engineering 11 journal publications (3 first author) 174 citations 7 conference abstract 15 peer reviews Law firm: Chen (approval or refund) Proposed endeavor: development of energy storage and conversion technologies ROW Time…",
       "topics": [
+        "approval",
+        "i140",
         "lawyer",
-        "question"
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -248,26 +268,6 @@
         "i140",
         "timeline",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1vxrg6r",
-      "title": "Approved I-140 after PP, no RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vxrg6r/approved_i140_after_pp_no_rfe/",
-      "author": "/u/ConditionSome3738",
-      "publishedAt": "2026-08-25T06:04:36+00:00",
-      "excerpt": "Hi everyone! Sharing this for good vibes and luck. Profile: Postdoc (US R1 university) PhD in Engineering 11 journal publications (3 first author) 174 citations 7 conference abstract 15 peer reviews Law firm: Chen (approval or refund) Proposed endeavor: development of energy storage and conversion technologies ROW Time…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-26T02:18:41.521Z",
+  "syncedAt": "2026-08-26T03:44:09.978Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
