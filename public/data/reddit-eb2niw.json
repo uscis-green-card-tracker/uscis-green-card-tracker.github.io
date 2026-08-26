@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1vyyag4",
+      "title": "EB-2 NIW denied after RFE on all prongs",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyyag4/eb2_niw_denied_after_rfe_on_all_prongs/",
+      "author": "/u/Diligent-Artist-1118",
+      "publishedAt": "2026-08-26T14:13:45+00:00",
+      "excerpt": "Should I refile with Chen or do it myself? Looking for honest advice I recently received a denial of my EB-2 NIW I-140 after responding to an RFE . This has been extremely disappointing, especially after putting so much time, effort, and money into the original petition. I am doing PhD 4th year now, Biological Sciences…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1vywxdx",
       "title": "Research role in industry - What kind of profile would it be?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1vywxdx/research_role_in_industry_what_kind_of_profile/",
@@ -444,28 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1vyazld",
-      "title": "Good lawyer recommendations for NIW EB2 ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1vyazld/good_lawyer_recommendations_for_niw_eb2/",
-      "author": "/u/Physical-Winter-5807",
-      "publishedAt": "2026-08-25T20:09:53+00:00",
-      "excerpt": "Hello, I am looking for some good attorney recommendations for filing NIW EB2. I am a H1B visa holder with a Master's degree in Computer science and 8 years of experience as a Cloud Devops engineer. But I do not have any research papers or citations. Anyone with a similar profile? And anyone who can suggest some good a…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-26T13:44:49.992Z",
+  "syncedAt": "2026-08-26T14:34:25.944Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
