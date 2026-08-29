@@ -35,6 +35,23 @@
       }
     },
     {
+      "id": "t3_1w1yetc",
+      "title": "126 first actions caught on NIWStats since July 1: 87 RFEs, 39 approvals",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1yetc/126_first_actions_caught_on_niwstats_since_july_1/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-08-29T21:20:46+00:00",
+      "excerpt": "None of these were compiled from public posts. Each one is a case that was added to the tracker while it was still pending , and USCIS later acted on it while we were polling. So there's no bias toward people showing up to report bad news after the fact — we caught whatever came, good or bad. By \"first action\" I mean t…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w1kwu2",
       "title": "Concerns about Chen",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1kwu2/concerns_about_chen/",
@@ -55,14 +72,36 @@
       }
     },
     {
-      "id": "t3_1w1yetc",
-      "title": "126 first actions caught on NIWStats since July 1: 87 RFEs, 39 approvals",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1yetc/126_first_actions_caught_on_niwstats_since_july_1/",
-      "author": "/u/tonisantes",
-      "publishedAt": "2026-08-29T21:20:46+00:00",
-      "excerpt": "None of these were compiled from public posts. Each one is a case that was added to the tracker while it was still pending , and USCIS later acted on it while we were polling. So there's no bias toward people showing up to report bad news after the fact — we caught whatever came, good or bad. By \"first action\" I mean t…",
+      "id": "t3_1w213yy",
+      "title": "I485 Eb2 Niw Aos lawyer or diy?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w213yy/i485_eb2_niw_aos_lawyer_or_diy/",
+      "author": "/u/Possible_Job4081",
+      "publishedAt": "2026-08-29T23:16:05+00:00",
+      "excerpt": "Do you suggest filing with a lawyer or diy? Also online vs paper, any differences?",
       "topics": [
-        "i140"
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w207lb",
+      "title": "Can I transfer my pending I-485 from one (pending) NIW to another pending NIW?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w207lb/can_i_transfer_my_pending_i485_from_one_pending/",
+      "author": "/u/steampunkorange",
+      "publishedAt": "2026-08-29T22:36:35+00:00",
+      "excerpt": "Hello Everyone I currently have a pending EB-2 NIW I-140 and a pending I-485. USCIS Policy Manual, Ch. 8 says a pending I-485 can be transferred to another pending petition, provided the new basis allows concurrent filing. Since EB-2 NIW allows concurrent filing, I understand this may allow an NIW #1 (pending) → NIW #2…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -203,25 +242,6 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1w1ickq",
-      "title": "EB-2 NIW + pending I-485 after G-4 ended — backup options?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1ickq/eb2_niw_pending_i485_after_g4_ended_backup_options/",
-      "author": "/u/Wandering_Sufi",
-      "publishedAt": "2026-08-29T09:52:32+00:00",
-      "excerpt": "Hi everyone, I concurrently filed a self-petitioned EB-2 NIW I-140 and I-485, and USCIS accepted both on June 18, 2026 . My G-4 employment ended June 30, with the usual 30-day post-G-4 period through July 30. My I-485 is still pending, and my NIW received an RFE on Dhanasar Prongs 1 and 3. I’m preparing the response no…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
       }
     },
     {
@@ -442,28 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w0p9ci",
-      "title": "For those who filed RFE through Chen!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w0p9ci/for_those_who_filed_rfe_through_chen/",
-      "author": "/u/Fun_Prize_564",
-      "publishedAt": "2026-08-28T12:30:25+00:00",
-      "excerpt": "Hello, I am currently trying to respond to RFE on prong 2 and 3. Can anyone tell me how Chen’s lawyers handle those prong. I was given only 34 days and lawyers said they would review and let me know the plan. I want to get ahead and request for the independent support letters and revise my PE statement and add substant…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-29T21:22:26.355Z",
+  "syncedAt": "2026-08-29T23:41:54.498Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
