@@ -55,6 +55,23 @@
       }
     },
     {
+      "id": "t3_1w1yetc",
+      "title": "126 first actions caught on NIWStats since July 1: 87 RFEs, 39 approvals",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1yetc/126_first_actions_caught_on_niwstats_since_july_1/",
+      "author": "/u/tonisantes",
+      "publishedAt": "2026-08-29T21:20:46+00:00",
+      "excerpt": "None of these were compiled from public posts. Each one is a case that was added to the tracker while it was still pending , and USCIS later acted on it while we were polling. So there's no bias toward people showing up to report bad news after the fact — we caught whatever came, good or bad. By \"first action\" I mean t…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w1cbg1",
       "title": "Greened after 2.5 years journey!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1cbg1/greened_after_25_years_journey/",
@@ -66,6 +83,24 @@
         "i485",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w1ux54",
+      "title": "XM2616",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1ux54/xm2616/",
+      "author": "/u/IngenuityPotential92",
+      "publishedAt": "2026-08-29T19:01:55+00:00",
+      "excerpt": "Any approvals from XM2616 after 3 prong RFE, researcher profile??",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -150,24 +185,6 @@
       }
     },
     {
-      "id": "t3_1w1lhfy",
-      "title": "Lawyers",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1lhfy/lawyers/",
-      "author": "/u/Kindly-Sandwich-9050",
-      "publishedAt": "2026-08-29T12:38:41+00:00",
-      "excerpt": "Good morning everyone. hope you’re all doing well. Does anyone have a recommendation for an immigration attorney? I sent my profile to Chen/Wegreened, but they declined to take my case I need a good attorney, even if it costs thousands of dollars. I really need to speak with someone to figure out the best path forward.…",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1w1aord",
       "title": "EB2 NIW based I-765 approved 1 day after the biometrics, no expedite request",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1aord/eb2_niw_based_i765_approved_1_day_after_the/",
@@ -216,6 +233,24 @@
       "excerpt": "Hi, Since recently USCIS has started to give 30 days RFE and I can understand it's very difficult to prepare a comprehensive response in 30 days (I am working with Chen and they are not confident about 30 days RFEs), what should the strategy and is there anything that could be done before as a precaution? Have anyone r…",
       "topics": [
         "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w1lhfy",
+      "title": "Lawyers",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1lhfy/lawyers/",
+      "author": "/u/Kindly-Sandwich-9050",
+      "publishedAt": "2026-08-29T12:38:41+00:00",
+      "excerpt": "Good morning everyone. hope you’re all doing well. Does anyone have a recommendation for an immigration attorney? I sent my profile to Chen/Wegreened, but they declined to take my case I need a good attorney, even if it costs thousands of dollars. I really need to speak with someone to figure out the best path forward.…",
+      "topics": [
         "lawyer",
         "question"
       ],
@@ -409,41 +444,6 @@
       }
     },
     {
-      "id": "t3_1w13her",
-      "title": "Upgrade to PP procedures!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w13her/upgrade_to_pp_procedures/",
-      "author": "/u/FewCharity1223",
-      "publishedAt": "2026-08-28T21:30:50+00:00",
-      "excerpt": "Hey I want to check if I can apply for PP of my NIW case online only. is that possible or I have to mail the forms?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w13dok",
-      "title": "Poll for NIW results and applications in June-August 2026",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w13dok/poll_for_niw_results_and_applications_in/",
-      "author": "/u/Special-Debt8460",
-      "publishedAt": "2026-08-28T21:26:38+00:00",
-      "excerpt": "Please fill this poll if you received decision in June through August 2026 View Poll",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1w0p9ci",
       "title": "For those who filed RFE through Chen!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w0p9ci/for_those_who_filed_rfe_through_chen/",
@@ -463,7 +463,7 @@
       }
     }
   ],
-  "syncedAt": "2026-08-29T18:00:39.759Z",
+  "syncedAt": "2026-08-29T21:22:26.355Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
