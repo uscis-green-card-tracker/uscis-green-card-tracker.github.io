@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1w1kwu2",
+      "title": "Concerns about Chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1kwu2/concerns_about_chen/",
+      "author": "/u/NachoAverageHoe",
+      "publishedAt": "2026-08-29T12:10:52+00:00",
+      "excerpt": "Like many here I applied for EB2-NIW in 2024 and upgraded to PP this year only to get an RFE on my I-140. I had Chen’s approval or refund service and personally consider my profile to be a pretty typical clear approval back in 2024 based on other cases I’ve seen both here on Reddit, seen form Chen’s own website and hea…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w1cbg1",
       "title": "Greened after 2.5 years journey!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1cbg1/greened_after_25_years_journey/",
@@ -55,15 +75,52 @@
       }
     },
     {
-      "id": "t3_1w1dhbq",
-      "title": "Officer XM1986",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1dhbq/officer_xm1986/",
-      "author": "/u/Local-Scratch4044",
-      "publishedAt": "2026-08-29T05:13:51+00:00",
-      "excerpt": "I recently received an RFE from Officer XM1986. It appears to be a templated RFE addressing all three prongs. I was wondering if anyone here has had experience with this officer. If so, what was the outcome after you submitted your RFE response, approval or denial? I’d really appreciate hearing about your experience!",
+      "id": "t3_1w1llo2",
+      "title": "EB2 retrogression after visa pause lift? Please help",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1llo2/eb2_retrogression_after_visa_pause_lift_please/",
+      "author": "/u/Frequent_Currency127",
+      "publishedAt": "2026-08-29T12:44:12+00:00",
+      "excerpt": "Hello everyone, I hope you’re doing well. I’m trying to understand how the recent court decision striking down the 75-country immigrant visa pause could affect EB-2 NIW applicants from ROW. Since the pause affected immigrant visa processing abroad, and it has now been lifted, do you think the return of consular-process…",
       "topics": [
-        "approval",
+        "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1w1lk1p",
+      "title": "Help",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1lk1p/help/",
+      "author": "/u/Kindly-Sandwich-9050",
+      "publishedAt": "2026-08-29T12:42:04+00:00",
+      "excerpt": "EB-2 NIW denied after RFE — reapply now or wait? Hi everyone. My EB-2 NIW I-140 was recently denied after I responded to an RFE, and I’m looking for advice from people with similar research profiles. I’m an international researcher in the U.S. I recently completed an M.S. in Genetics and Genomics and am now pursuing a …",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w1lhfy",
+      "title": "Lawyers",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1lhfy/lawyers/",
+      "author": "/u/Kindly-Sandwich-9050",
+      "publishedAt": "2026-08-29T12:38:41+00:00",
+      "excerpt": "Good morning everyone. hope you’re all doing well. Does anyone have a recommendation for an immigration attorney? I sent my profile to Chen/Wegreened, but they declined to take my case I need a good attorney, even if it costs thousands of dollars. I really need to speak with someone to figure out the best path forward.…",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -92,6 +149,44 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1w1dhbq",
+      "title": "Officer XM1986",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1dhbq/officer_xm1986/",
+      "author": "/u/Local-Scratch4044",
+      "publishedAt": "2026-08-29T05:13:51+00:00",
+      "excerpt": "I recently received an RFE from Officer XM1986. It appears to be a templated RFE addressing all three prongs. I was wondering if anyone here has had experience with this officer. If so, what was the outcome after you submitted your RFE response, approval or denial? I’d really appreciate hearing about your experience!",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w1ickq",
+      "title": "EB-2 NIW + pending I-485 after G-4 ended — backup options?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1ickq/eb2_niw_pending_i485_after_g4_ended_backup_options/",
+      "author": "/u/Wandering_Sufi",
+      "publishedAt": "2026-08-29T09:52:32+00:00",
+      "excerpt": "Hi everyone, I concurrently filed a self-petitioned EB-2 NIW I-140 and I-485, and USCIS accepted both on June 18, 2026 . My G-4 employment ended June 30, with the usual 30-day post-G-4 period through July 30. My I-485 is still pending, and my NIW received an RFE on Dhanasar Prongs 1 and 3. I’m preparing the response no…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -368,100 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w10jjb",
-      "title": "Will you please suggest me any affordable lawyer for i-485? I understand that many of you do it by yourself, i i wany to go with a lawyear.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w10jjb/will_you_please_suggest_me_any_affordable_lawyer/",
-      "author": "/u/mabedin2726",
-      "publishedAt": "2026-08-28T19:38:20+00:00",
-      "excerpt": "",
-      "topics": [
-        "i485",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w0yav8",
-      "title": "EB2 NIW attorney selection",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w0yav8/eb2_niw_attorney_selection/",
-      "author": "/u/EddieTsao123",
-      "publishedAt": "2026-08-28T18:15:56+00:00",
-      "excerpt": "Posting for my friend: I am trying to apply for an EB2-NIW and would really appreciate some advice from people who had experience with Ellis Porter and Wegreened. Here's my background: - Currently a PhD student in Materials Science and Engineering (I already have a master's degree) - research field: polymers - 6 peer-r…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w0xpux",
-      "title": "Traveling to Pakistan soon on GC (got it this year) - any risks?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w0xpux/traveling_to_pakistan_soon_on_gc_got_it_this_year/",
-      "author": "/u/Ok_Scarcity_719",
-      "publishedAt": "2026-08-28T17:55:12+00:00",
-      "excerpt": "Me and my wife both got our green cards this year through EB2 and we’re heading to Pakistan in a few weeks to see family, planning to stay for about two months. First international trip since getting the GC so a bit nervous. Anyone been through this recently? Any issues re-entering the US, is two months too long to be …",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w0xbkq",
-      "title": "RFE Response Received but No Further Status Update",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w0xbkq/rfe_response_received_but_no_further_status_update/",
-      "author": "/u/Rubayet007",
-      "publishedAt": "2026-08-28T17:40:34+00:00",
-      "excerpt": "Hi everyone, I’m looking for experiences from people who went through an EB-2 NIW RFE under premium processing . USCIS updated my case to “Response To USCIS’ Request For Evidence Was Received” on August 21, 2026 , and since then there has been no further status change. A couple of my friends had their status change fro…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w183ps",
-      "title": "Looking for a US based AI enabled ERP modernization to sign EB2 NIW review letter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w183ps/looking_for_a_us_based_ai_enabled_erp/",
-      "author": "/u/Inevitable-Shape3916",
-      "publishedAt": "2026-08-29T00:47:07+00:00",
-      "excerpt": "I’m seeking an independent academic or senior industry expert with experience in ERP modernization, enterprise integration, AI-enabled automation, digital transformation, or supply-chain systems. The engagement involves independently reviewing my professional background and proposed U.S. endeavor and, if supported by t…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-29T09:33:18.490Z",
+  "syncedAt": "2026-08-29T14:48:12.779Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
