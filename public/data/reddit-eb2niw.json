@@ -70,6 +70,23 @@
       }
     },
     {
+      "id": "t3_1w284o3",
+      "title": "Sample of future research plan for EB2-NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w284o3/sample_of_future_research_plan_for_eb2niw/",
+      "author": "/u/SharpUmpire5914",
+      "publishedAt": "2026-08-30T04:58:10+00:00",
+      "excerpt": "Hi, please can someone help me share sample of future research plan. I have already drafted the plan but I need a sample as a guidance of the format.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w1kwu2",
       "title": "Concerns about Chen",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w1kwu2/concerns_about_chen/",
@@ -80,6 +97,45 @@
         "approval",
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w25n3b",
+      "title": "EAD 1 day after biometrics",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w25n3b/ead_1_day_after_biometrics/",
+      "author": "/u/Early-Imagination501",
+      "publishedAt": "2026-08-30T02:50:11+00:00",
+      "excerpt": "Hello i140 i485 i765 concurrently filed PD 7/31 PP i140 Biometrics 8/28 Approval EAD 8/29 Is this a good sign that i140 approval could be soon? Or completely unrelated? Worried to start a position in case i140 is denied soon.",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "7/31",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w207lb",
+      "title": "Can I transfer my pending I-485 from one (pending) NIW to another pending NIW?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w207lb/can_i_transfer_my_pending_i485_from_one_pending/",
+      "author": "/u/steampunkorange",
+      "publishedAt": "2026-08-29T22:36:35+00:00",
+      "excerpt": "Hello Everyone I currently have a pending EB-2 NIW I-140 and a pending I-485. USCIS Policy Manual, Ch. 8 says a pending I-485 can be transferred to another pending petition, provided the new basis allows concurrent filing. Since EB-2 NIW allows concurrent filing, I understand this may allow an NIW #1 (pending) → NIW #2…",
+      "topics": [
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -156,25 +212,6 @@
         "i485",
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w207lb",
-      "title": "Can I transfer my pending I-485 from one (pending) NIW to another pending NIW?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w207lb/can_i_transfer_my_pending_i485_from_one_pending/",
-      "author": "/u/steampunkorange",
-      "publishedAt": "2026-08-29T22:36:35+00:00",
-      "excerpt": "Hello Everyone I currently have a pending EB-2 NIW I-140 and a pending I-485. USCIS Policy Manual, Ch. 8 says a pending I-485 can be transferred to another pending petition, provided the new basis allows concurrent filing. Since EB-2 NIW allows concurrent filing, I understand this may allow an NIW #1 (pending) → NIW #2…",
-      "topics": [
-        "i485",
-        "i140",
         "question"
       ],
       "signals": {
@@ -425,44 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w193mp",
-      "title": "How did you get a letter of interest from an organization for your EB2-NIW petition? (cold outreach isn't working)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w193mp/how_did_you_get_a_letter_of_interest_from_an/",
-      "author": "/u/marchatoca",
-      "publishedAt": "2026-08-29T01:34:34+00:00",
-      "excerpt": "I'm in the middle of responding to an RFE for my EB2-NIW petition. My proposed endeavor is a consulting practice that provides preventive health training programs to organizations serving medically underserved communities (think FQHCs, rural clinics, nonprofits) in rural/underserved counties in my state. One of the thi…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w18bth",
-      "title": "Any Tea on uscis officer XM2294?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w18bth/any_tea_on_uscis_officer_xm2294/",
-      "author": "/u/Warm_Help_796",
-      "publishedAt": "2026-08-29T00:57:56+00:00",
-      "excerpt": "",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-08-30T02:24:58.518Z",
+  "syncedAt": "2026-08-30T08:40:21.079Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
