@@ -54,6 +54,43 @@
       }
     },
     {
+      "id": "t3_1w4kh3l",
+      "title": "EB-2 NIW Approved (From One of the 39 Countries), RFE — All Glory to God",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4kh3l/eb2_niw_approved_from_one_of_the_39_countries_rfe/",
+      "author": "/u/Dadadee0105",
+      "publishedAt": "2026-09-01T18:27:26+00:00",
+      "excerpt": "I wanted to come back and share my journey because I learned so much from reading other people’s posts here, especially during the long waiting periods. So many stories on this subreddit encouraged me when I was anxious or unsure, and I hope mine can do the same for someone else. First and foremost, I give all the glor…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w4qa7q",
+      "title": "Has anyone received an RFE from officer XM2069? How was your experience?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4qa7q/has_anyone_received_an_rfe_from_officer_xm2069/",
+      "author": "/u/Downtown-Living8169",
+      "publishedAt": "2026-09-01T21:25:18+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w4l1ic",
       "title": "I-485 fee issue for children under 14 filing as EB-2 NIW derivatives",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4l1ic/i485_fee_issue_for_children_under_14_filing_as/",
@@ -74,16 +111,33 @@
       }
     },
     {
-      "id": "t3_1w4kh3l",
-      "title": "EB-2 NIW Approved (From One of the 39 Countries), RFE — All Glory to God",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4kh3l/eb2_niw_approved_from_one_of_the_39_countries_rfe/",
-      "author": "/u/Dadadee0105",
-      "publishedAt": "2026-09-01T18:27:26+00:00",
-      "excerpt": "I wanted to come back and share my journey because I learned so much from reading other people’s posts here, especially during the long waiting periods. So many stories on this subreddit encouraged me when I was anxious or unsure, and I hope mine can do the same for someone else. First and foremost, I give all the glor…",
+      "id": "t3_1w4lws1",
+      "title": "Self filing help",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4lws1/self_filing_help/",
+      "author": "/u/goat1720",
+      "publishedAt": "2026-09-01T19:14:01+00:00",
+      "excerpt": "Hey 👋 anyone who self-filed here. Can you help me with resources?",
       "topics": [
-        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w4qbef",
+      "title": "EB2 NIW API access",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4qbef/eb2_niw_api_access/",
+      "author": "/u/Muted-Newspaper-1447",
+      "publishedAt": "2026-09-01T21:26:25+00:00",
+      "excerpt": "Please how do I include my EB2 NIw case to myuscis account so I can access it with the API? I am using a Lawyer/ Attorney so I only have the receipt number with me.",
+      "topics": [
         "i140",
-        "timeline"
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -113,14 +167,17 @@
       }
     },
     {
-      "id": "t3_1w4kj5o",
-      "title": "Evaluate my profile. What is my chance to get approved? Any experience with similar profile?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4kj5o/evaluate_my_profile_what_is_my_chance_to_get/",
-      "author": "/u/Visible_Display_4452",
-      "publishedAt": "2026-09-01T18:29:27+00:00",
-      "excerpt": "PhD in Geophysics/Geoscience, completed in 2017 in Canada. PhD thesis focused on the application of AI/ML to geophysics and critical mineral exploration. Author of 15 publications, including 3 first-author peer-reviewed journal papers. Most recent publication: conference paper published in 2026. 110 citations to date. …",
+      "id": "t3_1w4pm2m",
+      "title": "EB2 NIW I485 AOS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4pm2m/eb2_niw_i485_aos/",
+      "author": "/u/montananseniorbobcat",
+      "publishedAt": "2026-09-01T21:07:26+00:00",
+      "excerpt": "Hi, Is there anybody who got approved for form I485 and I765? With an RD in June 2026 and a biometric appointment by the end of July 2026? Trying to see someone in the same boat or not? Thanks",
       "topics": [
         "approval",
+        "i485",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -160,6 +217,24 @@
       "excerpt": "Hello guys, please anyone could help to check whats this information means in my API: Note: It has been 143 days since the RFE response, with no updates. \"eventCode\":\"HA\",\"createdAt\":\"2026-08-31\",\"createdAtTimestamp\":\"2026-08-xxxxxxxxxx\",\"updatedAt\":\"2026-08-31\",\"updatedAtTimestamp\":\"2026-08-xxxxxxxxxx\"",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w4kj5o",
+      "title": "Evaluate my profile. What is my chance to get approved? Any experience with similar profile?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4kj5o/evaluate_my_profile_what_is_my_chance_to_get/",
+      "author": "/u/Visible_Display_4452",
+      "publishedAt": "2026-09-01T18:29:27+00:00",
+      "excerpt": "PhD in Geophysics/Geoscience, completed in 2017 in Canada. PhD thesis focused on the application of AI/ML to geophysics and critical mineral exploration. Author of 15 publications, including 3 first-author peer-reviewed journal papers. Most recent publication: conference paper published in 2026. 110 citations to date. …",
+      "topics": [
+        "approval",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -216,6 +291,24 @@
       "topics": [
         "approval",
         "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w43usm",
+      "title": "Anyone here successfully DIY their EB2-NIW with an AI/robotics industry background?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w43usm/anyone_here_successfully_diy_their_eb2niw_with_an/",
+      "author": "/u/DarthV_d3r",
+      "publishedAt": "2026-09-01T06:35:45+00:00",
+      "excerpt": "Hey everyone, I’m planning to self-file my EB2-NIW and would love to connect with anyone who has done something similar. Quick background: Master’s in Robotics, 4.0 GPA Senior Engineer in autonomous vehicles / AI & robotics Work mainly in simulation, safety validation, scenario testing and AV/ML infrastructure Promoted…",
+      "topics": [
         "i140",
         "question"
       ],
@@ -316,24 +409,6 @@
       }
     },
     {
-      "id": "t3_1w43usm",
-      "title": "Anyone here successfully DIY their EB2-NIW with an AI/robotics industry background?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w43usm/anyone_here_successfully_diy_their_eb2niw_with_an/",
-      "author": "/u/DarthV_d3r",
-      "publishedAt": "2026-09-01T06:35:45+00:00",
-      "excerpt": "Hey everyone, I’m planning to self-file my EB2-NIW and would love to connect with anyone who has done something similar. Quick background: Master’s in Robotics, 4.0 GPA Senior Engineer in autonomous vehicles / AI & robotics Work mainly in simulation, safety validation, scenario testing and AV/ML infrastructure Promoted…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1w43oju",
       "title": "If dependent beneficiary uses I-485 EAD, does it mean the principal will forfeit their O1 status?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w43oju/if_dependent_beneficiary_uses_i485_ead_does_it/",
@@ -386,88 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w3wamd",
-      "title": "Hybrid case. Seeking for help for the refile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w3wamd/hybrid_case_seeking_for_help_for_the_refile/",
-      "author": "/u/Ok_Proposal_1650",
-      "publishedAt": "2026-09-01T00:27:50+00:00",
-      "excerpt": "Hello, I received the denial a couple of weeks ago. My background USA PhD, focus on electronic materials Publications: around 6; all of them are first author or co-1st author Citations: around 50 when filed; RFE~70 Recommendation letters: initial 2, add 4 during refile Current role: engineer in the industry, but it is …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w3fsef",
-      "title": "UPDATE: EB2-NIW Denied After RFE on All 3 Prongs — Should I Refile or Strengthen My Profile First?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w3fsef/update_eb2niw_denied_after_rfe_on_all_3_prongs/",
-      "author": "/u/Ms_1020",
-      "publishedAt": "2026-08-31T14:41:06+00:00",
-      "excerpt": "Hi everyone, I posted here earlier when I received an RFE on all 3 NIW prongs. Previous post with the RFE details: https://www.reddit.com/r/EB2_NIW/comments/1somudf/eb2niw_rfe_on_all_three_prongs_seeking_advice/ Unfortunately, my case was denied, and now I’m trying to figure out whether it makes sense to refile with a …",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w2zwmn",
-      "title": "NIW Approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w2zwmn/niw_approved/",
-      "author": "/u/Hiplamrow",
-      "publishedAt": "2026-08-31T01:47:49+00:00",
-      "excerpt": "Hi folks! Sharing this and hoping it brings good luck to everyone. Profile: - PhD in Physics, working as a postdoc - 5 journal publications (3 first author) - 4 conference abstracts (2 first author) - 51 citations - Proposed endeavor: developing optoelectronic devices and novel material platforms for advanced semicondu…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w3vtnz",
-      "title": "How did you secure INDEPENDENT recommendation letters from U.S. experts you didn't know personally? (Cold outreach strategies)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w3vtnz/how_did_you_secure_independent_recommendation/",
-      "author": "/u/Zestyclose_Gur3921",
-      "publishedAt": "2026-09-01T00:07:51+00:00",
-      "excerpt": "Hi everyone, I'm in the process of finalizing my EB-2 NIW petition (Entrepreneur / Maritime Safety & Critical Infrastructure sector). My petition is backed by strong institutional support and recommendation letters from major European industry heads/associations in my field. However, as many of you know, having indepen…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-01T18:59:18.472Z",
+  "syncedAt": "2026-09-01T21:37:59.046Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
