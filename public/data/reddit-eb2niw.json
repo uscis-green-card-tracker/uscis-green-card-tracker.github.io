@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1w5gr7b",
+      "title": "Pp up",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5gr7b/pp_up/",
+      "author": "/u/ram_nib2025",
+      "publishedAt": "2026-09-02T17:20:26+00:00",
+      "excerpt": "I’m planning to upgrade my pending EB-2 NIW I-140 to Premium Processing using Form I-907. For anyone who has done this recently: What documents did you include in the premium processing package? Did you include a copy of the I-140 receipt notice, I-907, payment form/check, cover letter, etc.? What USCIS address did you…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w58i0f",
       "title": "EB-2 NIW RFE on all prongs - H-1B with a PhD - how concerning is this pattern?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w58i0f/eb2_niw_rfe_on_all_prongs_h1b_with_a_phd_how/",
@@ -44,6 +62,25 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5f6vw",
+      "title": "Doubt over PP with EP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5f6vw/doubt_over_pp_with_ep/",
+      "author": "/u/OttoNapo",
+      "publishedAt": "2026-09-02T16:25:58+00:00",
+      "excerpt": "Hello everyone, I'm in the document-gathering phase for my I-140, working with Ellis Porter. I asked about premium processing and they advised against it, citing a much higher denial rate in the last ten months compared to standard processing, and saying that if I want to go ahead with PP I need to sign an acknowledgme…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -73,6 +110,45 @@
       }
     },
     {
+      "id": "t3_1w5e7zv",
+      "title": "Timeline after I-140 approval for concurrent filing?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e7zv/timeline_after_i140_approval_for_concurrent_filing/",
+      "author": "/u/Elisa1812",
+      "publishedAt": "2026-09-02T15:51:08+00:00",
+      "excerpt": "I originally filed concurrently April 6th 2026, sent I-140, I-485, I-131, and I-765 all together. ( Self filed, never used any attorneys!) I got a RFE on May 22nd, response was sent to USCIS on July 23rd and yesterday September 1st my I-140 was approved. My advance parole (I-131) was approved while I-140 was pending on…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5e5ko",
+      "title": "NIW DIY Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e5ko/niw_diy_advice/",
+      "author": "/u/CharacterBorn5919",
+      "publishedAt": "2026-09-02T15:48:38+00:00",
+      "excerpt": "Hey people, I’m looking to DIY file an NIW application. I have most of the evidence ready except for some recommendation letters. So looking to file the petition in the next month. I looked at a few DIY packets online - Oscar seems to be the most popular one. I’m mainly seeking advice on where I should start ? Do I jus…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w4kh3l",
       "title": "EB-2 NIW Approved (From One of the 39 Countries), RFE — All Glory to God",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4kh3l/eb2_niw_approved_from_one_of_the_39_countries_rfe/",
@@ -83,6 +159,26 @@
         "approval",
         "i140",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5e2p6",
+      "title": "NIW RFE: Prong II favorable, but National Importance + Prong III challenged — what worked for you?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e2p6/niw_rfe_prong_ii_favorable_but_national/",
+      "author": "/u/Infamous-juls",
+      "publishedAt": "2026-09-02T15:45:38+00:00",
+      "excerpt": "Hi everyone, I’m preparing an NIW RFE response with my attorney and wanted to hear from anyone who had a similar situation. USCIS made a favorable finding on Prong II (well positioned) but challenged: Prong I: They acknowledged the broader importance of the field/problem but questioned the national importance and broad…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -374,98 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w4t6x9",
-      "title": "Recommendation letter keeping me behind(Rfe)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4t6x9/recommendation_letter_keeping_me_behindrfe/",
-      "author": "/u/Slight_Crow_2203",
-      "publishedAt": "2026-09-01T23:16:16+00:00",
-      "excerpt": "Some of these experts will be lying that your work isn’t related to theirs when asked for a recommendation. They should say they don’t want to. I am already tired asking everyday. I will submit like that. I need only one letter for a support and my deadline is close.",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w4lws1",
-      "title": "Self filing help",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4lws1/self_filing_help/",
-      "author": "/u/goat1720",
-      "publishedAt": "2026-09-01T19:14:01+00:00",
-      "excerpt": "Hey 👋 anyone who self-filed here. Can you help me with resources?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w4sqz1",
-      "title": "Recommendation letter for cited person",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4sqz1/recommendation_letter_for_cited_person/",
-      "author": "/u/EconomicsCareful2034",
-      "publishedAt": "2026-09-01T22:58:15+00:00",
-      "excerpt": "Please, anyone help me how I can get a recommendation letter for a cited person ?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w3xs7z",
-      "title": "Finally Greened!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w3xs7z/finally_greened/",
-      "author": "/u/Fit_Ad8215",
-      "publishedAt": "2026-09-01T01:33:29+00:00",
-      "excerpt": "EB-2 NIW → J-1/212(e) Waiver → AOS Approved | Full Timeline Sharing my timeline because posts like this helped me during the long wait. Hopefully, it helps someone in a similar situation. - Background: 9ja citizen - Completed Ph.D. in Asia - Nov. 2023: Filed I-140 EB-2 NIW from South Korea with Premium Processing. - 5 …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w4qa7q",
-      "title": "Has anyone received an RFE from officer XM2069? How was your experience?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4qa7q/has_anyone_received_an_rfe_from_officer_xm2069/",
-      "author": "/u/Downtown-Living8169",
-      "publishedAt": "2026-09-01T21:25:18+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-02T15:36:29.911Z",
+  "syncedAt": "2026-09-02T19:05:07.254Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
