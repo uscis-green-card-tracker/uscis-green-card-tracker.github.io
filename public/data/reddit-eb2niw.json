@@ -54,21 +54,24 @@
       }
     },
     {
-      "id": "t3_1w5otng",
-      "title": "Fee increased by chen",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5otng/fee_increased_by_chen/",
-      "author": "/u/SquareWitty1812",
-      "publishedAt": "2026-09-02T22:07:20+00:00",
-      "excerpt": "Is it normal for chen to increase the fee if 30 days period is over? I got my profile evaluated by Chen and by the time I made a decision, 30 days passed and now they are saying they will update the service terms of the agreement AND raise the fee. Is this normal? Kinda disappointed but just wanted to check if this is …",
+      "id": "t3_1w5x6az",
+      "title": "Industry SWE EB-2 NIW — looking for recent similar-case DPs and Ellis Porter vs. Path Law experiences",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5x6az/industry_swe_eb2_niw_looking_for_recent/",
+      "author": "/u/No-Importance-5171",
+      "publishedAt": "2026-09-03T04:27:03+00:00",
+      "excerpt": "I’m deciding whether to file an EB-2 NIW now and, if I do, whether to use Ellis Porter or Path Law. I’d especially appreciate recent DPs from industry software engineers rather than general predictions about approval odds. My background: M.S. in Computer Science ~6 years of software engineering experience Currently a S…",
       "topics": [
+        "approval",
+        "i140",
         "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
-        "mentionsCountry75": false
+        "mentionsCountry75": true
       }
     },
     {
@@ -82,6 +85,96 @@
         "approval",
         "i485",
         "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5t6hf",
+      "title": "Is there any way to get the RFE electronically before the mailed copy arrives?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5t6hf/is_there_any_way_to_get_the_rfe_electronically/",
+      "author": "/u/rexblitz",
+      "publishedAt": "2026-09-03T01:13:39+00:00",
+      "excerpt": "Got RFE today on my EB-2 NIW I-140 under premium processing. The USCIS status says they mailed the RFE and I should receive it by September 17. Does anyone know if there’s a way to get the RFE electronically before the physical copy arrives? My receipt starts with IOE, but I haven’t been able to add the case to my USCI…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5tef7",
+      "title": "EB-2 NIW Profile Evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5tef7/eb2_niw_profile_evaluation/",
+      "author": "/u/Crafty-Phrase8100",
+      "publishedAt": "2026-09-03T01:23:45+00:00",
+      "excerpt": "Hi everyone, I’m considering filing an EB-2 NIW and would really appreciate an honest assessment of my profile and whether I should proceed now or wait to strengthen it further. I’ve been reading this subreddit and seeing applicants with 10–20+ publications and 100–400+ citations, which has made me question whether my …",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5wabq",
+      "title": "July 2026 PP NIW Filers",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5wabq/july_2026_pp_niw_filers/",
+      "author": "/u/Kind_Medium6774",
+      "publishedAt": "2026-09-03T03:41:29+00:00",
+      "excerpt": "Who from July applicants have received decisions on their i-140 Premium Processing application forms ?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5upme",
+      "title": "Testimonial vs recommendation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5upme/testimonial_vs_recommendation/",
+      "author": "/u/Sad-Indication-7532",
+      "publishedAt": "2026-09-03T02:24:43+00:00",
+      "excerpt": "what’s the difference between Testimonial letter and recommendation letter ?? my lawyer drafted me a testimonial letter !",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5tos3",
+      "title": "Premium or regular",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5tos3/premium_or_regular/",
+      "author": "/u/MadanBaduwal100",
+      "publishedAt": "2026-09-03T01:36:50+00:00",
+      "excerpt": "Hi @everyone What would be the best? Premium or regular, going through Chen, Approved or Refund guarantee. Thank you",
+      "topics": [
+        "approval",
         "lawyer",
         "question"
       ],
@@ -139,6 +232,24 @@
       "excerpt": "I’m planning to upgrade my pending EB-2 NIW I-140 to Premium Processing using Form I-907. For anyone who has done this recently: What documents did you include in the premium processing package? Did you include a copy of the I-140 receipt notice, I-907, payment form/check, cover letter, etc.? What USCIS address did you…",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w5otng",
+      "title": "Fee increased by chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5otng/fee_increased_by_chen/",
+      "author": "/u/SquareWitty1812",
+      "publishedAt": "2026-09-02T22:07:20+00:00",
+      "excerpt": "Is it normal for chen to increase the fee if 30 days period is over? I got my profile evaluated by Chen and by the time I made a decision, 30 days passed and now they are saying they will update the service terms of the agreement AND raise the fee. Is this normal? Kinda disappointed but just wanted to check if this is …",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -207,6 +318,26 @@
       }
     },
     {
+      "id": "t3_1w5e2p6",
+      "title": "NIW RFE: Prong II favorable, but National Importance + Prong III challenged — what worked for you?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e2p6/niw_rfe_prong_ii_favorable_but_national/",
+      "author": "/u/Infamous-juls",
+      "publishedAt": "2026-09-02T15:45:38+00:00",
+      "excerpt": "Hi everyone, I’m preparing an NIW RFE response with my attorney and wanted to hear from anyone who had a similar situation. USCIS made a favorable finding on Prong II (well positioned) but challenged: Prong I: They acknowledged the broader importance of the field/problem but questioned the national importance and broad…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w4kh3l",
       "title": "EB-2 NIW Approved (From One of the 39 Countries), RFE — All Glory to God",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4kh3l/eb2_niw_approved_from_one_of_the_39_countries_rfe/",
@@ -226,16 +357,13 @@
       }
     },
     {
-      "id": "t3_1w5e5ko",
-      "title": "NIW DIY Advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e5ko/niw_diy_advice/",
-      "author": "/u/CharacterBorn5919",
-      "publishedAt": "2026-09-02T15:48:38+00:00",
-      "excerpt": "Hey people, I’m looking to DIY file an NIW application. I have most of the evidence ready except for some recommendation letters. So looking to file the petition in the next month. I looked at a few DIY packets online - Oscar seems to be the most popular one. I’m mainly seeking advice on where I should start ? Do I jus…",
-      "topics": [
-        "i140",
-        "question"
-      ],
+      "id": "t3_1w5tuju",
+      "title": "EB-2 Visas Finished for This Year — USCIS Congressional Inquiry Update",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5tuju/eb2_visas_finished_for_this_year_uscis/",
+      "author": "/u/imransharif1996",
+      "publishedAt": "2026-09-03T01:44:30+00:00",
+      "excerpt": "Hey everyone, Just wanted to share a quick update: a congressional inquiry confirmed that EB-2 visa numbers are officially exhausted for this fiscal year. Thanks",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -244,16 +372,14 @@
       }
     },
     {
-      "id": "t3_1w5e2p6",
-      "title": "NIW RFE: Prong II favorable, but National Importance + Prong III challenged — what worked for you?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e2p6/niw_rfe_prong_ii_favorable_but_national/",
-      "author": "/u/Infamous-juls",
-      "publishedAt": "2026-09-02T15:45:38+00:00",
-      "excerpt": "Hi everyone, I’m preparing an NIW RFE response with my attorney and wanted to hear from anyone who had a similar situation. USCIS made a favorable finding on Prong II (well positioned) but challenged: Prong I: They acknowledged the broader importance of the field/problem but questioned the national importance and broad…",
+      "id": "t3_1w5e5ko",
+      "title": "NIW DIY Advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e5ko/niw_diy_advice/",
+      "author": "/u/CharacterBorn5919",
+      "publishedAt": "2026-09-02T15:48:38+00:00",
+      "excerpt": "Hey people, I’m looking to DIY file an NIW application. I have most of the evidence ready except for some recommendation letters. So looking to file the petition in the next month. I looked at a few DIY packets online - Oscar seems to be the most popular one. I’m mainly seeking advice on where I should start ? Do I jus…",
       "topics": [
-        "approval",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -332,146 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w4vado",
-      "title": "Is there an electronic copy of NIW Approval Notice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4vado/is_there_an_electronic_copy_of_niw_approval_notice/",
-      "author": "/u/superee33",
-      "publishedAt": "2026-09-02T00:44:42+00:00",
-      "excerpt": "Hello everyone! My NIW was approved today! I filed my I-140 online through USCIS. I remember that when I applied for OPT in the past, I was able to view an electronic version of the approval notice online. Does anyone know if USCIS also provides an electronic copy of the I-140 approval notice (download directly from my…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w4y5i4",
-      "title": "EB-2 NIW RFE on Prongs 2 & 3 - Chances after response?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4y5i4/eb2_niw_rfe_on_prongs_2_3_chances_after_response/",
-      "author": "/u/Small_Ground_5806",
-      "publishedAt": "2026-09-02T02:55:11+00:00",
-      "excerpt": "Hi everyone, I received an EB-2 NIW RFE focused on Prongs 2 and 3 . USCIS has accepted that my proposed endeavor has substantial merit and national importance . The concerns are mainly about whether I am well positioned to advance the endeavor and whether the waiver would benefit the U.S. Timeline: PD June 12, 2026 PP …",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w52fry",
-      "title": "need attorney information",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w52fry/need_attorney_information/",
-      "author": "/u/Professional-Fan6056",
-      "publishedAt": "2026-09-02T06:34:26+00:00",
-      "excerpt": "Can anyone suggest a suitable law firm that is taking EB-NIW cases outside of the USA for an academic researcher? Thank you",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w4xp4c",
-      "title": "Got pulled over by police for “failed to yield on left turn green”, should I go to court or just prepay and plead guilty?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4xp4c/got_pulled_over_by_police_for_failed_to_yield_on/",
-      "author": "/u/yaadyeud",
-      "publishedAt": "2026-09-02T02:33:53+00:00",
-      "excerpt": "Basically the title. I failed to yield on left turn while green. No crashes, I was at 8 MPH speed, had a car coming from the opposite direction with slow speed as well. But police pulled me over and handed me a summons. Now, I can prepay it and plead guilty or I can attend the court and let the judge decide what’s my f…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w4yje3",
-      "title": "URGENT HELP NEEDED: TAILORED PROFILE FOR NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4yje3/urgent_help_needed_tailored_profile_for_niw/",
-      "author": "/u/Vsi2023",
-      "publishedAt": "2026-09-02T03:13:06+00:00",
-      "excerpt": "Hi everyone, Please if you can, I need advice. I have been trying to profile build, but I am all over the place. Today I am building this, tomorrow, I am building another thing. Is there any lawyer or EXPERT IN NIW that I can consult with that will give me a plan on what to do? So far, I have only 4 publications in low…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w4y9yy",
-      "title": "Any Actuaries successfully got approved?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4y9yy/any_actuaries_successfully_got_approved/",
-      "author": "/u/Vivid_Secret_5761",
-      "publishedAt": "2026-09-02T03:00:56+00:00",
-      "excerpt": "The actuarial profession is a lot harder to prove because of how niche the industry is. Any actuaries successfully got approved for an EB2-NIW? If so, did you file yourself or which lawyer did you use?",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w4y5x5",
-      "title": "RFE on national importance + prong 3 — but PASSED prong 2 (HCI/games research, TSC premium, Officer: XM2359 )",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4y5x5/rfe_on_national_importance_prong_3_but_passed/",
-      "author": "/u/Wild-Cardiologist960",
-      "publishedAt": "2026-09-02T02:55:45+00:00",
-      "excerpt": "Timeline: Filed: June 29, 2026 — premium, Texas Service Centre RFE issued: Aug 28, 2026 Due: Sept 29, 2026 Filed with Chen Profile US MS in interactive media / game development, currently PhD in the same area ~17 papers, first author on most. 5 journal articles including one ACM Transactions. Rest peer-reviewed confere…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-03T00:51:19.761Z",
+  "syncedAt": "2026-09-03T05:20:24.339Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
