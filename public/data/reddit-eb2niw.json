@@ -35,13 +35,14 @@
       }
     },
     {
-      "id": "t3_1w5mt2e",
-      "title": "Paid expert opinion letter - RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5mt2e/paid_expert_opinion_letter_rfe/",
-      "author": "/u/Late_Emphasis3137",
-      "publishedAt": "2026-09-02T20:51:36+00:00",
-      "excerpt": "I got a paid expert opinion letter, however my attorney (Ellis porter) recommends to not include it as it may increase the risk of denial due to being paid. Is this really the case? I spent money on it and was hoping to include it to make my RFE Response stronger… what are your thoughts on this? Is it true that it weak…",
+      "id": "t3_1w5ylss",
+      "title": "EB2-NIW RFE W/ Chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5ylss/eb2niw_rfe_w_chen/",
+      "author": "/u/omaratef3221",
+      "publishedAt": "2026-09-03T05:44:19+00:00",
+      "excerpt": "I filed in Oct 2024 and upgraded to PP on 15 may 2026, I received an RFE in the middle of July. My attorney chen, they were extremely good during filing and really giving fast responses (24 hours and sometimes same day answer to questions). Now its really complicated, they are so slow and we are at a stage where we nee…",
       "topics": [
+        "approval",
         "i140",
         "lawyer",
         "question"
@@ -72,6 +73,25 @@
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1w5mt2e",
+      "title": "Paid expert opinion letter - RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5mt2e/paid_expert_opinion_letter_rfe/",
+      "author": "/u/Late_Emphasis3137",
+      "publishedAt": "2026-09-02T20:51:36+00:00",
+      "excerpt": "I got a paid expert opinion letter, however my attorney (Ellis porter) recommends to not include it as it may increase the risk of denial due to being paid. Is this really the case? I spent money on it and was hoping to include it to make my RFE Response stronger… what are your thoughts on this? Is it true that it weak…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
       }
     },
     {
@@ -281,6 +301,26 @@
       }
     },
     {
+      "id": "t3_1w5e2p6",
+      "title": "NIW RFE: Prong II favorable, but National Importance + Prong III challenged — what worked for you?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e2p6/niw_rfe_prong_ii_favorable_but_national/",
+      "author": "/u/Infamous-juls",
+      "publishedAt": "2026-09-02T15:45:38+00:00",
+      "excerpt": "Hi everyone, I’m preparing an NIW RFE response with my attorney and wanted to hear from anyone who had a similar situation. USCIS made a favorable finding on Prong II (well positioned) but challenged: Prong I: They acknowledged the broader importance of the field/problem but questioned the national importance and broad…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w5drtc",
       "title": "Attorney Change During I-140 RFE — Should I Be Concerned?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5drtc/attorney_change_during_i140_rfe_should_i_be/",
@@ -308,26 +348,6 @@
       "excerpt": "I have recently been considering applying for an EB-2 NIW, and having not explored this process earlier, I wanted to get your opinion on my profile. I am from India/China, and I thought this route was essentially unavailable to me until I learnt about cross-chargeability (my wife is born and a citizen of ROW). PhD in c…",
       "topics": [
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w5e2p6",
-      "title": "NIW RFE: Prong II favorable, but National Importance + Prong III challenged — what worked for you?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w5e2p6/niw_rfe_prong_ii_favorable_but_national/",
-      "author": "/u/Infamous-juls",
-      "publishedAt": "2026-09-02T15:45:38+00:00",
-      "excerpt": "Hi everyone, I’m preparing an NIW RFE response with my attorney and wanted to hear from anyone who had a similar situation. USCIS made a favorable finding on Prong II (well positioned) but challenged: Prong I: They acknowledged the broader importance of the field/problem but questioned the national importance and broad…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -440,27 +460,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w4tvns",
-      "title": "EB2 - NIW RFE on all 3 prongs",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w4tvns/eb2_niw_rfe_on_all_3_prongs/",
-      "author": "/u/Ok_Environment8905",
-      "publishedAt": "2026-09-01T23:44:32+00:00",
-      "excerpt": "Hello everyone, I just received a comprehensive 12-page Request for Evidence (RFE) from the Texas Service Center (TSC) for my EB-2 NIW petition (I-140 filed under Premium Processing with an August 2025 priority date). I am an industry software engineer with 0 publications and 0 citations . Looking through the RFE, it’s…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-03T05:20:24.339Z",
+  "syncedAt": "2026-09-03T10:22:17.555Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
