@@ -74,14 +74,15 @@
       }
     },
     {
-      "id": "t3_1w778l3",
-      "title": "I-485 filer sheets",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w778l3/i485_filer_sheets/",
-      "author": "/u/Eastern-Explanation2",
-      "publishedAt": "2026-09-04T15:16:14+00:00",
-      "excerpt": "Hello everyone, The I-485 filer Google sheets is currently down. We are actively trying to retrieve it. Really sorry about the inconvenience! We will get it back up and running soon and update you all. Thank you very much for your patience! https://docs.google.com/spreadsheets/u/0/d/1a4s5ArJCJK43SpN0RZXxRa6PZaW-IUNe/ht…",
+      "id": "t3_1w7bc0o",
+      "title": "Can I submit PP online if I have the receipt number or it’s only via mail after getting the physical copy of the receipt notice?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7bc0o/can_i_submit_pp_online_if_i_have_the_receipt/",
+      "author": "/u/FitBite2250",
+      "publishedAt": "2026-09-04T17:43:44+00:00",
+      "excerpt": "",
       "topics": [
-        "i485"
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -128,12 +129,48 @@
       }
     },
     {
+      "id": "t3_1w778l3",
+      "title": "I-485 filer sheets",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w778l3/i485_filer_sheets/",
+      "author": "/u/Eastern-Explanation2",
+      "publishedAt": "2026-09-04T15:16:14+00:00",
+      "excerpt": "Hello everyone, The I-485 filer Google sheets is currently down. We are actively trying to retrieve it. Really sorry about the inconvenience! We will get it back up and running soon and update you all. Thank you very much for your patience! https://docs.google.com/spreadsheets/u/0/d/1a4s5ArJCJK43SpN0RZXxRa6PZaW-IUNe/ht…",
+      "topics": [
+        "i485"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w73uou",
+      "title": "Rfe on all 3 prongs, chances of success?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w73uou/rfe_on_all_3_prongs_chances_of_success/",
+      "author": "/u/Impractical-Winner",
+      "publishedAt": "2026-09-04T13:04:33+00:00",
+      "excerpt": "PE: immunological research Background: MD and academia Lawyer says uscis pp has a general response for giving out rfes these days. Anyone been successful after getting rfe on all 3 prongs?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w78dle",
       "title": "RFE for prong 2 and 3 - XM1360",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w78dle/rfe_for_prong_2_and_3_xm1360/",
       "author": "/u/Ok-Attention1112",
       "publishedAt": "2026-09-04T15:58:32+00:00",
-      "excerpt": "I just got a long RFE from officer XM1360 from Texas. Does anyone have experience with this officer?",
+      "excerpt": "I just got a long RFE from officer XM1360 from Texas. Does anyone have experience with this officer? My RFE has coy paste wording from others that does not match my application.",
       "topics": [
         "i140",
         "question"
@@ -182,24 +219,6 @@
       }
     },
     {
-      "id": "t3_1w7576v",
-      "title": "EB-2 NIW: Nebraska PP → RFE to Texas → Back to Nebraska",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7576v/eb2_niw_nebraska_pp_rfe_to_texas_back_to_nebraska/",
-      "author": "/u/Rubayet007",
-      "publishedAt": "2026-09-04T13:59:10+00:00",
-      "excerpt": "My premium processing was accepted at Nebraska . Later, my RFE response was sent to the Texas/Irving address listed on the notice. Today, USCIS Emma told me my case is currently processing at Nebraska Service Center . Does this likely mean the RFE-issuing officer in Texas will not review the response , and a new office…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1w6gfva",
       "title": "EB2-NIW I-140 approved! (PP, self-filed concurrently with I-485)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6gfva/eb2niw_i140_approved_pp_selffiled_concurrently/",
@@ -220,15 +239,14 @@
       }
     },
     {
-      "id": "t3_1w73uou",
-      "title": "Rfe on all 3 prongs, chances of success?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w73uou/rfe_on_all_3_prongs_chances_of_success/",
-      "author": "/u/Impractical-Winner",
-      "publishedAt": "2026-09-04T13:04:33+00:00",
-      "excerpt": "PE: immunological research Background: MD and academia Lawyer says uscis pp has a general response for giving out rfes these days. Anyone been successful after getting rfe on all 3 prongs?",
+      "id": "t3_1w7576v",
+      "title": "EB-2 NIW: Nebraska PP → RFE to Texas → Back to Nebraska",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7576v/eb2_niw_nebraska_pp_rfe_to_texas_back_to_nebraska/",
+      "author": "/u/Rubayet007",
+      "publishedAt": "2026-09-04T13:59:10+00:00",
+      "excerpt": "My premium processing was accepted at Nebraska . Later, my RFE response was sent to the Texas/Irving address listed on the notice. Today, USCIS Emma told me my case is currently processing at Nebraska Service Center . Does this likely mean the RFE-issuing officer in Texas will not review the response , and a new office…",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -315,6 +333,25 @@
       }
     },
     {
+      "id": "t3_1w6qhfx",
+      "title": "Law firm options for software engineer (Robinson, Springdale, Path and Ellis Porter)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6qhfx/law_firm_options_for_software_engineer_robinson/",
+      "author": "/u/Available_Ad4972",
+      "publishedAt": "2026-09-04T01:30:59+00:00",
+      "excerpt": "Law Firms Attorney fees Robinson Immigration Law ($11k for apply, RFE, refile and full refund, plus up to $2.5k if want to acquire an independent recommendation letter) Springdale Law ($10k for apply + up to $5k for RFE, incl. an expert letter, refund $3k if deny) Path ($8k for apply, up to $4k for RFE, no refund if de…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w6pnb8",
       "title": "EB2-NIW approval - DIY, No RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6pnb8/eb2niw_approval_diy_no_rfe/",
@@ -343,25 +380,6 @@
       "topics": [
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w6qhfx",
-      "title": "Law firm options for software engineer (Robinson, Springdale, Path and Ellis Porter)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6qhfx/law_firm_options_for_software_engineer_robinson/",
-      "author": "/u/Available_Ad4972",
-      "publishedAt": "2026-09-04T01:30:59+00:00",
-      "excerpt": "Law Firms Attorney fees Robinson Immigration Law ($11k for apply, RFE, refile and full refund, plus up to $2.5k if want to acquire an independent recommendation letter) Springdale Law ($10k for apply + up to $5k for RFE, incl. an expert letter, refund $3k if deny) Path ($8k for apply, up to $4k for RFE, no refund if de…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -445,26 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w6llej",
-      "title": "Experience with Joorney business plan. Does anyone used their services? What you guys think about them?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6llej/experience_with_joorney_business_plan_does_anyone/",
-      "author": "/u/Tasty_Rain5085",
-      "publishedAt": "2026-09-03T22:00:16+00:00",
-      "excerpt": "",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-04T16:39:08.359Z",
+  "syncedAt": "2026-09-04T19:12:35.465Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
