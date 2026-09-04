@@ -35,16 +35,32 @@
       }
     },
     {
-      "id": "t3_1w770aq",
-      "title": "Eb2-NIW Approved. No RFE. Sharing Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w770aq/eb2niw_approved_no_rfe_sharing_timeline/",
-      "author": "/u/Own-Village-2352",
-      "publishedAt": "2026-09-04T15:07:30+00:00",
-      "excerpt": "Sharing my EB2-NIW approval timeline. I hope this encourages those with low citations and looking to self-file. Timeline: Initial filing date: May 2025 Premium processing upgrade: June 2026 Approval date: Aug 2026 Profile: PhD. Candidate - Urban Planning (USA R1 university) Msc - Architecture (Non-USA institution) Publ…",
+      "id": "t3_1w7ejue",
+      "title": "I-485 New Filer Sheet",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7ejue/i485_new_filer_sheet/",
+      "author": "/u/Eastern-Explanation2",
+      "publishedAt": "2026-09-04T19:39:32+00:00",
+      "excerpt": "Hi all, Unfortunately, recently a bad actor with moderator access locked the original sheet in view-only mode. I have also lost access to the email account associated with the sheet and, no recovery options had been set up, so we are unable to restore access to it. I apologize for the inconvenience :( We have successfu…",
       "topics": [
-        "approval",
-        "i140",
-        "timeline"
+        "i485"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w7epml",
+      "title": "485 Filer Sheet new link",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7epml/485_filer_sheet_new_link/",
+      "author": "/u/SkyVast7757",
+      "publishedAt": "2026-09-04T19:45:30+00:00",
+      "excerpt": "Hi all, Unfortunately, recently a bad actor with moderator access locked the previous sheet in view-only mode. The original owner has also lost access to the email account associated with the sheet and, no recovery options had been set up, so we are unable to restore access to it. We apologize for the inconvenience :( …",
+      "topics": [
+        "i485",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -74,14 +90,15 @@
       }
     },
     {
-      "id": "t3_1w7bc0o",
-      "title": "Can I submit PP online if I have the receipt number or it’s only via mail after getting the physical copy of the receipt notice?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7bc0o/can_i_submit_pp_online_if_i_have_the_receipt/",
-      "author": "/u/FitBite2250",
-      "publishedAt": "2026-09-04T17:43:44+00:00",
-      "excerpt": "",
+      "id": "t3_1w78qsw",
+      "title": "EB2-NIW from outside the USA",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w78qsw/eb2niw_from_outside_the_usa/",
+      "author": "/u/cyril1991",
+      "publishedAt": "2026-09-04T16:11:25+00:00",
+      "excerpt": "Hi, I did a PhD in the USA and a postdoc in Europe, as an European citizen from a country with no processing backlog. I have >1k citations >10 papers including 3 first authors, including fancy journals and an EMBO grant. I do developmental biology in weird animals if I am being rough with myself, but with fancy researc…",
       "topics": [
         "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -110,15 +127,14 @@
       }
     },
     {
-      "id": "t3_1w78qsw",
-      "title": "EB2-NIW from outside the USA",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w78qsw/eb2niw_from_outside_the_usa/",
-      "author": "/u/cyril1991",
-      "publishedAt": "2026-09-04T16:11:25+00:00",
-      "excerpt": "Hi, I did a PhD in the USA and a postdoc in Europe, as an European citizen from a country with no processing backlog. I have >1k citations >10 papers including 3 first authors, including fancy journals and an EMBO grant. I do developmental biology in weird animals if I am being rough with myself, but with fancy researc…",
+      "id": "t3_1w7bc0o",
+      "title": "Can I submit PP online if I have the receipt number or it’s only via mail after getting the physical copy of the receipt notice?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7bc0o/can_i_submit_pp_online_if_i_have_the_receipt/",
+      "author": "/u/FitBite2250",
+      "publishedAt": "2026-09-04T17:43:44+00:00",
+      "excerpt": "",
       "topics": [
         "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -137,6 +153,44 @@
       "excerpt": "Hello everyone, The I-485 filer Google sheets is currently down. We are actively trying to retrieve it. Really sorry about the inconvenience! We will get it back up and running soon and update you all. Thank you very much for your patience! https://docs.google.com/spreadsheets/u/0/d/1a4s5ArJCJK43SpN0RZXxRa6PZaW-IUNe/ht…",
       "topics": [
         "i485"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w7erfv",
+      "title": "Online Filing of Original Petition- I140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7erfv/online_filing_of_original_petition_i140/",
+      "author": "/u/Independent_Cry6146",
+      "publishedAt": "2026-09-04T19:47:23+00:00",
+      "excerpt": "How is the current scenario looking like with online filing of EB2 NiW petition? I have noticed posts of Mid 2026 with technical issues. Is the system perfect now for online filing of original petition? ​ Did anyone receive I-485 approval after doing everything ( I-140, premium processing, I-485) online?",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w7ef67",
+      "title": "Denial after 3 prong RFE, seeking for advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7ef67/denial_after_3_prong_rfe_seeking_for_advice/",
+      "author": "/u/Immediate-Fact1169",
+      "publishedAt": "2026-09-04T19:34:54+00:00",
+      "excerpt": "I-140 filed Jan 2026, premium processing, TSC RFE Apr 2026 — all three prongs Response filed July 2026 (~30pg brief, 6 letters incl. 2 independent experts, citing articles, PI testimonial) Denied Sept 2026, day ~45 Background: PhD candidate in a materials/semiconductor field. 5 pubs (2 first-author, 2 co-first), ~18 ci…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -202,14 +256,16 @@
       }
     },
     {
-      "id": "t3_1w75brl",
-      "title": "For testimonial letter, is it okay with posdoc researcher or senior researcher ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w75brl/for_testimonial_letter_is_it_okay_with_posdoc/",
-      "author": "/u/Broad_One4686",
-      "publishedAt": "2026-09-04T14:03:38+00:00",
-      "excerpt": "Currently I am looking for people who can support me with testimonial letters. So, I am looking it up through Linkedin, but I am wondering, does it have the power with the testimonial letters from posdoc or senior researcher in position from the national laboratory? Or it should be chief or director?",
+      "id": "t3_1w76dho",
+      "title": "Seeking a lawfirm to file Eb2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w76dho/seeking_a_lawfirm_to_file_eb2_niw/",
+      "author": "/u/Rare-Cricket-4084",
+      "publishedAt": "2026-09-04T14:43:57+00:00",
+      "excerpt": "I’m looking to file eb2 NIW with a reputed lawfirm. I’m just worried cus there’s a lot of firms claiming to file but not sure which is best. Please recommend a firm to file with a good approval rating . Thanks",
       "topics": [
-        "question"
+        "approval",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -235,6 +291,23 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": "07/06/2026",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w75brl",
+      "title": "For testimonial letter, is it okay with posdoc researcher or senior researcher ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w75brl/for_testimonial_letter_is_it_okay_with_posdoc/",
+      "author": "/u/Broad_One4686",
+      "publishedAt": "2026-09-04T14:03:38+00:00",
+      "excerpt": "Currently I am looking for people who can support me with testimonial letters. So, I am looking it up through Linkedin, but I am wondering, does it have the power with the testimonial letters from posdoc or senior researcher in position from the national laboratory? Or it should be chief or director?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -276,25 +349,6 @@
       }
     },
     {
-      "id": "t3_1w76dho",
-      "title": "Seeking a lawfirm to file Eb2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w76dho/seeking_a_lawfirm_to_file_eb2_niw/",
-      "author": "/u/Rare-Cricket-4084",
-      "publishedAt": "2026-09-04T14:43:57+00:00",
-      "excerpt": "I’m looking to file eb2 NIW with a reputed lawfirm. I’m just worried cus there’s a lot of firms claiming to file but not sure which is best. Please recommend a firm to file with a good approval rating . Thanks",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1w6yij4",
       "title": "IVP 212(e) Condition",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6yij4/ivp_212e_condition/",
@@ -324,25 +378,6 @@
       "topics": [
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w6qhfx",
-      "title": "Law firm options for software engineer (Robinson, Springdale, Path and Ellis Porter)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6qhfx/law_firm_options_for_software_engineer_robinson/",
-      "author": "/u/Available_Ad4972",
-      "publishedAt": "2026-09-04T01:30:59+00:00",
-      "excerpt": "Law Firms Attorney fees Robinson Immigration Law ($11k for apply, RFE, refile and full refund, plus up to $2.5k if want to acquire an independent recommendation letter) Springdale Law ($10k for apply + up to $5k for RFE, incl. an expert letter, refund $3k if deny) Path ($8k for apply, up to $4k for RFE, no refund if de…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -422,50 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w6e977",
-      "title": "I-485 & OPT Suggestion",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6e977/i485_opt_suggestion/",
-      "author": "/u/FollowingBig3294",
-      "publishedAt": "2026-09-03T17:37:42+00:00",
-      "excerpt": "My I-140 recently got approved. I have a PD of January 2026 and ROW is current so I can file I-485 now. I am a Ph.D student graduating this December. I am in a dilemma of what should I do next. Should I file my OPT and then go for I-485 or vice versa. Chen suggested me to file I-485 only after OPT is approved. I would …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w6hbks",
-      "title": "I-485 transferred to local field office (Detroit) — how long until interview/waiver decision?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6hbks/i485_transferred_to_local_field_office_detroit/",
-      "author": "/u/FayNay76",
-      "publishedAt": "2026-09-03T19:24:13+00:00",
-      "excerpt": "Hi everyone! I’ve chatted with several USCIS live agents recently, and they have all told me that my I-485 has been transferred to the Detroit Field Office, which is my local field office. However, I never received an email, notice, or online status update about the transfer. All of the agents also told me that my inte…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-04T19:12:35.465Z",
+  "syncedAt": "2026-09-04T21:56:20.335Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
