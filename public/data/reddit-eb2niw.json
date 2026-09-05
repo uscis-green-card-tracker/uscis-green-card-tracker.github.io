@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1w87k4r",
+      "title": "EB-2 NIW RFE – Industry Professional / Non-Researcher: What Evidence Helped You Get Approved?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w87k4r/eb2_niw_rfe_industry_professional_nonresearcher/",
+      "author": "/u/abiram28",
+      "publishedAt": "2026-09-05T17:54:20+00:00",
+      "excerpt": "Hi everyone, I recently received an EB-2 NIW RFE and would really appreciate hearing from anyone who went through something similar and was later approved, especially those whose cases were based mainly on industry experience rather than academic research, citations, or entrepreneurship . My background is in engineerin…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w7o3pn",
       "title": "EB-2 NIW Approval - No RFE / PhD + Biotech",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7o3pn/eb2_niw_approval_no_rfe_phd_biotech/",
@@ -214,6 +233,26 @@
       }
     },
     {
+      "id": "t3_1w7nklb",
+      "title": "EB2 NIW I-140 Pending for 26 months and counting",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7nklb/eb2_niw_i140_pending_for_26_months_and_counting/",
+      "author": "/u/Odd-Pomegranate3695",
+      "publishedAt": "2026-09-05T01:56:27+00:00",
+      "excerpt": "Hi everyone, I have submitted my I140 in July 2024. It’s now 770 days and pending not a single status update yet. Have anyone submitted I140 around that time and got I140 adjudicated without upgrading to premium processing? At this point, I’m really confused about whether USCIS is processing any case without premium pr…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w74yzd",
       "title": "EB2-NIW Approval After RFE on Prongs 1&3",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w74yzd/eb2niw_approval_after_rfe_on_prongs_13/",
@@ -244,26 +283,6 @@
         "approval",
         "i485",
         "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w7nklb",
-      "title": "EB2 NIW I-140 Pending for 26 months and counting",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7nklb/eb2_niw_i140_pending_for_26_months_and_counting/",
-      "author": "/u/Odd-Pomegranate3695",
-      "publishedAt": "2026-09-05T01:56:27+00:00",
-      "excerpt": "Hi everyone, I have submitted my I140 in July 2024. It’s now 770 days and pending not a single status update yet. Have anyone submitted I140 around that time and got I140 adjudicated without upgrading to premium processing? At this point, I’m really confused about whether USCIS is processing any case without premium pr…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -457,27 +476,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w78dle",
-      "title": "RFE for prong 2 and 3 - XM1360",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w78dle/rfe_for_prong_2_and_3_xm1360/",
-      "author": "/u/Ok-Attention1112",
-      "publishedAt": "2026-09-04T15:58:32+00:00",
-      "excerpt": "I just got a long RFE from officer XM1360 from Texas on almost all prongs. If they were able they would question my phd too! Does anyone have experience with this officer? My RFE has coy paste wording from others that does not match my application.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-05T17:00:48.482Z",
+  "syncedAt": "2026-09-05T19:43:58.068Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
