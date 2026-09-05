@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1w7o3pn",
+      "title": "EB-2 NIW Approval - No RFE / PhD + Biotech",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7o3pn/eb2_niw_approval_no_rfe_phd_biotech/",
+      "author": "/u/Acrobatic_Bunch2323",
+      "publishedAt": "2026-09-05T02:22:11+00:00",
+      "excerpt": "Posting this a bit late, but wanted to share my timeline and profile to help others in the community! Timeline: Priority Date: July 30, 2025 Upgraded to PP: March 20, 2026 Approval Date: May 9, 2026 RFE: None Law Firm: Chen Immigration Attorneys Background: I originally planned to apply for NIW near the end of my PhD, …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w7epml",
       "title": "485 Filer Sheet new link",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7epml/485_filer_sheet_new_link/",
@@ -70,12 +90,32 @@
       }
     },
     {
-      "id": "t3_1w7m9u0",
-      "title": "RFE : Only 30 calender days to respond?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7m9u0/rfe_only_30_calender_days_to_respond/",
-      "author": "/u/RamboJo_hn",
-      "publishedAt": "2026-09-05T00:54:50+00:00",
-      "excerpt": "Got a pretty long RFE(most likely AI generated) and given only 30 days to respond? Is it common nowadays? Anyone else got the same?",
+      "id": "t3_1w7ow6t",
+      "title": "Losing employment & EAD is pending for >180 days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7ow6t/losing_employment_ead_is_pending_for_180_days/",
+      "author": "/u/ExerciseValuable7102",
+      "publishedAt": "2026-09-05T03:01:37+00:00",
+      "excerpt": "I am currently on H1B, my I-140 eb2-niw is approved. I-485 and EAD are pending since March. I just got told at my job today that they won’t be renewing my role at end of this year. My H1B is cap exempt and so very restricted on how much I can explore some new opportunities. I want to push at least getting EAD expedite.…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w7ef67",
+      "title": "Denial after 3 prong RFE, seeking for advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7ef67/denial_after_3_prong_rfe_seeking_for_advice/",
+      "author": "/u/Immediate-Fact1169",
+      "publishedAt": "2026-09-04T19:34:54+00:00",
+      "excerpt": "I-140 filed Jan 2026, premium processing, TSC RFE Apr 2026 — all three prongs Response filed July 2026 (~30pg brief, 6 letters incl. 2 independent experts, citing articles, PI testimonial) Denied Sept 2026, day ~45 Background: PhD candidate in a materials/semiconductor field. 5 pubs (2 first-author, 2 co-first), ~18 ci…",
       "topics": [
         "i140",
         "question"
@@ -98,24 +138,6 @@
         "approval",
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w7ef67",
-      "title": "Denial after 3 prong RFE, seeking for advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7ef67/denial_after_3_prong_rfe_seeking_for_advice/",
-      "author": "/u/Immediate-Fact1169",
-      "publishedAt": "2026-09-04T19:34:54+00:00",
-      "excerpt": "I-140 filed Jan 2026, premium processing, TSC RFE Apr 2026 — all three prongs Response filed July 2026 (~30pg brief, 6 letters incl. 2 independent experts, citing articles, PI testimonial) Denied Sept 2026, day ~45 Background: PhD candidate in a materials/semiconductor field. 5 pubs (2 first-author, 2 co-first), ~18 ci…",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -204,6 +226,24 @@
       }
     },
     {
+      "id": "t3_1w7m9u0",
+      "title": "RFE : Only 30 calender days to respond?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7m9u0/rfe_only_30_calender_days_to_respond/",
+      "author": "/u/RamboJo_hn",
+      "publishedAt": "2026-09-05T00:54:50+00:00",
+      "excerpt": "Got a pretty long RFE(most likely AI generated) and given only 30 days to respond? Is it common nowadays? Anyone else got the same?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w75g2d",
       "title": "EB2 NIW for chances for Medical researcher with masters",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w75g2d/eb2_niw_for_chances_for_medical_researcher_with/",
@@ -277,12 +317,29 @@
       }
     },
     {
+      "id": "t3_1w75brl",
+      "title": "For testimonial letter, is it okay with posdoc researcher or senior researcher ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w75brl/for_testimonial_letter_is_it_okay_with_posdoc/",
+      "author": "/u/Broad_One4686",
+      "publishedAt": "2026-09-04T14:03:38+00:00",
+      "excerpt": "Currently I am looking for people who can support me with testimonial letters. So, I am looking it up through Linkedin, but I am wondering, does it have the power with the testimonial letters from posdoc or senior researcher in position from the national laboratory? Or it should be chief or director?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w78dle",
       "title": "RFE for prong 2 and 3 - XM1360",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w78dle/rfe_for_prong_2_and_3_xm1360/",
       "author": "/u/Ok-Attention1112",
       "publishedAt": "2026-09-04T15:58:32+00:00",
-      "excerpt": "I just got a long RFE from officer XM1360 from Texas. Does anyone have experience with this officer? My RFE has coy paste wording from others that does not match my application.",
+      "excerpt": "I just got a long RFE from officer XM1360 from Texas on almost all prongs. If they were able they would question my phd too! Does anyone have experience with this officer? My RFE has coy paste wording from others that does not match my application.",
       "topics": [
         "i140",
         "question"
@@ -353,23 +410,6 @@
       }
     },
     {
-      "id": "t3_1w75brl",
-      "title": "For testimonial letter, is it okay with posdoc researcher or senior researcher ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w75brl/for_testimonial_letter_is_it_okay_with_posdoc/",
-      "author": "/u/Broad_One4686",
-      "publishedAt": "2026-09-04T14:03:38+00:00",
-      "excerpt": "Currently I am looking for people who can support me with testimonial letters. So, I am looking it up through Linkedin, but I am wondering, does it have the power with the testimonial letters from posdoc or senior researcher in position from the national laboratory? Or it should be chief or director?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1w7576v",
       "title": "EB-2 NIW: Nebraska PP → RFE to Texas → Back to Nebraska",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7576v/eb2_niw_nebraska_pp_rfe_to_texas_back_to_nebraska/",
@@ -424,48 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w6yij4",
-      "title": "IVP 212(e) Condition",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6yij4/ivp_212e_condition/",
-      "author": "/u/AssistantHaunting731",
-      "publishedAt": "2026-09-04T08:31:56+00:00",
-      "excerpt": "Hello, it is an IVP (Immigrant Visa Processing) related question. My question: Following my I-140 approval, I received an email from the NVC to start my IVP. I submitted the required documents, and my case became \"Documentarily Qualified\" in June, 2026. I got a confirmation email from the NVC stating that I am in the q…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w6pnb8",
-      "title": "EB2-NIW approval - DIY, No RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6pnb8/eb2niw_approval_diy_no_rfe/",
-      "author": "/u/Cake-eater-1704",
-      "publishedAt": "2026-09-04T00:52:29+00:00",
-      "excerpt": "Sharing my EB2-NIW approval profile and events. I hope this will be an encouragement to self-filers. Timeline : Initial filing date: May 2024 Premium processing upgrade: July 1, 2026 Approval date: Sep 2, 2026 Profile: PhD. Candidate - Biochemistry and Molecular (USA R1 university) Msc - Biochemistry and Molecular Biol…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-05T01:59:36.435Z",
+  "syncedAt": "2026-09-05T06:46:22.467Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
