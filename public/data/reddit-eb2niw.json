@@ -73,6 +73,26 @@
       }
     },
     {
+      "id": "t3_1w7w1a2",
+      "title": "Did anyone here get a straight approval without LORs?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7w1a2/did_anyone_here_get_a_straight_approval_without/",
+      "author": "/u/LiorZim",
+      "publishedAt": "2026-09-05T09:29:18+00:00",
+      "excerpt": "I submitted my petition back in the beginning of 2025, and my attorney indicated that for my case no letters are required. On the other hand, I see so many RFEs those days for people with really strong credentials. Did anyone here get a straight approval (without RFE) in the last couple of months without LORs? curious …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w7ejue",
       "title": "I-485 New Filer Sheet",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7ejue/i485_new_filer_sheet/",
@@ -81,6 +101,24 @@
       "excerpt": "Hi all, Unfortunately, recently a bad actor with moderator access locked the original sheet in view-only mode. I have also lost access to the email account associated with the sheet and, no recovery options had been set up, so we are unable to restore access to it. I apologize for the inconvenience :( We have successfu…",
       "topics": [
         "i485"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w7ef67",
+      "title": "Denial after 3 prong RFE, seeking for advice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7ef67/denial_after_3_prong_rfe_seeking_for_advice/",
+      "author": "/u/Immediate-Fact1169",
+      "publishedAt": "2026-09-04T19:34:54+00:00",
+      "excerpt": "I-140 filed Jan 2026, premium processing, TSC RFE Apr 2026 — all three prongs Response filed July 2026 (~30pg brief, 6 letters incl. 2 independent experts, citing articles, PI testimonial) Denied Sept 2026, day ~45 Background: PhD candidate in a materials/semiconductor field. 5 pubs (2 first-author, 2 co-first), ~18 ci…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -99,24 +137,6 @@
       "topics": [
         "approval",
         "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w7ef67",
-      "title": "Denial after 3 prong RFE, seeking for advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7ef67/denial_after_3_prong_rfe_seeking_for_advice/",
-      "author": "/u/Immediate-Fact1169",
-      "publishedAt": "2026-09-04T19:34:54+00:00",
-      "excerpt": "I-140 filed Jan 2026, premium processing, TSC RFE Apr 2026 — all three prongs Response filed July 2026 (~30pg brief, 6 letters incl. 2 independent experts, citing articles, PI testimonial) Denied Sept 2026, day ~45 Background: PhD candidate in a materials/semiconductor field. 5 pubs (2 first-author, 2 co-first), ~18 ci…",
-      "topics": [
         "i140",
         "question"
       ],
@@ -334,6 +354,25 @@
       }
     },
     {
+      "id": "t3_1w73uou",
+      "title": "Rfe on all 3 prongs, chances of success?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w73uou/rfe_on_all_3_prongs_chances_of_success/",
+      "author": "/u/Impractical-Winner",
+      "publishedAt": "2026-09-04T13:04:33+00:00",
+      "excerpt": "PE: immunological research Background: MD and academia Lawyer says uscis pp has a general response for giving out rfes these days. Anyone been successful after getting rfe on all 3 prongs?",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w78dle",
       "title": "RFE for prong 2 and 3 - XM1360",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w78dle/rfe_for_prong_2_and_3_xm1360/",
@@ -426,47 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w73uou",
-      "title": "Rfe on all 3 prongs, chances of success?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w73uou/rfe_on_all_3_prongs_chances_of_success/",
-      "author": "/u/Impractical-Winner",
-      "publishedAt": "2026-09-04T13:04:33+00:00",
-      "excerpt": "PE: immunological research Background: MD and academia Lawyer says uscis pp has a general response for giving out rfes these days. Anyone been successful after getting rfe on all 3 prongs?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w6tby6",
-      "title": "Does this mean the RFE response is reviewed by a different officer?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w6tby6/does_this_mean_the_rfe_response_is_reviewed_by_a/",
-      "author": "/u/Goodboy0296",
-      "publishedAt": "2026-09-04T03:47:49+00:00",
-      "excerpt": "I keep seeing this in chen success stories: “The adjudication involved transfers from the Nebraska Service Center to the Texas Service Center and then back to the Nebraska Service Center with a premium processing upgrade.” Does this mean the RFE response can be reviewed by a different officer than the one who issued th…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-05T06:46:22.467Z",
+  "syncedAt": "2026-09-05T11:02:53.919Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
