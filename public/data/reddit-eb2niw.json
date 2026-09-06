@@ -53,6 +53,27 @@
       }
     },
     {
+      "id": "t3_1w98aby",
+      "title": "APPROVALS on this sub, week 36 of 2026",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w98aby/approvals_on_this_sub_week_36_of_2026/",
+      "author": "/u/equalizer-rage",
+      "publishedAt": "2026-09-06T21:07:20+00:00",
+      "excerpt": "Hi all, I am tracking all posts on this subreddit through automation, and decided to share with the community. This week I registered 17 posts with approvals. I am posting the approvals without links below, please check the full list of 17 approvals with their associated links for week 36 on r/VisaStats if interested. …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1w92gou",
       "title": "Will the USCIS shortened response time for RFE be litigated?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w92gou/will_the_uscis_shortened_response_time_for_rfe_be/",
@@ -453,31 +474,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w81f94",
-      "title": "I485 Withdrawal Timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w81f94/i485_withdrawal_timeline/",
-      "author": "/u/Ecstatic_Papaya_993",
-      "publishedAt": "2026-09-05T13:55:29+00:00",
-      "excerpt": "Has anyone recently withdrawn a pending I-485 while keeping the NIW I-140 pending? I currently have an EB-2 NIW I-140 with an RFE and a concurrently filed I-485. I also have another approved employment-based I-140, but I cannot file a new I-485 until the current one is formally closed. My lawyer outlined three options:…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-06T19:45:04.354Z",
+  "syncedAt": "2026-09-06T21:50:09.613Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
