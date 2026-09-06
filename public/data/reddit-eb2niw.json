@@ -74,15 +74,14 @@
       }
     },
     {
-      "id": "t3_1w8f7xn",
-      "title": "I-485 Experience with Chen",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w8f7xn/i485_experience_with_chen/",
-      "author": "/u/Soggy-Grapefruit8614",
-      "publishedAt": "2026-09-05T22:58:08+00:00",
-      "excerpt": "As the title suggests, any experience with them and how many days they processed your case? I think they are slow for the reason that they are just there to proofread the submitting documents. I regret availing their services, I should've DIY.",
+      "id": "t3_1w8eiv1",
+      "title": "I received an RFE on Prongs 1 and 3 - how do I prove national importance?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w8eiv1/i_received_an_rfe_on_prongs_1_and_3_how_do_i/",
+      "author": "/u/PsychologicalPace836",
+      "publishedAt": "2026-09-05T22:27:46+00:00",
+      "excerpt": "I got an RFE for Prongs 1 and 3 of my NIW petition. For Prong 1, the officer accepted that my endeavor has substantial merit, but questioned its national importance. How did you demonstrate that your proposed work has national importance? Any advice or experience you can share would be greatly appreciated. Thank you!!!",
       "topics": [
-        "i485",
-        "lawyer",
+        "i140",
         "question"
       ],
       "signals": {
@@ -93,14 +92,53 @@
       }
     },
     {
-      "id": "t3_1w8eiv1",
-      "title": "I received an RFE on Prongs 1 and 3 - how do I prove national importance?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w8eiv1/i_received_an_rfe_on_prongs_1_and_3_how_do_i/",
-      "author": "/u/PsychologicalPace836",
-      "publishedAt": "2026-09-05T22:27:46+00:00",
-      "excerpt": "I got an RFE for Prongs 1 and 3 of my NIW petition. For Prong 1, the officer accepted that my endeavor has substantial merit, but questioned its national importance. How did you demonstrate that your proposed work has national importance? Any advice or experience you can share would be greatly appreciated. Thank you!!!",
+      "id": "t3_1w8ghor",
+      "title": "O-1A premium processing : RFE \"cancelled\" without ever being sent, PP fee refunded, no decision. Anyone seen this?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w8ghor/o1a_premium_processing_rfe_cancelled_without_ever/",
+      "author": "/u/encephalon_developer",
+      "publishedAt": "2026-09-05T23:54:35+00:00",
+      "excerpt": "O-1A filed with premium processing, receipted July 23 (Vermont). On Aug 12, the status changed to \"Cancellation Notice for Request for Additional Evidence,\" but neither my attorney nor I ever received an RFE. USCIS officers on the phone confirmed the cancellation with no reason, said they need more time, and that the c…",
       "topics": [
         "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w8au7z",
+      "title": "Change of address for i-140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w8au7z/change_of_address_for_i140/",
+      "author": "/u/Ok-Attention1112",
+      "publishedAt": "2026-09-05T19:58:51+00:00",
+      "excerpt": "I moved a year ago and changed my address online at my uscis account and by form AR-11. My i140 application does not on my online account. My application still has my old address. I realized from talking to online agent and from my RFE form. Anyone has the same problem?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w8f7xn",
+      "title": "I-485 Experience with Chen",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w8f7xn/i485_experience_with_chen/",
+      "author": "/u/Soggy-Grapefruit8614",
+      "publishedAt": "2026-09-05T22:58:08+00:00",
+      "excerpt": "As the title suggests, any experience with them and how many days they processed your case? I think they are slow for the reason that they are just there to proofread the submitting documents. I regret availing their services, I should've DIY.",
+      "topics": [
+        "i485",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -129,24 +167,6 @@
       }
     },
     {
-      "id": "t3_1w8au7z",
-      "title": "Change of address for i-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w8au7z/change_of_address_for_i140/",
-      "author": "/u/Ok-Attention1112",
-      "publishedAt": "2026-09-05T19:58:51+00:00",
-      "excerpt": "I moved a year ago and changed my address online at my uscis account and by form AR-11. My i140 application does not on my online account. My application still has my old address. I realized from talking to online agent and from my RFE form. Anyone has the same problem?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1w7o3pn",
       "title": "EB-2 NIW Approval - No RFE / PhD + Biotech",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7o3pn/eb2_niw_approval_no_rfe_phd_biotech/",
@@ -158,6 +178,26 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1w7w1a2",
+      "title": "Did anyone here get a straight approval without LORs?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7w1a2/did_anyone_here_get_a_straight_approval_without/",
+      "author": "/u/LiorZim",
+      "publishedAt": "2026-09-05T09:29:18+00:00",
+      "excerpt": "I submitted my petition back in the beginning of 2025, and my attorney indicated that for my case no letters are required. On the other hand, I see so many RFEs those days for people with really strong credentials. Did anyone here get a straight approval (without RFE) in the last couple of months without LORs? curious …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -243,26 +283,6 @@
         "i140",
         "lawyer",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1w7w1a2",
-      "title": "Did anyone here get a straight approval without LORs?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7w1a2/did_anyone_here_get_a_straight_approval_without/",
-      "author": "/u/LiorZim",
-      "publishedAt": "2026-09-05T09:29:18+00:00",
-      "excerpt": "I submitted my petition back in the beginning of 2025, and my attorney indicated that for my case no letters are required. On the other hand, I see so many RFEs those days for people with really strong credentials. Did anyone here get a straight approval (without RFE) in the last couple of months without LORs? curious …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -460,27 +480,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w7m9u0",
-      "title": "RFE : Only 30 calender days to respond?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w7m9u0/rfe_only_30_calender_days_to_respond/",
-      "author": "/u/RamboJo_hn",
-      "publishedAt": "2026-09-05T00:54:50+00:00",
-      "excerpt": "Got a pretty long RFE(most likely AI generated) and given only 30 days to respond? Is it common nowadays? Anyone else got the same?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-05T23:26:47.351Z",
+  "syncedAt": "2026-09-06T01:54:54.884Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
