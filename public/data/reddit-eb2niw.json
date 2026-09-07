@@ -54,6 +54,25 @@
       }
     },
     {
+      "id": "t3_1w9r0d4",
+      "title": "EB2-NIW from 75 paused country, spouse in India",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w9r0d4/eb2niw_from_75_paused_country_spouse_in_india/",
+      "author": "/u/Sudden_Cry9690",
+      "publishedAt": "2026-09-07T12:37:27+00:00",
+      "excerpt": "Hello, I have pending I-140 under premium processing. My priority date is current as I am not from India or China. My husband stays in India and is Indian. I am on a F-1 in the US. My husband has a B1/B2 visa. Could you suggest if having him do I-485 or IVP from India is a better strategy for us? We don’t want to spark…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1w98aby",
       "title": "APPROVALS on this sub, week 36 of 2026",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1w98aby/approvals_on_this_sub_week_36_of_2026/",
@@ -451,29 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1w838b2",
-      "title": "Can I file EB-2 NIW in the US while my asylum case is pending? Or does it have to be filed in my home country?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1w838b2/can_i_file_eb2_niw_in_the_us_while_my_asylum_case/",
-      "author": "/u/yooobab",
-      "publishedAt": "2026-09-05T15:08:10+00:00",
-      "excerpt": "I’m currently in the US with a pending asylum case and a valid EAD. I’m considering filing for EB-2 NIW. Can I file the I-140 while I’m still in the US, or do I have to file it in my home country? Also, if I file the I-140, do I need to file I-485 at the same time? Or can I wait until the I-140 is approved? I’m mainly …",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-07T06:47:15.214Z",
+  "syncedAt": "2026-09-07T13:08:22.975Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
