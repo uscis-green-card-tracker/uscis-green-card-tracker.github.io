@@ -91,15 +91,14 @@
       }
     },
     {
-      "id": "t3_1wa99fc",
-      "title": "EB-2 NIW — can I reword my “proposed endeavor” to make it more specific?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wa99fc/eb2_niw_can_i_reword_my_proposed_endeavor_to_make/",
-      "author": "/u/PsychologicalPace836",
-      "publishedAt": "2026-09-08T00:27:43+00:00",
-      "excerpt": "USCIS wants my proposed endeavor to be more specific. My question: am I allowed to rewrite the wording, or does it have to stay exactly as I originally submitted it? To be clear, I'm not changing what I actually plan to do. I just want to make it specific— the specific problem, the methods, where I'll do the work, and …",
+      "id": "t3_1wahtar",
+      "title": "Industry professional looking for Law firm recommendation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wahtar/industry_professional_looking_for_law_firm/",
+      "author": "/u/Akkystau",
+      "publishedAt": "2026-09-08T07:46:02+00:00",
+      "excerpt": "I have a bachelor's degree in Electrical Engineering and an MBA from US universities. Worked in the renewables sector in the US and am currently working on a data center project. Have no publications or citations, but I have judged case competitions. Looking for a law firm recommendation. I have concerns about choosing…",
       "topics": [
-        "i140",
-        "question"
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -136,6 +135,24 @@
         "approval",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wa99fc",
+      "title": "EB-2 NIW — can I reword my “proposed endeavor” to make it more specific?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wa99fc/eb2_niw_can_i_reword_my_proposed_endeavor_to_make/",
+      "author": "/u/PsychologicalPace836",
+      "publishedAt": "2026-09-08T00:27:43+00:00",
+      "excerpt": "USCIS wants my proposed endeavor to be more specific. My question: am I allowed to rewrite the wording, or does it have to stay exactly as I originally submitted it? To be clear, I'm not changing what I actually plan to do. I just want to make it specific— the specific problem, the methods, where I'll do the work, and …",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -200,6 +217,24 @@
       }
     },
     {
+      "id": "t3_1wa9a4n",
+      "title": "July 10-14 EB2-NIW PP applicants … Status Updates???",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wa9a4n/july_1014_eb2niw_pp_applicants_status_updates/",
+      "author": "/u/Kind_Medium6774",
+      "publishedAt": "2026-09-08T00:28:37+00:00",
+      "excerpt": "PP Applicants for EB2-NIW with PD between July 10-15 .. what is your application status ?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wac2uf",
       "title": "In the removal proceeding, my I-140 got approved. Can someone recommend me an attorney who can help with AOS in the court system?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wac2uf/in_the_removal_proceeding_my_i140_got_approved/",
@@ -211,41 +246,6 @@
         "i485",
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1waacn5",
-      "title": "How do you check for silent updates on a pending application ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1waacn5/how_do_you_check_for_silent_updates_on_a_pending/",
-      "author": "/u/FitBite2250",
-      "publishedAt": "2026-09-08T01:17:20+00:00",
-      "excerpt": "",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wa9a4n",
-      "title": "July 10-14 EB2-NIW PP applicants … Status Updates???",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wa9a4n/july_1014_eb2niw_pp_applicants_status_updates/",
-      "author": "/u/Kind_Medium6774",
-      "publishedAt": "2026-09-08T00:28:37+00:00",
-      "excerpt": "PP Applicants for EB2-NIW with PD between July 10-15 .. what is your application status ?",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -465,7 +465,7 @@
       }
     }
   ],
-  "syncedAt": "2026-09-08T07:32:44.879Z",
+  "syncedAt": "2026-09-08T12:23:02.770Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
