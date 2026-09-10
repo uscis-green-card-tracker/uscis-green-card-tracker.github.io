@@ -35,13 +35,14 @@
       }
     },
     {
-      "id": "t3_1wc1iqo",
-      "title": "I140 - Denied after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc1iqo/i140_denied_after_rfe/",
-      "author": "/u/TsChalaUNO",
-      "publishedAt": "2026-09-09T23:07:41+00:00",
-      "excerpt": "Initial filing: March 31, 2026 Upgraded to Premium Processing: April 21, 2026 RFE: June 2, 2026 - all three prongs Responded to RFE: August 26, 2026 Denial: September 8, 2026 Attorney: Arkell/Dunn (now they are called Husch Blackwell) Officer: XM2384 Service Center: TSC My profile at the time of submission was: Ph.D. i…",
+      "id": "t3_1wc8j2x",
+      "title": "EB2 NIW I-140 approved, from 39 countries",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc8j2x/eb2_niw_i140_approved_from_39_countries/",
+      "author": "/u/SharePrestigious8724",
+      "publishedAt": "2026-09-10T04:18:10+00:00",
+      "excerpt": "March 19 filed application, upgraded to PP July 10, approved Sep 10. No RFE. Filed with Chen. - Currently a medical resident - PE was medical research (cardiology related) - 69 citations at time of filing",
       "topics": [
+        "approval",
         "i140",
         "lawyer"
       ],
@@ -72,14 +73,13 @@
       }
     },
     {
-      "id": "t3_1wc8j2x",
-      "title": "EB2 NIW I-140 approved, from 39 countries",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc8j2x/eb2_niw_i140_approved_from_39_countries/",
-      "author": "/u/SharePrestigious8724",
-      "publishedAt": "2026-09-10T04:18:10+00:00",
-      "excerpt": "March 19 filed application, upgraded to PP July 10, approved Sep 10. No RFE. Filed with Chen. - Currently a medical resident - PE was medical research (cardiology related) - 69 citations at time of filing",
+      "id": "t3_1wc1iqo",
+      "title": "I140 - Denied after RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc1iqo/i140_denied_after_rfe/",
+      "author": "/u/TsChalaUNO",
+      "publishedAt": "2026-09-09T23:07:41+00:00",
+      "excerpt": "Initial filing: March 31, 2026 Upgraded to Premium Processing: April 21, 2026 RFE: June 2, 2026 - all three prongs Responded to RFE: August 26, 2026 Denial: September 8, 2026 Attorney: Arkell/Dunn (now they are called Husch Blackwell) Officer: XM2384 Service Center: TSC My profile at the time of submission was: Ph.D. i…",
       "topics": [
-        "approval",
         "i140",
         "lawyer"
       ],
@@ -145,25 +145,6 @@
       }
     },
     {
-      "id": "t3_1wbxz82",
-      "title": "My EB-2 NIW Experience with Chen – Approved with No RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wbxz82/my_eb2_niw_experience_with_chen_approved_with_no/",
-      "author": "/u/lion_rises",
-      "publishedAt": "2026-09-09T20:52:32+00:00",
-      "excerpt": "I wanted to share my positive experience with Chen for my EB-2 NIW petition. I’m a PhD student in an engineering field and had 5 high-ranked publications at the time of filing. The petition was well prepared and tailored to my research background, with no recommendation letters required. Communication was responsive, t…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wc9mpb",
       "title": "Is there an advantage to applying by mail over applying online?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc9mpb/is_there_an_advantage_to_applying_by_mail_over/",
@@ -208,6 +189,25 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wbxz82",
+      "title": "My EB-2 NIW Experience with Chen – Approved with No RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wbxz82/my_eb2_niw_experience_with_chen_approved_with_no/",
+      "author": "/u/lion_rises",
+      "publishedAt": "2026-09-09T20:52:32+00:00",
+      "excerpt": "I wanted to share my positive experience with Chen for my EB-2 NIW petition. I’m a PhD student in an engineering field and had 5 high-ranked publications at the time of filing. The petition was well prepared and tailored to my research background, with no recommendation letters required. Communication was responsive, t…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -458,7 +458,7 @@
       }
     }
   ],
-  "syncedAt": "2026-09-10T07:37:19.725Z",
+  "syncedAt": "2026-09-10T12:29:01.460Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
