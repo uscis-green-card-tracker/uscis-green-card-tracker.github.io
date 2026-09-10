@@ -74,6 +74,21 @@
       }
     },
     {
+      "id": "t3_1wcui25",
+      "title": "I get so happy seeing the approvals as if happens for myself 🤩",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcui25/i_get_so_happy_seeing_the_approvals_as_if_happens/",
+      "author": "/u/OkBanana2210",
+      "publishedAt": "2026-09-10T20:15:41+00:00",
+      "excerpt": "",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wckwp0",
       "title": "I-140 Approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wckwp0/i140_approved/",
@@ -82,6 +97,24 @@
       "excerpt": "Just got my EB-2 NIW approved without an RFE ! I actually filed my NIW back in 2023 and unfortunately got denied in September 2025 after an RFE. My previous denial post is here: https://www.reddit.com/r/EB2_NIW/comments/1nr598u/denial_after_rfe/ After that, I filed both EB-1A and NIW and eventually upgraded to PP for m…",
       "topics": [
         "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wcwfwm",
+      "title": "Honest review of bob webber",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcwfwm/honest_review_of_bob_webber/",
+      "author": "/u/Low_Replacement2686",
+      "publishedAt": "2026-09-10T21:28:15+00:00",
+      "excerpt": "Hey! I wanted to write an honest encounter of working with Bob Webber so that who ever chooses to work with him knows what to expect. I realized there is not a lot of reviews of EB2-NIW lawyers, so sharing our honest encounters here might be a great way to highlight who is effective and who is not. I hired Bob Webber i…",
+      "topics": [
         "i140",
         "lawyer"
       ],
@@ -132,6 +165,82 @@
       }
     },
     {
+      "id": "t3_1wcwfr9",
+      "title": "Frustrated with Chen for RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcwfr9/frustrated_with_chen_for_rfe/",
+      "author": "/u/Fun_Prize_564",
+      "publishedAt": "2026-09-10T21:28:07+00:00",
+      "excerpt": "My RFE due is in two weeks and I have not received any response from the attorney. I submitted the draft of whatever they asked in their templated message on portal but since then they have not been responding to my messages or provided their initial version of the repsonse letters. Please suggest what can I do. Anyone…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wcvrfb",
+      "title": "EB-2 NIW for an Industrial/Business Entrepreneur (HVAC Contractor): Manifest Law vs. Colombo & Hurd, or hidden gems?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcvrfb/eb2_niw_for_an_industrialbusiness_entrepreneur/",
+      "author": "/u/Essam0O",
+      "publishedAt": "2026-09-10T21:02:14+00:00",
+      "excerpt": "Hey everyone, I’m currently navigating the EB-2 NIW process as a mechanical engineer and business owner operating an HVAC contracting enterprise. I’ve been vetting a few immigration firms and ran into a roadblock regarding their drafting approach and lack of concrete financial protection policies, which made me walk aw…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wcvofo",
+      "title": "NIW got hit with an RFE denying all 3 prongs — sanity check on my response strategy?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcvofo/niw_got_hit_with_an_rfe_denying_all_3_prongs/",
+      "author": "/u/Natural_Detective463",
+      "publishedAt": "2026-09-10T20:59:18+00:00",
+      "excerpt": "Filed my own EB-2 NIW back in July, PP, TSC Officer: XM2358. Got the RFE this week. Officer conceded I qualify as an advanced degree professional and that my endeavor has substantial merit — then denied all three prongs. Response is due in about a month. Field is healthcare supply chain resilience — I independently dev…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wcm1hq",
+      "title": "Waypoint or Colombo&Hurd",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcm1hq/waypoint_or_colombohurd/",
+      "author": "/u/Double_Dig_4767",
+      "publishedAt": "2026-09-10T15:14:10+00:00",
+      "excerpt": "I plan to file for my NIW. Both waypoint and colombo & hurd accepted my profile. I am positioning myself as an industry profile rather than a research profile. Which is a better firm? Can you share your experiences with either ? Also are there any other attorneys i should consider who have good approval rates ?",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wc1iqo",
       "title": "I140 - Denied after RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc1iqo/i140_denied_after_rfe/",
@@ -169,16 +278,14 @@
       }
     },
     {
-      "id": "t3_1wcm1hq",
-      "title": "Waypoint or Colombo&Hurd",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcm1hq/waypoint_or_colombohurd/",
-      "author": "/u/Double_Dig_4767",
-      "publishedAt": "2026-09-10T15:14:10+00:00",
-      "excerpt": "I plan to file for my NIW. Both waypoint and colombo & hurd accepted my profile. I am positioning myself as an industry profile rather than a research profile. Which is a better firm? Can you share your experiences with either ? Also are there any other attorneys i should consider who have good approval rates ?",
+      "id": "t3_1wctcs0",
+      "title": "Most Suitable or Faster Route to Green Card - Advice Needed!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wctcs0/most_suitable_or_faster_route_to_green_card/",
+      "author": "/u/ehsaanshah303",
+      "publishedAt": "2026-09-10T19:33:54+00:00",
+      "excerpt": "Hi to all experts, I'm an incoming intl student (M22) for the STEM graduate program (IT), who wants to plan the immigration journey carefully with considering the better or more faster way to be able to get a green card. My goal is to get finish the degree, work on OPT, get a job and then eventually get the H1b to proc…",
       "topics": [
-        "approval",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -261,6 +368,26 @@
       }
     },
     {
+      "id": "t3_1wby7cl",
+      "title": "RFE Prep Ahead",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wby7cl/rfe_prep_ahead/",
+      "author": "/u/Affectionate_Pin5562",
+      "publishedAt": "2026-09-09T21:00:51+00:00",
+      "excerpt": "I am in my PP window waiting for I140 decision. Will have a decision hopefully around the second week of October. Since RFE submission timeline is 30 days, would it be wise to prepare for RFE from now assuming I got RFE on all prongs? If yes, how should I begin? I filed with EP, no letter of recommendation submitted.",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wbxzhn",
       "title": "Chen Attorney Ashley Lago",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wbxzhn/chen_attorney_ashley_lago/",
@@ -288,26 +415,6 @@
       "publishedAt": "2026-09-09T22:51:44+00:00",
       "excerpt": "how much total it cost for form I-693 to get signed",
       "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wby7cl",
-      "title": "RFE Prep Ahead",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wby7cl/rfe_prep_ahead/",
-      "author": "/u/Affectionate_Pin5562",
-      "publishedAt": "2026-09-09T21:00:51+00:00",
-      "excerpt": "I am in my PP window waiting for I140 decision. Will have a decision hopefully around the second week of October. Since RFE submission timeline is 30 days, would it be wise to prepare for RFE from now assuming I got RFE on all prongs? If yes, how should I begin? I filed with EP, no letter of recommendation submitted.",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -351,121 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wc9mpb",
-      "title": "Is there an advantage to applying by mail over applying online?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc9mpb/is_there_an_advantage_to_applying_by_mail_over/",
-      "author": "/u/5ShadesofRei",
-      "publishedAt": "2026-09-10T05:13:29+00:00",
-      "excerpt": "I am at the final stages of preparing my I-140 NIW package, and I’m wondering why I see so many people still submitting by mail when online submission is available. Is there an advantage to that? I’m seeing an increasing number of headlines saying that they submitted 4-2 months ago and still don’t have a receipt/case n…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wbp6qo",
-      "title": "I-485 EB-2 NIW: Do I Need Bank Statements If My Research Fellow Position Is Unpaid?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wbp6qo/i485_eb2_niw_do_i_need_bank_statements_if_my/",
-      "author": "/u/Technical_Trip3071",
-      "publishedAt": "2026-09-09T15:43:09+00:00",
-      "excerpt": "I’m filing I-485 based on an approved EB-2 NIW. My current Tufts letter officially states “Job Title: Research Fellow” and “Classification: Volunteer.” The position is unpaid, so I don’t receive salary or pay stubs. Would you recommend including recent personal bank statements as evidence of financial support solely be…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wc0ypu",
-      "title": "EB2-NIW profile check — aerospace/robotics PhD",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc0ypu/eb2niw_profile_check_aerospacerobotics_phd/",
-      "author": "/u/Humble_Astronomer_33",
-      "publishedAt": "2026-09-09T22:45:26+00:00",
-      "excerpt": "Planning to file EB2-NIW in the next couple of months with an attorney. Would appreciate a reality check, especially on the specific weakness at the end. Background BS and MS in aerospace engineering, MS in 2022 Currently a 3rd-year PhD student in aerospace engineering at a US public university, expected 2028 Filing as…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wc0sfk",
-      "title": "Anyone worked with David Kramer at Chen ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wc0sfk/anyone_worked_with_david_kramer_at_chen/",
-      "author": "/u/RepulsiveMarch6259",
-      "publishedAt": "2026-09-09T22:38:42+00:00",
-      "excerpt": "How was your experience?",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wbrz2o",
-      "title": "Experiences with wegreened lawyer Elliot C.?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wbrz2o/experiences_with_wegreened_lawyer_elliot_c/",
-      "author": "/u/ZealousidealEar106",
-      "publishedAt": "2026-09-09T17:22:11+00:00",
-      "excerpt": "",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wbwl2z",
-      "title": "I-140 RFE” tab",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wbwl2z/i140_rfe_tab/",
-      "author": "/u/Electronic-Flan-3218",
-      "publishedAt": "2026-09-09T20:02:49+00:00",
-      "excerpt": "Hi everyone, I’m working with Chen on an EB-2 NIW case and recently received an RFE. My attorney told me that they finished reviewing the RFE and uploaded several documents under a new “I-140 RFE” tab in the portal, and asked me to use that tab instead of the regular Documents tab. The problem is that I don’t see an I-…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-10T19:20:35.851Z",
+  "syncedAt": "2026-09-10T22:04:23.421Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
