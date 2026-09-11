@@ -54,6 +54,24 @@
       }
     },
     {
+      "id": "t3_1wdsu9u",
+      "title": "Interesting observation ydt from official USCIS numbers: NIW and Extraordinary ability are reversed correlation in approvals percentages.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdsu9u/interesting_observation_ydt_from_official_uscis/",
+      "author": "/u/tomerh120",
+      "publishedAt": "2026-09-11T21:07:58+00:00",
+      "excerpt": "Interesting observation ydt: NIW and Extraordinary ability are reversed correlation in approvals, meaning NIW approval goes higher ( from 42.5% in Q1 to 55.3% in Q3) while Extraordinary ability approvals goes lower (47.5% in Q1 to 33.2% in Q3) as gov catch a lot of fake companies and sponsorships for eb2 workers. scamm…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wdidhf",
       "title": "Do you think this is true?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdidhf/do_you_think_this_is_true/",
@@ -72,14 +90,13 @@
       }
     },
     {
-      "id": "t3_1wdoh3s",
-      "title": "F-1 student graduating Dec 2026: Can I file I-485 now before applying for OPT?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdoh3s/f1_student_graduating_dec_2026_can_i_file_i485/",
-      "author": "/u/3Ddynamo",
-      "publishedAt": "2026-09-11T18:29:21+00:00",
-      "excerpt": "Hi everyone, My priority date is current under the Dates for Filing chart. My questions: Can I file I-485 NOW while still in F-1 status (before graduation), or do I need to wait until I'm on OPT? If I file I-485 now, can I still file my OPT application (I-765, category c3b) in September 2026 (90 days before my program …",
+      "id": "t3_1wdqkhv",
+      "title": "New rule to file Extension of Status, with applied 140 in record",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdqkhv/new_rule_to_file_extension_of_status_with_applied/",
+      "author": "/u/Losemonics",
+      "publishedAt": "2026-09-11T19:43:16+00:00",
+      "excerpt": "I applied for an I-140 under the NIW category last year, but unfortunately, it was denied. I am now at the stage where I expect to graduate by the end of the spring semester. Therefore, I will need to file for EOS along with my OPT application. I am a little worried that my previous I-140 filing and immigrant intent co…",
       "topics": [
-        "i485",
         "i140",
         "question"
       ],
@@ -91,13 +108,14 @@
       }
     },
     {
-      "id": "t3_1wdqkhv",
-      "title": "New rule to file Extension of Status, with applied 140 in record",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdqkhv/new_rule_to_file_extension_of_status_with_applied/",
-      "author": "/u/Losemonics",
-      "publishedAt": "2026-09-11T19:43:16+00:00",
-      "excerpt": "I applied for an I-140 under the NIW category last year, but unfortunately, it was denied. I am now at the stage where I expect to graduate by the end of the spring semester. Therefore, I will need to file for EOS along with my OPT application. I am a little worried that my previous I-140 filing and immigrant intent co…",
+      "id": "t3_1wdoh3s",
+      "title": "F-1 student graduating Dec 2026: Can I file I-485 now before applying for OPT?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdoh3s/f1_student_graduating_dec_2026_can_i_file_i485/",
+      "author": "/u/3Ddynamo",
+      "publishedAt": "2026-09-11T18:29:21+00:00",
+      "excerpt": "Hi everyone, My priority date is current under the Dates for Filing chart. My questions: Can I file I-485 NOW while still in F-1 status (before graduation), or do I need to wait until I'm on OPT? If I file I-485 now, can I still file my OPT application (I-765, category c3b) in September 2026 (90 days before my program …",
       "topics": [
+        "i485",
         "i140",
         "question"
       ],
@@ -439,29 +457,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wcoanh",
-      "title": "EB2 NIW ROW: Case Transferred Back from FO to NBC due to Retrogression: Please Share Your Experience!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcoanh/eb2_niw_row_case_transferred_back_from_fo_to_nbc/",
-      "author": "/u/Ok_Flower_1322",
-      "publishedAt": "2026-09-10T16:36:25+00:00",
-      "excerpt": "Hey folks, I submitted my EB-2-based I-485 case in March 2026 (EB2 ROW). The case was eventually sent to the LAC FO. There, I received a 3rd FTA0 and eventually two FTA1s. No approval, though. Today, I spoke with Emma, and the agent mentioned that the case was sent back to NBC due to visa retrogression. Clearly, the Se…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-11T20:41:31.373Z",
+  "syncedAt": "2026-09-11T22:53:03.019Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
