@@ -108,6 +108,26 @@
       }
     },
     {
+      "id": "t3_1wd8rhi",
+      "title": "Applying for Medicaid for my US-citizen newborn under my name — will this hurt my NIW EB2 application?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wd8rhi/applying_for_medicaid_for_my_uscitizen_newborn/",
+      "author": "/u/Electronic-Grand9705",
+      "publishedAt": "2026-09-11T06:59:45+00:00",
+      "excerpt": "Hi everyone, I have a newborn baby who is a US citizen by birth. I'm planning to apply for Medicaid for the baby, but the application itself will need to be filed under my name (as the parent/guardian) since the baby obviously can't apply on their own. I'm currently in the process of an EB2 NIW (National Interest Waive…",
+      "topics": [
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wcwfwm",
       "title": "Honest review of bob webber",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcwfwm/honest_review_of_bob_webber/",
@@ -163,15 +183,14 @@
       }
     },
     {
-      "id": "t3_1wcwfr9",
-      "title": "Frustrated with Chen for RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcwfr9/frustrated_with_chen_for_rfe/",
-      "author": "/u/Fun_Prize_564",
-      "publishedAt": "2026-09-10T21:28:07+00:00",
-      "excerpt": "My RFE due is in two weeks and I have not received any response from the attorney. I submitted the draft of whatever they asked in their templated message on portal but since then they have not been responding to my messages or provided their initial version of the repsonse letters. Please suggest what can I do. Anyone…",
+      "id": "t3_1wd8ha3",
+      "title": "Any chance?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wd8ha3/any_chance/",
+      "author": "/u/Plenty_Ad_7618",
+      "publishedAt": "2026-09-11T06:43:13+00:00",
+      "excerpt": "Hi everyone! I’m considering applying for an EB-2 NIW and would appreciate some advice on whether my profile is competitive. B.S. + M.S. in Urban Planning (home country) + 2 years experience Ph.D. in Public Policy (U.S.) 5 years of graduate research/assistantship experience including NSF & DOT-funded projects 3 publica…",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -257,25 +276,6 @@
       }
     },
     {
-      "id": "t3_1wd1nil",
-      "title": "Question about Chen’s first evaluation timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wd1nil/question_about_chens_first_evaluation_timeline/",
-      "author": "/u/Sugiyama2026",
-      "publishedAt": "2026-09-11T01:05:23+00:00",
-      "excerpt": "Hi everyone, I have a question regarding Chen’s first evaluation. I submitted my CV to Chen for an initial evaluation, and they followed up by email asking for some additional information before they could provide the evaluation result. I replied to their email last week, and it has now been exactly one week, but I sti…",
-      "topics": [
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wd1lmd",
       "title": "Seeking information",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wd1lmd/seeking_information/",
@@ -313,14 +313,15 @@
       }
     },
     {
-      "id": "t3_1wcxk38",
-      "title": "EB2-NIW for Aircraft Mechanics?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcxk38/eb2niw_for_aircraft_mechanics/",
-      "author": "/u/notsofriendlyfae",
-      "publishedAt": "2026-09-10T22:12:02+00:00",
-      "excerpt": "Hello. Are there any Aircrafts Mechanics or Technicians here who managed to have successful EB2-NIW applications? I would appreciate some feedback on my profile: EASA B1 holder with 5 type-ratings FAA A&P IA license 15+ years experience mostly in line maintainance for major airlines Bachelors of Science in Aircraft Mai…",
+      "id": "t3_1wcwfr9",
+      "title": "Frustrated with Chen for RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcwfr9/frustrated_with_chen_for_rfe/",
+      "author": "/u/Fun_Prize_564",
+      "publishedAt": "2026-09-10T21:28:07+00:00",
+      "excerpt": "My RFE due is in two weeks and I have not received any response from the attorney. I submitted the draft of whatever they asked in their templated message on portal but since then they have not been responding to my messages or provided their initial version of the repsonse letters. Please suggest what can I do. Anyone…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -460,7 +461,7 @@
       }
     }
   ],
-  "syncedAt": "2026-09-11T05:24:54.369Z",
+  "syncedAt": "2026-09-11T10:12:44.009Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
