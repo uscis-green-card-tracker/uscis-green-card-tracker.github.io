@@ -72,6 +72,25 @@
       }
     },
     {
+      "id": "t3_1wdxoot",
+      "title": "EB2-NIW approved, no RFE (Professional Services Profile)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdxoot/eb2niw_approved_no_rfe_professional_services/",
+      "author": "/u/Ok_Back9562",
+      "publishedAt": "2026-09-12T00:31:08+00:00",
+      "excerpt": "PD July-2026, Premium processing Approved on the 43rd Business day, filed online Cybersecurity Services Profile 16 years work experience, CISSP, CCSP, 3 x CCIE, CISA, CISM and other related high-end Cybersecurity/network related certifications. NO Citations, NO Publications, NO Patent BULLSHIT !!!! NO use of Chen/EP BU…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wdidhf",
       "title": "Do you think this is true?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdidhf/do_you_think_this_is_true/",
@@ -253,25 +272,6 @@
       }
     },
     {
-      "id": "t3_1wdjbc5",
-      "title": "“I have a good profile” is not an NIW strategy. So what is?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdjbc5/i_have_a_good_profile_is_not_an_niw_strategy_so/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-09-11T15:22:51+00:00",
-      "excerpt": "https://preview.redd.it/uesihp07swoh1.jpg?width=1017&format=pjpg&auto=webp&s=21a10ffa7cd0e8e61c66923ba800a78f245518b5 Hi everyone! My name is Zoe Ji Wilson and I'm an immigration attorney with a primary focus on employment-based immigration. I’ll be here today from 11:30 AM to 3:30 PM ET for an AMA. Happy to talk throu…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wcot6r",
       "title": "EB2 Approved without RFE!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcot6r/eb2_approved_without_rfe/",
@@ -283,6 +283,25 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wdjbc5",
+      "title": "“I have a good profile” is not an NIW strategy. So what is?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdjbc5/i_have_a_good_profile_is_not_an_niw_strategy_so/",
+      "author": "/u/ManifestLaw_",
+      "publishedAt": "2026-09-11T15:22:51+00:00",
+      "excerpt": "https://preview.redd.it/uesihp07swoh1.jpg?width=1017&format=pjpg&auto=webp&s=21a10ffa7cd0e8e61c66923ba800a78f245518b5 Hi everyone! My name is Zoe Ji Wilson and I'm an immigration attorney with a primary focus on employment-based immigration. I’ll be here today from 11:30 AM to 3:30 PM ET for an AMA. Happy to talk throu…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -439,27 +458,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wcyvfv",
-      "title": "I-485 Items 14 & 15 – J-1 Status Unchanged Since Entry (N/A vs. D/S?)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcyvfv/i485_items_14_15_j1_status_unchanged_since_entry/",
-      "author": "/u/Technical_Trip3071",
-      "publishedAt": "2026-09-10T23:05:54+00:00",
-      "excerpt": "I am completing Form I-485 and I want to confirm how to answer Items 14 and 15 on Page 3. My situation: I entered the U.S. in J-1 status. My Form I-94 shows J-1 and “D/S” for duration of status. My current J-1 status has not changed since my last arrival. The questions are: Item 14: “What is your current immigration st…",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-11T22:53:03.019Z",
+  "syncedAt": "2026-09-12T00:47:28.662Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
