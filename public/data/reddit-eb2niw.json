@@ -91,21 +91,23 @@
       }
     },
     {
-      "id": "t3_1we06wb",
-      "title": "EB2-NIW 765 approval",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1we06wb/eb2niw_765_approval/",
-      "author": "/u/Comfortable-Mix1139",
-      "publishedAt": "2026-09-12T02:28:22+00:00",
-      "excerpt": "Hi Today I received my 765 approval. We filed concurrently with 585 back in June. I am the principal applicant and My spouse didn’t receive her EAD approval yet. Any idea when hers will be approved? thanks",
+      "id": "t3_1we3ym3",
+      "title": "EB2 NIW I-485 interview tips",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1we3ym3/eb2_niw_i485_interview_tips/",
+      "author": "/u/moodee_1987",
+      "publishedAt": "2026-09-12T05:39:23+00:00",
+      "excerpt": "Hi everyone, EB-2 NIW ROW here. PD: 03/12/2026; I-485/I-765 RD: 03/27/2026; biometrics completed. My case was previously at the non-local Newark FO, and on 09/11/2026, my derivative and I received interview notices for 10/21/2026 at our local FO. Has anyone had a recent EB-2 NIW I-485 interview? What questions were ask…",
       "topics": [
         "approval",
+        "i485",
         "i140",
+        "timeline",
         "question"
       ],
       "signals": {
         "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
+        "receiptDate": "03/27/2026",
+        "priorityDate": "03/12/2026",
         "mentionsCountry75": false
       }
     },
@@ -135,6 +137,25 @@
       "publishedAt": "2026-09-11T19:43:16+00:00",
       "excerpt": "I applied for an I-140 under the NIW category last year, but unfortunately, it was denied. I am now at the stage where I expect to graduate by the end of the spring semester. Therefore, I will need to file for EOS along with my OPT application. I am a little worried that my previous I-140 filing and immigrant intent co…",
       "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1we06wb",
+      "title": "EB2-NIW 765 approval",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1we06wb/eb2niw_765_approval/",
+      "author": "/u/Comfortable-Mix1139",
+      "publishedAt": "2026-09-12T02:28:22+00:00",
+      "excerpt": "Hi Today I received my 765 approval. We filed concurrently with 585 back in June. I am the principal applicant and My spouse didn’t receive her EAD approval yet. Any idea when hers will be approved? thanks",
+      "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -441,27 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wd1vpo",
-      "title": "EB-2 NIW RFE – USCIS accepted Substantial Merit + Prong 2, but challenged National Importance (Prong 1). How would you strengthen the response?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wd1vpo/eb2_niw_rfe_uscis_accepted_substantial_merit/",
-      "author": "/u/Cautious_Roll_8149",
-      "publishedAt": "2026-09-11T01:15:27+00:00",
-      "excerpt": "Hi everyone, I received an EB-2 NIW RFE and would appreciate feedback from people who have handled similar RFEs. Proposed endeavor: Developing AI-driven predictive models, AI agents, and decision-support tools to help U.S. critical manufacturers prevent production failures and supply-chain disruptions. Background: 15+ …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-12T05:15:28.070Z",
+  "syncedAt": "2026-09-12T09:46:56.303Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
