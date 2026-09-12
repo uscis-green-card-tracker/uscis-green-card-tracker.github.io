@@ -54,6 +54,25 @@
       }
     },
     {
+      "id": "t3_1wec69j",
+      "title": "Sanity check for profile eligibility",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wec69j/sanity_check_for_profile_eligibility/",
+      "author": "/u/dodovt",
+      "publishedAt": "2026-09-12T13:06:28+00:00",
+      "excerpt": "I started researching eb2 visas after reading about them while searching for h1b, as h1b isn’t really a desired status for me, and landed in the eb2-niw track when researching. I had the impression that people with a good cv in an area in demand could get approved but this sub made me doubt that, as I mostly see MS and…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wdmzhe",
       "title": "I-140 NIW approved, no RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdmzhe/i140_niw_approved_no_rfe/",
@@ -64,24 +83,6 @@
         "approval",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wdsu9u",
-      "title": "Interesting observation ydt from official USCIS numbers: NIW and Extraordinary ability are reversed correlation in approvals percentages.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdsu9u/interesting_observation_ydt_from_official_uscis/",
-      "author": "/u/tomerh120",
-      "publishedAt": "2026-09-11T21:07:58+00:00",
-      "excerpt": "Interesting observation ydt: NIW and Extraordinary ability are reversed correlation in approvals, meaning NIW approval goes higher ( from 42.5% in Q1 to 55.3% in Q3) while Extraordinary ability approvals goes lower (47.5% in Q1 to 33.2% in Q3) as gov catch a lot of fake companies and sponsorships for eb2 workers. scamm…",
-      "topics": [
-        "approval",
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -108,6 +109,41 @@
         "blockNumber": null,
         "receiptDate": "03/27/2026",
         "priorityDate": "03/12/2026",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wea0u6",
+      "title": "Chen attorney experience",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wea0u6/chen_attorney_experience/",
+      "author": "/u/Odd_Elevator_1805",
+      "publishedAt": "2026-09-12T11:22:22+00:00",
+      "excerpt": "Anyone worked with Marisa W. I have never talked to her and all the things have like careless errors",
+      "topics": [
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wdsu9u",
+      "title": "Interesting observation ydt from official USCIS numbers: NIW and Extraordinary ability are reversed correlation in approvals percentages.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdsu9u/interesting_observation_ydt_from_official_uscis/",
+      "author": "/u/tomerh120",
+      "publishedAt": "2026-09-11T21:07:58+00:00",
+      "excerpt": "Interesting observation ydt: NIW and Extraordinary ability are reversed correlation in approvals, meaning NIW approval goes higher ( from 42.5% in Q1 to 55.3% in Q3) while Extraordinary ability approvals goes lower (47.5% in Q1 to 33.2% in Q3) as gov catch a lot of fake companies and sponsorships for eb2 workers. scamm…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -425,46 +461,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wdfkdp",
-      "title": "Advices/Opinions about I485 Filing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wdfkdp/advicesopinions_about_i485_filing/",
-      "author": "/u/Possible_Job4081",
-      "publishedAt": "2026-09-11T12:57:17+00:00",
-      "excerpt": "Here is the situation: Phd holder in engineering. I am an F1 student currently on OPT. Ends at the end of Feb 2027. I could be eligible for Stem opt however Current employer is not E Verify. I140 is upgraded to PP on 26th August 2026. Planning to apply to I485 around mid october(around 12ish) because of the previous in…",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wcwfwm",
-      "title": "Honest review of bob webber",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wcwfwm/honest_review_of_bob_webber/",
-      "author": "/u/Low_Replacement2686",
-      "publishedAt": "2026-09-10T21:28:15+00:00",
-      "excerpt": "Hey! I wanted to write an honest encounter of working with Bob Webber so that who ever chooses to work with him knows what to expect. I realized there is not a lot of reviews of EB2-NIW lawyers, so sharing our honest encounters here might be a great way to highlight who is effective and who is not. I hired Bob Webber i…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-12T09:46:56.303Z",
+  "syncedAt": "2026-09-12T13:14:31.616Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
