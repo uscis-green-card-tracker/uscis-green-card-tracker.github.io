@@ -73,6 +73,25 @@
       }
     },
     {
+      "id": "t3_1wfl229",
+      "title": "Do you already have a strong EB-2 NIW? (virtual event with a lawyer)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfl229/do_you_already_have_a_strong_eb2_niw_virtual/",
+      "author": "/u/Admirable-Weekend-11",
+      "publishedAt": "2026-09-13T22:00:09+00:00",
+      "excerpt": "I will be hosting a virtual event with Robby Rubin next Tuesday (9/15) at 12:00 PM EDT on what to look for in your current your profile and background to present a strong EB-2 NIW ( https://forms.gle/Zg53dCkAkJinNKKB7 ).",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wffeis",
       "title": "Are there any lawyers who had their NiW approved? If so, did you self-petition? How long did it take?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wffeis/are_there_any_lawyers_who_had_their_niw_approved/",
@@ -188,7 +207,7 @@
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfc6hb/eb2_niw_refile_after_denial_looking_for/",
       "author": "/u/Every-Poem4616",
       "publishedAt": "2026-09-13T16:23:40+00:00",
-      "excerpt": "Here’s a concise Reddit post you can use: Looking for recommendations for a good immigration attorney/law firm for an EB-2 NIW refile after a denial . My proposed endeavor is focused on AI for Financial Security , including AI/ML applications in fraud detection, AML, financial crime prevention, and regulatory complianc…",
+      "excerpt": "Looking for recommendations for a good immigration attorney/law firm for an EB-2 NIW refile after a denial . My proposed endeavor is focused on AI for Financial Security , including AI/ML applications in fraud detection, AML, financial crime prevention, and regulatory compliance. My previous NIW petition received an RF…",
       "topics": [
         "i140",
         "lawyer"
@@ -229,6 +248,25 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1weydit",
+      "title": "If you don’t receive an approval on the same or next day after your case changes from “RFE Received” to “Currently Processing,” does it mean a denial?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1weydit/if_you_dont_receive_an_approval_on_the_same_or/",
+      "author": "/u/Pippi126",
+      "publishedAt": "2026-09-13T05:00:28+00:00",
+      "excerpt": "Hi, after reading many posts, it seems that if you don’t receive an approval email on the same day, or the next day in some cases (even when it’s a Saturday), after your case changes from “RFE Response was Received” to “Currently Processing the Case,” it means the decision is a denial. —— Is this true? Could anyone who…",
+      "topics": [
+        "approval",
+        "i140",
         "question"
       ],
       "signals": {
@@ -287,25 +325,6 @@
         "approval",
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1weydit",
-      "title": "If you don’t receive an approval on the same or next day after your case changes from “RFE Received” to “Currently Processing,” does it mean a denial?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1weydit/if_you_dont_receive_an_approval_on_the_same_or/",
-      "author": "/u/Pippi126",
-      "publishedAt": "2026-09-13T05:00:28+00:00",
-      "excerpt": "Hi, after reading many posts, it seems that if you don’t receive an approval email on the same day, or the next day in some cases (even when it’s a Saturday), after your case changes from “RFE Response was Received” to “Currently Processing the Case,” it means the decision is a denial. —— Is that true? Could anyone who…",
-      "topics": [
-        "approval",
-        "i140",
         "question"
       ],
       "signals": {
@@ -446,28 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wec69j",
-      "title": "Sanity check for profile eligibility",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wec69j/sanity_check_for_profile_eligibility/",
-      "author": "/u/dodovt",
-      "publishedAt": "2026-09-12T13:06:28+00:00",
-      "excerpt": "I started researching eb2 visas after reading about them while searching for h1b, as h1b isn’t really a desired status for me, and landed in the eb2-niw track when researching. I had the impression that people with a good cv in an area in demand could get approved but this sub made me doubt that, as I mostly see MS and…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-13T21:55:30.753Z",
+  "syncedAt": "2026-09-13T23:47:37.139Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
