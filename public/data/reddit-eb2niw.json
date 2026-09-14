@@ -35,15 +35,15 @@
       }
     },
     {
-      "id": "t3_1wfh07f",
-      "title": "My experience with SmartGreenCard for EB-2 NIW — SCAM",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfh07f/my_experience_with_smartgreencard_for_eb2_niw_scam/",
-      "author": "/u/Kumar_5399",
-      "publishedAt": "2026-09-13T19:22:07+00:00",
-      "excerpt": "want to share my personal experience with SmartGreenCard so that others considering them for an EB-2 NIW petition can make an informed decision. I paid approximately $22,000 in connection with my immigration process. One of the main reasons I moved forward was that I was told my EB-2 NIW petition would be filed in Febr…",
+      "id": "t3_1wfqhlz",
+      "title": "EB-2 NIW I-140 Approved After RFE on Prongs 2 and 3",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfqhlz/eb2_niw_i140_approved_after_rfe_on_prongs_2_and_3/",
+      "author": "/u/Savings-Sound-1794",
+      "publishedAt": "2026-09-14T02:05:03+00:00",
+      "excerpt": "Happy to share that my EB-2 NIW I-140 was approved today after an RFE on Prongs 2 and 3. Timeline: 01/28/2026: I-140 filed / Priority Date 03/13/2026: Premium Processing (I-907) received 04/28/2026: RFE issued on Prong 2 (well positioned to advance the proposed endeavor) and Prong 3 (on balance, beneficial to waive the…",
       "topics": [
+        "approval",
         "i140",
-        "lawyer",
         "timeline"
       ],
       "signals": {
@@ -54,15 +54,35 @@
       }
     },
     {
-      "id": "t3_1wfqhlz",
-      "title": "EB-2 NIW I-140 Approved After RFE on Prongs 2 and 3",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfqhlz/eb2_niw_i140_approved_after_rfe_on_prongs_2_and_3/",
-      "author": "/u/Savings-Sound-1794",
-      "publishedAt": "2026-09-14T02:05:03+00:00",
-      "excerpt": "Happy to share that my EB-2 NIW I-140 was approved today after an RFE on Prongs 2 and 3. Timeline: 01/28/2026: I-140 filed / Priority Date 03/13/2026: Premium Processing (I-907) received 04/28/2026: RFE issued on Prong 2 (well positioned to advance the proposed endeavor) and Prong 3 (on balance, beneficial to waive the…",
+      "id": "t3_1wfquwi",
+      "title": "I140 NIW approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfquwi/i140_niw_approved/",
+      "author": "/u/VirelithAxis",
+      "publishedAt": "2026-09-14T02:22:13+00:00",
+      "excerpt": "Timeline (TSC): PD: 8/23/2024 PP upgrade: 7/10/2026 Approved: 9/10/2026, no RFE Attorney: Chen They provided a detailed strategy and prepared the draft. It was good, but I spent some time refining the technical details and language to better fit my case. About me: PhD in systems engineering with a concentration in civi…",
       "topics": [
         "approval",
         "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "8/23/2024",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wfh07f",
+      "title": "My experience with SmartGreenCard for EB-2 NIW — SCAM",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfh07f/my_experience_with_smartgreencard_for_eb2_niw_scam/",
+      "author": "/u/Kumar_5399",
+      "publishedAt": "2026-09-13T19:22:07+00:00",
+      "excerpt": "want to share my personal experience with SmartGreenCard so that others considering them for an EB-2 NIW petition can make an informed decision. I paid approximately $22,000 in connection with my immigration process. One of the main reasons I moved forward was that I was told my EB-2 NIW petition would be filed in Febr…",
+      "topics": [
+        "i140",
+        "lawyer",
         "timeline"
       ],
       "signals": {
@@ -83,26 +103,6 @@
         "approval",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wfqjrf",
-      "title": "EB2-NIW help [Lawyer recommendation + If this going to work]",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfqjrf/eb2niw_help_lawyer_recommendation_if_this_going/",
-      "author": "/u/Kitchen-Ad4446",
-      "publishedAt": "2026-09-14T02:07:48+00:00",
-      "excerpt": "Hello, I'm currently on F1 OPT, in fact, just got approved. I got 10 months instead of 12 (302 days vs 365 days, no premium process). I am unsure if I even qualify for EB2-NIW. I approached Chen and Elise Portar a couple of months back, and they did not take my case. Below is my profile: Education Bachelor of Science -…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -168,14 +168,16 @@
       }
     },
     {
-      "id": "t3_1wfcqds",
-      "title": "Looking for Recommender",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfcqds/looking_for_recommender/",
-      "author": "/u/Immediate-Fact1169",
-      "publishedAt": "2026-09-13T16:44:29+00:00",
-      "excerpt": "I need a industry expert letter for my EB2-NIW, my proposed endeavor is about semiconductor nanomaterials for optoelectronics. Are there any experts in semiconductor/photonics/optoelectronics field willing to give me recommendation letter?",
+      "id": "t3_1wfqjrf",
+      "title": "EB2-NIW help [Lawyer recommendation + If this going to work]",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfqjrf/eb2niw_help_lawyer_recommendation_if_this_going/",
+      "author": "/u/Kitchen-Ad4446",
+      "publishedAt": "2026-09-14T02:07:48+00:00",
+      "excerpt": "Hello, I'm currently on F1 OPT, in fact, just got approved. I got 10 months instead of 12 (302 days vs 365 days, no premium process). I am unsure if I even qualify for EB2-NIW. I approached Chen and Elise Portar a couple of months back, and they did not take my case. Below is my profile: Education Bachelor of Science -…",
       "topics": [
+        "approval",
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -186,13 +188,14 @@
       }
     },
     {
-      "id": "t3_1wfc0u3",
-      "title": "Perfil de la industria",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfc0u3/perfil_de_la_industria/",
-      "author": "/u/Middle_Care516",
-      "publishedAt": "2026-09-13T16:17:38+00:00",
-      "excerpt": "Hola, se tienen aprobaciones de la industria actualmente?",
+      "id": "t3_1wfcqds",
+      "title": "Looking for Recommender",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfcqds/looking_for_recommender/",
+      "author": "/u/Immediate-Fact1169",
+      "publishedAt": "2026-09-13T16:44:29+00:00",
+      "excerpt": "I need a industry expert letter for my EB2-NIW, my proposed endeavor is about semiconductor nanomaterials for optoelectronics. Are there any experts in semiconductor/photonics/optoelectronics field willing to give me recommendation letter?",
       "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -212,6 +215,23 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wfc0u3",
+      "title": "Perfil de la industria",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfc0u3/perfil_de_la_industria/",
+      "author": "/u/Middle_Care516",
+      "publishedAt": "2026-09-13T16:17:38+00:00",
+      "excerpt": "Hola, se tienen aprobaciones de la industria actualmente?",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -410,25 +430,6 @@
       }
     },
     {
-      "id": "t3_1wekohz",
-      "title": "WeGreened EB2 Attorney Ayesha Jain",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wekohz/wegreened_eb2_attorney_ayesha_jain/",
-      "author": "/u/Typical_Virus9918",
-      "publishedAt": "2026-09-12T18:46:58+00:00",
-      "excerpt": "Has anyone had any experience with this attorney from Chen/ WeGreened for EB2 NIW? How was the experience. Appreciate any insights on this attorney. Thanks.",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wemzdd",
       "title": "I40 suggestion",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wemzdd/i40_suggestion/",
@@ -448,28 +449,26 @@
       }
     },
     {
-      "id": "t3_1we3ym3",
-      "title": "EB2 NIW I-485 interview tips",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1we3ym3/eb2_niw_i485_interview_tips/",
-      "author": "/u/moodee_1987",
-      "publishedAt": "2026-09-12T05:39:23+00:00",
-      "excerpt": "Hi everyone, EB-2 NIW ROW here. PD: 03/12/2026; I-485/I-765 RD: 03/27/2026; biometrics completed. My case was previously at the non-local Newark FO, and on 09/11/2026, my derivative and I received interview notices for 10/21/2026 at our local FO. Has anyone had a recent EB-2 NIW I-485 interview? What questions were ask…",
+      "id": "t3_1wekohz",
+      "title": "WeGreened EB2 Attorney Ayesha Jain",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wekohz/wegreened_eb2_attorney_ayesha_jain/",
+      "author": "/u/Typical_Virus9918",
+      "publishedAt": "2026-09-12T18:46:58+00:00",
+      "excerpt": "Has anyone had any experience with this attorney from Chen/ WeGreened for EB2 NIW? How was the experience. Appreciate any insights on this attorney. Thanks.",
       "topics": [
-        "approval",
-        "i485",
         "i140",
-        "timeline",
+        "lawyer",
         "question"
       ],
       "signals": {
         "blockNumber": null,
-        "receiptDate": "03/27/2026",
-        "priorityDate": "03/12/2026",
+        "receiptDate": null,
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     }
   ],
-  "syncedAt": "2026-09-14T02:21:43.771Z",
+  "syncedAt": "2026-09-14T08:16:58.157Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
