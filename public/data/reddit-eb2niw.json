@@ -54,13 +54,17 @@
       }
     },
     {
-      "id": "t3_1wgrkpq",
-      "title": "Looking for independent recommenders in urban planning, environmental policy and or management",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wgrkpq/looking_for_independent_recommenders_in_urban/",
-      "author": "/u/owuraku_ababio",
-      "publishedAt": "2026-09-15T05:39:22+00:00",
-      "excerpt": "As the title tells , I’m looking for independent recommenders recommenders or evaluators in urban planning, environmental policy , environmental engineering or environmental management. Thank you",
-      "topics": [],
+      "id": "t3_1wh07vj",
+      "title": "Form I-797 Receipt Notice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wh07vj/form_i797_receipt_notice/",
+      "author": "/u/a2gam",
+      "publishedAt": "2026-09-15T13:19:47+00:00",
+      "excerpt": "How long did it take for you to receive Form I-797 Receipt Notice after your premium processing request? USCIS received my Form I-907 on 08/21/26, but I still have not received the receipt notice in the mail.",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -79,6 +83,21 @@
         "i140",
         "question"
       ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wgrkpq",
+      "title": "Looking for independent recommenders in urban planning, environmental policy and or management",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wgrkpq/looking_for_independent_recommenders_in_urban/",
+      "author": "/u/owuraku_ababio",
+      "publishedAt": "2026-09-15T05:39:22+00:00",
+      "excerpt": "As the title tells , I’m looking for independent recommenders recommenders or evaluators in urban planning, environmental policy , environmental engineering or environmental management. Thank you",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -429,25 +448,6 @@
       }
     },
     {
-      "id": "t3_1wgcrrc",
-      "title": "Guys, a friend of mine just got i485 approved 1 week after receipt date. USCIS is moving fast now!!!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wgcrrc/guys_a_friend_of_mine_just_got_i485_approved_1/",
-      "author": "/u/bartoloide-bartolo",
-      "publishedAt": "2026-09-14T19:05:17+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i485",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wfh07f",
       "title": "My experience with SmartGreenCard for EB-2 NIW — SCAM",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wfh07f/my_experience_with_smartgreencard_for_eb2_niw_scam/",
@@ -467,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-09-15T08:09:12.873Z",
+  "syncedAt": "2026-09-15T13:58:34.348Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
