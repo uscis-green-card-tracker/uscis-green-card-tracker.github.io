@@ -53,14 +53,16 @@
       }
     },
     {
-      "id": "t3_1wj7swd",
-      "title": "Typo on I-485 receipt notice address",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wj7swd/typo_on_i485_receipt_notice_address/",
-      "author": "/u/InevitableBorn6236",
-      "publishedAt": "2026-09-17T22:03:25+00:00",
-      "excerpt": "My I-485 was filed with “North” , but the I-797C receipt notice says “Northh.” My I-765 receipt has the correct address, and the I-485 notice still reached me. Should I correct this using the USCIS Typographic Error form/service request to avoid future issues with notices or the green card, or is it safe to leave it al…",
+      "id": "t3_1wjjdsf",
+      "title": "Does premium processing increase the risk of EB-2 NIW denial?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjjdsf/does_premium_processing_increase_the_risk_of_eb2/",
+      "author": "/u/One_Escape143",
+      "publishedAt": "2026-09-18T07:24:21+00:00",
+      "excerpt": "Hi everyone, My lawyer told me that if I upgrade my pending EB-2 NIW I-140 to premium processing, the denial rate for NIW cases may be higher. Is this actually true? Has anyone here used premium processing for an EB-2 NIW and received an approval or denial? My I-140 has been pending since May 2025, so I’m considering p…",
       "topics": [
-        "i485",
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -71,16 +73,17 @@
       }
     },
     {
-      "id": "t3_1wic2r1",
-      "title": "EB-2 NIW I-140 Approved 🎉🎈🎊",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wic2r1/eb2_niw_i140_approved/",
-      "author": "/u/Other-Associate-6617",
-      "publishedAt": "2026-09-16T22:34:46+00:00",
-      "excerpt": "EB-2 NIW I-140 Approved 🎉🎈🎊 I am happy to share that my EB-2 NIW I-140 petition has been approved. Country: ROW, not from those 39 countries. Center: TSC; Attorney: Manifest Law, they offered me 100% refund in case of denial. I am particularly posting this to give hope to people who have a limited number of publicat…",
+      "id": "t3_1wjgcnb",
+      "title": "Eb2 Processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjgcnb/eb2_processing/",
+      "author": "/u/Super-Huckleberry426",
+      "publishedAt": "2026-09-18T04:34:10+00:00",
+      "excerpt": "Hello, I applied through the EB2 I-140 pathway through GI Cancer Medical research (how certain targeted therapy and genomic markers would enhance survival and quality of life of cancer patient). I have a total of 74 citations, grant, abstracts at national conferences, 60 publications including abstracts and manuscripts…",
       "topics": [
         "approval",
+        "i485",
         "i140",
-        "lawyer"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -90,17 +93,34 @@
       }
     },
     {
-      "id": "t3_1wifyaq",
-      "title": "Approved I-140 TSC",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wifyaq/approved_i140_tsc/",
-      "author": "/u/GhostFreqk",
-      "publishedAt": "2026-09-17T01:22:09+00:00",
-      "excerpt": "Just got my NIW approval and wanted to share my experience here since I spent a lot of time reading other people's timelines while waiting. Background: PhD in Molecular Biology, currently working as a postdoc. At the time of filing, I had 18 journal papers, 49 citations, and 13 completed peer reviews. My proposed endea…",
+      "id": "t3_1wjdutq",
+      "title": "Seeking Advice on Defending Prong 1 & Prong 3 for an Efficient AI Inference Proposed Endeavor",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjdutq/seeking_advice_on_defending_prong_1_prong_3_for/",
+      "author": "/u/Defiant-Panic-9832",
+      "publishedAt": "2026-09-18T02:32:58+00:00",
+      "excerpt": "Could you guys help me come up with a good strategy for defending Prong 1 and Prong 3, with Efficient AI Inference as my proposed endeavor? I’d really appreciate any suggestions, insights, or relevant resources!",
       "topics": [
-        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wjdru8",
+      "title": "Urgent Advice Needed: I-140 RFE Pending, STEM OPT Grace Period Ending & I-485 at Risk — What Are Our Options?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjdru8/urgent_advice_needed_i140_rfe_pending_stem_opt/",
+      "author": "/u/Significant_Goose798",
+      "publishedAt": "2026-09-18T02:29:15+00:00",
+      "excerpt": "Hi everyone, I’m looking for some serious advice regarding our immigration situation. We’re trying to prepare for the worst-case scenario and would really appreciate input from anyone who has been through something similar. My husband filed an I-140 and received an RFE. We submitted the RFE response on August 15. Based…",
+      "topics": [
+        "i485",
         "i140",
-        "lawyer",
-        "timeline"
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -120,6 +140,25 @@
         "approval",
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wjddty",
+      "title": "Application Evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjddty/application_evaluation/",
+      "author": "/u/Equivalent-Shake8669",
+      "publishedAt": "2026-09-18T02:10:44+00:00",
+      "excerpt": "I have prepared a DIY EB-2 NIW petition for myself. I have drafted all three prongs, obtained recommendation letters, prepared summaries of my 8 patent matters, and assembled the supporting documents. I would like to have the package reviewed by an attorney. Could you suggest law firms that offer review-only services a…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -151,14 +190,14 @@
       }
     },
     {
-      "id": "t3_1wj50qh",
-      "title": "Degree Evaluation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wj50qh/degree_evaluation/",
-      "author": "/u/researcherfrom90s",
-      "publishedAt": "2026-09-17T20:15:44+00:00",
-      "excerpt": "Hi everyone! I wanted to ask about degree/credential evaluation for an EB-2 NIW petition. For applicants applying from outside the U.S. with a foreign degree, is it advisable to get a credential evaluation to establish U.S. degree equivalency? I understand that a credential evaluation may not always be formally require…",
+      "id": "t3_1wj7swd",
+      "title": "Typo on I-485 receipt notice address",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wj7swd/typo_on_i485_receipt_notice_address/",
+      "author": "/u/InevitableBorn6236",
+      "publishedAt": "2026-09-17T22:03:25+00:00",
+      "excerpt": "My I-485 was filed with “North” , but the I-797C receipt notice says “Northh.” My I-765 receipt has the correct address, and the I-485 notice still reached me. Should I correct this using the USCIS Typographic Error form/service request to avoid future issues with notices or the green card, or is it safe to leave it al…",
       "topics": [
-        "i140",
+        "i485",
         "question"
       ],
       "signals": {
@@ -169,15 +208,53 @@
       }
     },
     {
-      "id": "t3_1wisw5g",
-      "title": "My resume looks strong, but does that actually translate into a strong EB-2 NIW case? Immigration attorney AMA",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wisw5g/my_resume_looks_strong_but_does_that_actually/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-09-17T12:40:16+00:00",
-      "excerpt": "https://preview.redd.it/pyzwa07es2qh1.jpg?width=1022&format=pjpg&auto=webp&s=8b80cb634e7566c4e9fa7839a442249c5f244656 Hi everyone, my name is Zoe Ji Wilson and I’m an immigration attorney that handles employment based immigration, including EB-2 NIW cases. I’ll be here on September 17th from 8:30 AM to 12:30 PM ET answ…",
+      "id": "t3_1wifyaq",
+      "title": "Approved I-140 TSC",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wifyaq/approved_i140_tsc/",
+      "author": "/u/GhostFreqk",
+      "publishedAt": "2026-09-17T01:22:09+00:00",
+      "excerpt": "Just got my NIW approval and wanted to share my experience here since I spent a lot of time reading other people's timelines while waiting. Background: PhD in Molecular Biology, currently working as a postdoc. At the time of filing, I had 18 journal papers, 49 citations, and 13 completed peer reviews. My proposed endea…",
       "topics": [
+        "approval",
         "i140",
         "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wic2r1",
+      "title": "EB-2 NIW I-140 Approved 🎉🎈🎊",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wic2r1/eb2_niw_i140_approved/",
+      "author": "/u/Other-Associate-6617",
+      "publishedAt": "2026-09-16T22:34:46+00:00",
+      "excerpt": "EB-2 NIW I-140 Approved 🎉🎈🎊 I am happy to share that my EB-2 NIW I-140 petition has been approved. Country: ROW, not from those 39 countries. Center: TSC; Attorney: Manifest Law, they offered me 100% refund in case of denial. I am particularly posting this to give hope to people who have a limited number of publicat…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wj50qh",
+      "title": "Degree Evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wj50qh/degree_evaluation/",
+      "author": "/u/researcherfrom90s",
+      "publishedAt": "2026-09-17T20:15:44+00:00",
+      "excerpt": "Hi everyone! I wanted to ask about degree/credential evaluation for an EB-2 NIW petition. For applicants applying from outside the U.S. with a foreign degree, is it advisable to get a credential evaluation to establish U.S. degree equivalency? I understand that a credential evaluation may not always be formally require…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -250,6 +327,25 @@
       "author": "/u/tacoislifee",
       "publishedAt": "2026-09-17T15:06:23+00:00",
       "excerpt": "Hey everyone, I’m looking for advice on a biometrics situation for my EB-2 NIW I-140 (IOE receipt, assigned to National Benefits Center). I received an ASC biometrics appointment notice scheduled for a U.S. location (Detroit ASC). However, I am currently based in Toronto, Canada, and unable to travel to the U.S. for th…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wisw5g",
+      "title": "My resume looks strong, but does that actually translate into a strong EB-2 NIW case? Immigration attorney AMA",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wisw5g/my_resume_looks_strong_but_does_that_actually/",
+      "author": "/u/ManifestLaw_",
+      "publishedAt": "2026-09-17T12:40:16+00:00",
+      "excerpt": "https://preview.redd.it/pyzwa07es2qh1.jpg?width=1022&format=pjpg&auto=webp&s=8b80cb634e7566c4e9fa7839a442249c5f244656 Hi everyone, my name is Zoe Ji Wilson and I’m an immigration attorney that handles employment based immigration, including EB-2 NIW cases. I’ll be here on September 17th from 8:30 AM to 12:30 PM ET answ…",
       "topics": [
         "i140",
         "lawyer",
@@ -373,103 +469,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wi4bvm",
-      "title": "Upgrading to PP now or after election",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wi4bvm/upgrading_to_pp_now_or_after_election/",
-      "author": "/u/djeller14",
-      "publishedAt": "2026-09-16T17:46:57+00:00",
-      "excerpt": "Hi all, does it make sense to upgrade petition to premium now (AI hardware related endeavor). Or is it better to wait for election (assuming democrat sweep)? I feel like they will tighten it now more to show immigration crackdown…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wifl8c",
-      "title": "Questions about EB2 NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wifl8c/questions_about_eb2_niw/",
-      "author": "/u/William_Mcarthur",
-      "publishedAt": "2026-09-17T01:06:28+00:00",
-      "excerpt": "Hi there! I'm currently pursuing my PhD in the U.S. and hold a master's degree from a non-U.S. university. I'm preparing my green card application. I have 9 publications (7 papers and 2 book chapters) with 30 citations. After a free evaluation with WeGreened, they recommended I apply for an NIW and offered a Second-Den…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wieywe",
-      "title": "EB-1A + EB-2 NIW filed in July 2024 — should I premium process the NIW?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wieywe/eb1a_eb2_niw_filed_in_july_2024_should_i_premium/",
-      "author": "/u/Individual-Show-3848",
-      "publishedAt": "2026-09-17T00:39:23+00:00",
-      "excerpt": "Hi everyone, I filed EB-1A with I-485 and a separate EB-2 NIW in July 2024. Both cases are still pending. At the time I filed in 2024, I felt that my case was a good fit for both EB-1A and EB-2 NIW. However, given how the U.S. immigration environment and policies have changed since then, I’m now less confident about EB…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wi0yjx",
-      "title": "EB2-NIW RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wi0yjx/eb2niw_rfe/",
-      "author": "/u/Ansar199",
-      "publishedAt": "2026-09-16T15:47:24+00:00",
-      "excerpt": "Hi everyone, USCIS recently updated my case from processing to RFE issued after I upgraded to PP. I want to know my lawyer used his address for official delivery and other communication. I have not received any email or stuff from USCIS, most probably everything will be communicated to Lawyer. I have contacted the lawy…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1whuzme",
-      "title": "IS YOUR RFE SALVAGEABLE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1whuzme/is_your_rfe_salvageable/",
-      "author": "/u/Lucas-Oliveira-",
-      "publishedAt": "2026-09-16T11:50:08+00:00",
-      "excerpt": "It’s no secret that RFEs have become very common, and most are boilerplate. But how can you tell if your RFE is salvageable or not? Assuming all 3 prongs were challenged, you need to understand if the proposed endeavor was already crystal clear in the original petition or if the officer could not really identify what e…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-18T02:10:23.307Z",
+  "syncedAt": "2026-09-18T07:44:15.718Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
