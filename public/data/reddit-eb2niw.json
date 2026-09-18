@@ -35,6 +35,97 @@
       }
     },
     {
+      "id": "t3_1wjv7tr",
+      "title": "Anyone in the US, who applied while unemployed and still got approved?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjv7tr/anyone_in_the_us_who_applied_while_unemployed_and/",
+      "author": "/u/Complete_Ad7415",
+      "publishedAt": "2026-09-18T16:37:32+00:00",
+      "excerpt": "I know you don’t need a job offer but in all posts Ive seen, the person has a job. Recently got laid off. PE is tied to product management. Thanks",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wjtq0d",
+      "title": "Online Access Code for paper-filed IOE cases?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjtq0d/online_access_code_for_paperfiled_ioe_cases/",
+      "author": "/u/InevitableBorn6236",
+      "publishedAt": "2026-09-18T15:42:50+00:00",
+      "excerpt": "My paper-filed I-485 and I-765 were received and I got the I-797C receipts, but no Online Access Code yet. Did your Online Access Code come in a separate mail later?",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wjt2on",
+      "title": "No independent recommenders in I-140 petition",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjt2on/no_independent_recommenders_in_i140_petition/",
+      "author": "/u/LinkBeneficial3576",
+      "publishedAt": "2026-09-18T15:18:49+00:00",
+      "excerpt": "Hi guys! Long-time lurker, first-time poster here 👋 I filed my I-140 in July 2026. Chen said I should include 4 dependent recommenders for whatever reason. I didn’t question it. Now I’m seeing many people posting about submitting a mix of independent and dependent recommenders… I worry that I’ve made a mistake. Has an…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wjrapp",
+      "title": "I want to know my chances and if a PhD would be better.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjrapp/i_want_to_know_my_chances_and_if_a_phd_would_be/",
+      "author": "/u/robert41L",
+      "publishedAt": "2026-09-18T14:10:44+00:00",
+      "excerpt": "Profile: - bachelors in mechanical engineering - masters in engineering management (completing this year) - 1 year and 6 months working as a project engineer in US for a pressure vessel and heat exchanger firm - DACA recipient I’m currently looking for my next role as a mechanical engineer and have interviews lined up …",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wjsf39",
+      "title": "Check FTA0s?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjsf39/check_fta0s/",
+      "author": "/u/Ok-Needleworker5620",
+      "publishedAt": "2026-09-18T14:54:31+00:00",
+      "excerpt": "Hello, can somebody explain how to check FTA0 s please?",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wjon5u",
       "title": "Has anybody worked with Gewahlt law?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjon5u/has_anybody_worked_with_gewahlt_law/",
@@ -70,26 +161,6 @@
       }
     },
     {
-      "id": "t3_1wjjdsf",
-      "title": "Does premium processing increase the risk of EB-2 NIW denial?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjjdsf/does_premium_processing_increase_the_risk_of_eb2/",
-      "author": "/u/One_Escape143",
-      "publishedAt": "2026-09-18T07:24:21+00:00",
-      "excerpt": "Hi everyone, My lawyer told me that if I upgrade my pending EB-2 NIW I-140 to premium processing, the denial rate for NIW cases may be higher. Is this actually true? Has anyone here used premium processing for an EB-2 NIW and received an approval or denial? My I-140 has been pending since May 2025, so I’m considering p…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wjgcnb",
       "title": "Eb2 Processing",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjgcnb/eb2_processing/",
@@ -100,6 +171,26 @@
         "approval",
         "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wjjdsf",
+      "title": "Does premium processing increase the risk of EB-2 NIW denial?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjjdsf/does_premium_processing_increase_the_risk_of_eb2/",
+      "author": "/u/One_Escape143",
+      "publishedAt": "2026-09-18T07:24:21+00:00",
+      "excerpt": "Hi everyone, My lawyer told me that if I upgrade my pending EB-2 NIW I-140 to premium processing, the denial rate for NIW cases may be higher. Is this actually true? Has anyone here used premium processing for an EB-2 NIW and received an approval or denial? My I-140 has been pending since May 2025, so I’m considering p…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -186,27 +277,6 @@
       }
     },
     {
-      "id": "t3_1wj6aa1",
-      "title": "Filing NIW while on OPT, any issues later with STEM OPT?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wj6aa1/filing_niw_while_on_opt_any_issues_later_with/",
-      "author": "/u/Glass-Football7487",
-      "publishedAt": "2026-09-17T21:03:50+00:00",
-      "excerpt": "I am currently waiting for my initial OPT approval and thinking about filing EB-2 NIW once it’s approved. My main concern is whether having a pending or approved I-140/ pending I-485 could create problems when I apply for my STEM OPT extension next year. For context, I have a STEM masters, about one year of professiona…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wifyaq",
       "title": "Approved I-140 TSC",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wifyaq/approved_i140_tsc/",
@@ -255,6 +325,27 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wj6aa1",
+      "title": "Filing NIW while on OPT, any issues later with STEM OPT?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wj6aa1/filing_niw_while_on_opt_any_issues_later_with/",
+      "author": "/u/Glass-Football7487",
+      "publishedAt": "2026-09-17T21:03:50+00:00",
+      "excerpt": "I am currently waiting for my initial OPT approval and thinking about filing EB-2 NIW once it’s approved. My main concern is whether having a pending or approved I-140/ pending I-485 could create problems when I apply for my STEM OPT extension next year. For context, I have a STEM masters, about one year of professiona…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -375,102 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wisw5g",
-      "title": "My resume looks strong, but does that actually translate into a strong EB-2 NIW case? Immigration attorney AMA",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wisw5g/my_resume_looks_strong_but_does_that_actually/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-09-17T12:40:16+00:00",
-      "excerpt": "https://preview.redd.it/pyzwa07es2qh1.jpg?width=1022&format=pjpg&auto=webp&s=8b80cb634e7566c4e9fa7839a442249c5f244656 Hi everyone, my name is Zoe Ji Wilson and I’m an immigration attorney that handles employment based immigration, including EB-2 NIW cases. I’ll be here on September 17th from 8:30 AM to 12:30 PM ET answ…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wj4xm1",
-      "title": "EB2-NIW without citation",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wj4xm1/eb2niw_without_citation/",
-      "author": "/u/Alone-Comparison2113",
-      "publishedAt": "2026-09-17T20:12:25+00:00",
-      "excerpt": "Is there any hope for EB2 NIW without citation? My work touches high tech, safetly critical systems that are crucial for US economy.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wi4y4w",
-      "title": "DENIALS on EB2 NIW, 7 days back mid-week 38 of 2026",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wi4y4w/denials_on_eb2_niw_7_days_back_midweek_38_of_2026/",
-      "author": "/u/equalizer-rage",
-      "publishedAt": "2026-09-16T18:08:57+00:00",
-      "excerpt": "I continue publishing weekly summaries of approvals and denials on this subreddit. If you like what I do, please join subreddit r/VisaStats , where I also published the complete table with LINKS TO ALL THE POSTS . I detected 5 denials in the last 7 days, please see below. Please exercise caution when going through indi…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wiivjj",
-      "title": "Request for Suggestion about Lawfirm",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wiivjj/request_for_suggestion_about_lawfirm/",
-      "author": "/u/CryptographerOld6370",
-      "publishedAt": "2026-09-17T03:38:34+00:00",
-      "excerpt": "Hi everyone! I am trying to select a law firm for my EB-2 NIW petition and would appreciate recent, firsthand experiences. I am a medical anthropology Ph.D. candidate at a U.S. university with a U.S. master’s degree and approximately seven years of qualitative research experience, including five years at an internation…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wi392f",
-      "title": "EB-2 NIW RFE – Prong 1 & 3 despite extensive evidence. Looking for advice",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wi392f/eb2_niw_rfe_prong_1_3_despite_extensive_evidence/",
-      "author": "/u/Cautious_Return_6297",
-      "publishedAt": "2026-09-16T17:08:35+00:00",
-      "excerpt": "Hi everyone, Yesterday, I received an RFE on my EB-2 NIW petition , and I’d really appreciate input from anyone who has dealt with a similar situation. My petition was 795 pages / 84 exhibits , including a 23-page NIS and a 7-page Professional Plan. USCIS recognizes: EB-2 advanced degree requirement Substantial merit o…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-18T12:28:46.825Z",
+  "syncedAt": "2026-09-18T16:48:11.105Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
