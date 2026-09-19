@@ -35,26 +35,6 @@
       }
     },
     {
-      "id": "t3_1wk7hzx",
-      "title": "EB2 NIW - Smart Green Card / Smart Immigrant — My $22,000 Scam Experience - SCAM company",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wk7hzx/eb2_niw_smart_green_card_smart_immigrant_my_22000/",
-      "author": "/u/Kumar_5399",
-      "publishedAt": "2026-09-19T00:37:28+00:00",
-      "excerpt": "I am sharing my experience as a warning to anyone considering Smart Green Card / Smart Immigrant (SmartImmigrant.com), founded by Saiman Shetty , for an EB-2 NIW case. Based on what I personally experienced, I would strongly recommend that people stay away and not give them their money. I feel that I was scammed. I pai…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wkeepl",
       "title": "NIW withdrawal after RFE—denied two months after withdrawal request was delivered. Anyone else?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wkeepl/niw_withdrawal_after_rfedenied_two_months_after/",
@@ -75,16 +55,15 @@
       }
     },
     {
-      "id": "t3_1wk4s5n",
-      "title": "EB-2 NIW I-485 RFE — Continued Research + F-1 School Attendance Evidence. Anyone Had a Similar RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wk4s5n/eb2_niw_i485_rfe_continued_research_f1_school/",
-      "author": "/u/Money_Topic_2069",
-      "publishedAt": "2026-09-18T22:40:10+00:00",
-      "excerpt": "Post: Hi everyone, I am the principal applicant in an EB-2 NIW I-485 case . My I-140 is already approved, and I am currently pursuing my Ph.D. in the U.S. on F-1 status. USCIS issued an RFE asking me to provide evidence in two areas: Continued engagement in my NIW proposed endeavor , such as: Current employer/research …",
+      "id": "t3_1wk7hzx",
+      "title": "EB2 NIW - Smart Green Card / Smart Immigrant — My $22,000 Scam Experience - SCAM company",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wk7hzx/eb2_niw_smart_green_card_smart_immigrant_my_22000/",
+      "author": "/u/Kumar_5399",
+      "publishedAt": "2026-09-19T00:37:28+00:00",
+      "excerpt": "I am sharing my experience as a warning to anyone considering Smart Green Card / Smart Immigrant (SmartImmigrant.com), founded by Saiman Shetty , for an EB-2 NIW case. Based on what I personally experienced, I would strongly recommend that people stay away and not give them their money. I feel that I was scammed. I pai…",
       "topics": [
-        "approval",
-        "i485",
         "i140",
+        "lawyer",
         "timeline",
         "question"
       ],
@@ -106,6 +85,27 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wk4s5n",
+      "title": "EB-2 NIW I-485 RFE — Continued Research + F-1 School Attendance Evidence. Anyone Had a Similar RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wk4s5n/eb2_niw_i485_rfe_continued_research_f1_school/",
+      "author": "/u/Money_Topic_2069",
+      "publishedAt": "2026-09-18T22:40:10+00:00",
+      "excerpt": "Post: Hi everyone, I am the principal applicant in an EB-2 NIW I-485 case . My I-140 is already approved, and I am currently pursuing my Ph.D. in the U.S. on F-1 status. USCIS issued an RFE asking me to provide evidence in two areas: Continued engagement in my NIW proposed endeavor , such as: Current employer/research …",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -161,24 +161,6 @@
       "excerpt": "I know you don’t need a job offer but in all posts Ive seen, the person has a job. Recently got laid off. PE is tied to product management. Thanks",
       "topics": [
         "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wk3l3h",
-      "title": "Why do people sometimes call EB-2 NIW green card recipients “fraudulent” when they don’t ultimately pursue their proposed endeavor, while generally considering it acceptable for EB-2 PERM beneficiaries to change jobs after obtaining GC?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wk3l3h/why_do_people_sometimes_call_eb2_niw_green_card/",
-      "author": "/u/ivicts30",
-      "publishedAt": "2026-09-18T21:51:18+00:00",
-      "excerpt": "EB2 Perm: https://www.reddit.com/r/USCIS/comments/1oigstq/resigning_after_getting_my_green_card_please_help/ https://www.reddit.com/r/USCIS/comments/wqxjm0/changing_jobs_after_receiving_green_card/ Just to be clear: once you have the physical green card , you are a permanent resident. There is absolutely no law forcing…",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -312,6 +294,24 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wk3l3h",
+      "title": "Why do people sometimes call EB-2 NIW green card recipients “fraudulent” when they don’t ultimately pursue their proposed endeavor, while generally considering it acceptable for EB-2 PERM beneficiaries to change jobs after obtaining GC?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wk3l3h/why_do_people_sometimes_call_eb2_niw_green_card/",
+      "author": "/u/ivicts30",
+      "publishedAt": "2026-09-18T21:51:18+00:00",
+      "excerpt": "EB2 Perm: https://www.reddit.com/r/USCIS/comments/1oigstq/resigning_after_getting_my_green_card_please_help/ https://www.reddit.com/r/USCIS/comments/wqxjm0/changing_jobs_after_receiving_green_card/ Just to be clear: once you have the physical green card , you are a permanent resident. There is absolutely no law forcing…",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -462,7 +462,7 @@
       }
     }
   ],
-  "syncedAt": "2026-09-19T09:56:13.689Z",
+  "syncedAt": "2026-09-19T13:37:35.365Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
