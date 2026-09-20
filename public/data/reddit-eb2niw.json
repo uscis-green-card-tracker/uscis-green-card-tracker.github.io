@@ -92,23 +92,6 @@
       }
     },
     {
-      "id": "t3_1wlmfrp",
-      "title": "Are Paper Publications really that important for EB2?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlmfrp/are_paper_publications_really_that_important_for/",
-      "author": "/u/zwalter123",
-      "publishedAt": "2026-09-20T17:01:04+00:00",
-      "excerpt": "",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wllwch",
       "title": "Aprobaciones perfil de la industria - fuera de EEUU.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wllwch/aprobaciones_perfil_de_la_industria_fuera_de_eeuu/",
@@ -147,50 +130,13 @@
       }
     },
     {
-      "id": "t3_1wljxly",
-      "title": "Independent recommendation letter sample",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wljxly/independent_recommendation_letter_sample/",
-      "author": "/u/Enough_Difference528",
-      "publishedAt": "2026-09-20T15:24:46+00:00",
-      "excerpt": "Hi everyone! I am preparing my EB-2 NIW petition for my RFE in advance and would really appreciate some guidance from people who have already gone through the process. Could anyone share sample recommendation letters for both independent and dependent recommenders , particularly examples that were used successfully in …",
+      "id": "t3_1wlmfrp",
+      "title": "Are Paper Publications really that important for EB2?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlmfrp/are_paper_publications_really_that_important_for/",
+      "author": "/u/zwalter123",
+      "publishedAt": "2026-09-20T17:01:04+00:00",
+      "excerpt": "",
       "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wlh6fv",
-      "title": "I485 submission after 90 days?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlh6fv/i485_submission_after_90_days/",
-      "author": "/u/Possible_Job4081",
-      "publishedAt": "2026-09-20T13:31:08+00:00",
-      "excerpt": "I entered on july 11th. When is the earliest date to submit my i485? Directly at 90th day or October 10th(91st day)?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wlg72p",
-      "title": "Non-US doctor with USMLEs",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlg72p/nonus_doctor_with_usmles/",
-      "author": "/u/MidnightSad510",
-      "publishedAt": "2026-09-20T12:46:57+00:00",
-      "excerpt": "Hi is it possible to apply for EB2-NIW while outside the US? I am non US MD but with USMLEs. I finished all the US medical licensure exam. will that be a good case for EB2-NIW? Thanks",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -219,15 +165,32 @@
       }
     },
     {
-      "id": "t3_1wlbenp",
-      "title": "Cyber Security thoughts before filing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlbenp/cyber_security_thoughts_before_filing/",
-      "author": "/u/Ok-Artichoke-5485",
-      "publishedAt": "2026-09-20T08:25:33+00:00",
-      "excerpt": "Attorney-prepared petition, premium processing, filing within the next two weeks. Looking for anything you'd flag as a weak spot or something an officer might poke at. Profile Bachelor's in IT plus 14 years progressive experience (so advanced-degree equivalent, not a master's) Currently a director-level Cyber security …",
+      "id": "t3_1wljxly",
+      "title": "Independent recommendation letter sample",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wljxly/independent_recommendation_letter_sample/",
+      "author": "/u/Enough_Difference528",
+      "publishedAt": "2026-09-20T15:24:46+00:00",
+      "excerpt": "Hi everyone! I am preparing my EB-2 NIW petition for my RFE in advance and would really appreciate some guidance from people who have already gone through the process. Could anyone share sample recommendation letters for both independent and dependent recommenders , particularly examples that were used successfully in …",
       "topics": [
         "i140",
-        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wlg72p",
+      "title": "Non-US doctor with USMLEs",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlg72p/nonus_doctor_with_usmles/",
+      "author": "/u/MidnightSad510",
+      "publishedAt": "2026-09-20T12:46:57+00:00",
+      "excerpt": "Hi is it possible to apply for EB2-NIW while outside the US? I am non US MD but with USMLEs. I finished all the US medical licensure exam. will that be a good case for EB2-NIW? Thanks",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -246,6 +209,25 @@
       "excerpt": "I filed my I-140 in July 2025, and traveled outside the U.S. 4 times in Nov 2025, Jan 2026, July 2026, and August 2026 and have not encountered any issues at the border. However, my attorney told me that that might be an issue in I-485 processing since this may be considered as visa fraud (since J-1 carries non immigra…",
       "topics": [
         "i485",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wlbenp",
+      "title": "Cyber Security thoughts before filing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlbenp/cyber_security_thoughts_before_filing/",
+      "author": "/u/Ok-Artichoke-5485",
+      "publishedAt": "2026-09-20T08:25:33+00:00",
+      "excerpt": "Attorney-prepared petition, premium processing, filing within the next two weeks. Looking for anything you'd flag as a weak spot or something an officer might poke at. Profile Bachelor's in IT plus 14 years progressive experience (so advanced-degree equivalent, not a master's) Currently a director-level Cyber security …",
+      "topics": [
         "i140",
         "lawyer",
         "question"
@@ -277,25 +259,6 @@
       }
     },
     {
-      "id": "t3_1wl6jxp",
-      "title": "What are \"OBJECTIVE\" documents for NIW RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wl6jxp/what_are_objective_documents_for_niw_rfe/",
-      "author": "/u/Momishroom",
-      "publishedAt": "2026-09-20T04:01:52+00:00",
-      "excerpt": "Hi everyone, How did you objectively proved your contribution in your published publications for your NIW petition? My friend is a medical scientist and has gotten RFE response. the lawyer asked him to gather objective documents to show his contribution in his publications. How is that possible?",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wl60ku",
       "title": "EB-2 NIW with Bachelor’s + US License (Just 4 years of experience)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wl60ku/eb2_niw_with_bachelors_us_license_just_4_years_of/",
@@ -314,14 +277,13 @@
       }
     },
     {
-      "id": "t3_1wkskvh",
-      "title": "EB-2 NIW – Industry Engineer Profile – Chances?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wkskvh/eb2_niw_industry_engineer_profile_chances/",
-      "author": "/u/jin-sakai17",
-      "publishedAt": "2026-09-19T17:46:13+00:00",
-      "excerpt": "Looking for opinions on my EB-2 NIW profile, particularly from people with industry/non-academic cases . Profile - M.S. Industrial Engineering from a U.S. university B.E. Mechanical Engineering - 7 years of U.S. engineering experience CEM + EIT - Currently a Data Center Infrastructure Engineer / HVAC SME at a major tec…",
+      "id": "t3_1wl6jxp",
+      "title": "What are \"OBJECTIVE\" documents for NIW RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wl6jxp/what_are_objective_documents_for_niw_rfe/",
+      "author": "/u/Momishroom",
+      "publishedAt": "2026-09-20T04:01:52+00:00",
+      "excerpt": "Hi everyone, How did you objectively proved your contribution in your published publications for your NIW petition? My friend is a medical scientist and has gotten RFE response. the lawyer asked him to gather objective documents to show his contribution in his publications. How is that possible?",
       "topics": [
-        "approval",
         "i140",
         "lawyer",
         "question"
@@ -373,14 +335,15 @@
       }
     },
     {
-      "id": "t3_1wl3jms",
-      "title": "Chen vs EP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wl3jms/chen_vs_ep/",
-      "author": "/u/Old-Point1749",
-      "publishedAt": "2026-09-20T01:30:23+00:00",
-      "excerpt": "Chen offered me Approval or Refiling service. EP offered me approval or refund service. Most likely will go with EP here. Does Chen even offer a refund service or no?",
+      "id": "t3_1wkskvh",
+      "title": "EB-2 NIW – Industry Engineer Profile – Chances?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wkskvh/eb2_niw_industry_engineer_profile_chances/",
+      "author": "/u/jin-sakai17",
+      "publishedAt": "2026-09-19T17:46:13+00:00",
+      "excerpt": "Looking for opinions on my EB-2 NIW profile, particularly from people with industry/non-academic cases . Profile - M.S. Industrial Engineering from a U.S. university B.E. Mechanical Engineering - 7 years of U.S. engineering experience CEM + EIT - Currently a Data Center Infrastructure Engineer / HVAC SME at a major tec…",
       "topics": [
         "approval",
+        "i140",
         "lawyer",
         "question"
       ],
@@ -401,6 +364,25 @@
       "topics": [
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wl3jms",
+      "title": "Chen vs EP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wl3jms/chen_vs_ep/",
+      "author": "/u/Old-Point1749",
+      "publishedAt": "2026-09-20T01:30:23+00:00",
+      "excerpt": "Chen offered me Approval or Refiling service. EP offered me approval or refund service. Most likely will go with EP here. Does Chen even offer a refund service or no?",
+      "topics": [
+        "approval",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -465,9 +447,28 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1wjt2on",
+      "title": "No independent recommenders in I-140 petition",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wjt2on/no_independent_recommenders_in_i140_petition/",
+      "author": "/u/LinkBeneficial3576",
+      "publishedAt": "2026-09-18T15:18:49+00:00",
+      "excerpt": "Hi guys! Long-time lurker, first-time poster here 👋 I filed my I-140 in July 2026. Chen said I should include 4 dependent recommenders for whatever reason. I didn’t question it. Now I’m seeing many people posting about submitting a mix of independent and dependent recommenders… I worry that I’ve made a mistake. Has an…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-09-20T19:57:53.542Z",
+  "syncedAt": "2026-09-20T22:10:56.201Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
