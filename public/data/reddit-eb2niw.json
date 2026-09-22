@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1wn2oh8",
+      "title": "I-140 approval without RFE (no premium processing)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wn2oh8/i140_approval_without_rfe_no_premium_processing/",
+      "author": "/u/h0lykn19ht",
+      "publishedAt": "2026-09-22T07:25:51+00:00",
+      "excerpt": "Hi all, I feel that I should share my approval case to encourage people who are still waiting without using premium processing. Background: PhD in mechanical engineering. At time of filing, I had 8 papers (6 first authors), 135 citations, working on soft matter bioengineering as a postdoc at a university in Massachuset…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wmx212",
       "title": "Approved after Three-Prong RFE!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wmx212/approved_after_threeprong_rfe/",
@@ -95,15 +115,15 @@
       }
     },
     {
-      "id": "t3_1wmsu39",
-      "title": "Traveling outside the country with pending or approved I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wmsu39/traveling_outside_the_country_with_pending_or/",
-      "author": "/u/Dumbura2018",
-      "publishedAt": "2026-09-21T23:20:25+00:00",
-      "excerpt": "Hello! Has anyone traveled outside the U.S. and re-entered without issues while on F-1/F-2 visas with a pending or approved I-140? We’re planning to travel to our home country in December for a short visit. Our F-1/F-2 visas are valid until the end of 2028, and our I-20s are valid until December 2029. I’d really apprec…",
+      "id": "t3_1wmua7h",
+      "title": "RFE submission status",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wmua7h/rfe_submission_status/",
+      "author": "/u/Regular-Yak-5834",
+      "publishedAt": "2026-09-22T00:21:25+00:00",
+      "excerpt": "How long does it take for the case status to change to “RFE received” after RFE package is delivered to USCIS?",
       "topics": [
-        "approval",
         "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -114,15 +134,15 @@
       }
     },
     {
-      "id": "t3_1wmua7h",
-      "title": "RFE submission status",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wmua7h/rfe_submission_status/",
-      "author": "/u/Regular-Yak-5834",
-      "publishedAt": "2026-09-22T00:21:25+00:00",
-      "excerpt": "How long does it take for the case status to change to “RFE received” after RFE package is delivered to USCIS?",
+      "id": "t3_1wmsu39",
+      "title": "Traveling outside the country with pending or approved I-140",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wmsu39/traveling_outside_the_country_with_pending_or/",
+      "author": "/u/Dumbura2018",
+      "publishedAt": "2026-09-21T23:20:25+00:00",
+      "excerpt": "Hello! Has anyone traveled outside the U.S. and re-entered without issues while on F-1/F-2 visas with a pending or approved I-140? We’re planning to travel to our home country in December for a short visit. Our F-1/F-2 visas are valid until the end of 2028, and our I-20s are valid until December 2029. I’d really apprec…",
       "topics": [
+        "approval",
         "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -180,6 +200,24 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wmy29d",
+      "title": "I-140 approved",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wmy29d/i140_approved/",
+      "author": "/u/Ashamed_Ant_6454",
+      "publishedAt": "2026-09-22T03:15:29+00:00",
+      "excerpt": "Hi! My I-140 was approved today without RFE. I filed on November 1 2024, and upgraded to PP on July 22 2026. I filed with Brian Getson. I am a postdoc at an R1 university in biomedicine. I got my PhD outside the US. At the time of filing, I had ~120 citations, ~12 publications (3–4 first-authored), and reviewed a coupl…",
+      "topics": [
+        "approval",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -270,24 +308,6 @@
       "excerpt": "Which of these would you recommend Gozel Law Elizabeth Ricci Jaime Barron Hacking Immigration Reddy Neuman",
       "topics": [
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wmy29d",
-      "title": "I-140 approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wmy29d/i140_approved/",
-      "author": "/u/Ashamed_Ant_6454",
-      "publishedAt": "2026-09-22T03:15:29+00:00",
-      "excerpt": "Hi! My I-140 was approved today without RFE. I filed on November 1 2024, and upgraded to PP on July 22 2026. I filed with Brian Getson. I am a postdoc at an R1 university in biomedicine. I got my PhD outside the US. At the time of filing, I had ~120 citations, ~12 publications (3–4 first-authored), and reviewed a coupl…",
-      "topics": [
-        "approval",
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -405,25 +425,6 @@
       }
     },
     {
-      "id": "t3_1wlod5x",
-      "title": "EB-2 NIW Consular Processing Timeline – Green Card",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlod5x/eb2_niw_consular_processing_timeline_green_card/",
-      "author": "/u/Ok_Nefariousness9985",
-      "publishedAt": "2026-09-20T18:14:14+00:00",
-      "excerpt": "I wanted to share my complete EB-2 NIW consular processing timeline now that my family's journey is officially complete. I've found the timelines and experiences shared in this community incredibly helpful over the years, so hopefully mine helps someone else going through the process. Quick Profile Master's Degree in C…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wm0g1h",
       "title": "RFE texas center",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wm0g1h/rfe_texas_center/",
@@ -442,16 +443,16 @@
       }
     },
     {
-      "id": "t3_1wm4io1",
-      "title": "No fees deduction or receipt received yet (Self-petition case)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wm4io1/no_fees_deduction_or_receipt_received_yet/",
-      "author": "/u/Puzzleheaded-Can4935",
-      "publishedAt": "2026-09-21T06:08:46+00:00",
-      "excerpt": "Hi Everyone, I had applied for my EB2-NIW and my package from the lawyers reached USCIS on 08/28 according to Fedex tracking. However, as of 09/20 I have still not seen any fee deduction in my bank account based on the account no. and routing no. given in the forms nor got a receipt hard copy or email. Has anyone faced…",
+      "id": "t3_1wlod5x",
+      "title": "EB-2 NIW Consular Processing Timeline – Green Card",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wlod5x/eb2_niw_consular_processing_timeline_green_card/",
+      "author": "/u/Ok_Nefariousness9985",
+      "publishedAt": "2026-09-20T18:14:14+00:00",
+      "excerpt": "I wanted to share my complete EB-2 NIW consular processing timeline now that my family's journey is officially complete. I've found the timelines and experiences shared in this community incredibly helpful over the years, so hopefully mine helps someone else going through the process. Quick Profile Master's Degree in C…",
       "topics": [
+        "approval",
         "i140",
-        "timeline",
-        "question"
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -461,7 +462,7 @@
       }
     }
   ],
-  "syncedAt": "2026-09-22T05:36:24.590Z",
+  "syncedAt": "2026-09-22T10:34:37.780Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
