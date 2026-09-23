@@ -53,6 +53,25 @@
       }
     },
     {
+      "id": "t3_1wnqrd9",
+      "title": "Is there anyone who got approved on their second attempt? If so what did you change ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnqrd9/is_there_anyone_who_got_approved_on_their_second/",
+      "author": "/u/Wise_While2907",
+      "publishedAt": "2026-09-23T00:22:13+00:00",
+      "excerpt": "I just E-filed with chen and fingers are crossed. I feel like this petition is substantially better than the older one that got rejected. I felt like I was too ambitious on my previous petition. It was difficult to prove with evidence. I have narrowed it down with specifics and proper evidence. But these days, everythi…",
+      "topics": [
+        "approval",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wn6vjm",
       "title": "NIW approved 4 business days after RFE response — thank you, this community",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wn6vjm/niw_approved_4_business_days_after_rfe_response/",
@@ -93,16 +112,15 @@
       }
     },
     {
-      "id": "t3_1wnfaf7",
-      "title": "I140 EB2NIW NSC RFE issued SEP 22. How to request electronic copy from uscis",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnfaf7/i140_eb2niw_nsc_rfe_issued_sep_22_how_to_request/",
-      "author": "/u/Gullible_Paint9259",
-      "publishedAt": "2026-09-22T17:05:05+00:00",
-      "excerpt": "I just got an RFE this morning Sept 22. case status changed to RFE was sent . I am working with EP attorney. I will reserve my issue with them for now but i was not happy with the case they argued or prepared and they did not consider all my questions or additions/edits and suggested changes. I had to just tell them to…",
+      "id": "t3_1wnw80s",
+      "title": "RFE Response Delivered, but Case Status Still Not Updated",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnw80s/rfe_response_delivered_but_case_status_still_not/",
+      "author": "/u/Sea_Type7889",
+      "publishedAt": "2026-09-23T04:41:44+00:00",
+      "excerpt": "My RFE response was delivered to USCIS yesterday morning (Tuesday), it was UPS. My deadline is TODAY… Sep 23 (Wednesday), and I’m getting a bit worried since I do not see notifications “Response to RFE was received” on my USCIS website so far. Is this normal? Mine is PP.",
       "topics": [
         "i140",
-        "lawyer",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -112,15 +130,13 @@
       }
     },
     {
-      "id": "t3_1wnqrd9",
-      "title": "Is there anyone who got approved on their second attempt? If so what did you change ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnqrd9/is_there_anyone_who_got_approved_on_their_second/",
-      "author": "/u/Wise_While2907",
-      "publishedAt": "2026-09-23T00:22:13+00:00",
-      "excerpt": "I just E-filed with chen and fingers are crossed. I feel like this petition is substantially better than the older one that got rejected. I felt like I was too ambitious on my previous petition. It was difficult to prove with evidence. I have narrowed it down with specifics and proper evidence. But these days, everythi…",
+      "id": "t3_1wnpmz4",
+      "title": "Unsolicited evidence in Eb2NIW Petitions",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnpmz4/unsolicited_evidence_in_eb2niw_petitions/",
+      "author": "/u/Patient_Ad1152",
+      "publishedAt": "2026-09-22T23:34:12+00:00",
+      "excerpt": "I couldnt find a topic (avoiding unecessary conversation) about using Unsolicited evidence in the portal. Has anyone ever used and recommend? -- Opinions are all over; some say USCIS wont read at all the Unsolicited evidence , others say it might do good. This looks to be a very specific question that we cant really pr…",
       "topics": [
-        "approval",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -139,6 +155,80 @@
       "excerpt": "",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wnq6l9",
+      "title": "Applying from outside US",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnq6l9/applying_from_outside_us/",
+      "author": "/u/JaysCooking",
+      "publishedAt": "2026-09-22T23:57:59+00:00",
+      "excerpt": "Hi everyone! I’m currently based in Europe and working in bioinformatics, particularly large-scale human whole-genome sequencing analysis. I feel that the main weakness in my petition is that I don’t currently have strong US research connections. I have a fairly strong publication record and specialised skills in large…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wnuwlr",
+      "title": "Med student with PhD applying?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnuwlr/med_student_with_phd_applying/",
+      "author": "/u/Cooked_by_Mcat",
+      "publishedAt": "2026-09-23T03:33:27+00:00",
+      "excerpt": "Just started to research this process. I am a medical student in the US with a foreign PhD (11+ coauthored paper and more on the way, 1 first author and another in progress) with over 100 citations. Is it possible or a good idea to go through this process? Would I need to be in active research in the US to prove the pr…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wn2oh8",
+      "title": "I-140 approval without RFE (no premium processing)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wn2oh8/i140_approval_without_rfe_no_premium_processing/",
+      "author": "/u/h0lykn19ht",
+      "publishedAt": "2026-09-22T07:25:51+00:00",
+      "excerpt": "Hi all, I feel that I should share my approval case to encourage people who are still waiting without using premium processing. Background: PhD in mechanical engineering. At time of filing, I had 8 papers (6 first authors), 135 citations, working on soft matter bioengineering as a postdoc at a university in Massachuset…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wnt578",
+      "title": "Asylum withdraw",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnt578/asylum_withdraw/",
+      "author": "/u/Shot-Bandicoot-4830",
+      "publishedAt": "2026-09-23T02:10:08+00:00",
+      "excerpt": "Dear all, I have been approved my green card long time ago but before that I had applied for asylum. Since I received my green card, I did withdraw from pending asylum through my attorney but the problem is I was not confirmed that my application was withdrawn! What should I do ? Is there any direct way to contact USCI…",
+      "topics": [
+        "approval",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -170,26 +260,6 @@
       }
     },
     {
-      "id": "t3_1wn2oh8",
-      "title": "I-140 approval without RFE (no premium processing)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wn2oh8/i140_approval_without_rfe_no_premium_processing/",
-      "author": "/u/h0lykn19ht",
-      "publishedAt": "2026-09-22T07:25:51+00:00",
-      "excerpt": "Hi all, I feel that I should share my approval case to encourage people who are still waiting without using premium processing. Background: PhD in mechanical engineering. At time of filing, I had 8 papers (6 first authors), 135 citations, working on soft matter bioengineering as a postdoc at a university in Massachuset…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wnr4p7",
       "title": "Big firm vs small firm... is either one even worth $7-8k or should I just DIY this?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnr4p7/big_firm_vs_small_firm_is_either_one_even_worth/",
@@ -199,41 +269,6 @@
       "topics": [
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wnq6l9",
-      "title": "Applying from outside US",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnq6l9/applying_from_outside_us/",
-      "author": "/u/JaysCooking",
-      "publishedAt": "2026-09-22T23:57:59+00:00",
-      "excerpt": "Hi everyone! I’m currently based in Europe and working in bioinformatics, particularly large-scale human whole-genome sequencing analysis. I feel that the main weakness in my petition is that I don’t currently have strong US research connections. I have a fairly strong publication record and specialised skills in large…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wnpmz4",
-      "title": "Unsolicited evidence in Eb2NIW Petitions",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnpmz4/unsolicited_evidence_in_eb2niw_petitions/",
-      "author": "/u/Patient_Ad1152",
-      "publishedAt": "2026-09-22T23:34:12+00:00",
-      "excerpt": "I couldnt find a topic (avoiding unecessary conversation) about using Unsolicited evidence in the portal. Has anyone ever used and recommend? -- Opinions are all over; some say USCIS wont read at all the Unsolicited evidence , others say it might do good. This looks to be a very specific question that we cant really pr…",
-      "topics": [
         "question"
       ],
       "signals": {
@@ -254,6 +289,25 @@
         "approval",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wnfaf7",
+      "title": "I140 EB2NIW NSC RFE issued SEP 22. How to request electronic copy from uscis",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnfaf7/i140_eb2niw_nsc_rfe_issued_sep_22_how_to_request/",
+      "author": "/u/Gullible_Paint9259",
+      "publishedAt": "2026-09-22T17:05:05+00:00",
+      "excerpt": "I just got an RFE this morning Sept 22. case status changed to RFE was sent . I am working with EP attorney. I will reserve my issue with them for now but i was not happy with the case they argued or prepared and they did not consider all my questions or additions/edits and suggested changes. I had to just tell them to…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -310,6 +364,24 @@
       "excerpt": "After an EB1A denial with 5 of the requirements met and accepted and 2 not met, USCIS denied the application based on FMD, what strategies are out there to self petition eb2-NIW? Industry profile in the Power grid renewal sector, with MSc degree and Senior Project Manager in Power and last 14 yrs in energy oil and gas …",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wndqi1",
+      "title": "Is there evidence that the EB2 ran out?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wndqi1/is_there_evidence_that_the_eb2_ran_out/",
+      "author": "/u/Motor_Fee7299",
+      "publishedAt": "2026-09-22T16:08:28+00:00",
+      "excerpt": "A friend just told me he thinks USCIS ran out of visa numbers for EB2 and that's why the 485's approval slowed down. Is there any evidence or reason to believe this, or is it just a rumor?",
+      "topics": [
+        "approval",
         "question"
       ],
       "signals": {
@@ -396,81 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wndqi1",
-      "title": "Is there evidence that the EB2 ran out?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wndqi1/is_there_evidence_that_the_eb2_ran_out/",
-      "author": "/u/Motor_Fee7299",
-      "publishedAt": "2026-09-22T16:08:28+00:00",
-      "excerpt": "A friend just told me he thinks USCIS ran out of visa numbers for EB2 and that's why the 485's approval slowed down. Is there any evidence or reason to believe this, or is it just a rumor?",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wn7zq1",
-      "title": "E-file in I140 disadvantages?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wn7zq1/efile_in_i140_disadvantages/",
-      "author": "/u/Top_Comfort4305",
-      "publishedAt": "2026-09-22T12:22:13+00:00",
-      "excerpt": "Has some one before did e-filing for the I 140 before. Does it affect the exhibits limit or what is the disadvantages of it.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wnd8ph",
-      "title": "Changed my mind about NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnd8ph/changed_my_mind_about_niw/",
-      "author": "/u/Sea-Ant-1553",
-      "publishedAt": "2026-09-22T15:50:35+00:00",
-      "excerpt": "I have decided to not pursue Eb2-NIW route at all, but I have been paying Chen in installments for the last 6 months. All I have ever had one 30-minute meeting, that lasted only 5 minutes. I downloaded the template files from their portal. Will I be eligible to get back any portion of the 2400 that I have already paid?…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wncejo",
-      "title": "EB2 Exceptional ability",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wncejo/eb2_exceptional_ability/",
-      "author": "/u/MIH018",
-      "publishedAt": "2026-09-22T15:19:42+00:00",
-      "excerpt": "#For Oncolytic Virology Field (PhD candidate without advance degree) How many papers and citations can fulfill the EB2 Exceptional ability criteria? What professional membership can fulfill the EB2 Exceptional ability criteria? Thanks in advance.",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-23T01:03:04.632Z",
+  "syncedAt": "2026-09-23T06:57:57.298Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
