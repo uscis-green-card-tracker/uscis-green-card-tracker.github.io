@@ -40,9 +40,27 @@
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wo94fv/eb2_niw_approvals_lookback_week_39_of_2026/",
       "author": "/u/equalizer-rage",
       "publishedAt": "2026-09-23T15:27:27+00:00",
-      "excerpt": "I make weekly summaries of approvals and denials from this subreddit. In the last several days I registered 7 newly reported approvals , please see below. If you like what I do, please join r/VisaStats . A table with LINKS TO ALL THE POSTS is available there too. (Number of Posts by Profile), Field Description (1) Engi…",
+      "excerpt": "I make weekly summaries of approvals and denials from this subreddit. In the last several days I registered 7 newly reported approvals , please see below. I am ready to answer questions too, please ask away. If you like what I do, please join r/VisaStats . A table with LINKS TO ALL THE POSTS is available there too. (Nu…",
       "topics": [
         "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wog5el",
+      "title": "My EB2-NIW Petition Denied",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wog5el/my_eb2niw_petition_denied/",
+      "author": "/u/iamwaqarjaved",
+      "publishedAt": "2026-09-23T19:45:22+00:00",
+      "excerpt": "I hired a law firm Ashoori law firm and then they assigned another law firm doylelawatl to file my EB-2 NIW case. In 2024 March my EB2-NIW case filed, ater 6 months i received big RFE. and after submitting big response to RFE my petition denied based on endeavor is not coming under national interest. I was told that my…",
+      "topics": [
         "i140",
         "lawyer"
       ],
@@ -93,14 +111,108 @@
       }
     },
     {
-      "id": "t3_1wo8x5l",
-      "title": "EP sent my application without my personal statement",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wo8x5l/ep_sent_my_application_without_my_personal/",
-      "author": "/u/No_Journalist_8266",
-      "publishedAt": "2026-09-23T15:20:01+00:00",
-      "excerpt": "EP sent my application package with out my personal statement and I got RFE on the application on all three prongs. EP argues that the RFE is not because the personal statement was not added. Any suggestions on what I can do? How to make my RFE stronger?",
+      "id": "t3_1woh7w2",
+      "title": "EP RFE response strategy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woh7w2/ep_rfe_response_strategy/",
+      "author": "/u/Zestyclose-Sugar4497",
+      "publishedAt": "2026-09-23T20:25:46+00:00",
+      "excerpt": "For anyone who used Ellis Porter (EP) to respond to an NIW RFE, especially a Prong 2 RFE: how did EP handle the new testimonial/recommendation letters in the actual RFE response brief? Did the attorneys substantively discuss and quote/cite the letters in the legal argument- for example, explaining how the letters addre…",
       "topics": [
         "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wogg50",
+      "title": "RFE - All Prong (Generic RFE)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wogg50/rfe_all_prong_generic_rfe/",
+      "author": "/u/Such_Pollution_3331",
+      "publishedAt": "2026-09-23T19:56:41+00:00",
+      "excerpt": "It seems that they did not read my petition. They requested additional evidence for every prong, including substantial merit. Their comments are very general and do not specifically address the arguments or evidence presented in my petition. The RFE was 7 pages long, but there are no specific rebuttals or criticisms of…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1woemj7",
+      "title": "RFE erros and AI",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woemj7/rfe_erros_and_ai/",
+      "author": "/u/Tasty_Rain5085",
+      "publishedAt": "2026-09-23T18:49:14+00:00",
+      "excerpt": "I just want to share this because I’ve noticed how much repetition, AI, and copy and pasting has in my RFE. So many, paragraphs between the prongs that are completely the same. They also mentioned that I pretend to teach in a classroom format, I never say anything similar to this in my original petition. Anyway just sh…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1woe57b",
+      "title": "Self Petition NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woe57b/self_petition_niw/",
+      "author": "/u/Barbarossah97",
+      "publishedAt": "2026-09-23T18:31:33+00:00",
+      "excerpt": "Hi, I want to submit a NIW with Self petition. I am a bit worried, can anyone please tell me whether to file a self petition is worth it or not?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1woe1wv",
+      "title": "H-1B holder, spouse’s EB-2 NIW pending after RFE, potential new job won’t sponsor — what are my options while waiting for I-485 EAD?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woe1wv/h1b_holder_spouses_eb2_niw_pending_after_rfe/",
+      "author": "/u/Optimal-Ad2086",
+      "publishedAt": "2026-09-23T18:28:13+00:00",
+      "excerpt": "Looking for some guidance from people who have dealt with a similar situation. My spouse is the principal applicant for an EB-2 NIW I-140 . We used premium processing, received an RFE, responded to it, and are currently around business day 12 waiting for USCIS to make a decision. I am currently in the U.S. in H-1B stat…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wodec0",
+      "title": "Applying for EB2_NIW as a PhD student",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wodec0/applying_for_eb2_niw_as_a_phd_student/",
+      "author": "/u/Mediocre_Low7551",
+      "publishedAt": "2026-09-23T18:03:30+00:00",
+      "excerpt": "Hi everyone, I saw several times that people apply for their green card while doing a PhD. I want to do the same but I was advised that if my application is rejected, I will have problems extending my DS-2019 and visa stamp. Does anyone have experience on that? How big of an issue will it cause? I got a refund offer if…",
+      "topics": [
         "lawyer",
         "question"
       ],
@@ -354,123 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wnlr5l",
-      "title": "How many days after USCIS physically received your RFE by mail (FedEx/UPS) did your status change to “Response To USCIS’ Request For Evidence Was Received”? Was your case regular or premium processing?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnlr5l/how_many_days_after_uscis_physically_received/",
-      "author": "/u/Downtown-Living8169",
-      "publishedAt": "2026-09-22T20:56:08+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wnuwlr",
-      "title": "Med student with PhD applying?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnuwlr/med_student_with_phd_applying/",
-      "author": "/u/Cooked_by_Mcat",
-      "publishedAt": "2026-09-23T03:33:27+00:00",
-      "excerpt": "Just started to research this process. I am a medical student in the US with a foreign PhD (11+ coauthored paper and more on the way, 1 first author and another in progress) with over 100 citations. Is it possible or a good idea to go through this process? Would I need to be in active research in the US to prove the pr…",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wntyp0",
-      "title": "NIW Refile: Stay with Wegreened or Switch to Ellis Porter / Meng Law / else? Looking for Honest Reviews",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wntyp0/niw_refile_stay_with_wegreened_or_switch_to_ellis/",
-      "author": "/u/Hopeful-Bluebird-320",
-      "publishedAt": "2026-09-23T02:48:12+00:00",
-      "excerpt": "Hi everyone! I’m currently deciding which law firm to use for my NIW refile and would really appreciate hearing from anyone who has gone through an NIW RFE, denial, or refile, especially those who have switched law firms after a denial. A little background on my case: My first NIW petition was handled by Wegreened. I r…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wn2oh8",
-      "title": "I-140 approval without RFE (no premium processing)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wn2oh8/i140_approval_without_rfe_no_premium_processing/",
-      "author": "/u/h0lykn19ht",
-      "publishedAt": "2026-09-22T07:25:51+00:00",
-      "excerpt": "Hi all, I feel that I should share my approval case to encourage people who are still waiting without using premium processing. Background: PhD in mechanical engineering. At time of filing, I had 8 papers (6 first authors), 135 citations, working on soft matter bioengineering as a postdoc at a university in Massachuset…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wnt578",
-      "title": "Asylum withdraw",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnt578/asylum_withdraw/",
-      "author": "/u/Shot-Bandicoot-4830",
-      "publishedAt": "2026-09-23T02:10:08+00:00",
-      "excerpt": "Dear all, I have been approved my green card long time ago but before that I had applied for asylum. Since I received my green card, I did withdraw from pending asylum through my attorney but the problem is I was not confirmed that my application was withdrawn! What should I do ? Is there any direct way to contact USCI…",
-      "topics": [
-        "approval",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wnily4",
-      "title": "EB-2 NIW PP — silent updates on Day ~40: does this pattern mean anything?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wnily4/eb2_niw_pp_silent_updates_on_day_40_does_this/",
-      "author": "/u/Wonderful-Abalone979",
-      "publishedAt": "2026-09-22T19:02:59+00:00",
-      "excerpt": "Hi everyone I have an EB-2 NIW I-140 filed with Premium Processing . My timeline: PD / receipt date: July 2026 Premium Processing: Yes Two consecutive silent updates on September 21st and September 22, with no action required, notice, approval document, or new event visible in the API . I’m trying to understand whether…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-23T17:34:20.261Z",
+  "syncedAt": "2026-09-23T20:50:36.460Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
