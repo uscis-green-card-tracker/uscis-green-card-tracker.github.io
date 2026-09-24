@@ -35,17 +35,16 @@
       }
     },
     {
-      "id": "t3_1woo15c",
-      "title": "NIW Approved After RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woo15c/niw_approved_after_rfe/",
-      "author": "/u/ReyNebula",
-      "publishedAt": "2026-09-24T01:13:48+00:00",
-      "excerpt": "Hi everyone, My I-140 NIW was finally approved! Just wanted to share my profile and timeline in case it helps anyone else going through the process. Timeline: Filed: August 5, 2024 Upgrade to PP: March 30, 2026 RFE: May 26, 2026 RFE Response Received by USCIS: August 17, 2026 Approval Date: September 20, 2026 Attorney:…",
+      "id": "t3_1wp6x94",
+      "title": "WHAT THE HECK IS GOING ON WITH EB2-NIW I485 CASES? IT SEEMS THEY ARE PAUSED AND ALMOST EVERYONE HAS BEEN WAITING FOR A WHILE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wp6x94/what_the_heck_is_going_on_with_eb2niw_i485_cases/",
+      "author": "/u/Signal-Preparation18",
+      "publishedAt": "2026-09-24T16:50:31+00:00",
+      "excerpt": "",
       "topics": [
-        "approval",
+        "i485",
         "i140",
-        "lawyer",
-        "timeline"
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -75,15 +74,17 @@
       }
     },
     {
-      "id": "t3_1woicd5",
-      "title": "EB-2 NIW Approved After RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woicd5/eb2_niw_approved_after_rfe/",
-      "author": "/u/Aggravating_Sky_2697",
-      "publishedAt": "2026-09-23T21:09:39+00:00",
-      "excerpt": "Just wanted to share an update for anyone tracking recent EB-2 NIW processing trends. I’ve been following this subreddit for quite a while now, and I really appreciate everyone who shares their experiences and case updates. It has been very helpful throughout my own process, so I wanted to contribute an update as well.…",
+      "id": "t3_1woo15c",
+      "title": "NIW Approved After RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woo15c/niw_approved_after_rfe/",
+      "author": "/u/ReyNebula",
+      "publishedAt": "2026-09-24T01:13:48+00:00",
+      "excerpt": "Hi everyone, My I-140 NIW was finally approved! Just wanted to share my profile and timeline in case it helps anyone else going through the process. Timeline: Filed: August 5, 2024 Upgrade to PP: March 30, 2026 RFE: May 26, 2026 RFE Response Received by USCIS: August 17, 2026 Approval Date: September 20, 2026 Attorney:…",
       "topics": [
         "approval",
-        "i140"
+        "i140",
+        "lawyer",
+        "timeline"
       ],
       "signals": {
         "blockNumber": null,
@@ -93,16 +94,15 @@
       }
     },
     {
-      "id": "t3_1wozj6p",
-      "title": "EB2_NIW FOR MUSICIANS",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wozj6p/eb2_niw_for_musicians/",
-      "author": "/u/ClassicalMusicPiano",
-      "publishedAt": "2026-09-24T11:51:16+00:00",
-      "excerpt": "Hello everyone, Thank you for taking the time to read my post. I’m wondering if anyone in this community is a professional classical musician who has experience applying for an NIW/EB-2. If so, would you be willing to share your experience—whether your application was successful or not, how long the process took, what …",
+      "id": "t3_1wp6dyp",
+      "title": "EB2-NIW DENIALS lookback, Week 39 of 2026",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wp6dyp/eb2niw_denials_lookback_week_39_of_2026/",
+      "author": "/u/equalizer-rage",
+      "publishedAt": "2026-09-24T16:30:29+00:00",
+      "excerpt": "I continue to summarize approvals and denials of petitions as reported weekly on this subreddit. I registered only 3 denials in this EB2-NIW lookback since the last denials update 8 days ago. Reports of denials are less common, perhaps because people are more inclined to share their successes, but learning about denial…",
       "topics": [
         "i140",
-        "timeline",
-        "question"
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -133,6 +133,24 @@
       }
     },
     {
+      "id": "t3_1woicd5",
+      "title": "EB-2 NIW Approved After RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woicd5/eb2_niw_approved_after_rfe/",
+      "author": "/u/Aggravating_Sky_2697",
+      "publishedAt": "2026-09-23T21:09:39+00:00",
+      "excerpt": "Just wanted to share an update for anyone tracking recent EB-2 NIW processing trends. I’ve been following this subreddit for quite a while now, and I really appreciate everyone who shares their experiences and case updates. It has been very helpful throughout my own process, so I wanted to contribute an update as well.…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1woqwiy",
       "title": "EB-2 NIW RFE – How Long Were You Given to Respond?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1woqwiy/eb2_niw_rfe_how_long_were_you_given_to_respond/",
@@ -142,6 +160,45 @@
       "topics": [
         "i140",
         "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wozj6p",
+      "title": "EB2_NIW FOR MUSICIANS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wozj6p/eb2_niw_for_musicians/",
+      "author": "/u/ClassicalMusicPiano",
+      "publishedAt": "2026-09-24T11:51:16+00:00",
+      "excerpt": "Hello everyone, Thank you for taking the time to read my post. I’m wondering if anyone in this community is a professional classical musician who has experience applying for an NIW/EB-2. If so, would you be willing to share your experience—whether your application was successful or not, how long the process took, what …",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wp4le8",
+      "title": "Industry Profile and Law Firm recommendation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wp4le8/industry_profile_and_law_firm_recommendation/",
+      "author": "/u/codecode88",
+      "publishedAt": "2026-09-24T15:23:01+00:00",
+      "excerpt": "I am thinking of applying for EB2 NIW. My profile Director of Engineering / 19y of experience Bachelor's in Computer Science No papers, no patents Come from a small country in Asia (not China or India) Endeavor is to start an IT business in the US (cyber security, fraud prevention, and AML detection) What's the likelih…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -209,23 +266,6 @@
       }
     },
     {
-      "id": "t3_1wop6ep",
-      "title": "Help to to review petition",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wop6ep/help_to_to_review_petition/",
-      "author": "/u/Natural-Chip4943",
-      "publishedAt": "2026-09-24T02:07:41+00:00",
-      "excerpt": "I'm currently writing my petition and I wanted to ask if someone here will be happy to review it and give me feedback and tips to improve it before submitting it, especially if you already got an approval. If this is not the right sub for it, please can someone point me to the approciate sub. Thank you.",
-      "topics": [
-        "approval"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wogg50",
       "title": "RFE - All Prong (Generic RFE)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wogg50/rfe_all_prong_generic_rfe/",
@@ -236,6 +276,23 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wop6ep",
+      "title": "Help to to review petition",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wop6ep/help_to_to_review_petition/",
+      "author": "/u/Natural-Chip4943",
+      "publishedAt": "2026-09-24T02:07:41+00:00",
+      "excerpt": "I'm currently writing my petition and I wanted to ask if someone here will be happy to review it and give me feedback and tips to improve it before submitting it, especially if you already got an approval. If this is not the right sub for it, please can someone point me to the approciate sub. Thank you.",
+      "topics": [
+        "approval"
       ],
       "signals": {
         "blockNumber": null,
@@ -264,6 +321,23 @@
       }
     },
     {
+      "id": "t3_1woemj7",
+      "title": "RFE erros and AI",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woemj7/rfe_erros_and_ai/",
+      "author": "/u/Tasty_Rain5085",
+      "publishedAt": "2026-09-23T18:49:14+00:00",
+      "excerpt": "I just want to share this because I’ve noticed how much repetition, AI, and copy and pasting has in my RFE. So many, paragraphs between the prongs that are completely the same. They also mentioned that I pretend to teach in a classroom format, I never say anything similar to this in my original petition. Anyway just sh…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1woh7w2",
       "title": "EP RFE response strategy",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1woh7w2/ep_rfe_response_strategy/",
@@ -274,23 +348,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1woemj7",
-      "title": "RFE erros and AI",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woemj7/rfe_erros_and_ai/",
-      "author": "/u/Tasty_Rain5085",
-      "publishedAt": "2026-09-23T18:49:14+00:00",
-      "excerpt": "I just want to share this because I’ve noticed how much repetition, AI, and copy and pasting has in my RFE. So many, paragraphs between the prongs that are completely the same. They also mentioned that I pretend to teach in a classroom format, I never say anything similar to this in my original petition. Anyway just sh…",
-      "topics": [
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -415,64 +472,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wobk6k",
-      "title": "Premium Processing but case status hasn’t changed",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wobk6k/premium_processing_but_case_status_hasnt_changed/",
-      "author": "/u/One_Escape143",
-      "publishedAt": "2026-09-23T16:55:59+00:00",
-      "excerpt": "I upgraded my I-140 to Premium Processing and received confirmation that USCIS received the I-907 and will take action within 45 business days. However, my case status still says “USCIS is currently processing your case,” which is the same status I’ve had since day one, about 18 months ago. Is this normal after upgradi…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wo7t1q",
-      "title": "Just Made a contract with Columbus",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wo7t1q/just_made_a_contract_with_columbus/",
-      "author": "/u/Many-Squash-5390",
-      "publishedAt": "2026-09-23T14:38:09+00:00",
-      "excerpt": "Good morning everyone! I hope you guys are having a great week so far. I just signed the contract to do an EB-2 with a law firm. I felt very insecure about doing this process, but I decided to at least try it. Profile: BA in Marketing and MA in Marketing Worked 5 years in the industry and helped developed different mar…",
-      "topics": [
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wo7anc",
-      "title": "Pharmacists who applied for EB-2 NIW-any advice or law firm recommendations?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wo7anc/pharmacists_who_applied_for_eb2_niwany_advice_or/",
-      "author": "/u/Subject_Criticism621",
-      "publishedAt": "2026-09-23T14:18:18+00:00",
-      "excerpt": "Hi everyone! I’m a PharmD graduate working as a licensed pharmacist in the U.S. and completing my first year of residency. I’m hoping to do a second year in transplant and apply for an EB-2 NIW within the next year. I’ll have one research project from my current residency and potentially another during my second year, …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-24T13:06:05.582Z",
+  "syncedAt": "2026-09-24T18:03:14.725Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
