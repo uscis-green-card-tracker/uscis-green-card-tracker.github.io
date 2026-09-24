@@ -73,16 +73,16 @@
       }
     },
     {
-      "id": "t3_1wo94fv",
-      "title": "EB2 NIW APPROVALS lookback, Week 39 of 2026",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wo94fv/eb2_niw_approvals_lookback_week_39_of_2026/",
-      "author": "/u/equalizer-rage",
-      "publishedAt": "2026-09-23T15:27:27+00:00",
-      "excerpt": "I make weekly summaries of approvals and denials from this subreddit. In the last several days I registered 7 newly reported approvals , please see below. I am ready to answer questions too, please ask away. If you like what I do, please join r/VisaStats . A table with LINKS TO ALL THE POSTS is available there too. (Nu…",
+      "id": "t3_1woqwiy",
+      "title": "EB-2 NIW RFE – How Long Were You Given to Respond?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1woqwiy/eb2_niw_rfe_how_long_were_you_given_to_respond/",
+      "author": "/u/kaylee0510",
+      "publishedAt": "2026-09-24T03:31:10+00:00",
+      "excerpt": "For those who received an EB-2 NIW RFE, how much time did USCIS give you to respond? I’ve noticed the deadlines seem to vary a lot. Some people get 80+ days, while mine was only about 34 days (RFE issued Aug. 18, deadline Sept. 21).",
       "topics": [
-        "approval",
         "i140",
-        "lawyer"
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -103,6 +103,25 @@
         "i485",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wo94fv",
+      "title": "EB2 NIW APPROVALS lookback, Week 39 of 2026",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wo94fv/eb2_niw_approvals_lookback_week_39_of_2026/",
+      "author": "/u/equalizer-rage",
+      "publishedAt": "2026-09-23T15:27:27+00:00",
+      "excerpt": "I make weekly summaries of approvals and denials from this subreddit. In the last several days I registered 7 newly reported approvals , please see below. I am ready to answer questions too, please ask away. If you like what I do, please join r/VisaStats . A table with LINKS TO ALL THE POSTS is available there too. (Nu…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -449,29 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wn6vjm",
-      "title": "NIW approved 4 business days after RFE response — thank you, this community",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wn6vjm/niw_approved_4_business_days_after_rfe_response/",
-      "author": "/u/Ok-Egg-3170",
-      "publishedAt": "2026-09-22T11:28:44+00:00",
-      "excerpt": "I've been a quiet reader of this subreddit for months. The timelines, RFE experiences, and honest advice shared here helped me more than I can say, so I wanted to give back by sharing my result. I woke up in the middle of the night for no particular reason, saw a case update notification, and it was Case Approved . I h…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-24T02:12:48.142Z",
+  "syncedAt": "2026-09-24T07:56:55.381Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
