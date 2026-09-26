@@ -35,15 +35,36 @@
       }
     },
     {
-      "id": "t3_1wqgf4a",
-      "title": "Eb2 Niw Approval without RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqgf4a/eb2_niw_approval_without_rfe/",
-      "author": "/u/Medical-Economy-4880",
-      "publishedAt": "2026-09-26T03:47:47+00:00",
-      "excerpt": "I would like to share my profile, because I have gained so much encouragement from reading other people’s experiences on this platform. EB-2 NIW — I-907 Premium Processing I-907 received: July 27, 2026 Approval: September 25, 2026 Service Center: Nebraska Service Center Filing: Self-filed My profile included: 8 recomme…",
+      "id": "t3_1wqxjvl",
+      "title": "Can I file my I-485 before the October Visa Bulletin takes effect?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqxjvl/can_i_file_my_i485_before_the_october_visa/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-09-26T18:18:45+00:00",
+      "excerpt": "My EB-2 NIW I-140 was just approved. ROW, and my priority date is March 2026. EB-2 ROW is currently eligible for filing under the September 2026 rules, but I’m concerned that things could change with the October Visa Bulletin. Since there are only a few days left in September, can I prepare and submit my I-485 now unde…",
       "topics": [
         "approval",
-        "i140"
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wr1vb7",
+      "title": "EB2-NIW Premium Processing RFE Response Delivered but No Status Update",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wr1vb7/eb2niw_premium_processing_rfe_response_delivered/",
+      "author": "/u/DeeSooLay",
+      "publishedAt": "2026-09-26T21:16:22+00:00",
+      "excerpt": "Hi everyone, I have an EB2-NIW I-140 petition with premium processing at the Texas Service Center. RFE issued: August 20 RFE response delivered: September 17 (confirmed by tracking) Current status: Still shows the RFE notice and has not changed to \"Response To USCIS' Request For Evidence Was Received\" Has anyone experi…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -72,15 +93,32 @@
       }
     },
     {
-      "id": "t3_1wqxjvl",
-      "title": "Can I file my I-485 before the October Visa Bulletin takes effect?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqxjvl/can_i_file_my_i485_before_the_october_visa/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-09-26T18:18:45+00:00",
-      "excerpt": "My EB-2 NIW I-140 was just approved. ROW, and my priority date is March 2026. EB-2 ROW is currently eligible for filing under the September 2026 rules, but I’m concerned that things could change with the October Visa Bulletin. Since there are only a few days left in September, can I prepare and submit my I-485 now unde…",
+      "id": "t3_1wqgf4a",
+      "title": "Eb2 Niw Approval without RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqgf4a/eb2_niw_approval_without_rfe/",
+      "author": "/u/Medical-Economy-4880",
+      "publishedAt": "2026-09-26T03:47:47+00:00",
+      "excerpt": "I would like to share my profile, because I have gained so much encouragement from reading other people’s experiences on this platform. EB-2 NIW — I-907 Premium Processing I-907 received: July 27, 2026 Approval: September 25, 2026 Service Center: Nebraska Service Center Filing: Self-filed My profile included: 8 recomme…",
       "topics": [
         "approval",
-        "i485",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wqufoh",
+      "title": "Does it matter if one prong or all three prongs are challenged?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqufoh/does_it_matter_if_one_prong_or_all_three_prongs/",
+      "author": "/u/Interesting_Hawk_392",
+      "publishedAt": "2026-09-26T16:13:16+00:00",
+      "excerpt": "Has anyone seen reliable data comparing approval rates after an EB-2 NIW RFE that challenges just one Dhanasar prong versus all three? If you’ve already received a decision after responding to an RFE, would you be willing to share which prongs were challenged and whether the petition was approved or denied? The decisio…",
+      "topics": [
+        "approval",
         "i140",
         "question"
       ],
@@ -140,25 +178,6 @@
         "approval",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wqufoh",
-      "title": "Does it matter if one prong or all three prongs are challenged?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqufoh/does_it_matter_if_one_prong_or_all_three_prongs/",
-      "author": "/u/Interesting_Hawk_392",
-      "publishedAt": "2026-09-26T16:13:16+00:00",
-      "excerpt": "Has anyone seen reliable data comparing approval rates after an EB-2 NIW RFE that challenges just one Dhanasar prong versus all three? If you’ve already received a decision after responding to an RFE, would you be willing to share which prongs were challenged and whether the petition was approved or denied? The decisio…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -245,24 +264,6 @@
       }
     },
     {
-      "id": "t3_1wq6wib",
-      "title": "EB-2 NIW Denied: Appeal or Refile? Looking for Real Experiences",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wq6wib/eb2_niw_denied_appeal_or_refile_looking_for_real/",
-      "author": "/u/Dry_Presentation1269",
-      "publishedAt": "2026-09-25T20:24:35+00:00",
-      "excerpt": "I received an RFE on all three prongs, basically requesting evidence I had already submitted. My case was approximately 600 pages. Just 12 days after receiving my RFE response, USCIS opened my case and denied it within THREE HOURS. The denial letter is full of factual inaccuracies. The officer claimed I hadn't submitte…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wqb3go",
       "title": "RFE on all 3 prongs",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqb3go/rfe_on_all_3_prongs/",
@@ -280,15 +281,14 @@
       }
     },
     {
-      "id": "t3_1wq71r6",
-      "title": "RFE via Email",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wq71r6/rfe_via_email/",
-      "author": "/u/Nomigurnani333",
-      "publishedAt": "2026-09-25T20:30:24+00:00",
-      "excerpt": "How long does it usually take for USCIS to respond to an email requesting an electronic copy of an RFE?",
+      "id": "t3_1wq6wib",
+      "title": "EB-2 NIW Denied: Appeal or Refile? Looking for Real Experiences",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wq6wib/eb2_niw_denied_appeal_or_refile_looking_for_real/",
+      "author": "/u/Dry_Presentation1269",
+      "publishedAt": "2026-09-25T20:24:35+00:00",
+      "excerpt": "I received an RFE on all three prongs, basically requesting evidence I had already submitted. My case was approximately 600 pages. Just 12 days after receiving my RFE response, USCIS opened my case and denied it within THREE HOURS. The denial letter is full of factual inaccuracies. The officer claimed I hadn't submitte…",
       "topics": [
         "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -338,6 +338,25 @@
       }
     },
     {
+      "id": "t3_1wq71r6",
+      "title": "RFE via Email",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wq71r6/rfe_via_email/",
+      "author": "/u/Nomigurnani333",
+      "publishedAt": "2026-09-25T20:30:24+00:00",
+      "excerpt": "How long does it usually take for USCIS to respond to an email requesting an electronic copy of an RFE?",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wqc8w1",
       "title": "July pp filers?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqc8w1/july_pp_filers/",
@@ -374,25 +393,6 @@
       }
     },
     {
-      "id": "t3_1wpzsxr",
-      "title": "Strong Resume, Weak NIW? Your Proposed Endeavor May Be Why",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wpzsxr/strong_resume_weak_niw_your_proposed_endeavor_may/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-09-25T15:46:58+00:00",
-      "excerpt": "https://preview.redd.it/ododuxvmrorh1.jpg?width=1170&format=pjpg&auto=webp&s=f5a997b36d50c846b146f3dc4764936c5c21862d Hi everyone, my name is Zoe Ji Wilson, and I’m an immigration attorney with Manifest Law. I work extensively with EB-2 NIW, EB-1A and O-1 cases. I’ll be here this Friday from 11:45 AM to 3:45 PM ET answ…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wq3r1j",
       "title": "I-140 Approval Notice Not Received: Can I File My I-485 with Approval email?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wq3r1j/i140_approval_notice_not_received_can_i_file_my/",
@@ -403,6 +403,25 @@
         "approval",
         "i485",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wpzsxr",
+      "title": "Strong Resume, Weak NIW? Your Proposed Endeavor May Be Why",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wpzsxr/strong_resume_weak_niw_your_proposed_endeavor_may/",
+      "author": "/u/ManifestLaw_",
+      "publishedAt": "2026-09-25T15:46:58+00:00",
+      "excerpt": "https://preview.redd.it/ododuxvmrorh1.jpg?width=1170&format=pjpg&auto=webp&s=f5a997b36d50c846b146f3dc4764936c5c21862d Hi everyone, my name is Zoe Ji Wilson, and I’m an immigration attorney with Manifest Law. I work extensively with EB-2 NIW, EB-1A and O-1 cases. I’ll be here this Friday from 11:45 AM to 3:45 PM ET answ…",
+      "topics": [
+        "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -449,29 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wqcydb",
-      "title": "Industry profile, zero pubs/citations — is there an NIW case here?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqcydb/industry_profile_zero_pubscitations_is_there_an/",
-      "author": "/u/WeirdFishes1234",
-      "publishedAt": "2026-09-26T00:50:00+00:00",
-      "excerpt": "Looking for honest takes on whether my profile has any NIW shot. Background - Master's degree in engineering (US university) - ~7 years as a software engineer in medical devices, all industry (no PhD, no academic track) - Currently Senior SWE at a medical imaging company; my work ships in FDA-cleared diagnostic imaging…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-26T18:50:36.788Z",
+  "syncedAt": "2026-09-26T21:42:39.338Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
