@@ -359,23 +359,6 @@
       }
     },
     {
-      "id": "t3_1wqb3go",
-      "title": "RFE on all 3 prongs",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqb3go/rfe_on_all_3_prongs/",
-      "author": "/u/No-Aioli6596",
-      "publishedAt": "2026-09-25T23:22:39+00:00",
-      "excerpt": "I am so unhappy and frustrated, just got my RFE on all 3 prongs and don’t know where to start from.",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wq6wib",
       "title": "EB-2 NIW Denied: Appeal or Refile? Looking for Real Experiences",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wq6wib/eb2_niw_denied_appeal_or_refile_looking_for_real/",
@@ -385,6 +368,23 @@
       "topics": [
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wqb3go",
+      "title": "RFE on all 3 prongs",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqb3go/rfe_on_all_3_prongs/",
+      "author": "/u/No-Aioli6596",
+      "publishedAt": "2026-09-25T23:22:39+00:00",
+      "excerpt": "I am so unhappy and frustrated, just got my RFE on all 3 prongs and don’t know where to start from.",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -470,7 +470,7 @@
       }
     }
   ],
-  "syncedAt": "2026-09-27T19:54:58.367Z",
+  "syncedAt": "2026-09-27T22:41:12.766Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
