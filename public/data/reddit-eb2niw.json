@@ -35,6 +35,43 @@
       }
     },
     {
+      "id": "t3_1ws05z1",
+      "title": "Chen Denial rate",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ws05z1/chen_denial_rate/",
+      "author": "/u/Interesting_Hawk_392",
+      "publishedAt": "2026-09-28T00:24:53+00:00",
+      "excerpt": "I am wondering if their denial rate change recently.",
+      "topics": [
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wrziwa",
+      "title": "NIW denied — can I switch from STEM OPT to J-1 for a postdoc?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wrziwa/niw_denied_can_i_switch_from_stem_opt_to_j1_for_a/",
+      "author": "/u/lifebetween1and10",
+      "publishedAt": "2026-09-27T23:55:10+00:00",
+      "excerpt": "I recently received a denial on my EB-2 NIW petition. My STEM OPT is also going to expire soon, so I am trying to understand what options I may have to remain in the U.S. legally. I may have an opportunity to take a postdoctoral position at a university, and I am wondering whether switching to J-1 status inside US coul…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wrhyrk",
       "title": "EB2-NIW Premium Processing with Chen. Should I do it?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wrhyrk/eb2niw_premium_processing_with_chen_should_i_do_it/",
@@ -431,46 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wq71r6",
-      "title": "RFE via Email",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wq71r6/rfe_via_email/",
-      "author": "/u/Nomigurnani333",
-      "publishedAt": "2026-09-25T20:30:24+00:00",
-      "excerpt": "How long does it usually take for USCIS to respond to an email requesting an electronic copy of an RFE?",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wqc8w1",
-      "title": "July pp filers?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqc8w1/july_pp_filers/",
-      "author": "/u/Grouchy-Ad-1058",
-      "publishedAt": "2026-09-26T00:15:49+00:00",
-      "excerpt": "I filed pp July 29th, still no response. Others?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-27T22:41:12.766Z",
+  "syncedAt": "2026-09-28T01:18:09.083Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
