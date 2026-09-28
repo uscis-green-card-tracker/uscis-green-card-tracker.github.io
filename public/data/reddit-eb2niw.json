@@ -35,12 +35,83 @@
       }
     },
     {
+      "id": "t3_1wsigfm",
+      "title": "Case denied after RFE on all three prongs.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wsigfm/case_denied_after_rfe_on_all_three_prongs/",
+      "author": "/u/Resident_Builder_639",
+      "publishedAt": "2026-09-28T15:56:49+00:00",
+      "excerpt": "I receive denial notice this morning after I receive RFE on all three prongs. PD 12/20/2024. Premium processing 03/16/2026. Service center NSC for initial case submission while premium processing was adjudicated at TSC. Officer XM1771 (currently one of the worst officer). Profile Phd in crop science from US. Citation a…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "12/20/2024",
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wsep2x",
+      "title": "Question on Chen's recommendation letters",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wsep2x/question_on_chens_recommendation_letters/",
+      "author": "/u/deedumbOt",
+      "publishedAt": "2026-09-28T13:30:42+00:00",
+      "excerpt": "Hi everyone, I am preparing for my I-140 right now with Chen, and honestly after receiving the letters back from them, they sound template and incorrect. Specifically, instead of writing that the recommenders believe that I have the capability for the proposed projects, they are written as if the recommenders will be w…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wsdloh",
+      "title": "Decision after RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wsdloh/decision_after_rfe/",
+      "author": "/u/UnfairBrain4776",
+      "publishedAt": "2026-09-28T12:44:33+00:00",
+      "excerpt": "Has anyone else also noticed RFEs submitted recently (in September or late august) lead to earlier decisions; within 1-2 weeks.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ws5d84",
       "title": "RFE ON 3 prongs and not sure what to provide",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ws5d84/rfe_on_3_prongs_and_not_sure_what_to_provide/",
       "author": "/u/mandy603",
       "publishedAt": "2026-09-28T04:51:14+00:00",
       "excerpt": "Got RFE on all prongs. Gathering data to respond is taking SO MUCH energy and effort and not sure how to respond appropriately. Low citation count (30’s) but the USCIS says the endeavor has substantial merit but petitioner(me) doesn’t show how they will reach this endeavor. I am afraid i dont believe enough in my own p…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wsiepn",
+      "title": "Decision email",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wsiepn/decision_email/",
+      "author": "/u/MudassarH4823",
+      "publishedAt": "2026-09-28T15:55:07+00:00",
+      "excerpt": "Anyone got decision today for EB2 NIW who have submission in July of PP?",
       "topics": [
         "i140",
         "question"
@@ -91,6 +162,24 @@
       }
     },
     {
+      "id": "t3_1ws35u8",
+      "title": "EB2 -NIW DIY. ¡Ayuda!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ws35u8/eb2_niw_diy_ayuda/",
+      "author": "/u/Weary_Judgment_4608",
+      "publishedAt": "2026-09-28T02:54:41+00:00",
+      "excerpt": "Voy a hacer mi petición yo misma, y la verdad estoy un poco nerviosa y confundida con los formularios. ¿Alguien por favor me puede explicar y contar su experiencia? Soy abogada en Ecuador y estoy preparando mi caso.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1ws19sj",
       "title": "Question on I-140, Pre-Completion OPT, and I-485 Timing",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1ws19sj/question_on_i140_precompletion_opt_and_i485_timing/",
@@ -121,24 +210,6 @@
         "i140",
         "lawyer",
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ws35u8",
-      "title": "EB2 -NIW DIY. ¡Ayuda!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ws35u8/eb2_niw_diy_ayuda/",
-      "author": "/u/Weary_Judgment_4608",
-      "publishedAt": "2026-09-28T02:54:41+00:00",
-      "excerpt": "Voy a hacer mi petición yo misma, y la verdad estoy un poco nerviosa y confundida con los formularios. ¿Alguien por favor me puede explicar y contar su experiencia? Soy abogada en Ecuador y estoy preparando mi caso.",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -279,16 +350,15 @@
       }
     },
     {
-      "id": "t3_1wqxjvl",
-      "title": "Can I file my I-485 before the October Visa Bulletin takes effect?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqxjvl/can_i_file_my_i485_before_the_october_visa/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-09-26T18:18:45+00:00",
-      "excerpt": "My EB-2 NIW I-140 was just approved. ROW, and my priority date is March 2026. EB-2 ROW is currently eligible for filing under the September 2026 rules, but I’m concerned that things could change with the October Visa Bulletin. Since there are only a few days left in September, can I prepare and submit my I-485 now unde…",
+      "id": "t3_1wr9v1m",
+      "title": "EB2 NIW - Industry professional - Judge my profile",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wr9v1m/eb2_niw_industry_professional_judge_my_profile/",
+      "author": "/u/PinkSheetOnly",
+      "publishedAt": "2026-09-27T03:42:44+00:00",
+      "excerpt": "Started to think about NIW. Appreciate any advice. Education: Master degree in US Research: 0 paper/citation. Industry: Investment management Experience: 12 years after bachelor not in US (not related to current industry), then another 5 years (investment management, both public and private investment) after master in …",
       "topics": [
-        "approval",
-        "i485",
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -299,15 +369,16 @@
       }
     },
     {
-      "id": "t3_1wr9v1m",
-      "title": "EB2 NIW - Industry professional - Judge my profile",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wr9v1m/eb2_niw_industry_professional_judge_my_profile/",
-      "author": "/u/PinkSheetOnly",
-      "publishedAt": "2026-09-27T03:42:44+00:00",
-      "excerpt": "Started to think about NIW. Appreciate any advice. Education: Master degree in US Research: 0 paper/citation. Industry: Investment management Experience: 12 years after bachelor not in US (not related to current industry), then another 5 years (investment management, both public and private investment) after master in …",
+      "id": "t3_1wqxjvl",
+      "title": "Can I file my I-485 before the October Visa Bulletin takes effect?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqxjvl/can_i_file_my_i485_before_the_october_visa/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-09-26T18:18:45+00:00",
+      "excerpt": "My EB-2 NIW I-140 was just approved. ROW, and my priority date is March 2026. EB-2 ROW is currently eligible for filing under the September 2026 rules, but I’m concerned that things could change with the October Visa Bulletin. Since there are only a few days left in September, can I prepare and submit my I-485 now unde…",
       "topics": [
+        "approval",
+        "i485",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -391,85 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wqvz04",
-      "title": "Title: EB-2 NIW denied after RFE response (battery engineer, industry R&D) — motion, appeal, or refile? Priority date question",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqvz04/title_eb2_niw_denied_after_rfe_response_battery/",
-      "author": "/u/ForeverDelicious2970",
-      "publishedAt": "2026-09-26T17:15:26+00:00",
-      "excerpt": "Looking for advice from people who've been through a NIW denial, especially industry (non-academic) profiles. Profile: MS in Materials Science from a US university. Battery test engineer at a major tech company's battery lab. Endeavor: advancing battery testing, characterization, and failure-analysis methods for next-g…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wqtu1z",
-      "title": "Which PD with Normal processing got approval recently? Please guide",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqtu1z/which_pd_with_normal_processing_got_approval/",
-      "author": "/u/MiddleGovernment5977",
-      "publishedAt": "2026-09-26T15:48:27+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wqm16z",
-      "title": "What is Objective documentation?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqm16z/what_is_objective_documentation/",
-      "author": "/u/FayZay_1979",
-      "publishedAt": "2026-09-26T09:17:59+00:00",
-      "excerpt": "In an all prong RFE, I have to address one of the points as below: Please provide existing objective documentation confirming your personal responsibilities at my current organization in applying models. The documents should establish your role and the resulting operational output or use; confidential material is not r…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wqp937",
-      "title": "EB2 -NIW DIY! Help",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wqp937/eb2_niw_diy_help/",
-      "author": "/u/Weary_Judgment_4608",
-      "publishedAt": "2026-09-26T12:25:42+00:00",
-      "excerpt": "I am going to DIY my petition, I am a little nervous and confused with the forms! Can anyone please explain and share your experience?? I am an attorney at ecuador and I am preparing my case",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-28T07:57:06.740Z",
+  "syncedAt": "2026-09-28T16:23:26.955Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
