@@ -67,6 +67,64 @@
       }
     },
     {
+      "id": "t3_1wto7zk",
+      "title": "I-693",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wto7zk/i693/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-09-29T22:30:36+00:00",
+      "excerpt": "I missed the October EB-2 ROW filing date by only 4 days. Should I get the I-693 medical exam done now, hoping the filing date moves forward enough in the next couple of months, or wait until my priority date becomes eligible to file and then do the I-693 exam?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtoc83",
+      "title": "EB-2 NIW ROW retrogressed right before my I-485 approval window — how worried should I actually be?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtoc83/eb2_niw_row_retrogressed_right_before_my_i485/",
+      "author": "/u/Unlucky_Pin7985",
+      "publishedAt": "2026-09-29T22:35:58+00:00",
+      "excerpt": "Hi everyone — I’m trying to get a realistic assessment of my immigration situation after the October Visa Bulletin caught me completely off guard. My timeline/background: - EB-2 NIW, ROW - Priority Date: Jan 22, 2026 - I-140 approved: March 2026 - Filed I-485 while EB-2 ROW was current: late June 2026 - Biometrics comp…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtr51c",
+      "title": "EB2 NIW lawyer recommendations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtr51c/eb2_niw_lawyer_recommendations/",
+      "author": "/u/Physical-Winter-5807",
+      "publishedAt": "2026-09-30T00:43:25+00:00",
+      "excerpt": "Hello, I am looking for some good attorney recommendations for filing NIW EB2. I am a H1B visa holder with a Master's degree in Computer science and 8 years of experience as a Cloud Devops engineer. But I do not have any research papers or citations. Some of lawyers I looked was Peak immigration Manifest law Bharat kon…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wta6s5",
       "title": "PD 2024 ASSEMBLE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wta6s5/pd_2024_assemble/",
@@ -75,6 +133,24 @@
       "excerpt": "Our time has come #October_Bulletin",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtgrna",
+      "title": "Question about the visa bulletin: Does it take effect immediately?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtgrna/question_about_the_visa_bulletin_does_it_take/",
+      "author": "/u/SadWillingness2697",
+      "publishedAt": "2026-09-29T17:42:16+00:00",
+      "excerpt": "In the October bulletin released today, eb2 row retrogressed significantly. Does the October bulletin come into effect immediately, or does the September bulletin still apply for the today and tomorrow (29th and 30th)? Can anyone point me to a USCIS page that explains this? I'm closed to filing, but I am worried I woul…",
+      "topics": [
+        "i485",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -122,14 +198,50 @@
       }
     },
     {
-      "id": "t3_1wtgrna",
-      "title": "Question about the visa bulletin: Does it take effect immediately?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtgrna/question_about_the_visa_bulletin_does_it_take/",
-      "author": "/u/SadWillingness2697",
-      "publishedAt": "2026-09-29T17:42:16+00:00",
-      "excerpt": "In the October bulletin released today, eb2 row retrogressed significantly. Does the October bulletin come into effect immediately, or does the September bulletin still apply for the today and tomorrow (29th and 30th)? Can anyone point me to a USCIS page that explains this? I'm closed to filing, but I am worried I woul…",
+      "id": "t3_1wtnpnv",
+      "title": "No response even after 45 days NIW i140 premium processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtnpnv/no_response_even_after_45_days_niw_i140_premium/",
+      "author": "/u/AccomplishedBed4157",
+      "publishedAt": "2026-09-29T22:08:13+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtnmac",
+      "title": "Are people getting EAD? If so how long it took? Please include if your current status",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtnmac/are_people_getting_ead_if_so_how_long_it_took/",
+      "author": "/u/Capitano_MD",
+      "publishedAt": "2026-09-29T22:04:19+00:00",
+      "excerpt": "EAD timeline",
+      "topics": [
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtqtjl",
+      "title": "I have filed i485/ i765 Concurrently as a Spouse of EB2 NIW GC applicant.Biometrics done at 21st September when Visa bulletin were current. Can anyone tell when will uscis approve my EAD application?Regards",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtqtjl/i_have_filed_i485_i765_concurrently_as_a_spouse/",
+      "author": "/u/Striking-Outside-464",
+      "publishedAt": "2026-09-30T00:28:07+00:00",
+      "excerpt": "",
       "topics": [
         "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -158,14 +270,49 @@
       }
     },
     {
-      "id": "t3_1wtfsfg",
-      "title": "AOS and EAD",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtfsfg/aos_and_ead/",
-      "author": "/u/MDAN009",
-      "publishedAt": "2026-09-29T17:05:38+00:00",
-      "excerpt": "What if someone filed the AOS in July 2026 when the final action date was current, but then in the October Visa Bulletin it retrogresses? Will USCIS still process that AOS, or will they now follow the new visa bulletin? When should they expect approval or at least an EAD? Biometrics were completed in August 2026.",
+      "id": "t3_1wtpi1b",
+      "title": "San Jose FO anyone? Just trying to set expectations",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtpi1b/san_jose_fo_anyone_just_trying_to_set_expectations/",
+      "author": "/u/Glittering_Bag_9826",
+      "publishedAt": "2026-09-29T23:27:59+00:00",
+      "excerpt": "Hey All, Anyone has any recent experience about SJFO after their case was transferred there? Mine was transferred 2 weeks ago. (I did search all posts but couldn’t find much recent experience in EB I-485) Thanks",
       "topics": [
-        "approval",
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtoya1",
+      "title": "Responding RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtoya1/responding_rfe/",
+      "author": "/u/theguyfrombidesh23",
+      "publishedAt": "2026-09-29T23:03:26+00:00",
+      "excerpt": "Hi Everyone, I got RFE on my prong 2 ,3. My question is can i add new achievements/publications on my RFE response which happened after the initial filing? And, to take recommendations letter from industrial personnel, how much experienced people i should consider? Like ,if i get a letter from someone with 5/8 years ex…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtog5j",
+      "title": "Visa Bulletin & Case Transfer",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtog5j/visa_bulletin_case_transfer/",
+      "author": "/u/Cultural_Daikon_9043",
+      "publishedAt": "2026-09-29T22:40:40+00:00",
+      "excerpt": "I submitted my case in early August. In the October Visa Bulletin, my Filing Date is current , but my Final Action Date is still more than a year behind. This morning, I chatted with an Emma agent, and they told me that my case was recently transferred to the Los Angeles Field Office . Does this mean they will continue…",
+      "topics": [
         "i485",
         "question"
       ],
@@ -185,6 +332,24 @@
       "excerpt": "The October 2026 Visa Bulletin is out, and for EB-2 Rest of World the dates are: Dates for Filing: March 15, 2026 Final Action Date: January 1, 2025 Does anyone know when USCIS usually announces which chart employment-based applicants should use for October? Historically, does USCIS tend to use the Dates for Filing cha…",
       "topics": [
         "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtnq5c",
+      "title": "RFE response time",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtnq5c/rfe_response_time/",
+      "author": "/u/OkBanana2210",
+      "publishedAt": "2026-09-29T22:08:46+00:00",
+      "excerpt": "Got RFE, but not yet received the RFE letter in the mailbox. From when exactly the time running for the response ?",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -233,6 +398,25 @@
       }
     },
     {
+      "id": "t3_1wtfsfg",
+      "title": "AOS and EAD",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtfsfg/aos_and_ead/",
+      "author": "/u/MDAN009",
+      "publishedAt": "2026-09-29T17:05:38+00:00",
+      "excerpt": "What if someone filed the AOS in July 2026 when the final action date was current, but then in the October Visa Bulletin it retrogresses? Will USCIS still process that AOS, or will they now follow the new visa bulletin? When should they expect approval or at least an EAD? Biometrics were completed in August 2026.",
+      "topics": [
+        "approval",
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wtlecb",
       "title": "Does Silent API mean anything ? I",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtlecb/does_silent_api_mean_anything_i/",
@@ -267,196 +451,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wtacgs",
-      "title": "EB-2 ROW: Can I File I-485 on September 29/30 Even Though October Has Retrogressed?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtacgs/eb2_row_can_i_file_i485_on_september_2930_even/",
-      "author": "/u/emulateWait",
-      "publishedAt": "2026-09-29T13:37:45+00:00",
-      "excerpt": "My PD is September 17, 2026 . I’m currently in F-1/OPT inside the U.S. Today is September 29, 2026 . I understand that if I file the I-485 and the FAD stays behind , my green card cannot be approved until my PD becomes current again. My question is: Can I still file I-485 on September 29 or 30 based on September’s Visa…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtdlva",
-      "title": "Can I submit I485 and attache I-693 later",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtdlva/can_i_submit_i485_and_attache_i693_later/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-09-29T15:44:38+00:00",
-      "excerpt": "I am trying to catch the september visa bulletin but doesn't have I-693 yet, can I file I485 and attach I693 a week later, or will it be automatically rejected?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtd9cq",
-      "title": "I-140 RFE response mailing instructions for self-filing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtd9cq/i140_rfe_response_mailing_instructions_for/",
-      "author": "/u/oats-and-nuts",
-      "publishedAt": "2026-09-29T15:31:13+00:00",
-      "excerpt": "Hi all! I am seeking guidance regarding mailing in the RFE response, additional exhibits... to TSC this week. If you have recently self-filed without an attorney, could you please chime in for the following questions: 1. i need to assemble the package in the following order: a. the coversheet (no box checked-i did not …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtfxgk",
-      "title": "PD 08/20/25, file 485 now?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtfxgk/pd_082025_file_485_now/",
-      "author": "/u/SnooPears357",
-      "publishedAt": "2026-09-29T17:10:52+00:00",
-      "excerpt": "As above, is there any value in submitting my 485 since I have to wait for FAD? Does it help me to get my green card faster when my FAD becomes current? Edit: ROW",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "08/20/25",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtezic",
-      "title": "API when retrogressed (I-485)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtezic/api_when_retrogressed_i485/",
-      "author": "/u/AffectionateTap6069",
-      "publishedAt": "2026-09-29T16:35:53+00:00",
-      "excerpt": "As the title says, my I-485 is pending and my biometrics are done (two FTA0s). Will the case status show any updates through the API before the officer takes final action when visa number becomes available?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtdqey",
-      "title": "Pharmacist",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtdqey/pharmacist/",
-      "author": "/u/Maik107008",
-      "publishedAt": "2026-09-29T15:49:37+00:00",
-      "excerpt": "Hi, Dear members. Is there any pharmacist here with pharmaceutical industry experience and got approved his/her petition.? Could you please share EB2 NIW petition format/application.",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wt75ye",
-      "title": "O1 visa vs H1B when EB2NIW I 485 is pending",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wt75ye/o1_visa_vs_h1b_when_eb2niw_i_485_is_pending/",
-      "author": "/u/Electrical-Reply6422",
-      "publishedAt": "2026-09-29T11:05:09+00:00",
-      "excerpt": "My EB2NIW I140 was approved in 2016. I used to be on H1B then but had to move to H4 due to needing to go part time in order care for my medical complex child. I am in process of divorcing my abusive spouse so need to go back on my own visa. I wonder if O1 would be better than H1B ? Hopefully when dates become current f…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtbqjf",
-      "title": "I485 filing on the last day of thr month",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtbqjf/i485_filing_on_the_last_day_of_thr_month/",
-      "author": "/u/Broad_Juggernaut5730",
-      "publishedAt": "2026-09-29T14:32:43+00:00",
-      "excerpt": "What happens if I file I 485 tomorrow when it's still current? Has anyone sent I485 on the last day of visa bulletin? If I can fine courrier that can do same day delivery?",
-      "topics": [
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtbj1k",
-      "title": "Manifest Law - Meaghan Tuohey. Anyone worked with her?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtbj1k/manifest_law_meaghan_tuohey_anyone_worked_with_her/",
-      "author": "/u/edy-cymbre",
-      "publishedAt": "2026-09-29T14:24:35+00:00",
-      "excerpt": "Hello, I was approved by both EP and Manifest Law. Although generally EP has better reviews and whatnot online, Manifest Law to me seemed more professional as EP didn't even bother to have a conversation with me and just gave me a retainer to sign without even hearing my proposed endeavor. I know, however, this is all …",
-      "topics": [
-        "approval",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtbevh",
-      "title": "With an April 21 2025 PD. Should I go for EB1A?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtbevh/with_an_april_21_2025_pd_should_i_go_for_eb1a/",
-      "author": "/u/belongs_",
-      "publishedAt": "2026-09-29T14:20:09+00:00",
-      "excerpt": "I was going to file EB1A, but I let it go after my NIW PD became current in March of this year. My priority date is April 21 2025. Now that NIW has retrogressed, should I shoot at EB1A or hope that my NIW will become current soon?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-29T21:09:41.812Z",
+  "syncedAt": "2026-09-30T00:52:45.084Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
