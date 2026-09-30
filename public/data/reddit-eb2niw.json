@@ -35,13 +35,35 @@
       }
     },
     {
-      "id": "t3_1wtcmtc",
-      "title": "October 2026 Visa Bulletin is out - dates have retrogressed",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtcmtc/october_2026_visa_bulletin_is_out_dates_have/",
-      "author": "/u/Intrinsic137",
-      "publishedAt": "2026-09-29T15:07:45+00:00",
-      "excerpt": "For EB-2 ROW , both dates have retrogressed: FAD: Jan 1, 2025 DOF: Mar 15, 2026 https://preview.redd.it/dvpvfo7s5hsh1.png?width=1254&format=png&auto=webp&s=219391bb8ab1cd31ff83b98bf6196f61744397aa",
+      "id": "t3_1wtry67",
+      "title": "NIW approved after 3 prong RFE!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtry67/niw_approved_after_3_prong_rfe/",
+      "author": "/u/IronInference",
+      "publishedAt": "2026-09-30T01:21:55+00:00",
+      "excerpt": "Hi all, I've really appreciated all the experiences and information shared here. My NIW was finally approved after an RFE, so I wanted to share my profile and timeline: Timeline: Filed 8/19/2025, upgraded to PP 3/3/2026, got RFE 4/29/2026, and approved 9/25/2026. TSC. Background: PhD in Nuclear Engineering, currently d…",
       "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtt90l",
+      "title": "Anyone else feeling down by the retrogression that happened in the October Visa Bulletin?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtt90l/anyone_else_feeling_down_by_the_retrogression/",
+      "author": "/u/Shebaro",
+      "publishedAt": "2026-09-30T02:25:20+00:00",
+      "excerpt": "My PD is 7/7/2025. ROW. Filed I-485 with I-765 in 03/27/2026. Got transferred to LA FO in 06/05/2026. The final action date was current for me for 4 months but this field office did not approve me on time before this retrogression hit me. I did not get EAD yet either and I am unemployed right now holding on as long as …",
+      "topics": [
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -52,29 +74,13 @@
       }
     },
     {
-      "id": "t3_1wt7e68",
-      "title": "Visa Bulletin October 2026",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wt7e68/visa_bulletin_october_2026/",
-      "author": "/u/Pale_Grapefruit6862",
-      "publishedAt": "2026-09-29T11:18:12+00:00",
-      "excerpt": "https://travel.state.gov/content/dam/visas/Bulletins/visabulletin\\_October2026.pdf",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wto7zk",
-      "title": "I-693",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wto7zk/i693/",
-      "author": "/u/Murky-Commercial-112",
-      "publishedAt": "2026-09-29T22:30:36+00:00",
-      "excerpt": "I missed the October EB-2 ROW filing date by only 4 days. Should I get the I-693 medical exam done now, hoping the filing date moves forward enough in the next couple of months, or wait until my priority date becomes eligible to file and then do the I-693 exam?",
+      "id": "t3_1wtcmtc",
+      "title": "October 2026 Visa Bulletin is out - dates have retrogressed",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtcmtc/october_2026_visa_bulletin_is_out_dates_have/",
+      "author": "/u/Intrinsic137",
+      "publishedAt": "2026-09-29T15:07:45+00:00",
+      "excerpt": "For EB-2 ROW , both dates have retrogressed: FAD: Jan 1, 2025 DOF: Mar 15, 2026 https://preview.redd.it/dvpvfo7s5hsh1.png?width=1254&format=png&auto=webp&s=219391bb8ab1cd31ff83b98bf6196f61744397aa",
       "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -106,6 +112,24 @@
       }
     },
     {
+      "id": "t3_1wto7zk",
+      "title": "I-693",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wto7zk/i693/",
+      "author": "/u/Murky-Commercial-112",
+      "publishedAt": "2026-09-29T22:30:36+00:00",
+      "excerpt": "I missed the October EB-2 ROW filing date by only 4 days. Should I get the I-693 medical exam done now, hoping the filing date moves forward enough in the next couple of months, or wait until my priority date becomes eligible to file and then do the I-693 exam?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wtr51c",
       "title": "EB2 NIW lawyer recommendations",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtr51c/eb2_niw_lawyer_recommendations/",
@@ -116,6 +140,40 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wt7e68",
+      "title": "Visa Bulletin October 2026",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wt7e68/visa_bulletin_october_2026/",
+      "author": "/u/Pale_Grapefruit6862",
+      "publishedAt": "2026-09-29T11:18:12+00:00",
+      "excerpt": "https://travel.state.gov/content/dam/visas/Bulletins/visabulletin\\_October2026.pdf",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtwxu1",
+      "title": "NIW approved with an entrepreneurial project after 3 prong RFE and error in filing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtwxu1/niw_approved_with_an_entrepreneurial_project/",
+      "author": "/u/Lonely_Variation_416",
+      "publishedAt": "2026-09-30T05:45:51+00:00",
+      "excerpt": "Hi all, I received my I-140 approval today after responding to a 3-prong RFE following a significant omission in the original submission. Here is my information. Initial filing: 02/20/2026 PP: 03/06/2026 RFE received 05/04/2026 RFE response 07/30/2026 Date Approved: 09/29/2026 ROW I am a PhD candidate at an R1 Universi…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -142,12 +200,50 @@
       }
     },
     {
+      "id": "t3_1wtg2gn",
+      "title": "I-140 EB2 NIW premium approval email received, portal still says \"processing.\" How long did yours take to update?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtg2gn/i140_eb2_niw_premium_approval_email_received/",
+      "author": "/u/Revolutionary-Pen954",
+      "publishedAt": "2026-09-29T17:16:13+00:00",
+      "excerpt": "Filed an EB2 NIW under premium processing, got an RFE, and responded. Today I got the USCIS approval email from the Nebraska Service Center([ ELISdonotreply@uscis.dhs.gov ](mailto: ELISdonotreply@uscis.dhs.gov )), but Case Status Online still says \"being processed\" (dated yesterday). Has anyone had the email arrive bef…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wtgrna",
       "title": "Question about the visa bulletin: Does it take effect immediately?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtgrna/question_about_the_visa_bulletin_does_it_take/",
       "author": "/u/SadWillingness2697",
       "publishedAt": "2026-09-29T17:42:16+00:00",
       "excerpt": "In the October bulletin released today, eb2 row retrogressed significantly. Does the October bulletin come into effect immediately, or does the September bulletin still apply for the today and tomorrow (29th and 30th)? Can anyone point me to a USCIS page that explains this? I'm closed to filing, but I am worried I woul…",
+      "topics": [
+        "i485",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wtt3z1",
+      "title": "Recent Case Movement",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtt3z1/recent_case_movement/",
+      "author": "/u/One-Switch4511",
+      "publishedAt": "2026-09-30T02:18:20+00:00",
+      "excerpt": "Anyone who completed their biometrics for I-485 in the last one month, did you see any movements of your cases? It's been a month for me and zero movement.",
       "topics": [
         "i485",
         "question"
@@ -178,43 +274,6 @@
       }
     },
     {
-      "id": "t3_1wtg2gn",
-      "title": "I-140 EB2 NIW premium approval email received, portal still says \"processing.\" How long did yours take to update?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtg2gn/i140_eb2_niw_premium_approval_email_received/",
-      "author": "/u/Revolutionary-Pen954",
-      "publishedAt": "2026-09-29T17:16:13+00:00",
-      "excerpt": "Filed an EB2 NIW under premium processing, got an RFE, and responded. Today I got the USCIS approval email from the Nebraska Service Center([ ELISdonotreply@uscis.dhs.gov ](mailto: ELISdonotreply@uscis.dhs.gov )), but Case Status Online still says \"being processed\" (dated yesterday). Has anyone had the email arrive bef…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtnpnv",
-      "title": "No response even after 45 days NIW i140 premium processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtnpnv/no_response_even_after_45_days_niw_i140_premium/",
-      "author": "/u/AccomplishedBed4157",
-      "publishedAt": "2026-09-29T22:08:13+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wtnmac",
       "title": "Are people getting EAD? If so how long it took? Please include if your current status",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtnmac/are_people_getting_ead_if_so_how_long_it_took/",
@@ -223,25 +282,6 @@
       "excerpt": "EAD timeline",
       "topics": [
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtqtjl",
-      "title": "I have filed i485/ i765 Concurrently as a Spouse of EB2 NIW GC applicant.Biometrics done at 21st September when Visa bulletin were current. Can anyone tell when will uscis approve my EAD application?Regards",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtqtjl/i_have_filed_i485_i765_concurrently_as_a_spouse/",
-      "author": "/u/Striking-Outside-464",
-      "publishedAt": "2026-09-30T00:28:07+00:00",
-      "excerpt": "",
-      "topics": [
-        "i485",
-        "i140",
         "question"
       ],
       "signals": {
@@ -270,14 +310,15 @@
       }
     },
     {
-      "id": "t3_1wtpi1b",
-      "title": "San Jose FO anyone? Just trying to set expectations",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtpi1b/san_jose_fo_anyone_just_trying_to_set_expectations/",
-      "author": "/u/Glittering_Bag_9826",
-      "publishedAt": "2026-09-29T23:27:59+00:00",
-      "excerpt": "Hey All, Anyone has any recent experience about SJFO after their case was transferred there? Mine was transferred 2 weeks ago. (I did search all posts but couldn’t find much recent experience in EB I-485) Thanks",
+      "id": "t3_1wtqtjl",
+      "title": "I have filed i485/ i765 Concurrently as a Spouse of EB2 NIW GC applicant.Biometrics done at 21st September when Visa bulletin were current. Can anyone tell when will uscis approve my EAD application?Regards",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtqtjl/i_have_filed_i485_i765_concurrently_as_a_spouse/",
+      "author": "/u/Striking-Outside-464",
+      "publishedAt": "2026-09-30T00:28:07+00:00",
+      "excerpt": "",
       "topics": [
         "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -360,6 +401,23 @@
       }
     },
     {
+      "id": "t3_1wtnpnv",
+      "title": "No response even after 45 days NIW i140 premium processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtnpnv/no_response_even_after_45_days_niw_i140_premium/",
+      "author": "/u/AccomplishedBed4157",
+      "publishedAt": "2026-09-29T22:08:13+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wtdi9o",
       "title": "Pending I-140. Is it doable to submit I-485 in under 2 days?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtdi9o/pending_i140_is_it_doable_to_submit_i485_in_under/",
@@ -396,64 +454,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1wtfsfg",
-      "title": "AOS and EAD",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtfsfg/aos_and_ead/",
-      "author": "/u/MDAN009",
-      "publishedAt": "2026-09-29T17:05:38+00:00",
-      "excerpt": "What if someone filed the AOS in July 2026 when the final action date was current, but then in the October Visa Bulletin it retrogresses? Will USCIS still process that AOS, or will they now follow the new visa bulletin? When should they expect approval or at least an EAD? Biometrics were completed in August 2026.",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtlecb",
-      "title": "Does Silent API mean anything ? I",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtlecb/does_silent_api_mean_anything_i/",
-      "author": "/u/Wise_While2907",
-      "publishedAt": "2026-09-29T20:36:39+00:00",
-      "excerpt": "",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wtdz0f",
-      "title": "Premium processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wtdz0f/premium_processing/",
-      "author": "/u/Acceptable-Safe-3146",
-      "publishedAt": "2026-09-29T15:58:31+00:00",
-      "excerpt": "Hi all, I applied for premium processing of my pending i140 on Sep 25 through my USCIS account. On the day I applied, my profile showed a premium processing case but now when I check I do not see anything. How am I supposed to keep track of premium processing? Note: I applied i140 with an attorney but premium by Myself…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-09-30T00:52:45.084Z",
+  "syncedAt": "2026-09-30T06:09:09.146Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
