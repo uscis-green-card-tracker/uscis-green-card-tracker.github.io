@@ -110,6 +110,23 @@
       }
     },
     {
+      "id": "t3_1ww43ed",
+      "title": "Any used a recommendation letter from Carnegie Evaluations before? What justification did you give to USCIS?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ww43ed/any_used_a_recommendation_letter_from_carnegie/",
+      "author": "/u/Bitter_Rip_6867",
+      "publishedAt": "2026-10-02T20:19:34+00:00",
+      "excerpt": "",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1wwa4jt",
       "title": "Fiber-Reinforced Composite Materials",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wwa4jt/fiberreinforced_composite_materials/",
@@ -137,23 +154,6 @@
       "excerpt": "Hi everyone, has anyone recently filed Form I-824 for family follow-to-join benefits? How long did it take? Please share your experiences, especially recent timelines. Thank you!",
       "topics": [
         "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1ww43ed",
-      "title": "Any used a recommendation letter from Carnegie Evaluations before? What justification did you give to USCIS?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ww43ed/any_used_a_recommendation_letter_from_carnegie/",
-      "author": "/u/Bitter_Rip_6867",
-      "publishedAt": "2026-10-02T20:19:34+00:00",
-      "excerpt": "",
-      "topics": [
         "question"
       ],
       "signals": {
@@ -361,23 +361,6 @@
       }
     },
     {
-      "id": "t3_1wvdef7",
-      "title": "EB2 NIW Denied 😔",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wvdef7/eb2_niw_denied/",
-      "author": "/u/SensitiveCan3913",
-      "publishedAt": "2026-10-01T22:35:59+00:00",
-      "excerpt": "PD August 2024 Premium March 2026 RFE May 2026 RFE Response - August 2026 RFE Denued - October 2026 Denial letter is not yet received Gutted. I was hoping I will post a success story but I guess not (yet). Electrical engineer in railways, UK Masters qualified chartered engineer 17 years experience and proposed endeavor…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wvdqvq",
       "title": "EB-2 NIW approved after an RFE on all three prongs — sharing my experience",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wvdqvq/eb2_niw_approved_after_an_rfe_on_all_three_prongs/",
@@ -389,6 +372,23 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wvdef7",
+      "title": "EB2 NIW Denied 😔",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wvdef7/eb2_niw_denied/",
+      "author": "/u/SensitiveCan3913",
+      "publishedAt": "2026-10-01T22:35:59+00:00",
+      "excerpt": "PD August 2024 Premium March 2026 RFE May 2026 RFE Response - August 2026 RFE Denued - October 2026 Denial letter is not yet received Gutted. I was hoping I will post a success story but I guess not (yet). Electrical engineer in railways, UK Masters qualified chartered engineer 17 years experience and proposed endeavor…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-03T07:17:11.864Z",
+  "syncedAt": "2026-10-03T12:51:03.052Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
