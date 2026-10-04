@@ -107,24 +107,6 @@
       }
     },
     {
-      "id": "t3_1wx893q",
-      "title": "RFE NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wx893q/rfe_niw/",
-      "author": "/u/Murky-6632",
-      "publishedAt": "2026-10-04T06:04:33+00:00",
-      "excerpt": "Does anyone have access to an example or not mind sharing their own RFE reply? I got issued an RFE requesting greater specificity/clarification on my proposed endeavor. I would like to prepare a reply myself, but it would be helpful to see what successful RFE responses are like.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wwt8h0",
       "title": "DENIALS on EB2 NIW, 7 day lookback, week 40 of 2026",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wwt8h0/denials_on_eb2_niw_7_day_lookback_week_40_of_2026/",
@@ -459,9 +441,27 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1wwf0t2",
+      "title": "I-824",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wwf0t2/i824/",
+      "author": "/u/Euphoric_One_245",
+      "publishedAt": "2026-10-03T05:21:42+00:00",
+      "excerpt": "Hi everyone, has anyone recently filed Form I-824 for family follow-to-join benefits? How long did it take? Please share your experiences, especially recent timelines. Thank you!",
+      "topics": [
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-10-04T18:27:41.560Z",
+  "syncedAt": "2026-10-04T22:05:41.676Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
