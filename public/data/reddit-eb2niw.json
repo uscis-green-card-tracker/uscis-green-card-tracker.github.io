@@ -54,44 +54,6 @@
       }
     },
     {
-      "id": "t3_1wxfg7j",
-      "title": "AGS Welts",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wxfg7j/ags_welts/",
-      "author": "/u/Interesting_One_5691",
-      "publishedAt": "2026-10-04T13:15:52+00:00",
-      "excerpt": "Hello, I’m seriously considering going with AGS Welt and would love to hear from people who have actually gone through the process with them. When did you file? How long did the process take? Did you receive your approval without an RFE? How was your overall experience with AGS Welt? If you’ve received your EB-2 NIW ap…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1wx5u5j",
-      "title": "RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wx5u5j/rfe/",
-      "author": "/u/Hour_Light3069",
-      "publishedAt": "2026-10-04T03:43:48+00:00",
-      "excerpt": "I received an RFE on my EB2 NIW petition stating that I didn't establish eligibility for the EB2 classification or meet the NIW prongs. USCIS conceded that my proposed endeavor has substantial merit but found that it lacks national importance. Background: Education : Bachelor's degree. I'm currently in a direct PhD pro…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wx9mke",
       "title": "Eb2 NIW Premium is late?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wx9mke/eb2_niw_premium_is_late/",
@@ -118,6 +80,24 @@
       "excerpt": "My I140 case is pending for 32 months, and more than 3 months since I sent my RFE response. Regular processing. This is the reply from my senator's office when I asked them to get status update about my case from USCIS: \" I spoke with USCIS regarding your case. Unfortunately, they were unwilling to provide much detail.…",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wx5u5j",
+      "title": "RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wx5u5j/rfe/",
+      "author": "/u/Hour_Light3069",
+      "publishedAt": "2026-10-04T03:43:48+00:00",
+      "excerpt": "I received an RFE on my EB2 NIW petition stating that I didn't establish eligibility for the EB2 classification or meet the NIW prongs. USCIS conceded that my proposed endeavor has substantial merit but found that it lacks national importance. Background: Education : Bachelor's degree. I'm currently in a direct PhD pro…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -199,25 +179,6 @@
       }
     },
     {
-      "id": "t3_1wwuge4",
-      "title": "I-140 NIW RFE says \"include duplicate copies if requesting consular notification\". Does anyone still do this?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wwuge4/i140_niw_rfe_says_include_duplicate_copies_if/",
-      "author": "/u/Ok_Tradition_3572",
-      "publishedAt": "2026-10-03T18:35:32+00:00",
-      "excerpt": "Self-filed EB-2 NIW, premium processing, RFE came in July. Mailing the response on paper. I'm going consular (checked visa abroad on the I-140). Page 1 of my RFE says: \"Include duplicate copies if you are requesting consular notification.\" Here's my problem. The current I-140 instructions don't say anything about dupli…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1wwdfa4",
       "title": "EB-2 NIW Approved in 43 Business Days — No RFE 🎉",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1wwdfa4/eb2_niw_approved_in_43_business_days_no_rfe/",
@@ -229,6 +190,25 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1wwuge4",
+      "title": "I-140 NIW RFE says \"include duplicate copies if requesting consular notification\". Does anyone still do this?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1wwuge4/i140_niw_rfe_says_include_duplicate_copies_if/",
+      "author": "/u/Ok_Tradition_3572",
+      "publishedAt": "2026-10-03T18:35:32+00:00",
+      "excerpt": "Self-filed EB-2 NIW, premium processing, RFE came in July. Mailing the response on paper. I'm going consular (checked visa abroad on the I-140). Page 1 of my RFE says: \"Include duplicate copies if you are requesting consular notification.\" Here's my problem. The current I-140 instructions don't say anything about dupli…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -462,9 +442,26 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
+    },
+    {
+      "id": "t3_1ww43ed",
+      "title": "Any used a recommendation letter from Carnegie Evaluations before? What justification did you give to USCIS?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1ww43ed/any_used_a_recommendation_letter_from_carnegie/",
+      "author": "/u/Bitter_Rip_6867",
+      "publishedAt": "2026-10-02T20:19:34+00:00",
+      "excerpt": "",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
     }
   ],
-  "syncedAt": "2026-10-04T14:37:20.010Z",
+  "syncedAt": "2026-10-04T18:27:41.560Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
