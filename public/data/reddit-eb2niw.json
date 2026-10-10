@@ -75,6 +75,25 @@
       }
     },
     {
+      "id": "t3_1x2p4yd",
+      "title": "Can I Apply for EB-2 NIW While My U-Visa Application Is Pending?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2p4yd/can_i_apply_for_eb2_niw_while_my_uvisa/",
+      "author": "/u/cay26",
+      "publishedAt": "2026-10-10T20:25:05+00:00",
+      "excerpt": "Hi everyone, I would appreciate your advice before making an important immigration decision. I am currently waiting for a decision on my U-Visa application, which has been pending for about four years. I have already received my Employment Authorization Document (EAD). I am now seriously considering applying for an EB-…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x2oqh3",
       "title": "Are there new samples/templates available for I-485 application?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2oqh3/are_there_new_samplestemplates_available_for_i485/",
@@ -388,6 +407,24 @@
       }
     },
     {
+      "id": "t3_1x1xuib",
+      "title": "How do you answer the sponsorship question on job applications?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x1xuib/how_do_you_answer_the_sponsorship_question_on_job/",
+      "author": "/u/quimicapov",
+      "publishedAt": "2026-10-09T21:41:17+00:00",
+      "excerpt": "This isn’t directly related to the EB-2 NIW process, but I’m curious how others in a similar situation have handled this on job applications: If you’re pursuing a green card through NIW but are also applying for jobs, how do you answer the question: “Will you now or in the future require visa sponsorship?” You may not …",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x1xmnr",
       "title": "Urgent NEED of approved RFE reponse Sample or Approved Legal Brief draft i140 EB2NIW deidentified",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x1xmnr/urgent_need_of_approved_rfe_reponse_sample_or/",
@@ -441,44 +478,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x1sfgh",
-      "title": "Profile Review for Civil Engineer - PE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x1sfgh/profile_review_for_civil_engineer_pe/",
-      "author": "/u/JayTheRainbowHat",
-      "publishedAt": "2026-10-09T18:05:46+00:00",
-      "excerpt": "I want to know if my profile is too weak. I am a licensed Professional Engineer (PE) with a bachelor’s degree in Civil Engineering and 5 years of progressive experience in water infrastructure consulting. My proposed NIW endeavor is to address aging U.S. water and wastewater infrastructure by improving system reliabili…",
-      "topics": [
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x1xuib",
-      "title": "How do you answer the sponsorship question on job applications?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x1xuib/how_do_you_answer_the_sponsorship_question_on_job/",
-      "author": "/u/quimicapov",
-      "publishedAt": "2026-10-09T21:41:17+00:00",
-      "excerpt": "This isn’t directly related to the EB-2 NIW process, but I’m curious how others in a similar situation have handled this on job applications: If you’re pursuing a green card through NIW but are also applying for jobs, how do you answer the question: “Will you now or in the future require visa sponsorship?” You may not …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-10T20:22:01.431Z",
+  "syncedAt": "2026-10-10T23:57:52.363Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
