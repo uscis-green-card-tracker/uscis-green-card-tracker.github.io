@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1x26p16",
+      "title": "EB2-NIW approved!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x26p16/eb2niw_approved/",
+      "author": "/u/Admissions-Jedi",
+      "publishedAt": "2026-10-10T05:05:50+00:00",
+      "excerpt": "Sharing my EB-2 NIW timeline and profile in case it helps others. My profile: - PhD in a engineering field (US university) - 20+ peer-reviewed publications - 250+ citations - 4 supporting letters (3 dependent, 1 independent) - PE: developing modeling techniques for batteries - PD: December 2025 - Upgraded to PP: Aug 20…",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x1vzks",
       "title": "Approved I 140 without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x1vzks/approved_i_140_without_rfe/",
@@ -50,26 +69,6 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": "09/27/2024",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x2118n",
-      "title": "Successful RFEs: How long was yours?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2118n/successful_rfes_how_long_was_yours/",
-      "author": "/u/Patient_Ad1152",
-      "publishedAt": "2026-10-10T00:06:14+00:00",
-      "excerpt": "How many pages your RFE had? (to the approved ones)",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -100,6 +99,26 @@
       "publishedAt": "2026-10-09T22:09:34+00:00",
       "excerpt": "Hi everyone, my NIW PP receipt date is August 7th (I received an email confirming that). Today is my 45th business day; I have not received anything! What should I do? Anyone with a similar case? Thank you in advance",
       "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x2118n",
+      "title": "Successful RFEs: How long was yours?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2118n/successful_rfes_how_long_was_yours/",
+      "author": "/u/Patient_Ad1152",
+      "publishedAt": "2026-10-10T00:06:14+00:00",
+      "excerpt": "How many pages your RFE had? (to the approved ones)",
+      "topics": [
+        "approval",
         "i140",
         "timeline",
         "question"
@@ -449,28 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x1m41a",
-      "title": "Changing jobs during an NIW process: does my proposed endeavor have to follow me?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x1m41a/changing_jobs_during_an_niw_process_does_my/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-10-09T13:59:29+00:00",
-      "excerpt": "https://preview.redd.it/npnrlonw6guh1.png?width=1098&format=png&auto=webp&s=884d26215cc6a186dd1294ba45bbe8c4db867787 I’m Fernanda Hipskind, an immigration attorney, and I’ll be here today from 10 AM to 2 PM ET for an AMA focused on EB-2 NIW cases. We can talk about questions like: • What happens to an NIW case when you…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-10T03:20:33.245Z",
+  "syncedAt": "2026-10-10T10:14:29.486Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
