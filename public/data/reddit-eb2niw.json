@@ -55,14 +55,18 @@
       }
     },
     {
-      "id": "t3_1x39g1e",
-      "title": "Case improvement",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x39g1e/case_improvement/",
-      "author": "/u/Muted-Newspaper-1447",
-      "publishedAt": "2026-10-11T14:21:47+00:00",
-      "excerpt": "Please how do I position/state my case, Most of my achievements comes after my filing date. I’m responding to 3 prongs Rfe. I’m a PhD student in Electrical and computer engineering. I will appreciate your input",
+      "id": "t3_1x3juw7",
+      "title": "Anyone with I-485 Pending at the Portland, Maine Field Office?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x3juw7/anyone_with_i485_pending_at_the_portland_maine/",
+      "author": "/u/infinity_2025",
+      "publishedAt": "2026-10-11T21:20:11+00:00",
+      "excerpt": "Hi everyone, Is anyone here waiting for their I-485 approval from the Portland, Maine Field Office? My EB2 NIW I-485 was filed in April 2026, PD Nov 2024, and my case has been at the Portland Field Office since June 10. My interview is waived, but there has been no update since then except one Mass FTAO in August. I’m …",
       "topics": [
-        "i140"
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -82,6 +86,23 @@
         "i140",
         "timeline",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x39g1e",
+      "title": "Case improvement",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x39g1e/case_improvement/",
+      "author": "/u/Muted-Newspaper-1447",
+      "publishedAt": "2026-10-11T14:21:47+00:00",
+      "excerpt": "Please how do I position/state my case, Most of my achievements comes after my filing date. I’m responding to 3 prongs Rfe. I’m a PhD student in Electrical and computer engineering. I will appreciate your input",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -118,6 +139,24 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x3kzab",
+      "title": "A new NIW scam",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x3kzab/a_new_niw_scam/",
+      "author": "/u/Past-Suit6360",
+      "publishedAt": "2026-10-11T22:09:06+00:00",
+      "excerpt": "I don’t know how prevalent this is yet…but I’ve seen some posts in other reddits where Indians are recommending other Indians to apply for NIW just for the sake of getting extension beyond the 6-yr H1B limit. Essentially this is how it works, from what I understand: A typical IT employee with H1B and no approved I-140 …",
+      "topics": [
+        "approval",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -431,48 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x2118n",
-      "title": "Successful RFEs: How long was yours?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2118n/successful_rfes_how_long_was_yours/",
-      "author": "/u/Patient_Ad1152",
-      "publishedAt": "2026-10-10T00:06:14+00:00",
-      "excerpt": "How many pages your RFE had? (to the approved ones)",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x1o2ie",
-      "title": "EB-2 NIW (Industry Profile): Is One Independent Recommendation Letter Enough?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x1o2ie/eb2_niw_industry_profile_is_one_independent/",
-      "author": "/u/Original_Coast9430",
-      "publishedAt": "2026-10-09T15:17:10+00:00",
-      "excerpt": "I am currently in the process of securing recommendation letters for my EB-2 NIW petition, and my background is primarily industry-focused. I am working with Ellis Porter (EP), and they have recommended obtaining one independent and one dependent recommendation letter, with each recommender discussing one of my specifi…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-11T20:42:24.019Z",
+  "syncedAt": "2026-10-12T00:06:16.416Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
