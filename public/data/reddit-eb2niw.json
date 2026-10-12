@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1x3kzab",
+      "title": "A new NIW scam",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x3kzab/a_new_niw_scam/",
+      "author": "/u/Past-Suit6360",
+      "publishedAt": "2026-10-11T22:09:06+00:00",
+      "excerpt": "I don’t know how prevalent this is yet…but I’ve seen some posts in other reddits where Indians are recommending other Indians to apply for NIW just for the sake of getting extension beyond the 6-yr H1B limit. Essentially this is how it works, from what I understand: A typical IT employee with H1B and no approved I-140 …",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x3dooc",
       "title": "Employer received I-140 RFE, won't share the notice, and is asking me if we should even respond. Need advice!",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x3dooc/employer_received_i140_rfe_wont_share_the_notice/",
@@ -55,18 +73,15 @@
       }
     },
     {
-      "id": "t3_1x3juw7",
-      "title": "Anyone with I-485 Pending at the Portland, Maine Field Office?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x3juw7/anyone_with_i485_pending_at_the_portland_maine/",
-      "author": "/u/infinity_2025",
-      "publishedAt": "2026-10-11T21:20:11+00:00",
-      "excerpt": "Hi everyone, Is anyone here waiting for their I-485 approval from the Portland, Maine Field Office? My EB2 NIW I-485 was filed in April 2026, PD Nov 2024, and my case has been at the Portland Field Office since June 10. My interview is waived, but there has been no update since then except one Mass FTAO in August. I’m …",
+      "id": "t3_1x3q5h9",
+      "title": "Question about my I-140 case",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x3q5h9/question_about_my_i140_case/",
+      "author": "/u/Still-Working-3367",
+      "publishedAt": "2026-10-12T02:24:13+00:00",
+      "excerpt": "Hi all, First let me give info about my case: -I-140 Filing Date: May 2026 -MD, Internal Medicine Physician from Turkey, currently a research coordinator in US on H1B visa -At the time of application, 5 papers and 13 citations (I know it is low) and 4 peer reviews -Currently, 8 papers, 43 citations and 6 peer reviews -…",
       "topics": [
-        "approval",
-        "i485",
         "i140",
-        "timeline",
-        "question"
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -139,24 +154,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x3kzab",
-      "title": "A new NIW scam",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x3kzab/a_new_niw_scam/",
-      "author": "/u/Past-Suit6360",
-      "publishedAt": "2026-10-11T22:09:06+00:00",
-      "excerpt": "I don’t know how prevalent this is yet…but I’ve seen some posts in other reddits where Indians are recommending other Indians to apply for NIW just for the sake of getting extension beyond the 6-yr H1B limit. Essentially this is how it works, from what I understand: A typical IT employee with H1B and no approved I-140 …",
-      "topics": [
-        "approval",
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -278,15 +275,13 @@
       }
     },
     {
-      "id": "t3_1x2oqh3",
-      "title": "Are there new samples/templates available for I-485 application?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2oqh3/are_there_new_samplestemplates_available_for_i485/",
-      "author": "/u/Asta-bot",
-      "publishedAt": "2026-10-10T20:07:55+00:00",
-      "excerpt": "My I-140 application was recently approved after an RFE. I am now preparing for my I-485 application. I am thinking of applying by myself without any lawyers. I am looking for reliable templates, DIY packages, or even somebody's accepted application package (without any personal information, of course) available for do…",
+      "id": "t3_1x2k2w2",
+      "title": "Should I apply for EB2-NIW?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2k2w2/should_i_apply_for_eb2niw/",
+      "author": "/u/Expert-Loquat-2809",
+      "publishedAt": "2026-10-10T16:52:49+00:00",
+      "excerpt": "MS and PhD in Pharmacology from United states Publication: 10 paper Citations: 102 Grants: Predoctoral fellowshio from American heart association Current: Post-doctoral fellow at leading institute in United States Should i go with Chen or EP? Any suggestions from people with similar profile ?",
       "topics": [
-        "approval",
-        "i485",
         "i140",
         "lawyer",
         "question"
@@ -299,13 +294,15 @@
       }
     },
     {
-      "id": "t3_1x2k2w2",
-      "title": "Should I apply for EB2-NIW?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2k2w2/should_i_apply_for_eb2niw/",
-      "author": "/u/Expert-Loquat-2809",
-      "publishedAt": "2026-10-10T16:52:49+00:00",
-      "excerpt": "MS and PhD in Pharmacology from United states Publication: 10 paper Citations: 102 Grants: Predoctoral fellowshio from American heart association Current: Post-doctoral fellow at leading institute in United States Should i go with Chen or EP? Any suggestions from people with similar profile ?",
+      "id": "t3_1x2oqh3",
+      "title": "Are there new samples/templates available for I-485 application?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x2oqh3/are_there_new_samplestemplates_available_for_i485/",
+      "author": "/u/Asta-bot",
+      "publishedAt": "2026-10-10T20:07:55+00:00",
+      "excerpt": "My I-140 application was recently approved after an RFE. I am now preparing for my I-485 application. I am thinking of applying by myself without any lawyers. I am looking for reliable templates, DIY packages, or even somebody's accepted application package (without any personal information, of course) available for do…",
       "topics": [
+        "approval",
+        "i485",
         "i140",
         "lawyer",
         "question"
@@ -472,7 +469,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-12T00:06:16.416Z",
+  "syncedAt": "2026-10-12T06:45:34.368Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
