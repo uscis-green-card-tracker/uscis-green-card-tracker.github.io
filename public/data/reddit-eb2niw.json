@@ -147,6 +147,42 @@
       }
     },
     {
+      "id": "t3_1x70f2v",
+      "title": "NIW Premium Processing Upgrade: How Long After I-907 Delivery Did You Receive Confirmation?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x70f2v/niw_premium_processing_upgrade_how_long_after/",
+      "author": "/u/BrilliantCommittee95",
+      "publishedAt": "2026-10-15T23:07:49+00:00",
+      "excerpt": "For those who upgraded to PP, how long after your I-907 package was delivered did USCIS confirm the upgrade and the premium processing start date? Mine was delivered on October 12, but I haven’t received confirmation or seen any change in my online case history yet. Thanks!",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x70167",
+      "title": "Industry Profiles",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x70167/industry_profiles/",
+      "author": "/u/LagLegend",
+      "publishedAt": "2026-10-15T22:50:30+00:00",
+      "excerpt": "What documents did you submit as evidence to prove your importance without breaking company confidentiality ?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x66uxx",
       "title": "Denied 10/14/26. PD: 07/18/2024",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x66uxx/denied_101426_pd_07182024/",
@@ -427,43 +463,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x6awfe",
-      "title": "Does it make sense to apply with this profile:",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6awfe/does_it_make_sense_to_apply_with_this_profile/",
-      "author": "/u/No-Discussion-4258",
-      "publishedAt": "2026-10-15T03:12:08+00:00",
-      "excerpt": "PhD in theoretical physics Currently Postdoc in the US Citations: 110 Publications: 8 Awards: got a scholarship for funding of my PhD I will check if I can get recommendation letters Field of work for the future would be semiconductors / materials which is directly related to my field, but no job offer so far (I am doi…",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x64gjf",
-      "title": "I-140 (EB2-NIW) Industry Applicant Success Rate",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x64gjf/i140_eb2niw_industry_applicant_success_rate/",
-      "author": "/u/AndrewKhan2",
-      "publishedAt": "2026-10-14T22:02:23+00:00",
-      "excerpt": "Planning to file my EB2-NIW with a law firm, but feel quite discouraged being an industry applicant. Any success stories of applicants without advanced degrees (but over 5+ YOE), and with no patents/publications/citations? Currently a senior SWE at big tech with other big tech positions in the past and working on very …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-15T20:41:45.338Z",
+  "syncedAt": "2026-10-15T23:25:22.304Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
