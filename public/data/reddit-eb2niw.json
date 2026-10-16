@@ -91,6 +91,25 @@
       }
     },
     {
+      "id": "t3_1x740lz",
+      "title": "EB2 NIW August Filers. Any Updates?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x740lz/eb2_niw_august_filers_any_updates/",
+      "author": "/u/Zealousideal-Cat5121",
+      "publishedAt": "2026-10-16T02:00:53+00:00",
+      "excerpt": "PD: June 15 2026 PP Receipt: August 14 2026 Still waiting for approval. No response yet",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x6vyr3",
       "title": "Self Petition NIW Writing Guide",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6vyr3/self_petition_niw_writing_guide/",
@@ -100,6 +119,41 @@
       "topics": [
         "approval",
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x70167",
+      "title": "Industry Profiles",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x70167/industry_profiles/",
+      "author": "/u/LagLegend",
+      "publishedAt": "2026-10-15T22:50:30+00:00",
+      "excerpt": "What documents did you submit as evidence to prove your importance without breaking company confidentiality ?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x73xi4",
+      "title": "IOE0930123 or IOE0930124",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x73xi4/ioe0930123_or_ioe0930124/",
+      "author": "/u/ajeetkum",
+      "publishedAt": "2026-10-16T01:56:45+00:00",
+      "excerpt": "Did anyone with receipt IOE0930123XXX or IOE0930124XXX get any update with RP/PP recently?",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -128,6 +182,23 @@
       }
     },
     {
+      "id": "t3_1x73qn6",
+      "title": "Perfil de industria con 20 años de experiencia profesional",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x73qn6/perfil_de_industria_con_20_años_de_experiencia/",
+      "author": "/u/piperkali",
+      "publishedAt": "2026-10-16T01:47:00+00:00",
+      "excerpt": "Solicitare EB2 NIW desde Latinoamerica con un proyecto de plataforma tecnologica para empresarios de comercio internacional-supply chain soportado en una red blockchain, funcionalidades incorporan IA: me apoyare en un abogado latino para revisión del plan business y endeavor, diligenciamiento de formularios y respuesta…",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x6trs9",
       "title": "Approval stats after RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6trs9/approval_stats_after_rfe/",
@@ -147,15 +218,17 @@
       }
     },
     {
-      "id": "t3_1x70f2v",
-      "title": "NIW Premium Processing Upgrade: How Long After I-907 Delivery Did You Receive Confirmation?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x70f2v/niw_premium_processing_upgrade_how_long_after/",
-      "author": "/u/BrilliantCommittee95",
-      "publishedAt": "2026-10-15T23:07:49+00:00",
-      "excerpt": "For those who upgraded to PP, how long after your I-907 package was delivered did USCIS confirm the upgrade and the premium processing start date? Mine was delivered on October 12, but I haven’t received confirmation or seen any change in my online case history yet. Thanks!",
+      "id": "t3_1x6vszd",
+      "title": "F-1 travel after NIW I-140 approval, before I-485 filing—family medical emergency",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6vszd/f1_travel_after_niw_i140_approval_before_i485/",
+      "author": "/u/Ok-Squirrel-2686",
+      "publishedAt": "2026-10-15T19:55:27+00:00",
+      "excerpt": "My mother was in an accident and is in critical condition in Korea. I’m trying to understand the immigration consequences before deciding whether to travel. My situation: Currently a PhD student maintaining F-1 status. Valid passport, F-1 visa (Aug, 2028), and I-20(Dec, 2027) with a valid travel signature. EB-2 NIW I-1…",
       "topics": [
+        "approval",
+        "i485",
         "i140",
-        "timeline",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -166,13 +239,15 @@
       }
     },
     {
-      "id": "t3_1x70167",
-      "title": "Industry Profiles",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x70167/industry_profiles/",
-      "author": "/u/LagLegend",
-      "publishedAt": "2026-10-15T22:50:30+00:00",
-      "excerpt": "What documents did you submit as evidence to prove your importance without breaking company confidentiality ?",
+      "id": "t3_1x70f2v",
+      "title": "NIW Premium Processing Upgrade: How Long After I-907 Delivery Did You Receive Confirmation?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x70f2v/niw_premium_processing_upgrade_how_long_after/",
+      "author": "/u/BrilliantCommittee95",
+      "publishedAt": "2026-10-15T23:07:49+00:00",
+      "excerpt": "For those who upgraded to PP, how long after your I-907 package was delivered did USCIS confirm the upgrade and the premium processing start date? Mine was delivered on October 12, but I haven’t received confirmation or seen any change in my online case history yet. Thanks!",
       "topics": [
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -218,17 +293,14 @@
       }
     },
     {
-      "id": "t3_1x6vszd",
-      "title": "F-1 travel after NIW I-140 approval, before I-485 filing—family medical emergency",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6vszd/f1_travel_after_niw_i140_approval_before_i485/",
-      "author": "/u/Ok-Squirrel-2686",
-      "publishedAt": "2026-10-15T19:55:27+00:00",
-      "excerpt": "My mother was in an accident and is in critical condition in Korea. I’m trying to understand the immigration consequences before deciding whether to travel. My situation: Currently a PhD student maintaining F-1 status. Valid passport, F-1 visa (Aug, 2028), and I-20(Dec, 2027) with a valid travel signature. EB-2 NIW I-1…",
+      "id": "t3_1x6v4wb",
+      "title": "Consular Processing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6v4wb/consular_processing/",
+      "author": "/u/Still_Active6384",
+      "publishedAt": "2026-10-15T19:29:21+00:00",
+      "excerpt": "I got DQ in June 26 my PD is Nov 24 I still have not gotten the IL despite having been DQ since June my embassy is current with regards to interviews. What’s going on? Why the wait? Why is it taking so long when it says I should get an Interview appointment in within 10 weeks or less? Is anybody else is in this same si…",
       "topics": [
-        "approval",
-        "i485",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -239,12 +311,12 @@
       }
     },
     {
-      "id": "t3_1x6v4wb",
-      "title": "Consular Processing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6v4wb/consular_processing/",
-      "author": "/u/Still_Active6384",
-      "publishedAt": "2026-10-15T19:29:21+00:00",
-      "excerpt": "I got DQ in June 26 my PD is Nov 24 I still have not gotten the IL despite having been DQ since June my embassy is current with regards to interviews. What’s going on? Why the wait? Why is it taking so long when it says I should get an Interview appointment in within 10 weeks or less? Is anybody else is in this same si…",
+      "id": "t3_1x6ovhe",
+      "title": "2 prong RFE HO0001 officer",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6ovhe/2_prong_rfe_ho0001_officer/",
+      "author": "/u/PowerConfident7696",
+      "publishedAt": "2026-10-15T15:33:35+00:00",
+      "excerpt": "Is here anyone who got rfe from HO0001 officer in TCS for 2 and 3 prong.?",
       "topics": [
         "i140",
         "question"
@@ -387,85 +459,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x6ovhe",
-      "title": "2 prong RFE HO0001 officer",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6ovhe/2_prong_rfe_ho0001_officer/",
-      "author": "/u/PowerConfident7696",
-      "publishedAt": "2026-10-15T15:33:35+00:00",
-      "excerpt": "Is here anyone who got rfe from HO0001 officer in TCS for 2 and 3 prong.?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x6kr61",
-      "title": "RFE Status Update",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6kr61/rfe_status_update/",
-      "author": "/u/Kind_Medium6774",
-      "publishedAt": "2026-10-15T12:49:41+00:00",
-      "excerpt": "Can someone please confirm once the RFE package is received by USCIS, how many days it takes USCIS to change the online application status ? I submitted my NIW petition under PP.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x6jnwl",
-      "title": "NIW RFE PP Decision timeline",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6jnwl/niw_rfe_pp_decision_timeline/",
-      "author": "/u/Soph_cecc",
-      "publishedAt": "2026-10-15T11:56:31+00:00",
-      "excerpt": "Hi everyone! I’ve just submitted my RFE response with premium processing, and the clock should start tomorrow, 16 October. I’d love to hear from anyone who submitted their RFE response around the same time, or recently went through the process with PP. How long did it take to receive a decision, and was it an approval …",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x6fih2",
-      "title": "EB-2 NIW for Airline Pilots in 2026 – Is It Worth Spending $14,000+ on a Lawyer?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6fih2/eb2_niw_for_airline_pilots_in_2026_is_it_worth/",
-      "author": "/u/Emergency_Wedding363",
-      "publishedAt": "2026-10-15T07:46:28+00:00",
-      "excerpt": "Hi everyone! I’m an international airline pilot currently considering applying for an EB-2 NIW and would really appreciate some advice, particularly from pilots or aviation professionals who have recently gone through the process. A little about my background: Commercial airline First Officer with several thousand flig…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-15T23:25:22.304Z",
+  "syncedAt": "2026-10-16T02:14:05.241Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
