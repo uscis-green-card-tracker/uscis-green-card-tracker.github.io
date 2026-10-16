@@ -35,6 +35,59 @@
       }
     },
     {
+      "id": "t3_1x7rer4",
+      "title": "USCIS officers no longer read petitions",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7rer4/uscis_officers_no_longer_read_petitions/",
+      "author": "/u/Cold-Rush-5188",
+      "publishedAt": "2026-10-16T20:41:15+00:00",
+      "excerpt": "and my RFE says No Diploma/Credential evaluation to support eligibility - while it WAS VERY well put in the petition... Missing employer verification letters - while they are CLEARLY put in the petition. all in all, the persons probably took 10 seconds and didnt find all they wanted it seems. its pathetic",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x7qttw",
+      "title": "Case suddenly removed from USCIS account",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7qttw/case_suddenly_removed_from_uscis_account/",
+      "author": "/u/One-Switch4511",
+      "publishedAt": "2026-10-16T20:17:48+00:00",
+      "excerpt": "https://preview.redd.it/qzk086nb0wvh1.png?width=865&format=png&auto=webp&s=a48d735e44c638bacc901e858e15b2be0d251a51 Suddenly my case has been removed from my account, tried signing out and signing in again, when tried adding the case again the system was showing me that the case is already attached to an account, so co…",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x7tqcy",
+      "title": "RFE notice",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7tqcy/rfe_notice/",
+      "author": "/u/Late-Monk2623",
+      "publishedAt": "2026-10-16T22:17:41+00:00",
+      "excerpt": "I just got an RFE online, but no update by email or mail. How long does it take to receive the RFE notice instructions by mail or can I see it online if it is paper filing? Can someone please give some insight? It will be very helpful.",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x7lulg",
       "title": "Has anyone been approved after responding to an RFE covering all three prongs from Officer XM2175?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7lulg/has_anyone_been_approved_after_responding_to_an/",
@@ -407,65 +460,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x6trs9",
-      "title": "Approval stats after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6trs9/approval_stats_after_rfe/",
-      "author": "/u/RepulsiveMarch6259",
-      "publishedAt": "2026-10-15T18:38:08+00:00",
-      "excerpt": "Is there any data that shows number of approvals after RFE ? Just want to get an idea. May be data of this year ?",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x70f2v",
-      "title": "NIW Premium Processing Upgrade: How Long After I-907 Delivery Did You Receive Confirmation?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x70f2v/niw_premium_processing_upgrade_how_long_after/",
-      "author": "/u/BrilliantCommittee95",
-      "publishedAt": "2026-10-15T23:07:49+00:00",
-      "excerpt": "For those who upgraded to PP, how long after your I-907 package was delivered did USCIS confirm the upgrade and the premium processing start date? Mine was delivered on October 12, but I haven’t received confirmation or seen any change in my online case history yet. Thanks!",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x6us4l",
-      "title": "Online access code NIW I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6us4l/online_access_code_niw_i140/",
-      "author": "/u/Sea-Rich-3803",
-      "publishedAt": "2026-10-15T19:15:34+00:00",
-      "excerpt": "Hi everyone, where do you find your USCIS online access code? When i first submitted my I-140 application, the email from USCIS said i will also get an online access code. But i never got it. Is it okay to request a new online access code?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-16T20:14:25.751Z",
+  "syncedAt": "2026-10-16T23:07:23.260Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
