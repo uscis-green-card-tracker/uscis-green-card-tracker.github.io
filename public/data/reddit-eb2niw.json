@@ -90,6 +90,44 @@
       }
     },
     {
+      "id": "t3_1x8ngcs",
+      "title": "3rd FTA0 + First FTA1 on I-485 | PD Not Current",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8ngcs/3rd_fta0_first_fta1_on_i485_pd_not_current/",
+      "author": "/u/Chocolatewithnuts88",
+      "publishedAt": "2026-10-17T22:46:27+00:00",
+      "excerpt": "Hi everyone, I received my 3rd FTA0 and first FTA1 update on my I-485 early this morning, October 17. I also received a USCIS email saying, “We have taken action on your case,” but the online status still says “USCIS Is Currently Processing the Case.” The API shows Dallas, TX (non-local field office) for both the princ…",
+      "topics": [
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x8mhjq",
+      "title": "Question on online access code",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8mhjq/question_on_online_access_code/",
+      "author": "/u/missormisterphd",
+      "publishedAt": "2026-10-17T22:01:35+00:00",
+      "excerpt": "I received a receipt notice from USCIS that had my case number. But I don't have an online access code. How do I add my eb2 niw case to my uscis profile?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x8ddvy",
       "title": "Electronic signature in recommendation letter?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8ddvy/electronic_signature_in_recommendation_letter/",
@@ -416,46 +454,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x75ath",
-      "title": "How personalized are RFEs?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x75ath/how_personalized_are_rfes/",
-      "author": "/u/k2v2p2",
-      "publishedAt": "2026-10-16T03:08:27+00:00",
-      "excerpt": "As I wait for mine to arrive in the mail, I am curious if there is some level of personalization in the RFEs or is it mostly generic template requests? Mine said to wait until October 29th for the physical mail before contacting USCIS if it doesn't show up by then. How long do they usually give people for the RFEs? And…",
-      "topics": [
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x6m1dh",
-      "title": "I-140 Approved without RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6m1dh/i140_approved_without_rfe/",
-      "author": "/u/Confident-Dig-2324",
-      "publishedAt": "2026-10-15T13:44:31+00:00",
-      "excerpt": "I want to share my case is approved without RFE at TSC. Best luck of your filing as well. - PhD in Earth, Environment, and Energy - 120 citations at the time of filing - 9 Peer-reviewed papers, 10 conference abstract - 5 Recommendations ( 4 dependent, 1 independent) - PE: Geospatial Intelligence for National Energy Inf…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-17T21:51:59.416Z",
+  "syncedAt": "2026-10-17T23:37:30.822Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
