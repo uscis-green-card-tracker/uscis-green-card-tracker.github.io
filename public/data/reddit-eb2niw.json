@@ -54,6 +54,23 @@
       }
     },
     {
+      "id": "t3_1x8ddvy",
+      "title": "Electronic signature in recommendation letter?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8ddvy/electronic_signature_in_recommendation_letter/",
+      "author": "/u/AccomplishedBed4157",
+      "publishedAt": "2026-10-17T15:43:00+00:00",
+      "excerpt": "Does USCiS accepts electronic signature in recommendation letters?",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x89bsc",
       "title": "Where do you find people for independent reference letters?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x89bsc/where_do_you_find_people_for_independent/",
@@ -438,27 +455,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x6w8sl",
-      "title": "NIW RFE (Prong 2)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x6w8sl/niw_rfe_prong_2/",
-      "author": "/u/Puzzled-Security7774",
-      "publishedAt": "2026-10-15T20:11:40+00:00",
-      "excerpt": "Hi everyone, I have a question and would really appreciate any thoughts. I got an RFE on my EB-2 NIW. For Prong 2, the officer said I need to provide a plan for how I’ll continue my work. My advisor wrote an interest letter for me. Is it okay to say in my response that I plan to do a postdoc? My worry is that I don’t h…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-17T14:38:34.644Z",
+  "syncedAt": "2026-10-17T17:37:10.899Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
