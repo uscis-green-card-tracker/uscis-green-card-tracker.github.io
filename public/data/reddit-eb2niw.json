@@ -35,6 +35,42 @@
       }
     },
     {
+      "id": "t3_1x969sm",
+      "title": "EB-2 NIW: Has Anyone Received a Decision After a Voluntary Premium Processing Fee Refund?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x969sm/eb2_niw_has_anyone_received_a_decision_after_a/",
+      "author": "/u/Swot_11681",
+      "publishedAt": "2026-10-18T15:39:59+00:00",
+      "excerpt": "Hi everyone, Has anyone received a decision on their EB-2 NIW I-140 petition after USCIS voluntarily refunded their premium processing fee due to the delayed adjudication because of the ban? If you have, how long did it take to receive a decision after the refund? For those who are still waiting, do you think it is wor…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x926ou",
+      "title": "Anyone interview in London consultancy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x926ou/anyone_interview_in_london_consultancy/",
+      "author": "/u/Conloc27",
+      "publishedAt": "2026-10-18T12:37:20+00:00",
+      "excerpt": "Hi folks, I am preparing documents and will have an interview in London consultancy. Anyone has experience with interview in London or in process, pls let me know. Thanks",
+      "topics": [
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x86zpj",
       "title": "Approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x86zpj/approved/",
@@ -64,6 +100,26 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x8ngcs",
+      "title": "3rd FTA0 + First FTA1 on I-485 | PD Not Current",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8ngcs/3rd_fta0_first_fta1_on_i485_pd_not_current/",
+      "author": "/u/Chocolatewithnuts88",
+      "publishedAt": "2026-10-17T22:46:27+00:00",
+      "excerpt": "Hi everyone, I received my 3rd FTA0 and first FTA1 update on my I-485 early this morning, October 17. I also received a USCIS email saying, “We have taken action on your case,” but the online status still says “USCIS Is Currently Processing the Case.” The API shows Dallas, TX (non-local field office) for both the princ…",
+      "topics": [
+        "i485",
+        "i140",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -118,26 +174,6 @@
       "excerpt": "Hi everyone, I want to build a list of specific questions/concerns USCIS raises in NIW RFEs and denials. Our fields are different, but most concerns in the RFE/denial letters are still general enough to apply to others. Please share things from your own case, from someone you know, or from what you found online. I'm no…",
       "topics": [
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x8ngcs",
-      "title": "3rd FTA0 + First FTA1 on I-485 | PD Not Current",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8ngcs/3rd_fta0_first_fta1_on_i485_pd_not_current/",
-      "author": "/u/Chocolatewithnuts88",
-      "publishedAt": "2026-10-17T22:46:27+00:00",
-      "excerpt": "Hi everyone, I received my 3rd FTA0 and first FTA1 update on my I-485 early this morning, October 17. I also received a USCIS email saying, “We have taken action on your case,” but the online status still says “USCIS Is Currently Processing the Case.” The API shows Dallas, TX (non-local field office) for both the princ…",
-      "topics": [
-        "i485",
-        "i140",
-        "timeline",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -417,47 +453,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x7pvc1",
-      "title": "Anyone Received an EB2-NIW RFE on All 3 Prongs from Officer XM2513?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7pvc1/anyone_received_an_eb2niw_rfe_on_all_3_prongs/",
-      "author": "/u/Funny-Sorbet-3789",
-      "publishedAt": "2026-10-16T19:40:20+00:00",
-      "excerpt": "Has anyone received an RFE challenging all three Dhanasar prongs from Officer XM2513? If so, have you responded, and what was the outcome? I’d especially appreciate hearing from anyone whose petition was approved after responding. Thanks!",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x7dfck",
-      "title": "Anyone got approved after 3 prong RFE with officer XM2623?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7dfck/anyone_got_approved_after_3_prong_rfe_with/",
-      "author": "/u/omaratef3221",
-      "publishedAt": "2026-10-16T11:13:31+00:00",
-      "excerpt": "I would like to know if anyone got approved after submitting RFE 3 prong response with officer XM2623 ? Thanks",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-18T12:16:20.880Z",
+  "syncedAt": "2026-10-18T16:13:06.661Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
