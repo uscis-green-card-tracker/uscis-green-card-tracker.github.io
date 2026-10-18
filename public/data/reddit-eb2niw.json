@@ -73,6 +73,43 @@
       }
     },
     {
+      "id": "t3_1x8swms",
+      "title": "Looking for Law Firms that specialize in Industry Researchers",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8swms/looking_for_law_firms_that_specialize_in_industry/",
+      "author": "/u/_rotato_",
+      "publishedAt": "2026-10-18T03:25:20+00:00",
+      "excerpt": "I filed an EB-2 NIW petition through Chen Immigration when I was a final-year PhD student, but unfortunately, it was denied. Chen has offered me the option to either refile for free or receive a full refund. Since my original filing, I've graduated with my PhD and started working as an AI researcher at a semi-popular l…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x8mhjq",
+      "title": "Question on online access code",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8mhjq/question_on_online_access_code/",
+      "author": "/u/missormisterphd",
+      "publishedAt": "2026-10-17T22:01:35+00:00",
+      "excerpt": "I received a receipt notice from USCIS that had my case number. But I don't have an online access code. How do I add my eb2 niw case to my uscis profile?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x8jad1",
       "title": "Compiling specific USCIS concerns from NIW RFEs",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8jad1/compiling_specific_uscis_concerns_from_niw_rfes/",
@@ -110,14 +147,13 @@
       }
     },
     {
-      "id": "t3_1x8mhjq",
-      "title": "Question on online access code",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8mhjq/question_on_online_access_code/",
-      "author": "/u/missormisterphd",
-      "publishedAt": "2026-10-17T22:01:35+00:00",
-      "excerpt": "I received a receipt notice from USCIS that had my case number. But I don't have an online access code. How do I add my eb2 niw case to my uscis profile?",
+      "id": "t3_1x89bsc",
+      "title": "Where do you find people for independent reference letters?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x89bsc/where_do_you_find_people_for_independent/",
+      "author": "/u/RedOrangePuke",
+      "publishedAt": "2026-10-17T12:43:16+00:00",
+      "excerpt": "My lawyers are recommending having at least 2 reference letters from people who do not know me. I tried emailing a few people in my field randomly requesting reference letters. But so far, no one has replied. And tbh i dont see a reason for them to reply.",
       "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -134,23 +170,6 @@
       "author": "/u/AccomplishedBed4157",
       "publishedAt": "2026-10-17T15:43:00+00:00",
       "excerpt": "Does USCiS accepts electronic signature in recommendation letters?",
-      "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x89bsc",
-      "title": "Where do you find people for independent reference letters?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x89bsc/where_do_you_find_people_for_independent/",
-      "author": "/u/RedOrangePuke",
-      "publishedAt": "2026-10-17T12:43:16+00:00",
-      "excerpt": "My lawyers are recommending having at least 2 reference letters from people who do not know me. I tried emailing a few people in my field randomly requesting reference letters. But so far, no one has replied. And tbh i dont see a reason for them to reply.",
       "topics": [
         "question"
       ],
@@ -436,27 +455,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x7jvxl",
-      "title": "Has any1 ever filled EB-2 with The Law Office of Akintunde F. Adeyemo, PLLC",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7jvxl/has_any1_ever_filled_eb2_with_the_law_office_of/",
-      "author": "/u/Lazy_Class2319",
-      "publishedAt": "2026-10-16T15:52:49+00:00",
-      "excerpt": "Can u share your experience with this lawyer?",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-18T02:07:01.957Z",
+  "syncedAt": "2026-10-18T07:32:12.066Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
