@@ -179,24 +179,6 @@
       }
     },
     {
-      "id": "t3_1x7xw5w",
-      "title": "RFE NIW",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7xw5w/rfe_niw/",
-      "author": "/u/Impressive_Aziiii",
-      "publishedAt": "2026-10-17T01:37:51+00:00",
-      "excerpt": "Working with Chen is like begging them. They literally don’t care about your case. They are just throwing the toss. I will do it to you 3-4 days by just trying to distract you with generic responses. All their reply and RFE templates are nowadays AI written",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1x8117d",
       "title": "NIW RFE (TSC) used EB-1A standard and had copy-paste errors. Anyone seen this?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x8117d/niw_rfe_tsc_used_eb1a_standard_and_had_copypaste/",
@@ -208,6 +190,24 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x7xw5w",
+      "title": "RFE NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7xw5w/rfe_niw/",
+      "author": "/u/Impressive_Aziiii",
+      "publishedAt": "2026-10-17T01:37:51+00:00",
+      "excerpt": "Working with Chen is like begging them. They literally don’t care about your case. They are just throwing the toss. I will do it to you 3-4 days by just trying to distract you with generic responses. All their reply and RFE templates are nowadays AI written",
+      "topics": [
+        "i140",
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -456,7 +456,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-17T23:37:30.822Z",
+  "syncedAt": "2026-10-18T02:07:01.957Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
