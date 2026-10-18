@@ -35,6 +35,64 @@
       }
     },
     {
+      "id": "t3_1x983f5",
+      "title": "i140 Approval after a RFE in CS",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x983f5/i140_approval_after_a_rfe_in_cs/",
+      "author": "/u/jkluving",
+      "publishedAt": "2026-10-18T16:53:44+00:00",
+      "excerpt": "Sharing my approval timeline and background in case it helps. Mainly to break the notion that if they change the status of the RFEw to 'Currently Processing' and go for more than two days you would get a denial. (Mine was in processing for more than a week) Category: EB2-NIW Country: ROW (South Asia) Filed: February 02…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x9aaa9",
+      "title": "USCIS Is Deciding RFEs in 30 Days, Not 45 Business Days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x9aaa9/uscis_is_deciding_rfes_in_30_days_not_45_business/",
+      "author": "/u/princeruppert",
+      "publishedAt": "2026-10-18T18:20:18+00:00",
+      "excerpt": "I looked at how fast USCIS decides I-140 cases after receiving an RFE response, and what the decisions were. The source is the trackmyi140 \"Recent RFE decisions\" panel for two blocks, IOE09373 and IOE09372: 484 decided cases, with RFEs issued Jun 22 to Sep 23, 2026, and decisions from Jul 15 to Oct 17, 2026. I cross-ch…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": "IOE09373",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1x9aucv",
+      "title": "EAD",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x9aucv/ead/",
+      "author": "/u/Different_Peanut_327",
+      "publishedAt": "2026-10-18T18:42:45+00:00",
+      "excerpt": "Could you please share your encouraging EAD stories? I’ve been 4 months unemployed, lost H1B status, my PD is no longer current, currently on pending AOS, lost 2 good job offers, and so on. The more I dig on EAD the more I see that some people were never issued EAD. Is there any meaningful timeline at all? I’m honestly…",
+      "topics": [
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1x969sm",
       "title": "EB-2 NIW: Has Anyone Received a Decision After a Voluntary Premium Processing Fee Refund?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1x969sm/eb2_niw_has_anyone_received_a_decision_after_a/",
@@ -397,65 +455,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x7lulg",
-      "title": "Has anyone been approved after responding to an RFE covering all three prongs from Officer XM2175?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7lulg/has_anyone_been_approved_after_responding_to_an/",
-      "author": "/u/Leather_Profile_4730",
-      "publishedAt": "2026-10-16T17:06:03+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x7px4p",
-      "title": "Has anyone been approved after responding to an RFE from Officer XM2052?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7px4p/has_anyone_been_approved_after_responding_to_an/",
-      "author": "/u/CandidBlueberry6262",
-      "publishedAt": "2026-10-16T19:42:17+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x7w6vd",
-      "title": "Advice needed",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x7w6vd/advice_needed/",
-      "author": "/u/AdultMaleChipmunk",
-      "publishedAt": "2026-10-17T00:11:04+00:00",
-      "excerpt": "I have M.Sc in civil engineering specialization in irrigation and hydraulics. Any input??? Should I go for NIW",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-18T16:13:06.661Z",
+  "syncedAt": "2026-10-18T19:04:25.933Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
