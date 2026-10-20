@@ -44,7 +44,85 @@
       "topics": [
         "approval",
         "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xatvzj",
+      "title": "Profile evaluation",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xatvzj/profile_evaluation/",
+      "author": "/u/Embarrassed-Space737",
+      "publishedAt": "2026-10-20T14:38:55+00:00",
+      "excerpt": "Hi everyone, I'm from Brazil, and I'm considering applying for an EB-2 NIW through consular processing. I'd appreciate an honest assessment of my profile, particularly regarding my chances of approval and the potential weaknesses I should address before filing. I intend to hire a specialized U.S. immigration attorney w…",
+      "topics": [
+        "approval",
+        "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xat7dz",
+      "title": "EB2-NIW: Any visa approval or issuance from 75 countries recently???",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xat7dz/eb2niw_any_visa_approval_or_issuance_from_75/",
+      "author": "/u/No_Funny_26",
+      "publishedAt": "2026-10-20T14:11:20+00:00",
+      "excerpt": "EB2-NIW: Please share your experience if you or anyone you know has received a visa or approval from any embassy worldwide after the pause was lifted.",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1xaem2s",
+      "title": "Concerns about Ellis Porter",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xaem2s/concerns_about_ellis_porter/",
+      "author": "/u/McKennaKov",
+      "publishedAt": "2026-10-20T01:05:27+00:00",
+      "excerpt": "I’ve been pretty frustrated with EP lately and wanted to see if anyone else has gone through this. The brief they prepared for me feels generic and reads almost like standard template text. It sounds polished on the surface, but it barely reflects the actual specifics of my research or the concrete impact of my work. I…",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xauxcv",
+      "title": "FTA0 → FTA1 → IK ((RFIE)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xauxcv/fta0_fta1_ik_rfie/",
+      "author": "/u/Amazing-Can6116",
+      "publishedAt": "2026-10-20T15:18:54+00:00",
+      "excerpt": "Hi everyone, My EB-2 NIW I-485 case was recently transferred to the San Fernando Valley Field Office (SFV). I noticed the following sequence in my USCIS API: October 19, 2026: FTA0 → FTA1, followed by a silent update a few minutes later. October 20, 2026: IK (Request for Initial Evidence Was Sent). Receipt Number: IOE …",
+      "topics": [
+        "i485",
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -73,13 +151,15 @@
       }
     },
     {
-      "id": "t3_1xaem2s",
-      "title": "Concerns about Ellis Porter",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xaem2s/concerns_about_ellis_porter/",
-      "author": "/u/McKennaKov",
-      "publishedAt": "2026-10-20T01:05:27+00:00",
-      "excerpt": "I’ve been pretty frustrated with EP lately and wanted to see if anyone else has gone through this. The brief they prepared for me feels generic and reads almost like standard template text. It sounds polished on the surface, but it barely reflects the actual specifics of my research or the concrete impact of my work. I…",
+      "id": "t3_1xahspt",
+      "title": "EB2-NIW Denied",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xahspt/eb2niw_denied/",
+      "author": "/u/Dry_Grass9048",
+      "publishedAt": "2026-10-20T03:42:28+00:00",
+      "excerpt": "Hi everyone, I filed my EB2-NIW with Chen Immigration (Wegreened), but unfortunately, it was denied after an RFE. USCIS accepted my advanced degree, substantial merit, and Prong 2 (well positioned), but denied national importance under Prong 1 and Prong 3. I’m a Computer Science PhD student with an MS, several peer-rev…",
       "topics": [
+        "approval",
+        "i140",
         "lawyer",
         "question"
       ],
@@ -99,6 +179,24 @@
       "excerpt": "I’m a clinical trials biostatistician preparing my EB2-NIW petition. Every time I revise my petition letter, Claude finds new RFE risks. Has anyone experienced this? Is Claude overly critical, or are these concerns legitimate? How do you know when your petition is ready to file?",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xap2xd",
+      "title": "EP feedback?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xap2xd/ep_feedback/",
+      "author": "/u/aakriti-ti",
+      "publishedAt": "2026-10-20T11:00:11+00:00",
+      "excerpt": "Anyone have experience filling EB2NIW with EP any feedbacks? Anything I need to know before signing the retainer",
+      "topics": [
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -165,6 +263,26 @@
       }
     },
     {
+      "id": "t3_1xaezxg",
+      "title": "EB-2 NIW denied after RFE (all 3 prongs). PhD student. Appeal, refile now, or wait? Looking for advice.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xaezxg/eb2_niw_denied_after_rfe_all_3_prongs_phd_student/",
+      "author": "/u/No_Research_1644",
+      "publishedAt": "2026-10-20T01:23:43+00:00",
+      "excerpt": "Hi all, my NIW was just denied and I'd really appreciate advice from anyone who's been through this. Background: - Field: AI and genomics for early detection of pancreatic cancer (pharmaceutical sciences PhD in a Top R1 university) - Filed: June 2024, self-petition, premium processing, through an attorney (chen) - At f…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xa5mnb",
       "title": "RFE on all 3 prongs from officer XM1320 (TSC). Anyone with experience of this officer?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xa5mnb/rfe_on_all_3_prongs_from_officer_xm1320_tsc/",
@@ -185,26 +303,6 @@
       }
     },
     {
-      "id": "t3_1xahspt",
-      "title": "EB2-NIW Denied",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xahspt/eb2niw_denied/",
-      "author": "/u/Dry_Grass9048",
-      "publishedAt": "2026-10-20T03:42:28+00:00",
-      "excerpt": "Hi everyone, I filed my EB2-NIW with Chen Immigration (Wegreened), but unfortunately, it was denied after an RFE. USCIS accepted my advanced degree, substantial merit, and Prong 2 (well positioned), but denied national importance under Prong 1 and Prong 3. I’m a Computer Science PhD student with an MS, several peer-rev…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xaf3wv",
       "title": "PhD student: Master of Engineering vs Master of Science along the way?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xaf3wv/phd_student_master_of_engineering_vs_master_of/",
@@ -212,26 +310,6 @@
       "publishedAt": "2026-10-20T01:28:47+00:00",
       "excerpt": "I’m currently a PhD student in Chemical Engineering, and my university allows me to obtain either a Master of Engineering (MEng) or a Master of Science (MS) while pursuing my PhD. The main difference is timing. I can request the MEng relatively soon, whereas the MS would require me to wait until I pass my PhD proposal.…",
       "topics": [
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xaezxg",
-      "title": "EB-2 NIW denied after RFE (all 3 prongs). PhD student. Appeal, refile now, or wait? Looking for advice.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xaezxg/eb2_niw_denied_after_rfe_all_3_prongs_phd_student/",
-      "author": "/u/No_Research_1644",
-      "publishedAt": "2026-10-20T01:23:43+00:00",
-      "excerpt": "Hi all, my NIW was just denied and I'd really appreciate advice from anyone who's been through this. Background: - Field: AI and genomics for early detection of pancreatic cancer (pharmaceutical sciences PhD in a Top R1 university) - Filed: June 2024, self-petition, premium processing, through an attorney (chen) - At f…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -312,6 +390,26 @@
       }
     },
     {
+      "id": "t3_1x9zvke",
+      "title": "Approval after RFE approximate timeline?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x9zvke/approval_after_rfe_approximate_timeline/",
+      "author": "/u/Consistent_Sea_6368",
+      "publishedAt": "2026-10-19T15:25:16+00:00",
+      "excerpt": "My RFE was received on 9/23/2026, and I'm still waiting. My application was with PP. Wondering how much longer it would take.. my processing center is Texas.",
+      "topics": [
+        "approval",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xa9ddu",
       "title": "Anyone with PD around May 2024 and DQ around May 2026?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xa9ddu/anyone_with_pd_around_may_2024_and_dq_around_may/",
@@ -364,105 +462,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1x9v4lk",
-      "title": "RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x9v4lk/rfe/",
-      "author": "/u/Nomigurnani333",
-      "publishedAt": "2026-10-19T12:07:38+00:00",
-      "excerpt": "Anyone got RFE from officer XM1320? What was the outcome of their RFE from this officer. Thank you.",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xa6o0o",
-      "title": "Anyone Used Kameli Law for EB-2 NIW? Looking for Genuine Client Experiences (Industry Profile)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xa6o0o/anyone_used_kameli_law_for_eb2_niw_looking_for/",
-      "author": "/u/Sea-Persimmon-7645",
-      "publishedAt": "2026-10-19T19:35:22+00:00",
-      "excerpt": "Hi everyone, I'm currently evaluating immigration attorneys for my EB-2 NIW petition and recently received a positive preliminary evaluation from Kameli Law . I'm an industry professional with an advanced degree and several years of experience in accounting, auditing, and financial risk management. My proposed endeavor…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
-      "id": "t3_1x9zvke",
-      "title": "Approval after RFE approximate timeline?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x9zvke/approval_after_rfe_approximate_timeline/",
-      "author": "/u/Consistent_Sea_6368",
-      "publishedAt": "2026-10-19T15:25:16+00:00",
-      "excerpt": "My RFE was received on 9/23/2026, and I'm still waiting. My application was with PP. Wondering how much longer it would take.. my processing center is Texas.",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1x9f8pn",
-      "title": "I-140 Approved after RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1x9f8pn/i140_approved_after_rfe/",
-      "author": "/u/SituationEconomy946",
-      "publishedAt": "2026-10-18T21:41:25+00:00",
-      "excerpt": "Industry profile, with MSc and 25 years work experience. PE is in AI and physical security of critical infrastructure. Submitted thru a local immigration lawyer in Boston in June. We got a 3 prong RFE and 30 days to reply in September. We prepared a massive 416 response, using White House policy docs, Executive Orders,…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xa5coo",
-      "title": "RFE Notice Delivery Times",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xa5coo/rfe_notice_delivery_times/",
-      "author": "/u/Miserable_Zombie5587",
-      "publishedAt": "2026-10-19T18:47:15+00:00",
-      "excerpt": "My case status changed to RFE requested at 9th of October and I have not still received notice. Me and my attorney sent e-mail to premium processing center but we did not receive any response. I will most probably receive 30 day response time limit and 10 days have already passed. What should I do in order to expedite …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-20T10:38:13.047Z",
+  "syncedAt": "2026-10-20T15:27:47.564Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
