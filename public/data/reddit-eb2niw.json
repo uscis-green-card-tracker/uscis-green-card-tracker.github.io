@@ -91,6 +91,24 @@
       }
     },
     {
+      "id": "t3_1xajnv4",
+      "title": "Claude AI for EB2-NIW: Endless Revisions?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xajnv4/claude_ai_for_eb2niw_endless_revisions/",
+      "author": "/u/travelmom_0201",
+      "publishedAt": "2026-10-20T05:25:15+00:00",
+      "excerpt": "I’m a clinical trials biostatistician preparing my EB2-NIW petition. Every time I revise my petition letter, Claude finds new RFE risks. Has anyone experienced this? Is Claude overly critical, or are these concerns legitimate? How do you know when your petition is ready to file?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xahbfp",
       "title": "Refund policy with filling PP - EP",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xahbfp/refund_policy_with_filling_pp_ep/",
@@ -129,12 +147,12 @@
       }
     },
     {
-      "id": "t3_1xajnv4",
-      "title": "Claude AI for EB2-NIW: Endless Revisions?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xajnv4/claude_ai_for_eb2niw_endless_revisions/",
-      "author": "/u/travelmom_0201",
-      "publishedAt": "2026-10-20T05:25:15+00:00",
-      "excerpt": "I’m a clinical trials biostatistician preparing my EB2-NIW petition. Every time I revise my petition letter, Claude finds new RFE risks. Has anyone experienced this? Is Claude overly critical, or are these concerns legitimate? How do you know when your petition is ready to file?",
+      "id": "t3_1xac87b",
+      "title": "EB_2 for creative/design roles",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xac87b/eb_2_for_creativedesign_roles/",
+      "author": "/u/Necessary-axolotl",
+      "publishedAt": "2026-10-19T23:15:17+00:00",
+      "excerpt": "​Hi everyone, ​I’ve been getting a lot of targeted ads from firms assisting with EB-2 NIW applications, and it has me curious if this is a realistic path for me. For context: I’m a UX designer with over a decade in tech. I spent 7 years at Microsoft and have been at Google for the last 2 years as a vendor (so I’m not o…",
       "topics": [
         "i140",
         "question"
@@ -177,24 +195,6 @@
         "approval",
         "i140",
         "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xac87b",
-      "title": "EB_2 for creative/design roles",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xac87b/eb_2_for_creativedesign_roles/",
-      "author": "/u/Necessary-axolotl",
-      "publishedAt": "2026-10-19T23:15:17+00:00",
-      "excerpt": "​Hi everyone, ​I’ve been getting a lot of targeted ads from firms assisting with EB-2 NIW applications, and it has me curious if this is a realistic path for me. For context: I’m a UX designer with over a decade in tech. I spent 7 years at Microsoft and have been at Google for the last 2 years as a vendor (so I’m not o…",
-      "topics": [
-        "i140",
         "question"
       ],
       "signals": {
@@ -462,7 +462,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-20T05:32:02.003Z",
+  "syncedAt": "2026-10-20T10:38:13.047Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
