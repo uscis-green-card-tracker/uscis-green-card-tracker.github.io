@@ -35,25 +35,6 @@
       }
     },
     {
-      "id": "t3_1xboq4j",
-      "title": "Finally Greened 💚 I-485 EB2 ROW Approved! 🎉 Cross Chargeability",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xboq4j/finally_greened_i485_eb2_row_approved_cross/",
-      "author": "/u/Ashu-93",
-      "publishedAt": "2026-10-21T14:29:54+00:00",
-      "excerpt": "Howdy everyone! Its my time to post finally, Huge shout out to reddit for such a great community, it really helped me track my case using API's and other internal updates, It has been a straight 10-year journey to get to this moment. I first arrived in the United States back in 2016 as an international student on an F-…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xbxh8p",
       "title": "EB-2 NIW Denied After RFE on All 3 Prongs: Need Advice on Next Steps",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbxh8p/eb2_niw_denied_after_rfe_on_all_3_prongs_need/",
@@ -66,6 +47,45 @@
         "lawyer",
         "timeline",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xc2g4u",
+      "title": "EB-2 NIW Approved After RFE on All Three Prongs.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc2g4u/eb2_niw_approved_after_rfe_on_all_three_prongs/",
+      "author": "/u/Rubayet007",
+      "publishedAt": "2026-10-21T23:11:24+00:00",
+      "excerpt": "Hi All, Happy to share that my EB-2 NIW I-140 was approved on October 21, 2026 , after receiving an RFE challenging all three Dhanasar prongs! My Background: Master’s in Electrical Engineering from a U.S. university Currently working as a Senior Power Systems Engineer in industry Research background in photonics, optic…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xboq4j",
+      "title": "Finally Greened 💚 I-485 EB2 ROW Approved! 🎉 Cross Chargeability",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xboq4j/finally_greened_i485_eb2_row_approved_cross/",
+      "author": "/u/Ashu-93",
+      "publishedAt": "2026-10-21T14:29:54+00:00",
+      "excerpt": "Howdy everyone! Its my time to post finally, Huge shout out to reddit for such a great community, it really helped me track my case using API's and other internal updates, It has been a straight 10-year journey to get to this moment. I first arrived in the United States back in 2016 as an international student on an F-…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -94,15 +114,16 @@
       }
     },
     {
-      "id": "t3_1xbwuuf",
-      "title": "NIW RFE | Looking for Advice and Success Stories",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbwuuf/niw_rfe_looking_for_advice_and_success_stories/",
-      "author": "/u/PuzzleheadedAioli776",
-      "publishedAt": "2026-10-21T19:27:43+00:00",
-      "excerpt": "First, I want to thank God and my Lord and Savior, Jesus Christ, for carrying me through the entire process of assembling my NIW petition and giving me wisdom along the way. I’m also sending encouragement to every self-petitioner currently facing an RFE. You’re not alone in this journey. I received an RFE on my NIW pet…",
+      "id": "t3_1xbvf1q",
+      "title": "Received an email that NIW is approved but USCIS website says \"Case Is Being Actively Reviewed By USCIS\"",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbvf1q/received_an_email_that_niw_is_approved_but_uscis/",
+      "author": "/u/Ok-Tennis1516",
+      "publishedAt": "2026-10-21T18:35:10+00:00",
+      "excerpt": "I received email on Monday that the case is approved but website still says \"Case is being actively reviewed by USCIS\". It's been 3 days and the status is still the same. How long it takes to get the approval reciept or status being changed on the website?",
       "topics": [
         "approval",
         "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -135,16 +156,15 @@
       }
     },
     {
-      "id": "t3_1xbvf1q",
-      "title": "Received an email that NIW is approved but USCIS website says \"Case Is Being Actively Reviewed By USCIS\"",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbvf1q/received_an_email_that_niw_is_approved_but_uscis/",
-      "author": "/u/Ok-Tennis1516",
-      "publishedAt": "2026-10-21T18:35:10+00:00",
-      "excerpt": "I received email on Monday that the case is approved but website still says \"Case is being actively reviewed by USCIS\". It's been 3 days and the status is still the same. How long it takes to get the approval reciept or status being changed on the website?",
+      "id": "t3_1xbwuuf",
+      "title": "NIW RFE | Looking for Advice and Success Stories",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbwuuf/niw_rfe_looking_for_advice_and_success_stories/",
+      "author": "/u/PuzzleheadedAioli776",
+      "publishedAt": "2026-10-21T19:27:43+00:00",
+      "excerpt": "First, I want to thank God and my Lord and Savior, Jesus Christ, for carrying me through the entire process of assembling my NIW petition and giving me wisdom along the way. I’m also sending encouragement to every self-petitioner currently facing an RFE. You’re not alone in this journey. I received an RFE on my NIW pet…",
       "topics": [
         "approval",
         "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -185,6 +205,44 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xc1hkn",
+      "title": "Chen OR Ellis Porter for Eb2-Niw (Biotech)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc1hkn/chen_or_ellis_porter_for_eb2niw_biotech/",
+      "author": "/u/gemiriti02",
+      "publishedAt": "2026-10-21T22:28:41+00:00",
+      "excerpt": "Hi all, looking for opinions on filing my EB-2 NIW. Both Chen and EP accepted my profile, and both offer a refile option. Chen's quote is about $1.5k higher than EP's (I didn’t ask for discounted fee/refund option yet, would appreciate response from community if anyone is aware of this). Cost isn't the main factor for …",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xc27x8",
+      "title": "Eb2- NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc27x8/eb2_niw/",
+      "author": "/u/RoundAcceptable9335",
+      "publishedAt": "2026-10-21T23:00:59+00:00",
+      "excerpt": "I am a Data Analytics and Business Intelligence professional with over 8 years of experience, specializing in data analysis, visualization, enterprise reporting, data integration, and business intelligence solutions. My experience spans multiple domains, including healthcare, health insurance, telecommunications, finan…",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -322,6 +380,24 @@
       }
     },
     {
+      "id": "t3_1xbd4km",
+      "title": "EB-2 NIW – Summary of My Proposed Endeavor and 3 Dhanasar Prongs ! PP( As of August 25, 2026, USCIS is currently processing your Form I-140, Immigrant Petition for Alien Worker) need some assurance and advice if it's will be approved. I filed with Joseph Robinson",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbd4km/eb2_niw_summary_of_my_proposed_endeavor_and_3/",
+      "author": "/u/Upstairs_Treacle4745",
+      "publishedAt": "2026-10-21T04:02:31+00:00",
+      "excerpt": "Proposed National Endeavor: My proposed endeavor is to establish Eastbridge Cyber Security LLC in Houston, Texas , focused on Identity and Access Management (IAM), Privileged Access Management (PAM), Zero Trust Architecture, cloud identity security, CMMC readiness, and identity governance for U.S. federal agencies, Dep…",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xb8cbc",
       "title": "I140 Aproved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xb8cbc/i140_aproved/",
@@ -333,24 +409,6 @@
         "i140",
         "lawyer",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xbd4km",
-      "title": "EB-2 NIW – Summary of My Proposed Endeavor and 3 Dhanasar Prongs ! PP( As of August 25, 2026, USCIS is currently processing your Form I-140, Immigrant Petition for Alien Worker) need some assurance and advice if it's will be approved. I filed with Joseph Robinson",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbd4km/eb2_niw_summary_of_my_proposed_endeavor_and_3/",
-      "author": "/u/Upstairs_Treacle4745",
-      "publishedAt": "2026-10-21T04:02:31+00:00",
-      "excerpt": "Proposed National Endeavor: My proposed endeavor is to establish Eastbridge Cyber Security LLC in Houston, Texas , focused on Identity and Access Management (IAM), Privileged Access Management (PAM), Zero Trust Architecture, cloud identity security, CMMC readiness, and identity governance for U.S. federal agencies, Dep…",
-      "topics": [
-        "approval",
-        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -416,64 +474,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xbarvp",
-      "title": "RFE not yet received in mail. Can I get a copy via email?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbarvp/rfe_not_yet_received_in_mail_can_i_get_a_copy_via/",
-      "author": "/u/kelyto30",
-      "publishedAt": "2026-10-21T02:03:11+00:00",
-      "excerpt": "Hi Everyone I had file my PP on Aug 14th and My status changed to RFE yesterday after 45 business days which was yesterday. I have not received the RFE mail or notice except via the egov website. I called USCIS today to send me an e-copy via email but they said they don’t release it until after 7 business if I haven’t …",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xay7a3",
-      "title": "Does time taken after RFE response predict the decision?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xay7a3/does_time_taken_after_rfe_response_predict_the/",
-      "author": "/u/InsuranceReasonable7",
-      "publishedAt": "2026-10-20T17:20:00+00:00",
-      "excerpt": "I have noticed that people who get approvals after RFE tend to receive them somewhere is the middle/early on in the 45 business day time period. But when a case gets closer to the end like day 44 or 45, the officer naturally has to rush and won’t have time to really look at the response and errs on the side of caution …",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xbdc35",
-      "title": "Hey I am a Finance Professional with 8 Years US Experience remote working.I am acquiring AI skills and helping companies implementinh it.What are my chances ?Is nationality matters ?Very ordinary profile people from my country got approved recently.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbdc35/hey_i_am_a_finance_professional_with_8_years_us/",
-      "author": "/u/Either_Yak5013",
-      "publishedAt": "2026-10-21T04:13:47+00:00",
-      "excerpt": "",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-21T21:01:17.213Z",
+  "syncedAt": "2026-10-22T00:18:40.127Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
