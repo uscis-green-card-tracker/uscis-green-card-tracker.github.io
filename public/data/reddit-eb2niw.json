@@ -54,6 +54,58 @@
       }
     },
     {
+      "id": "t3_1xcodgu",
+      "title": "Bulletin released",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcodgu/bulletin_released/",
+      "author": "/u/Existing-Ad9553",
+      "publishedAt": "2026-10-22T17:06:21+00:00",
+      "excerpt": "EB2 ROW moved a bit https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-november-2026.html",
+      "topics": [],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xcl8hx",
+      "title": "WILD 3 Prong RFE - Doesnt match my profile or evidence at all!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcl8hx/wild_3_prong_rfe_doesnt_match_my_profile_or/",
+      "author": "/u/BisonAlternative342",
+      "publishedAt": "2026-10-22T15:11:21+00:00",
+      "excerpt": "Hi Guys, I received a heavily (and wildly) templated RFE recently. My endeavor is in creating \"wildfire resilient prefab houses in the US\". I am an Architect with over 5 years of post graduate experience. I filed for an I-140 with Premium Processing. What is wild is that the RFE states that I \"studied computer science …",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xcn1gm",
+      "title": "Any industry profiles approved recently?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcn1gm/any_industry_profiles_approved_recently/",
+      "author": "/u/Shishi2109",
+      "publishedAt": "2026-10-22T16:17:39+00:00",
+      "excerpt": "Looking to get info on industry profiles who got approved recently. I'm thinking of self petitioning",
+      "topics": [
+        "approval",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xc2g4u",
       "title": "EB-2 NIW Approved After RFE on All Three Prongs.",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc2g4u/eb2_niw_approved_after_rfe_on_all_three_prongs/",
@@ -74,15 +126,14 @@
       }
     },
     {
-      "id": "t3_1xcl8hx",
-      "title": "WILD 3 Prong RFE - Doesnt match my profile or evidence at all!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcl8hx/wild_3_prong_rfe_doesnt_match_my_profile_or/",
-      "author": "/u/BisonAlternative342",
-      "publishedAt": "2026-10-22T15:11:21+00:00",
-      "excerpt": "Hi Guys, I received a heavily (and wildly) templated RFE recently. My endeavor is in creating \"wildfire resilient prefab houses in the US\". I am an Architect with over 5 years of post graduate experience. I filed for an I-140 with Premium Processing. What is wild is that the RFE states that I \"studied computer science …",
+      "id": "t3_1xcr86e",
+      "title": "EB2 ROW DOF Prediction",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcr86e/eb2_row_dof_prediction/",
+      "author": "/u/SprayCorrect5444",
+      "publishedAt": "2026-10-22T18:50:45+00:00",
+      "excerpt": "Hi, November visa bulleting just got released and we can see a jump in FAD. Which is good news. But no movement in DOF. Any prediction on DOF? My PD in august 18",
       "topics": [
         "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -122,6 +173,44 @@
       "excerpt": "Shipped a new feature based on feedback: case tracking. Add a receipt number, Visalytics checks USCIS every weekday, you get emailed when the status changes. The problem You're refreshing USCIS manually or hunting through email alerts. It's noise and friction when you're already waiting. What it does Add your receipt (…",
       "topics": [
         "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xcn0fd",
+      "title": "F1 after EB2 NIW filing",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcn0fd/f1_after_eb2_niw_filing/",
+      "author": "/u/Actual-Mouse-7365",
+      "publishedAt": "2026-10-22T16:16:38+00:00",
+      "excerpt": "Hello, I am trying to keep a back up option of eb2 niw. If I file that, can I switch to Day1 cpt while I wait for the adjudication for niw. Or move to day 1 cpt if niw is denied. Would that be a problem going from Immigrant to non immigrant intent? Thanks",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xc9fca",
+      "title": "NIW without publications—are law firms being realistic about my chances?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc9fca/niw_without_publicationsare_law_firms_being/",
+      "author": "/u/Practical-Bit-438",
+      "publishedAt": "2026-10-22T04:54:57+00:00",
+      "excerpt": "I’m a retail pharmacist in the U.S. with a master’s degree and no publications or research background. Several large immigration law firms have given me very positive assessments, but I’m honestly unsure whether my current profile is strong enough for EB-2 NIW. I’m having trouble seeing how my everyday work would demon…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -171,16 +260,14 @@
       }
     },
     {
-      "id": "t3_1xc9fca",
-      "title": "NIW without publications—are law firms being realistic about my chances?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc9fca/niw_without_publicationsare_law_firms_being/",
-      "author": "/u/Practical-Bit-438",
-      "publishedAt": "2026-10-22T04:54:57+00:00",
-      "excerpt": "I’m a retail pharmacist in the U.S. with a master’s degree and no publications or research background. Several large immigration law firms have given me very positive assessments, but I’m honestly unsure whether my current profile is strong enough for EB-2 NIW. I’m having trouble seeing how my everyday work would demon…",
+      "id": "t3_1xch25v",
+      "title": "When should one expect a refund on PP?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xch25v/when_should_one_expect_a_refund_on_pp/",
+      "author": "/u/No-Pomegranate3787",
+      "publishedAt": "2026-10-22T12:21:21+00:00",
+      "excerpt": "Hi. I filed for PP alongside my petition with PD of Sept 22 2025. I got an RFE in August 3 2026 which I have sent my response. During the delay between PD and when RFE was issued, I had sent several emails to the Texas office requesting when I am entitled to a refund, they replied that I can only bring that up after a …",
       "topics": [
-        "approval",
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -191,14 +278,16 @@
       }
     },
     {
-      "id": "t3_1xch25v",
-      "title": "When should one expect a refund on PP?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xch25v/when_should_one_expect_a_refund_on_pp/",
-      "author": "/u/No-Pomegranate3787",
-      "publishedAt": "2026-10-22T12:21:21+00:00",
-      "excerpt": "Hi. I filed for PP alongside my petition with PD of Sept 22 2025. I got an RFE in August 3 2026 which I have sent my response. During the delay between PD and when RFE was issued, I had sent several emails to the Texas office requesting when I am entitled to a refund, they replied that I can only bring that up after a …",
+      "id": "t3_1xc5gjz",
+      "title": "RFE RESPONSE WITH EP",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc5gjz/rfe_response_with_ep/",
+      "author": "/u/Affectionate_Pin5562",
+      "publishedAt": "2026-10-22T01:32:52+00:00",
+      "excerpt": "I recently received a three-prong RFE with only about a 30-day response window. I haven’t received the response strategy from my attorney yet, and with the short deadline I’m feeling anxious. For anyone who recently responded to an RFE with Ellis Porter on a short timeline: How long did it take to receive the strategy …",
       "topics": [
         "i140",
+        "lawyer",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -253,26 +342,6 @@
       "author": "/u/Candid_Buddy_3049",
       "publishedAt": "2026-10-22T11:23:24+00:00",
       "excerpt": "I just got an email from Chen saying I am entitled to a refund if my case gets denied. So the only lost money would be the costs for the premium processing right? Which option is the best in your opinion: NIW Case Preparation Options: Option Description & Key Points to Consider Client Requirements Timeline\\ * Cost Opti…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xc5gjz",
-      "title": "RFE RESPONSE WITH EP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc5gjz/rfe_response_with_ep/",
-      "author": "/u/Affectionate_Pin5562",
-      "publishedAt": "2026-10-22T01:32:52+00:00",
-      "excerpt": "I recently received a three-prong RFE with only about a 30-day response window. I haven’t received the response strategy from my attorney yet, and with the short deadline I’m feeling anxious. For anyone who recently responded to an RFE with Ellis Porter on a short timeline: How long did it take to receive the strategy …",
       "topics": [
         "i140",
         "lawyer",
@@ -362,16 +431,15 @@
       }
     },
     {
-      "id": "t3_1xbvf1q",
-      "title": "Received an email that NIW is approved but USCIS website says \"Case Is Being Actively Reviewed By USCIS\"",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbvf1q/received_an_email_that_niw_is_approved_but_uscis/",
-      "author": "/u/Ok-Tennis1516",
-      "publishedAt": "2026-10-21T18:35:10+00:00",
-      "excerpt": "I received email on Monday that the case is approved but website still says \"Case is being actively reviewed by USCIS\". It's been 3 days and the status is still the same. How long it takes to get the approval reciept or status being changed on the website?",
+      "id": "t3_1xbwuuf",
+      "title": "NIW RFE | Looking for Advice and Success Stories",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbwuuf/niw_rfe_looking_for_advice_and_success_stories/",
+      "author": "/u/PuzzleheadedAioli776",
+      "publishedAt": "2026-10-21T19:27:43+00:00",
+      "excerpt": "First, I want to thank God and my Lord and Savior, Jesus Christ, for carrying me through the entire process of assembling my NIW petition and giving me wisdom along the way. I’m also sending encouragement to every self-petitioner currently facing an RFE. You’re not alone in this journey. I received an RFE on my NIW pet…",
       "topics": [
         "approval",
         "i140",
-        "timeline",
         "question"
       ],
       "signals": {
@@ -402,87 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xbwuuf",
-      "title": "NIW RFE | Looking for Advice and Success Stories",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbwuuf/niw_rfe_looking_for_advice_and_success_stories/",
-      "author": "/u/PuzzleheadedAioli776",
-      "publishedAt": "2026-10-21T19:27:43+00:00",
-      "excerpt": "First, I want to thank God and my Lord and Savior, Jesus Christ, for carrying me through the entire process of assembling my NIW petition and giving me wisdom along the way. I’m also sending encouragement to every self-petitioner currently facing an RFE. You’re not alone in this journey. I received an RFE on my NIW pet…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xc50jh",
-      "title": "Profile review: Master's (MIS), AI for aquaculture, ~1 year in field, no citations- planning to file before December. How strong is my case?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc50jh/profile_review_masters_mis_ai_for_aquaculture_1/",
-      "author": "/u/Fun-Spot-7504",
-      "publishedAt": "2026-10-22T01:11:09+00:00",
-      "excerpt": "Background: M.S. in Management Information Systems (U.S.); B.S in Computer Science Full-time job: data/IT role at a U.S. public university (not research) Research: AI and computer vision for aquaculture, with the university's aquaculture department. Paid research associate for ~4 months in 2026; continuing as an unpaid…",
-      "topics": [
-        "approval",
-        "i485",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xc4mlc",
-      "title": "Info needed on officer XM2004",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xc4mlc/info_needed_on_officer_xm2004/",
-      "author": "/u/Current-Tower-4210",
-      "publishedAt": "2026-10-22T00:52:22+00:00",
-      "excerpt": "I got an RFE on my NIW petition from this officer a couple of months ago. All 3 prongs were challenged. My attorney has put up a substantial response with corresponding evidence and it's due for submission in a few days. Before finally sending it out, I wanted to check with community here for any further insights on wh…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xbc1rw",
-      "title": "EB-2 NIW Approved After RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xbc1rw/eb2_niw_approved_after_rfe/",
-      "author": "/u/Himeld",
-      "publishedAt": "2026-10-21T03:06:11+00:00",
-      "excerpt": "Hi All, Happy to share that my EB-2 NIW was approved after an RFE on all three prongs! My background: PhD in Aerospace Engineering and Scientific Computing Previously a postdoc, now working in industry At filing: 3 first-author journal papers, 1 conference paper, 33 citations, and 6 peer reviews LORs: 2 (1 independent,…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-22T15:43:40.044Z",
+  "syncedAt": "2026-10-22T19:37:25.725Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
