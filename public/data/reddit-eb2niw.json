@@ -75,16 +75,33 @@
       }
     },
     {
-      "id": "t3_1xdefgo",
-      "title": "How long are taking officers to issue a desicion after an RFE?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdefgo/how_long_are_taking_officers_to_issue_a_desicion/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-10-23T13:43:43+00:00",
-      "excerpt": "In PP.",
+      "id": "t3_1xdncci",
+      "title": "Profile evaluation: Criminology",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdncci/profile_evaluation_criminology/",
+      "author": "/u/Worth_Mention_7159",
+      "publishedAt": "2026-10-23T19:18:43+00:00",
+      "excerpt": "Tenure track professor in the state university, criminology, 6 peer reviewed article, 1 book review, 1 journal reviewer, 2 citations. Numerous national conference presentation and one research grant for dissertation. EP offered me a retainer doc that includes $6500 and one refiling without additional cost to pursue thi…",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xdo2oe",
+      "title": "I built a tool to make NIW drafting easy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdo2oe/i_built_a_tool_to_make_niw_drafting_easy/",
+      "author": "/u/Angus_Wu",
+      "publishedAt": "2026-10-23T19:46:58+00:00",
+      "excerpt": "I spent about 3 years working at two different immigration law firms on EB2-NIW petitions. One thing I learned is that there’s a huge information gap between applicants and law firms. Most people never really see the workflow behind a petition - how evidence is organized, how arguments are structured, what templates ar…",
       "topics": [
         "i140",
-        "timeline",
-        "question"
+        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -114,6 +131,102 @@
       }
     },
     {
+      "id": "t3_1xdefgo",
+      "title": "How long are taking officers to issue a desicion after an RFE?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdefgo/how_long_are_taking_officers_to_issue_a_desicion/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-10-23T13:43:43+00:00",
+      "excerpt": "In PP.",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xdljka",
+      "title": "I-140 RFE electronic copy",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdljka/i140_rfe_electronic_copy/",
+      "author": "/u/Sea-Rich-3803",
+      "publishedAt": "2026-10-23T18:11:21+00:00",
+      "excerpt": "Hi everyone, I received an RFE update on my I-140 premium processing case yesterday. I emailed the Texas Service Center ([ TSC-Premium.Processing@uscis.dhs.gov ](mailto: TSC-Premium.Processing@uscis.dhs.gov )) this morning requesting an electronic copy of the RFE notice, but I haven't received a response yet. For those…",
+      "topics": [
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xdosc6",
+      "title": "Recommendation letter when responding RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdosc6/recommendation_letter_when_responding_rfe/",
+      "author": "/u/One-Rhubarb2137",
+      "publishedAt": "2026-10-23T20:14:12+00:00",
+      "excerpt": "Hi everyone, I’m in a stressful situation with my RFE response and would really appreciate some advice or shared experiences. The Situation: In March, I emailed my former professor to ask for a recommendation letter. She agreed and asked me to draft it for her to review and sign. My attorney (EP) and I decided to hold …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xdmhvi",
+      "title": "Profile evaluation: Civil/Structural Engineering research > distributed/cloud software engineering",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdmhvi/profile_evaluation_civilstructural_engineering/",
+      "author": "/u/Strong-Evening1137",
+      "publishedAt": "2026-10-23T18:47:07+00:00",
+      "excerpt": "Hi everyone, I’m exploring whether an EB-2 NIW petition would be viable for my background. I have not engaged a law firm yet and wanted to get some community feedback before deciding whether to pursue this further. My background: MASc in Structural Engineering and BEng in Civil Engineering 4 peer-reviewed publications …",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xdl3j8",
+      "title": "How to change I-140 NIW address?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdl3j8/how_to_change_i140_niw_address/",
+      "author": "/u/Acrobatic-Motor4015",
+      "publishedAt": "2026-10-23T17:54:56+00:00",
+      "excerpt": "I changed my address using my.uscis but after a few hours the status changed to personal information not found. Has anyone successfully changed their address online? Thanks.",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xd5o3d",
       "title": "Eb2-NIW Denied after RFE response",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xd5o3d/eb2niw_denied_after_rfe_response/",
@@ -124,6 +237,42 @@
         "approval",
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xdp66a",
+      "title": "Officer # XM2415 / July 2026 PD - RFE Status Check?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdp66a/officer_xm2415_july_2026_pd_rfe_status_check/",
+      "author": "/u/Kind_Medium6774",
+      "publishedAt": "2026-10-23T20:29:41+00:00",
+      "excerpt": "Any EB2NIW applicants who received RFE from officer XM2415 and have submitted RFE response ? Anyone received final decision ? What is your PD and RFE response submission date and current application status ?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xdownx",
+      "title": "I-140 for application?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdownx/i140_for_application/",
+      "author": "/u/Kind_Medium6774",
+      "publishedAt": "2026-10-23T20:18:54+00:00",
+      "excerpt": "Checking if IOE0937616197 is for EB2-NIW or EB1A? Looking for confirmation from the applicant",
+      "topics": [
+        "i140",
         "question"
       ],
       "signals": {
@@ -321,151 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xcybla",
-      "title": "EB2 NIW RFE with EP",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcybla/eb2_niw_rfe_with_ep/",
-      "author": "/u/NoLocksmith4784",
-      "publishedAt": "2026-10-22T23:35:02+00:00",
-      "excerpt": "I applied for my EB2 NIW with EP on August 5 and recently received my RFE. I was challenged in Prong 2 and Prong 3. While the officer accepted Prong 1 and the advanced degree. The RFE seems to be highly templated calling me “he” and “she” on the same page. Profile : PhD in CS from US university Citations :400 Publicati…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xcy4cr",
-      "title": "Service Centers Timeline (EB2-NIW)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcy4cr/service_centers_timeline_eb2niw/",
-      "author": "/u/Classic_Suspect_7385",
-      "publishedAt": "2026-10-22T23:26:03+00:00",
-      "excerpt": "Hello Everyone, Could anyone please share the current processing times at the USCIS Texas and Nebraska Service Centers for I-140 (EB2-NIW). I would appreciate any recent updates on how long cases are taking to process at these two centers.",
-      "topics": [
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xcinz6",
-      "title": "NIW I-140 approved without RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcinz6/niw_i140_approved_without_rfe/",
-      "author": "/u/hotashami",
-      "publishedAt": "2026-10-22T13:31:50+00:00",
-      "excerpt": "I have got a lot of help from this sub, so time to share my experience: PD: July 2026 (filed with premium processing) Service Center: Texas Decision: September 2026 (on the evening of 44th business day) Country of Birth: ROW Endeavor: Nanomedicine-based precision drug delivery for cancer treatment Law firm: Chen (Wegre…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xcodgu",
-      "title": "Bulletin released",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcodgu/bulletin_released/",
-      "author": "/u/Existing-Ad9553",
-      "publishedAt": "2026-10-22T17:06:21+00:00",
-      "excerpt": "EB2 ROW moved a bit https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2027/visa-bulletin-for-november-2026.html",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xcl8hx",
-      "title": "WILD 3 Prong RFE - Doesnt match my profile or evidence at all!",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcl8hx/wild_3_prong_rfe_doesnt_match_my_profile_or/",
-      "author": "/u/BisonAlternative342",
-      "publishedAt": "2026-10-22T15:11:21+00:00",
-      "excerpt": "Hi Guys, I received a heavily (and wildly) templated RFE recently. My endeavor is in creating \"wildfire resilient prefab houses in the US\". I am an Architect with over 5 years of post graduate experience. I filed for an I-140 with Premium Processing. What is wild is that the RFE states that I \"studied computer science …",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xct4fq",
-      "title": "November 2026 Visa Bulletin: EB-2, EB-3, and family-based green card updates",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xct4fq/november_2026_visa_bulletin_eb2_eb3_and/",
-      "author": "/u/ManifestLaw_",
-      "publishedAt": "2026-10-22T20:00:48+00:00",
-      "excerpt": "The November 2026 Visa Bulletin was released on October 22, with some movement in employment-based green card categories and bigger advances in family-based categories. Here's a breakdown of what changed: Employment-based green cards: EB-1: China advanced 1 month to August 1, 2023. India remains at February 1, 2023, wh…",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xcwqau",
-      "title": "PP upgrade after a lawyer, which address to put?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcwqau/pp_upgrade_after_a_lawyer_which_address_to_put/",
-      "author": "/u/GPA_Only_Goes_Up",
-      "publishedAt": "2026-10-22T22:24:36+00:00",
-      "excerpt": "I'm having some questions about trying to fill out the PP I-907 correctly. I am upgrading a current case to premium processing, which was filed by a lawyer. I have talked to my lawyer, and we agreed that I would file the PP myself. However, two questions arise: For Part 1, Form 8: Would you select the checkbox \"I am th…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xcn1gm",
-      "title": "Any industry profiles approved recently?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xcn1gm/any_industry_profiles_approved_recently/",
-      "author": "/u/Shishi2109",
-      "publishedAt": "2026-10-22T16:17:39+00:00",
-      "excerpt": "Looking to get info on industry profiles who got approved recently. I'm thinking of self petitioning",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-23T17:35:44.156Z",
+  "syncedAt": "2026-10-23T20:47:42.031Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
