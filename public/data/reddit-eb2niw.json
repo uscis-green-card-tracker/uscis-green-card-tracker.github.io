@@ -35,6 +35,25 @@
       }
     },
     {
+      "id": "t3_1xe1zi4",
+      "title": "NIW I-140 RFE – Experience with Arkell (Former Dunn Law Attorney at Rader)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xe1zi4/niw_i140_rfe_experience_with_arkell_former_dunn/",
+      "author": "/u/Longjumping_Fruit918",
+      "publishedAt": "2026-10-24T07:08:42+00:00",
+      "excerpt": "Hi everyone, I recently received an RFE for my EB-2 NIW I-140 petition. Has anyone worked with attorney Arkell, formerly with Dunn Law and now at Rader, particularly for an RFE response? I’d really appreciate hearing about your experience and whether your RFE response was successful. I’m currently trying to decide whet…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xdhx2k",
       "title": "EB-2 NIW I-140 Approved on My Third Attempt—Without an RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdhx2k/eb2_niw_i140_approved_on_my_third_attemptwithout/",
@@ -71,25 +90,6 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": "3/9/2026",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xe1zi4",
-      "title": "NIW I-140 RFE – Experience with Arkell (Former Dunn Law Attorney at Rader)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xe1zi4/niw_i140_rfe_experience_with_arkell_former_dunn/",
-      "author": "/u/Longjumping_Fruit918",
-      "publishedAt": "2026-10-24T07:08:42+00:00",
-      "excerpt": "Hi everyone, I recently received an RFE for my EB-2 NIW I-140 petition. Has anyone worked with attorney Arkell, formerly with Dunn Law and now at Rader, particularly for an RFE response? I’d really appreciate hearing about your experience and whether your RFE response was successful. I’m currently trying to decide whet…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -188,6 +188,24 @@
       }
     },
     {
+      "id": "t3_1xdt1qr",
+      "title": "RFE personal statement.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdt1qr/rfe_personal_statement/",
+      "author": "/u/Impressive_Aziiii",
+      "publishedAt": "2026-10-23T23:13:50+00:00",
+      "excerpt": "What’s the Ideal number of pages for Personal statement. Chen told you can keep it upto 30 pages",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xdzwu4",
       "title": "I140-USCIS is currently processing the case/ standard processing",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdzwu4/i140uscis_is_currently_processing_the_case/",
@@ -236,24 +254,6 @@
         "approval",
         "i140",
         "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xdt1qr",
-      "title": "RFE personal statement.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdt1qr/rfe_personal_statement/",
-      "author": "/u/Impressive_Aziiii",
-      "publishedAt": "2026-10-23T23:13:50+00:00",
-      "excerpt": "What’s the Ideal number of pages for Personal statement. Chen told you can keep it upto 30 pages",
-      "topics": [
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -471,7 +471,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-24T07:44:03.299Z",
+  "syncedAt": "2026-10-24T12:20:05.929Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
