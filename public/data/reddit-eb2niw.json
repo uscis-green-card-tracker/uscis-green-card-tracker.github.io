@@ -53,6 +53,26 @@
       }
     },
     {
+      "id": "t3_1xeg7dr",
+      "title": "APPROVALS on EB2 NIW, 7 day lookback, week 43 of 2026",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xeg7dr/approvals_on_eb2_niw_7_day_lookback_week_43_of/",
+      "author": "/u/equalizer-rage",
+      "publishedAt": "2026-10-24T18:34:57+00:00",
+      "excerpt": "Happy weekend everyone! This week I detected 11 approvals on this subreddit. Please see their summaries below, and you can also access the table with links to all the posts here (I provide weekly updates like this one for EB2 NIW and EB1A approvals and denials). Please consider adding your profile to the Community Trac…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xef86u",
       "title": "EB2-NIW: Arkell and Chen declined, Ellis Porter, Colombo & Hurd, and Raju accepted",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xef86u/eb2niw_arkell_and_chen_declined_ellis_porter/",
@@ -81,26 +101,6 @@
       "excerpt": "",
       "topics": [
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xeg7dr",
-      "title": "APPROVALS on EB2 NIW, 7 day lookback, week 43 of 2026",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xeg7dr/approvals_on_eb2_niw_7_day_lookback_week_43_of/",
-      "author": "/u/equalizer-rage",
-      "publishedAt": "2026-10-24T18:34:57+00:00",
-      "excerpt": "Happy weekend everyone! This week I detected 11 approvals on this subreddit. Please see their summaries below, and you can also access the table with links to all the posts here (I provide weekly updates like this one for EB2 NIW and EB1A approvals and denials). Please consider adding your profile to the Community Trac…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer"
       ],
       "signals": {
         "blockNumber": null,
@@ -470,7 +470,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-24T19:09:06.974Z",
+  "syncedAt": "2026-10-24T22:06:10.021Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
