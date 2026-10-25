@@ -35,12 +35,12 @@
       }
     },
     {
-      "id": "t3_1xerbr9",
-      "title": "EB-2 NIW – Ellis Porter RFE Outcomes in 2026 (Premium Processing)",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xerbr9/eb2_niw_ellis_porter_rfe_outcomes_in_2026_premium/",
-      "author": "/u/FoxRoutine9847",
-      "publishedAt": "2026-10-25T03:03:47+00:00",
-      "excerpt": "Has anyone here worked with Ellis Porter for an EB-2 NIW petition and received an RFE in 2026 while using premium processing? I'm particularly interested in hearing from people whose RFE responses were prepared and",
+      "id": "t3_1xf24by",
+      "title": "Foreign Degrees Evaluated to U.S Equivalency Degree for EB2 NIW",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xf24by/foreign_degrees_evaluated_to_us_equivalency/",
+      "author": "/u/Wide-Comfort1858",
+      "publishedAt": "2026-10-25T13:16:13+00:00",
+      "excerpt": "Hi everyone, I submitted my EB2 NIW petition still pending, however, I evaluated my foreign degree to US equivalency prior to submission and added it to my full package and submitted. My question is am I still going to ask WES to send another copy to USCIS? Does USCIS accept copies from self petitioners or through WES …",
       "topics": [
         "i140",
         "question"
@@ -74,14 +74,15 @@
       }
     },
     {
-      "id": "t3_1xeok0p",
-      "title": "3 prong RFE from XM2031.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xeok0p/3_prong_rfe_from_xm2031/",
-      "author": "/u/Unable_Main1925",
-      "publishedAt": "2026-10-25T00:42:36+00:00",
-      "excerpt": "Just wanted to share this line: \"The petitioner submitted evidence of research grants or funding and claims that it demonstrates a past record of success. Research grants are given to simply fund a scientist's work. Every successful scientist engaged in research, of which there are hundreds of thousands, receives fundi…",
+      "id": "t3_1xerbr9",
+      "title": "EB-2 NIW – Ellis Porter RFE Outcomes in 2026 (Premium Processing)",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xerbr9/eb2_niw_ellis_porter_rfe_outcomes_in_2026_premium/",
+      "author": "/u/FoxRoutine9847",
+      "publishedAt": "2026-10-25T03:03:47+00:00",
+      "excerpt": "Has anyone here worked with Ellis Porter for an EB-2 NIW petition and received an RFE in 2026 while using premium processing? I'm particularly interested in hearing from people whose RFE responses were prepared and",
       "topics": [
-        "i140"
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -238,25 +239,6 @@
       }
     },
     {
-      "id": "t3_1xe1zi4",
-      "title": "NIW I-140 RFE – Experience with Arkell (Former Dunn Law Attorney at Rader)?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xe1zi4/niw_i140_rfe_experience_with_arkell_former_dunn/",
-      "author": "/u/Longjumping_Fruit918",
-      "publishedAt": "2026-10-24T07:08:42+00:00",
-      "excerpt": "Hi everyone, I recently received an RFE for my EB-2 NIW I-140 petition. Has anyone worked with attorney Arkell, formerly with Dunn Law particularly for an RFE response? I’d really appreciate hearing about your experience and whether your RFE response was successful. I’m currently trying to decide whether to prepare the…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xdhx2k",
       "title": "EB-2 NIW I-140 Approved on My Third Attempt—Without an RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xdhx2k/eb2_niw_i140_approved_on_my_third_attemptwithout/",
@@ -268,6 +250,25 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xe1zi4",
+      "title": "NIW I-140 RFE – Experience with Arkell (Former Dunn Law Attorney at Rader)?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xe1zi4/niw_i140_rfe_experience_with_arkell_former_dunn/",
+      "author": "/u/Longjumping_Fruit918",
+      "publishedAt": "2026-10-24T07:08:42+00:00",
+      "excerpt": "Hi everyone, I recently received an RFE for my EB-2 NIW I-140 petition. Has anyone worked with attorney Arkell, formerly with Dunn Law particularly for an RFE response? I’d really appreciate hearing about your experience and whether your RFE response was successful. I’m currently trying to decide whether to prepare the…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -466,7 +467,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-25T10:23:05.978Z",
+  "syncedAt": "2026-10-25T14:40:24.584Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
