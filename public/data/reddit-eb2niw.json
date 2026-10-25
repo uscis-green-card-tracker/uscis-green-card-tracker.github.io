@@ -91,24 +91,6 @@
       }
     },
     {
-      "id": "t3_1xebkt0",
-      "title": "Si after responding to RFE in PP - When USCIS makes the decision at the last minute or at day 44-45, is that usually a denial? Or mixed or more approvals? I’m only looking for stats from applicant experiences.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xebkt0/si_after_responding_to_rfe_in_pp_when_uscis_makes/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-10-24T15:29:29+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xeqa97",
       "title": "EB2 NIW - Where can I can get EB2 NIW guide to fill in the application for the advanced degree route? Do I only need to submit my degree certificate or the official transcripts, too?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xeqa97/eb2_niw_where_can_i_can_get_eb2_niw_guide_to_fill/",
@@ -132,6 +114,24 @@
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xeq8bw/can_anyone_give_me_an_itemized_list_of_what_i/",
       "author": "/u/facemacintyre",
       "publishedAt": "2026-10-25T02:06:50+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xebkt0",
+      "title": "Si after responding to RFE in PP - When USCIS makes the decision at the last minute or at day 44-45, is that usually a denial? Or mixed or more approvals? I’m only looking for stats from applicant experiences.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xebkt0/si_after_responding_to_rfe_in_pp_when_uscis_makes/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-10-24T15:29:29+00:00",
       "excerpt": "",
       "topics": [
         "i140",
@@ -466,7 +466,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-25T05:29:55.038Z",
+  "syncedAt": "2026-10-25T10:23:05.978Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
