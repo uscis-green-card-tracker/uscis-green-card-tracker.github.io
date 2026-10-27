@@ -75,6 +75,24 @@
       }
     },
     {
+      "id": "t3_1xh58u6",
+      "title": "I’m at 41 business days after I submitted my RFE response (3 Prongs challenge), PP. what about you? How did it go? So anxious here.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xh58u6/im_at_41_business_days_after_i_submitted_my_rfe/",
+      "author": "/u/Informal_Menu5989",
+      "publishedAt": "2026-10-27T21:23:07+00:00",
+      "excerpt": "",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xgy2j2",
       "title": "28+ months waiting for EB2 NIW I-140 — anyone else from mid-2024 still stuck?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgy2j2/28_months_waiting_for_eb2_niw_i140_anyone_else/",
@@ -113,6 +131,61 @@
       }
     },
     {
+      "id": "t3_1xh6m4o",
+      "title": "Chen - anyone got two-filing offer?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xh6m4o/chen_anyone_got_twofiling_offer/",
+      "author": "/u/MerXuryM",
+      "publishedAt": "2026-10-27T22:17:07+00:00",
+      "excerpt": "Hi! I just sent a quote recently and got this two-filing approval or refund guarantee. I was wondering has anyone got this before? (Because I only knew there were approval-or-refund and approval-or-refile before) I was wondering what’s the difference and if there’s anything tricky here…",
+      "topics": [
+        "approval",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xh3ood",
+      "title": "RFE response for Prong 2",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xh3ood/rfe_response_for_prong_2/",
+      "author": "/u/Delicious_Help_5183",
+      "publishedAt": "2026-10-27T20:23:51+00:00",
+      "excerpt": "I am a postdoc working on funded projects. I received RFE on prong 2, which stated: The evidence submitted indicates that the beneficiary has historically contributed to federally funded research. However, the beneficiary failed to provided specific documentation of any current research grants awarded, clearly identify…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xh35yl",
+      "title": "IOE09375 block: Any decisions after an RFE response with PP?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xh35yl/ioe09375_block_any_decisions_after_an_rfe/",
+      "author": "/u/Cautious_Roll_8149",
+      "publishedAt": "2026-10-27T20:04:31+00:00",
+      "excerpt": "Hi everyone! My receipt number is in the IOE09375 block I received an RFE with a 30-day response time from TSC and submitted my response on October 6 with PP . Has anyone in the same or a nearby receipt block received a USCIS decision after responding to an RFE? If so, could you share: - When USCIS received your RFE re…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": "IOE09375",
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xgrjue",
       "title": "I got 60 days for RFE response.Is it unusual?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgrjue/i_got_60_days_for_rfe_responseis_it_unusual/",
@@ -121,6 +194,23 @@
       "excerpt": "",
       "topics": [
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xgu2f9",
+      "title": "Refile with old recommendation letters -EB2",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgu2f9/refile_with_old_recommendation_letters_eb2/",
+      "author": "/u/Imaginary_Ebb_6051",
+      "publishedAt": "2026-10-27T14:29:21+00:00",
+      "excerpt": "Hello, I am looking at refilling and I am inquiring if you can use the same old recommendation letters if the PE has not changed ?",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -142,6 +232,23 @@
         "i140",
         "lawyer",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xh61md",
+      "title": "DENIALS on EB2 NIW, 7 day lookback, week 44 of 2026",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xh61md/denials_on_eb2_niw_7_day_lookback_week_44_of_2026/",
+      "author": "/u/equalizer-rage",
+      "publishedAt": "2026-10-27T21:54:12+00:00",
+      "excerpt": "I publish weekly summaries of denials and approvals from this sub. Over the last week I recorded 5 denials, please see their details below, and I've made the table with links to all the posts available on r/VisaStats . Please consider adding your EB2 NIW journey details to the Community Tracker to improve our shared kn…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -191,13 +298,16 @@
       }
     },
     {
-      "id": "t3_1xgu2f9",
-      "title": "Refile with old recommendation letters -EB2",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgu2f9/refile_with_old_recommendation_letters_eb2/",
-      "author": "/u/Imaginary_Ebb_6051",
-      "publishedAt": "2026-10-27T14:29:21+00:00",
-      "excerpt": "Hello, I am looking at refilling and I am inquiring if you can use the same old recommendation letters if the PE has not changed ?",
+      "id": "t3_1xgwuot",
+      "title": "Does filing Form I-140 with Premium Processing at the begining affect the outcome of the case?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgwuot/does_filing_form_i140_with_premium_processing_at/",
+      "author": "/u/Objective-Wash-4423",
+      "publishedAt": "2026-10-27T16:14:09+00:00",
+      "excerpt": "Hey everyone, I am getting ready to file my Form I-140 and am trying to decide whether to opt for Premium Processing at the begining of the filing. Aside from the faster timeline (15 or 45 business days depending on the category) and the extra fee, does choosing premium processing impact the case itself in any way? Spe…",
       "topics": [
+        "approval",
+        "i140",
+        "timeline",
         "question"
       ],
       "signals": {
@@ -298,26 +408,6 @@
       }
     },
     {
-      "id": "t3_1xgwuot",
-      "title": "Does filing Form I-140 with Premium Processing at the begining affect the outcome of the case?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgwuot/does_filing_form_i140_with_premium_processing_at/",
-      "author": "/u/Objective-Wash-4423",
-      "publishedAt": "2026-10-27T16:14:09+00:00",
-      "excerpt": "Hey everyone, I am getting ready to file my Form I-140 and am trying to decide whether to opt for Premium Processing at the begining of the filing. Aside from the faster timeline (15 or 45 business days depending on the category) and the extra fee, does choosing premium processing impact the case itself in any way? Spe…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xgvygw",
       "title": "NIW EB-2 RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgvygw/niw_eb2_rfe/",
@@ -374,106 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xgfyqz",
-      "title": "NIW RFE on Prong 2 and 3",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgfyqz/niw_rfe_on_prong_2_and_3/",
-      "author": "/u/Delicious_Help_5183",
-      "publishedAt": "2026-10-27T01:53:43+00:00",
-      "excerpt": "Hi everyone, I received RFE on Prongs 2 and 3 for my petition. I am a postdoc in an R1 university. My proposed endeavor is-- To develop and apply systems biology approaches to leverage microbiome-based solutions in order to develop innovations in the biotechnology and biomedical sectors. Here is my timeline: PD: 04/15/…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "04/15/2026",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xgpekv",
-      "title": "Hello , Could you please confirm whether my EB-2 NIW petition must include a completed Form ETA-9089 Appendix A and a signed, uncertified Form ETA-9089 Final Determination?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgpekv/hello_could_you_please_confirm_whether_my_eb2_niw/",
-      "author": "/u/hachemi1978",
-      "publishedAt": "2026-10-27T10:58:31+00:00",
-      "excerpt": "",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xg21ab",
-      "title": "I-140 Approved without RFE.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xg21ab/i140_approved_without_rfe/",
-      "author": "/u/inforcrypto",
-      "publishedAt": "2026-10-26T16:40:55+00:00",
-      "excerpt": "Hi Community, I am glad to report that my i-140 has been approved without RFE. Field: Clinical Medicine and Research Degree: Foreign degree, equivalent to MD in the US PE: Epidural Spinal Cord Stimulation research and motor rehabilitation tools Citations: 59 before and 63 now. Attorney: Chen (approval or refund). Locat…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xgfbbt",
-      "title": "EB-2 NIW: Colombo & Hurd vs. Manifest Law vs. Akina Law vs. Ellis Porter — Which is better for an industry-based case?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xgfbbt/eb2_niw_colombo_hurd_vs_manifest_law_vs_akina_law/",
-      "author": "/u/Mountain-Boss7588",
-      "publishedAt": "2026-10-27T01:23:36+00:00",
-      "excerpt": "Hi everyone, I'm deciding between four law firms for my EB-2 NIW petition and would appreciate firsthand experiences, especially from industry-based applicants. My Background: 6 years of experience in food manufacturing as a Quality Assurance/Food Safety Manager. 4 peer-reviewed publications with approximately 101 cita…",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xg0d0e",
-      "title": "I-140",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xg0d0e/i140/",
-      "author": "/u/qasimbinali",
-      "publishedAt": "2026-10-26T15:41:25+00:00",
-      "excerpt": "Hi My i-140 approved today, just got an email, not updated on website yet and i don’t know how long they take. Citations ATF-35 AT approval 46 Chemistry Mphil, MS, doing PhD 4LORs- 2D and 2 InD File-07-26-2026 PP-08-24-2026 Approval email- 10-24-2026 Please any sincere and expert advice regarding i-485. Should i file i…",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-27T19:04:05.818Z",
+  "syncedAt": "2026-10-27T23:20:11.225Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
