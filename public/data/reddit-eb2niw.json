@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1xj0j49",
+      "title": "I-140 Approval",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xj0j49/i140_approval/",
+      "author": "/u/Few-Chemistry4918",
+      "publishedAt": "2026-10-30T00:03:32+00:00",
+      "excerpt": "Sharing my approval story in 2nd attempt. Country: ROW 1st Attempt :(denied) Attorney: Ellis porter Bachelor (overseas), 5 years of experience PhD Student in CS Had 2 publications 2 peer reviews ~150 citations no LOR organizing committee member in a conference. Research domain was AI, software engineering and HCI. File…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer",
+        "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xiluck",
       "title": "Approved after 3-prong RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xiluck/approved_after_3prong_rfe/",
@@ -45,26 +65,6 @@
         "approval",
         "i140",
         "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xinm0c",
-      "title": "EB-2 NIW Denied After RFE Response — Should I Appeal, File a Motion, or Refile?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xinm0c/eb2_niw_denied_after_rfe_response_should_i_appeal/",
-      "author": "/u/HolidayDraft5187",
-      "publishedAt": "2026-10-29T15:47:15+00:00",
-      "excerpt": "Hello everyone, I recently received a denial for my EB-2 NIW I-140, and I would really appreciate advice from people who have gone through a similar situation, especially those with a civil engineering and research background. My timeline: Priority date: September 2025 Premium processing upgrade: March 2026 RFE receive…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -94,20 +94,40 @@
       }
     },
     {
-      "id": "t3_1xis135",
-      "title": "No decision after more than 8 months of RFE response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xis135/no_decision_after_more_than_8_months_of_rfe/",
-      "author": "/u/Arthur-the-Alchemist",
-      "publishedAt": "2026-10-29T18:28:06+00:00",
-      "excerpt": "PD 12/31/24 PP 09/25 RFE 12/25 RFE Response 02/26 ROW- 39 Countries Firm - EP Profile at the time of filing: 4th-year PhD Candidate in an R01 School in Molecular Biology. Previous master's from home country. 8 papers, 2 first-author papers, 40+ citations, co-author on a Bill and Melinda Gates-funded research project. P…",
+      "id": "t3_1xinm0c",
+      "title": "EB-2 NIW Denied After RFE Response — Should I Appeal, File a Motion, or Refile?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xinm0c/eb2_niw_denied_after_rfe_response_should_i_appeal/",
+      "author": "/u/HolidayDraft5187",
+      "publishedAt": "2026-10-29T15:47:15+00:00",
+      "excerpt": "Hello everyone, I recently received a denial for my EB-2 NIW I-140, and I would really appreciate advice from people who have gone through a similar situation, especially those with a civil engineering and research background. My timeline: Priority date: September 2025 Premium processing upgrade: March 2026 RFE receive…",
       "topics": [
         "i140",
-        "lawyer"
+        "lawyer",
+        "timeline",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
-        "priorityDate": "12/31/24",
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xj0jkw",
+      "title": "Independent recommendation letters for RFE response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xj0jkw/independent_recommendation_letters_for_rfe/",
+      "author": "/u/Unlikely_Yard9514",
+      "publishedAt": "2026-10-30T00:04:04+00:00",
+      "excerpt": "Hi all, I recently received a RFE in all 3 prongs and I am considering adding 2/3 more independent recommendation letters. For my initial petition I added 1 dependent and 1 independent letters. Those who are in the same boat as me, I was wondering whether you are specifically adding the importance of your research base…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
         "mentionsCountry75": false
       }
     },
@@ -127,6 +147,24 @@
         "blockNumber": null,
         "receiptDate": null,
         "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xis135",
+      "title": "No decision after more than 8 months of RFE response",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xis135/no_decision_after_more_than_8_months_of_rfe/",
+      "author": "/u/Arthur-the-Alchemist",
+      "publishedAt": "2026-10-29T18:28:06+00:00",
+      "excerpt": "PD 12/31/24 PP 09/25 RFE 12/25 RFE Response 02/26 ROW- 39 Countries Firm - EP Profile at the time of filing: 4th-year PhD Candidate in an R01 School in Molecular Biology. Previous master's from home country. 8 papers, 2 first-author papers, 40+ citations, co-author on a Bill and Melinda Gates-funded research project. P…",
+      "topics": [
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": "12/31/24",
         "mentionsCountry75": false
       }
     },
@@ -282,24 +320,6 @@
       }
     },
     {
-      "id": "t3_1xiup6n",
-      "title": "Refund from Chen if Rejected ?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xiup6n/refund_from_chen_if_rejected/",
-      "author": "/u/AnOnYmOuS_KH",
-      "publishedAt": "2026-10-29T20:08:10+00:00",
-      "excerpt": "Basically the title. Is there any actual case of refund from Chen if rejected? I've got the approve or refund offer , just want to know if they actually provide refund if rejected or they might offer refiling etc. Just want to hear from people who request for refund without refiling.",
-      "topics": [
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xi89ym",
       "title": "EB-2 NIW Approved After RFE on All 3 Prongs | My Timeline and Experience",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xi89ym/eb2_niw_approved_after_rfe_on_all_3_prongs_my/",
@@ -311,6 +331,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xiup6n",
+      "title": "Refund from Chen if Rejected ?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xiup6n/refund_from_chen_if_rejected/",
+      "author": "/u/AnOnYmOuS_KH",
+      "publishedAt": "2026-10-29T20:08:10+00:00",
+      "excerpt": "Basically the title. Is there any actual case of refund from Chen if rejected? I've got the approve or refund offer , just want to know if they actually provide refund if rejected or they might offer refiling etc. Just want to hear from people who request for refund without refiling.",
+      "topics": [
+        "lawyer",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -426,47 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xi1tph",
-      "title": "Filing NIW online or by mail",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xi1tph/filing_niw_online_or_by_mail/",
-      "author": "/u/Few-Cardiologist8705",
-      "publishedAt": "2026-10-28T21:56:15+00:00",
-      "excerpt": "I think there is an option to file online right ? It seems like most people prefer to file via mail, is there a reason for that ?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xi8ilk",
-      "title": "Any recent approvals after responding to an RFE through Ellis Porter since July?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xi8ilk/any_recent_approvals_after_responding_to_an_rfe/",
-      "author": "/u/PsychologicalPace836",
-      "publishedAt": "2026-10-29T02:51:51+00:00",
-      "excerpt": "Has anyone received approval recently after responding to an RFE through EP, particularly since July?",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-29T23:45:12.076Z",
+  "syncedAt": "2026-10-30T03:31:14.801Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
