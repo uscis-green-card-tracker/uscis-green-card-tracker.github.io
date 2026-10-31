@@ -55,6 +55,43 @@
       }
     },
     {
+      "id": "t3_1xjt2j3",
+      "title": "Denied after RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjt2j3/denied_after_rfe/",
+      "author": "/u/InsuranceReasonable7",
+      "publishedAt": "2026-10-30T22:15:13+00:00",
+      "excerpt": "Applied with PP: April 2026 RFE: June 2026 Response Received: Aug 2026 Denied: End of October (44 BD) Application to Nebraska, RFE from TSC Endeavor: Biomedical AI. Profile: PhD. 120+ Citations, 10+ top tier publications, most first author. Law Firm: Chen (99% success rate lol) Boilerplate RFE on Prong 1 and 3. Waiting…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xjpc02",
+      "title": "Approved after RFE in Prong 2 and prong 3 after 40 Business Days",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjpc02/approved_after_rfe_in_prong_2_and_prong_3_after/",
+      "author": "/u/Available-Pin8108",
+      "publishedAt": "2026-10-30T19:45:50+00:00",
+      "excerpt": "Thank you Reddit for Claude trick.",
+      "topics": [
+        "approval",
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xjmflz",
       "title": "I140 Approval Without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjmflz/i140_approval_without_rfe/",
@@ -95,18 +132,18 @@
       }
     },
     {
-      "id": "t3_1xjpc02",
-      "title": "Approved after RFE in Prong 2 and prong 3 after 40 Business Days",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjpc02/approved_after_rfe_in_prong_2_and_prong_3_after/",
-      "author": "/u/Available-Pin8108",
-      "publishedAt": "2026-10-30T19:45:50+00:00",
-      "excerpt": "Thank you Reddit for Claude trick.",
+      "id": "t3_1xjs1pd",
+      "title": "Anyone heard with regular processing? Block IOE9375...",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjs1pd/anyone_heard_with_regular_processing_block_ioe9375/",
+      "author": "/u/Due_Independence_844",
+      "publishedAt": "2026-10-30T21:32:17+00:00",
+      "excerpt": "Hi everyone! Has anyone heard back from USCIS on an EB-2 NIW filed under regular processing? I’m curious whether they’re moving on regular cases at all right now, or if they’re mostly working through premium processing ones. Would love to hear where your case stands and your timelines. Thanks so much, and good luck to …",
       "topics": [
-        "approval",
-        "i140"
+        "i140",
+        "question"
       ],
       "signals": {
-        "blockNumber": null,
+        "blockNumber": "IOE9375",
         "receiptDate": null,
         "priorityDate": null,
         "mentionsCountry75": false
@@ -161,6 +198,42 @@
         "approval",
         "i140",
         "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xjuawf",
+      "title": "San Francisco Field Office I-485",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjuawf/san_francisco_field_office_i485/",
+      "author": "/u/Klutzy-Jaguar-6546",
+      "publishedAt": "2026-10-30T23:08:10+00:00",
+      "excerpt": "Do you guys have any idea which groups of cases actively being processed in San Francisco Field Office? I was transferred there Nov 2025 My PD is in 2023, and my I-485 was submitted in June 2025. The earliest I can inquire about the case keeps moving every time I feel I'm close to it! It's moved to 2027. What options d…",
+      "topics": [
+        "i485",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xjwdza",
+      "title": "I built a tool to make NIW drafting easy and would love to connect to help and for feedback!",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjwdza/i_built_a_tool_to_make_niw_drafting_easy_and/",
+      "author": "/u/Angus_Wu",
+      "publishedAt": "2026-10-31T00:40:21+00:00",
+      "excerpt": "Hello! I shared a couple of posts on reddit recently about dreamcard-ai.com , a NIW petition generation tool I've been building based on my 3 years of experience working on NIW petitions at immigration law firms. I've received a lot of thoughtful feedback from the community, and it's been incredibly helpful in understa…",
+      "topics": [
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -399,83 +472,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xis135",
-      "title": "No decision after more than 8 months of RFE response",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xis135/no_decision_after_more_than_8_months_of_rfe/",
-      "author": "/u/Arthur-the-Alchemist",
-      "publishedAt": "2026-10-29T18:28:06+00:00",
-      "excerpt": "PD 12/31/24 PP 09/25 RFE 12/25 RFE Response 02/26 ROW- 39 Countries Firm - EP Profile at the time of filing: 4th-year PhD Candidate in an R01 School in Molecular Biology. Previous master's from home country. 8 papers, 2 first-author papers, 40+ citations, co-author on a Bill and Melinda Gates-funded research project. P…",
-      "topics": [
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": "12/31/24",
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xiv0r2",
-      "title": "New i-485",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xiv0r2/new_i485/",
-      "author": "/u/qasimbinali",
-      "publishedAt": "2026-10-29T20:19:44+00:00",
-      "excerpt": "After the new ruling effective on Sep-18th-2026 we have new i-485. Is there any one filing i-485 and have US citizen babies? Question: if your baby is receiving SNAP benefits ( not you) then On form i-485 what should be the answer to question Have you received any means-tested public benefits? My understanding is since…",
-      "topics": [
-        "approval",
-        "i485",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xirr9f",
-      "title": "I140 denied",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xirr9f/i140_denied/",
-      "author": "/u/Optimal-Ad2086",
-      "publishedAt": "2026-10-29T18:17:57+00:00",
-      "excerpt": "What to do after case has been denied?",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xioe3r",
-      "title": "Job loss and I-140 adjudication",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xioe3r/job_loss_and_i140_adjudication/",
-      "author": "/u/Delicious_Help_5183",
-      "publishedAt": "2026-10-29T16:15:26+00:00",
-      "excerpt": "Hi everyone, I have posted a few times on this sub, and I am thankful for your responses. I applied for I-140 and received RFE. The response is due at the end of November. However, I will also lose my postdoc job around the same time. One of the main demands in RFE is about funding. Since I am not going to have a job, …",
-      "topics": [
-        "approval",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-30T21:14:21.461Z",
+  "syncedAt": "2026-10-31T01:13:50.174Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
