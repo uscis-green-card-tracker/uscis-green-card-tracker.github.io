@@ -109,24 +109,6 @@
       }
     },
     {
-      "id": "t3_1xk90ad",
-      "title": "EB2 - Compliance Legal Professionals",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xk90ad/eb2_compliance_legal_professionals/",
-      "author": "/u/Total_Situation_1759",
-      "publishedAt": "2026-10-31T12:31:09+00:00",
-      "excerpt": "Is there anyone here with the profile of legal compliance with masters law degree and experience in export controls, anti-corruption, anti-money laundering and working for an mnc with 15 years of experience, who applied or got approved for eb2? I couldn’t find any real case examples when I google. Appreciate some insig…",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xjo38a",
       "title": "NIW approved",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjo38a/niw_approved/",
@@ -138,6 +120,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xk90ad",
+      "title": "EB2 - Compliance Legal Professionals",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xk90ad/eb2_compliance_legal_professionals/",
+      "author": "/u/Total_Situation_1759",
+      "publishedAt": "2026-10-31T12:31:09+00:00",
+      "excerpt": "Is there anyone here with the profile of legal compliance with masters law degree and experience in export controls, anti-corruption, anti-money laundering and working for an mnc with 15 years of experience, who applied or got approved for eb2? I couldn’t find any real case examples when I google. Appreciate some insig…",
+      "topics": [
+        "approval",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -468,7 +468,7 @@
       }
     }
   ],
-  "syncedAt": "2026-10-31T18:54:43.723Z",
+  "syncedAt": "2026-10-31T22:02:05.205Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
