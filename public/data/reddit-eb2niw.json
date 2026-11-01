@@ -55,6 +55,25 @@
       }
     },
     {
+      "id": "t3_1xl0xlc",
+      "title": "About E-filing for I-140, How many days does it take to get a receipt?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xl0xlc/about_efiling_for_i140_how_many_days_does_it_take/",
+      "author": "/u/Broad_One4686",
+      "publishedAt": "2026-11-01T11:39:08+00:00",
+      "excerpt": "Hi, I am considering to e-file I-140 petition for NIW-EB2 through my lawyer. (I also will submit G-28 for this) I was wondering how many days it would take to get a receipt from the US? and also, can I ask the receipt number or acceptance e-mail can be provided to me? or, because my lawyer will e-file instead of me, so…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xkqnyt",
       "title": "Submitting my own RFE response after issues with my lawyer",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xkqnyt/submitting_my_own_rfe_response_after_issues_with/",
@@ -222,24 +241,6 @@
       }
     },
     {
-      "id": "t3_1xjytx8",
-      "title": "EB-2 NIW RFE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjytx8/eb2_niw_rfe/",
-      "author": "/u/Adospel",
-      "publishedAt": "2026-10-31T02:38:34+00:00",
-      "excerpt": "Hi everyone, I’m a non-STEM EB-2 NIW self-petitioner who filed with premium processing and received an RFE USCIS explicitly accepted: - EB-2 eligibility (advanced degree) - Substantial merit of my proposed endeavor - Prong 2: Well positioned to advance the endeavor However, USCIS challenged: -Prong 1: National importan…",
-      "topics": [
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xjotau",
       "title": "EB-2 NIW approved with premium processing after a previous denial (PhD, ML/medical AI)",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjotau/eb2_niw_approved_with_premium_processing_after_a/",
@@ -251,6 +252,24 @@
         "i140",
         "lawyer",
         "timeline"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xjytx8",
+      "title": "EB-2 NIW RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjytx8/eb2_niw_rfe/",
+      "author": "/u/Adospel",
+      "publishedAt": "2026-10-31T02:38:34+00:00",
+      "excerpt": "Hi everyone, I’m a non-STEM EB-2 NIW self-petitioner who filed with premium processing and received an RFE USCIS explicitly accepted: - EB-2 eligibility (advanced degree) - Substantial merit of my proposed endeavor - Prong 2: Well positioned to advance the endeavor However, USCIS challenged: -Prong 1: National importan…",
+      "topics": [
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -446,30 +465,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xjlwzq",
-      "title": "Chen says wait for 100+ citations before filing NIW. Postdoc with ~20-30 citations: file now or wait?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjlwzq/chen_says_wait_for_100_citations_before_filing/",
-      "author": "/u/No-Part-298",
-      "publishedAt": "2026-10-30T17:36:08+00:00",
-      "excerpt": "Looking for opinions and real experiences, not a definitive answer. What would you do, and what do you think gives a better shot at approval? Situation: Chen took my EB2 NIW case. Now that I’m close to filing, they’re recommending I wait until my citations pass 100. Realistically that’s 6–12+ months away, maybe longer,…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-11-01T08:23:47.620Z",
+  "syncedAt": "2026-11-01T15:34:55.608Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
