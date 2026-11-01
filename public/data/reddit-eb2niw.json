@@ -35,6 +35,26 @@
       }
     },
     {
+      "id": "t3_1xkqnyt",
+      "title": "Submitting my own RFE response after issues with my lawyer",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xkqnyt/submitting_my_own_rfe_response_after_issues_with/",
+      "author": "/u/AdmirableStable4912",
+      "publishedAt": "2026-11-01T01:20:52+00:00",
+      "excerpt": "Hi everyone, I’ve run into problems with my lawyer and may need to submit my RFE response myself. A few questions: Withdrawing representation: What do I need to submit to let USCIS know I’m no longer represented by an attorney? Organization: What’s the right order for the response packet? I was thinking: cover sheet → …",
+      "topics": [
+        "i140",
+        "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xkbz6n",
       "title": "Cancellation Notice for Request for Additional Evidence",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xkbz6n/cancellation_notice_for_request_for_additional/",
@@ -242,14 +262,15 @@
       }
     },
     {
-      "id": "t3_1xk2wvj",
-      "title": "Can the I-140 Base Fee + Asylum Program Fee ($1,015) be combined in ONE Form G-1650?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xk2wvj/can_the_i140_base_fee_asylum_program_fee_1015_be/",
-      "author": "/u/ATK-77",
-      "publishedAt": "2026-10-31T06:27:09+00:00",
-      "excerpt": "For self petitioners, how did you split these payments? Was the joint payment accepted?",
+      "id": "t3_1xjp5cc",
+      "title": "RFE on 2.5 Prongs With only 2 Weeks to Respond!! Anyone Had This??",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjp5cc/rfe_on_25_prongs_with_only_2_weeks_to_respond/",
+      "author": "/u/ELD14B10",
+      "publishedAt": "2026-10-30T19:38:18+00:00",
+      "excerpt": "I’ve received a 2.5 prong RFE (intrinsic merit was accepted) but they only gave us about 2 weeks to respond! I filed with PP and I’m working with EP with a research based profile in robotics. EP told me that it’s very strange that they gave us such a short time window to respond. Furthermore, a lot of the RFE is templa…",
       "topics": [
         "i140",
+        "lawyer",
         "question"
       ],
       "signals": {
@@ -260,15 +281,14 @@
       }
     },
     {
-      "id": "t3_1xjp5cc",
-      "title": "RFE on 2.5 Prongs With only 2 Weeks to Respond!! Anyone Had This??",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xjp5cc/rfe_on_25_prongs_with_only_2_weeks_to_respond/",
-      "author": "/u/ELD14B10",
-      "publishedAt": "2026-10-30T19:38:18+00:00",
-      "excerpt": "I’ve received a 2.5 prong RFE (intrinsic merit was accepted) but they only gave us about 2 weeks to respond! I filed with PP and I’m working with EP with a research based profile in robotics. EP told me that it’s very strange that they gave us such a short time window to respond. Furthermore, a lot of the RFE is templa…",
+      "id": "t3_1xk2wvj",
+      "title": "Can the I-140 Base Fee + Asylum Program Fee ($1,015) be combined in ONE Form G-1650?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xk2wvj/can_the_i140_base_fee_asylum_program_fee_1015_be/",
+      "author": "/u/ATK-77",
+      "publishedAt": "2026-10-31T06:27:09+00:00",
+      "excerpt": "For self petitioners, how did you split these payments? Was the joint payment accepted?",
       "topics": [
         "i140",
-        "lawyer",
         "question"
       ],
       "signals": {
@@ -446,29 +466,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xj5epa",
-      "title": "EB-2 NIW denied after 3-prong RFE. Planning to appeal, has anyone done this?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xj5epa/eb2_niw_denied_after_3prong_rfe_planning_to/",
-      "author": "/u/Informal_Menu5989",
-      "publishedAt": "2026-10-30T04:00:24+00:00",
-      "excerpt": "Hi all, sharing my outcome and hoping to hear from anyone who has been through an appeal. Profile Industry practitioner in cybersecurity and Microsoft 365 / cloud identity security, 20+ years of experience No bachelor's degree, so I filed under exceptional ability Self-filed, no attorney Texas Service Center, premium p…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-10-31T22:02:05.205Z",
+  "syncedAt": "2026-11-01T01:39:04.484Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
