@@ -73,25 +73,6 @@
       }
     },
     {
-      "id": "t3_1xpsjph",
-      "title": "NIW I-140 Approved After a 3-Prong RFE and a Prior EB1A Denial",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpsjph/niw_i140_approved_after_a_3prong_rfe_and_a_prior/",
-      "author": "/u/Elegant_Struggle_208",
-      "publishedAt": "2026-11-07T00:18:40+00:00",
-      "excerpt": "As someone who’s spent a lot of time reading posts here, I wanted to share my experience as another data point for everyone else. A bit of background: I’m a Phd student at a top US university, from one of the travel ban / processing pause countries (probably the worst one!). My work is broadly in AI and optimization, a…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": true
-      }
-    },
-    {
       "id": "t3_1xpoug0",
       "title": "Approved! EB2 NIW (Premium) after RFE | Postdoc",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpoug0/approved_eb2_niw_premium_after_rfe_postdoc/",
@@ -112,6 +93,44 @@
       }
     },
     {
+      "id": "t3_1xq7p4h",
+      "title": "Niw-EB options",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xq7p4h/niweb_options/",
+      "author": "/u/Familiar_Cupcake1372",
+      "publishedAt": "2026-11-07T14:30:23+00:00",
+      "excerpt": "I’m a F1 PhD student in STEM (with a U.S. master’s degree). My EB-2 NIW petition was recently denied on premium processing, even though I felt I had a solid profile (approx 11 published papers in high impact journals (5 from USA), 75 citations, 7 reviewed articles). I filed with Chen Immigration. I’m worried about my o…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1xpsjph",
+      "title": "NIW I-140 Approved After a 3-Prong RFE and a Prior EB1A Denial",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpsjph/niw_i140_approved_after_a_3prong_rfe_and_a_prior/",
+      "author": "/u/Elegant_Struggle_208",
+      "publishedAt": "2026-11-07T00:18:40+00:00",
+      "excerpt": "As someone who’s spent a lot of time reading posts here, I wanted to share my experience as another data point for everyone else. A bit of background: I’m a Phd student at a top US university, from one of the travel ban / processing pause countries (probably the worst one!). My work is broadly in AI and optimization, a…",
+      "topics": [
+        "approval",
+        "i140",
+        "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": true
+      }
+    },
+    {
       "id": "t3_1xphbf3",
       "title": "EB-2 NIW Approved without RFE",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xphbf3/eb2_niw_approved_without_rfe/",
@@ -122,6 +141,25 @@
         "approval",
         "i140",
         "lawyer"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xq1yfd",
+      "title": "Have there been any recent cases of STEM professionals with a bachelor’s degree in Industrial Engineering receiving EB-2 NIW approval?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xq1yfd/have_there_been_any_recent_cases_of_stem/",
+      "author": "/u/Royal_Seesaw8591",
+      "publishedAt": "2026-11-07T09:00:57+00:00",
+      "excerpt": "Have there been any recent cases of STEM professionals with a bachelor’s degree in Industrial Engineering receiving EB-2 NIW approval?",
+      "topics": [
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -204,6 +242,25 @@
       }
     },
     {
+      "id": "t3_1xpg9ws",
+      "title": "EB-2 NIW Denied Twice, what should I do? Should I give up? Or try again",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpg9ws/eb2_niw_denied_twice_what_should_i_do_should_i/",
+      "author": "/u/Substantial_Kale_754",
+      "publishedAt": "2026-11-06T15:55:21+00:00",
+      "excerpt": "1st law firm, 2nd not law firm 3 prongs RFE Finally denied US master's degree in engineering currently 4 publications in 2 mid 2 weak journals 1 citation; Officer said citation level too low -low interest High salary Big Tech industry; Engineering role 1- Professional certification 5 solid recommendation letters - offi…",
+      "topics": [
+        "i140",
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xpfx5m",
       "title": "EB-2 NIW RFE on day 44 of premium processing (TSC): anyone with a similar timeline?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpfx5m/eb2_niw_rfe_on_day_44_of_premium_processing_tsc/",
@@ -233,25 +290,6 @@
       "topics": [
         "approval",
         "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xpg9ws",
-      "title": "EB-2 NIW Denied Twice, what should I do? Should I give up? Or try again",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpg9ws/eb2_niw_denied_twice_what_should_i_do_should_i/",
-      "author": "/u/Substantial_Kale_754",
-      "publishedAt": "2026-11-06T15:55:21+00:00",
-      "excerpt": "1st law firm, 2nd not law firm 3 prongs RFE Finally denied US master's degree in engineering currently 4 publications in 2 mid 2 weak journals 1 citation; Officer said citation level too low -low interest High salary Big Tech industry; Engineering role 1- Professional certification 5 solid recommendation letters - offi…",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -317,21 +355,6 @@
       }
     },
     {
-      "id": "t3_1xpj0as",
-      "title": "Do you guys have experience with requesting congressional assistance, please share with us details.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpj0as/do_you_guys_have_experience_with_requesting/",
-      "author": "/u/yfat_gb05",
-      "publishedAt": "2026-11-06T17:40:24+00:00",
-      "excerpt": "",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
       "id": "t3_1xp2h0a",
       "title": "EB-2 NIW Approved After RFE | STEM Education | No Attorney",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xp2h0a/eb2_niw_approved_after_rfe_stem_education_no/",
@@ -344,6 +367,21 @@
         "lawyer",
         "timeline"
       ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xpj0as",
+      "title": "Do you guys have experience with requesting congressional assistance, please share with us details.",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpj0as/do_you_guys_have_experience_with_requesting/",
+      "author": "/u/yfat_gb05",
+      "publishedAt": "2026-11-06T17:40:24+00:00",
+      "excerpt": "",
+      "topics": [],
       "signals": {
         "blockNumber": null,
         "receiptDate": null,
@@ -426,49 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xoxc6k",
-      "title": "I-140 approved",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xoxc6k/i140_approved/",
-      "author": "/u/Illustrious_Sun_7294",
-      "publishedAt": "2026-11-05T23:14:02+00:00",
-      "excerpt": "Hi everyone, My case is now approved. PD: Nov 2024 PP date: Sept 11, 2026 Approval date: Nov 5, 2026 Lawyer: Chen Now what are the next steps for I485? How straight forward is it and Do you guys recommend lawyer or self petition?",
-      "topics": [
-        "approval",
-        "i485",
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xp4fjj",
-      "title": "CASE TIMELINE",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xp4fjj/case_timeline/",
-      "author": "/u/Classic_Suspect_7385",
-      "publishedAt": "2026-11-06T05:04:53+00:00",
-      "excerpt": "Hello Everyone, I would like to understand how cases are assigned to specific blocks, the maximum number of cases each block can handle, and how these assignments are adjusted. I noticed that some blocks have fewer cases, while others have more. If a particular block has a higher approval rate than others, does that me…",
-      "topics": [
-        "approval",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-11-07T07:59:14.931Z",
+  "syncedAt": "2026-11-07T14:43:41.378Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
