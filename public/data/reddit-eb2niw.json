@@ -35,14 +35,16 @@
       }
     },
     {
-      "id": "t3_1xr2qvi",
-      "title": "Still waiting",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xr2qvi/still_waiting/",
-      "author": "/u/YouZealousideal7906",
-      "publishedAt": "2026-11-08T16:43:15+00:00",
-      "excerpt": "Hello, I submitted my I140 in Jan 2025 and it is still having no progress. Any thoughts what should I do other than premium route, it’s been two years approximately.",
+      "id": "t3_1xr57kd",
+      "title": "I-140 Status",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xr57kd/i140_status/",
+      "author": "/u/Classic_Suspect_7385",
+      "publishedAt": "2026-11-08T18:23:59+00:00",
+      "excerpt": "Hello Everyone, I would like to know one thing. Are cases approved during weekends (Saturday and Sunday) and at night? I have seen receiving approvals during these times on a trackmyi140. Also, is it normal for more than 150 cases to be approved in a single block in a single day? As far as I understand, recently, there…",
       "topics": [
-        "i140"
+        "approval",
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -61,6 +63,23 @@
       "topics": [
         "approval",
         "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xr46as",
+      "title": "Industry Background",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xr46as/industry_background/",
+      "author": "/u/Human_Reaction6469",
+      "publishedAt": "2026-11-08T17:41:44+00:00",
+      "excerpt": "Anyone with an industry background has a lawfirm recommendation? I have a business background and feel like it's a long shot in this environment. Would like to get a second opinion on my draft petition. Thank you!",
+      "topics": [
         "question"
       ],
       "signals": {
@@ -91,15 +110,14 @@
       }
     },
     {
-      "id": "t3_1xqub6l",
-      "title": "Spouse and I, same field",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqub6l/spouse_and_i_same_field/",
-      "author": "/u/unfrozen-mug",
-      "publishedAt": "2026-11-08T09:14:39+00:00",
-      "excerpt": "My spouse and I are planning to file an EB-2 NIW petition. We work in the same field and have somewhat similar academic profiles. She is a university professor in the US, while I am a student with more publications and citations. I assume she should be the principal applicant, but I’m not sure whether her proposed ende…",
+      "id": "t3_1xr2qvi",
+      "title": "Still waiting",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xr2qvi/still_waiting/",
+      "author": "/u/YouZealousideal7906",
+      "publishedAt": "2026-11-08T16:43:15+00:00",
+      "excerpt": "Hello, I submitted my I140 in Jan 2025 and it is still having no progress. Any thoughts what should I do other than premium route, it’s been two years approximately.",
       "topics": [
-        "i140",
-        "question"
+        "i140"
       ],
       "signals": {
         "blockNumber": null,
@@ -118,6 +136,43 @@
       "topics": [
         "i140",
         "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xqub6l",
+      "title": "Spouse and I, same field",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqub6l/spouse_and_i_same_field/",
+      "author": "/u/unfrozen-mug",
+      "publishedAt": "2026-11-08T09:14:39+00:00",
+      "excerpt": "My spouse and I are planning to file an EB-2 NIW petition. We work in the same field and have somewhat similar academic profiles. She is a university professor in the US, while I am a student with more publications and citations. I assume she should be the principal applicant, but I’m not sure whether her proposed ende…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xr4clt",
+      "title": "Eb2 - niw- Has anyone waiting for an I-485 traveled using parole?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xr4clt/eb2_niw_has_anyone_waiting_for_an_i485_traveled/",
+      "author": "/u/Imaginary_Gift8899",
+      "publishedAt": "2026-11-08T17:49:05+00:00",
+      "excerpt": "I am in the process of an EB-2 NIW application. It has been 18 months since my interview, and I have yet to receive a response. I have a grant of parole and would like to visit my family. I currently hold an F-1 visa, and I am aware that I will lose that visa if I choose to travel. I am exhausted from this long wait; I…",
+      "topics": [
+        "i485",
+        "i140",
         "question"
       ],
       "signals": {
@@ -413,65 +468,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xpdmlt",
-      "title": "RFE/Denied and Approved on 2nd filing",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpdmlt/rfedenied_and_approved_on_2nd_filing/",
-      "author": "/u/TurbulentGuidance626",
-      "publishedAt": "2026-11-06T14:05:29+00:00",
-      "excerpt": "Hi all, I'm writing this post to encourage those who have received RFEs or denials not to lose hope. Of course, when my first petition was denied, I was devastated for weeks. But I used it as an opportunity to learn what was missing from my first case and build a stronger case. A little about my background: R1 universi…",
-      "topics": [
-        "approval",
-        "i140",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xpoo74",
-      "title": "Highest degree",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpoo74/highest_degree/",
-      "author": "/u/Chimaxx",
-      "publishedAt": "2026-11-06T21:26:51+00:00",
-      "excerpt": "Most of the approved case in see here on are from PHD candidates in research. Are there success cases for Masters as highest degree? Specifically physicians with MPH",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xpotcq",
-      "title": "Denied After RFE | Refile with Ellis Porter or Take Refund and Self-File?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpotcq/denied_after_rfe_refile_with_ellis_porter_or_take/",
-      "author": "/u/Money-Membership-361",
-      "publishedAt": "2026-11-06T21:32:50+00:00",
-      "excerpt": "My previous EB2-NIW petition was denied in late October 2026. Here is my original post for reference: https://www.reddit.com/r/EB2_NIW/s/7QPdunaYGg Background at the time of initial filing: Second-year PhD student at a US university US master's degree Approximately 17 citations Several research publications I upgraded …",
-      "topics": [
-        "i140",
-        "lawyer",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-11-08T16:50:41.184Z",
+  "syncedAt": "2026-11-08T20:52:35.566Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
