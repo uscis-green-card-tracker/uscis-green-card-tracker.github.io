@@ -35,6 +35,60 @@
       }
     },
     {
+      "id": "t3_1xqpjw6",
+      "title": "EP/Chen or Self-File",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqpjw6/epchen_or_selffile/",
+      "author": "/u/Fearless-Doodle333",
+      "publishedAt": "2026-11-08T04:16:46+00:00",
+      "excerpt": "Hi guys! I keep seeing posts about how Chen is taking too much time, and everyone always saying that they had to make a lot of changes to their petition themselves, and that we can’t be too reliant on the lawyers. My question is, for someone who can dedicate time to their application, are the lawyers worth the money? M…",
+      "topics": [
+        "lawyer",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xqub6l",
+      "title": "Spouse and I, same field",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqub6l/spouse_and_i_same_field/",
+      "author": "/u/unfrozen-mug",
+      "publishedAt": "2026-11-08T09:14:39+00:00",
+      "excerpt": "My spouse and I are planning to file an EB-2 NIW petition. We work in the same field and have somewhat similar academic profiles. She is a university professor in the US, while I am a student with more publications and citations. I assume she should be the principal applicant, but I’m not sure whether her proposed ende…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xqq229",
+      "title": "Officer Xm2368",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqq229/officer_xm2368/",
+      "author": "/u/No_Barber1072",
+      "publishedAt": "2026-11-08T04:45:50+00:00",
+      "excerpt": "Is anyone here who received RFE from officer Xm2368?",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xqjwnn",
       "title": "NIW denied on degree timing. Free near-identical refile with Ellis Porter, or pay Chen ~$2k more for a rebuild",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqjwnn/niw_denied_on_degree_timing_free_nearidentical/",
@@ -55,16 +109,15 @@
       }
     },
     {
-      "id": "t3_1xqhamc",
-      "title": "I-140 denial notice appeared as “ESB Notice” in Documents, but status still says “currently processing”. Anyone seen this?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqhamc/i140_denial_notice_appeared_as_esb_notice_in/",
-      "author": "/u/Traditional-Toe-9470",
-      "publishedAt": "2026-11-07T21:22:25+00:00",
-      "excerpt": "EB-2 NIW, self-filed online, premium processing, Texas Service Center. Timeline: Filed: Aug 5, 2026 RFE issued: Oct 6 RFE response received: Oct 13 Status changed to “Case Is Being Actively Reviewed” (FTA0): Nov 5 Nov 6: a new document appeared under Documents, labelled “ESB Notice”. The PDF is a denial letter dated No…",
+      "id": "t3_1xqry8k",
+      "title": "EB-2 NIW Advice: PhD, 28 Publications, 600+ Citations | Lawyer, Timeline & Total Cost?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqry8k/eb2_niw_advice_phd_28_publications_600_citations/",
+      "author": "/u/mremon17",
+      "publishedAt": "2026-11-08T06:39:48+00:00",
+      "excerpt": "Hi everyone, I'm considering applying for EB-2 NIW and would appreciate advice from people who have successfully applied. My profile: PhD in Health (Public Health relevant) from Australia Master's in Public Health (Epidemiology) Bachelor's in Statistics 28 peer-reviewed journal publications (8 first-author) 600+ Google…",
       "topics": [
-        "approval",
-        "i485",
         "i140",
+        "lawyer",
         "timeline",
         "question"
       ],
@@ -85,6 +138,48 @@
       "topics": [
         "i140",
         "lawyer",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xqovyg",
+      "title": "I just got a silent update and a 3rd FTA0 dated 11-08-2026 (though my PD is not current due to retrogression) on my pending I-485. Is this a mass update for everyone or a legit officer touch?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqovyg/i_just_got_a_silent_update_and_a_3rd_fta0_dated/",
+      "author": "/u/Shebaro",
+      "publishedAt": "2026-11-08T03:39:36+00:00",
+      "excerpt": "Single Filer with medical exam attached when filing. PD: 07/07/2025 (approved I-140 NIW) RD: 03/27/2026 Biometrics: 04/27/2026 2FTA0 right after biometrics Silent updates: 05/27/2026, 05/29/2026 (this one was applied to all closed and open cases in myUSCIS account), 06/04/2026, and 06/06/2026. Transfer to LA field offi…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
+        "timeline",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": "03/27/2026",
+        "priorityDate": "07/07/2025",
+        "mentionsCountry75": true
+      }
+    },
+    {
+      "id": "t3_1xqhamc",
+      "title": "I-140 denial notice appeared as “ESB Notice” in Documents, but status still says “currently processing”. Anyone seen this?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xqhamc/i140_denial_notice_appeared_as_esb_notice_in/",
+      "author": "/u/Traditional-Toe-9470",
+      "publishedAt": "2026-11-07T21:22:25+00:00",
+      "excerpt": "EB-2 NIW, self-filed online, premium processing, Texas Service Center. Timeline: Filed: Aug 5, 2026 RFE issued: Oct 6 RFE response received: Oct 13 Status changed to “Case Is Being Actively Reviewed” (FTA0): Nov 5 Nov 6: a new document appeared under Documents, labelled “ESB Notice”. The PDF is a denial letter dated No…",
+      "topics": [
+        "approval",
+        "i485",
+        "i140",
         "timeline",
         "question"
       ],
@@ -302,12 +397,12 @@
       }
     },
     {
-      "id": "t3_1xpg9ws",
-      "title": "EB-2 NIW Denied Twice, what should I do? Should I give up? Or try again",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpg9ws/eb2_niw_denied_twice_what_should_i_do_should_i/",
-      "author": "/u/Substantial_Kale_754",
-      "publishedAt": "2026-11-06T15:55:21+00:00",
-      "excerpt": "1st law firm, 2nd not law firm 3 prongs RFE Finally denied Substantial merit accepted US master's degree in engineering currently 4 publications in 2 mid 2 weak journals 1 citation; Officer said citation level too low -low interest High salary Big Tech industry; Engineering role 1- Professional certification 5 solid re…",
+      "id": "t3_1xpotcq",
+      "title": "Denied After RFE | Refile with Ellis Porter or Take Refund and Self-File?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpotcq/denied_after_rfe_refile_with_ellis_porter_or_take/",
+      "author": "/u/Money-Membership-361",
+      "publishedAt": "2026-11-06T21:32:50+00:00",
+      "excerpt": "My previous EB2-NIW petition was denied in late October 2026. Here is my original post for reference: https://www.reddit.com/r/EB2_NIW/s/7QPdunaYGg Background at the time of initial filing: Second-year PhD student at a US university US master's degree Approximately 17 citations Several research publications I upgraded …",
       "topics": [
         "i140",
         "lawyer",
@@ -321,12 +416,12 @@
       }
     },
     {
-      "id": "t3_1xpotcq",
-      "title": "Denied After RFE | Refile with Ellis Porter or Take Refund and Self-File?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpotcq/denied_after_rfe_refile_with_ellis_porter_or_take/",
-      "author": "/u/Money-Membership-361",
-      "publishedAt": "2026-11-06T21:32:50+00:00",
-      "excerpt": "My previous EB2-NIW petition was denied in late October 2026. Here is my original post for reference: https://www.reddit.com/r/EB2_NIW/s/7QPdunaYGg Background at the time of initial filing: Second-year PhD student at a US university US master's degree Approximately 17 citations Several research publications I upgraded …",
+      "id": "t3_1xpg9ws",
+      "title": "EB-2 NIW Denied Twice, what should I do? Should I give up? Or try again",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpg9ws/eb2_niw_denied_twice_what_should_i_do_should_i/",
+      "author": "/u/Substantial_Kale_754",
+      "publishedAt": "2026-11-06T15:55:21+00:00",
+      "excerpt": "1st law firm, 2nd not law firm 3 prongs RFE Finally denied Substantial merit accepted US master's degree in engineering currently 4 publications in 2 mid 2 weak journals 1 citation; Officer said citation level too low -low interest High salary Big Tech industry; Engineering role 1- Professional certification 5 solid re…",
       "topics": [
         "i140",
         "lawyer",
@@ -375,101 +470,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xpgsuy",
-      "title": "Eb2 NIW Approval Rate of Texas Center",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpgsuy/eb2_niw_approval_rate_of_texas_center/",
-      "author": "/u/Crazy_Cabinet_3483",
-      "publishedAt": "2026-11-06T16:15:48+00:00",
-      "excerpt": "Hi folks, i have submitted Eb2 NIW PP date: 15 Jan 2026 no premium Citations: 59 at application time now 100 (4 first author top tier papers + coauthored 2 book chapters) Proposed: enhancing security to prevent data breaches on web Attached two rec letters Service center texas Im not going for PP because i have seen pp…",
-      "topics": [
-        "approval",
-        "i140"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xpkn3y",
-      "title": "RFE notice delivery time",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpkn3y/rfe_notice_delivery_time/",
-      "author": "/u/Ill_Thing5186",
-      "publishedAt": "2026-11-06T18:43:23+00:00",
-      "excerpt": "Hi there! Upon checking online status, I saw that RFE was issued on 44th business of PP (didn’t get email or text notification), I was wondering how long will it take to deliver the physical package in my address? Since the RFE response timeline has drastically reduced to 30 days as per various sources, I am worried if…",
-      "topics": [
-        "i140",
-        "timeline",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xp2h0a",
-      "title": "EB-2 NIW Approved After RFE | STEM Education | No Attorney",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xp2h0a/eb2_niw_approved_after_rfe_stem_education_no/",
-      "author": "/u/Optimal_Umpire_6230",
-      "publishedAt": "2026-11-06T03:19:00+00:00",
-      "excerpt": "Hi everyone! My EB-2 NIW was approved today! I’ve found encouragement in the approval stories shared here, so I wanted to share mine. Background: Educator with 14 years of experience, currently teaching STEM in Florida. Self-petitioned without an attorney, including the RFE response. Proposed endeavor: Expanding access…",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xoyeez",
-      "title": "EB2-NIW Approved | Chen Immigration | PP | No RFE | Previous Denial",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xoyeez/eb2niw_approved_chen_immigration_pp_no_rfe/",
-      "author": "/u/Infamous-Payment-685",
-      "publishedAt": "2026-11-06T00:01:23+00:00",
-      "excerpt": "Timeline: PD: August 2026 (upfront PP, paper-filed) Attorney: Chen Immigration (Approval or Refund without LOR) Approved: November 2026, no RFE (NSC) Background: PhD from a US R1 university, currently a postdoc at DOE national lab. Research in a novel manufacturing route. ~30 citations when filing, ~40 at approval, 22 …",
-      "topics": [
-        "approval",
-        "i140",
-        "lawyer",
-        "timeline"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xpj0as",
-      "title": "Do you guys have experience with requesting congressional assistance, please share with us details.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xpj0as/do_you_guys_have_experience_with_requesting/",
-      "author": "/u/yfat_gb05",
-      "publishedAt": "2026-11-06T17:40:24+00:00",
-      "excerpt": "",
-      "topics": [],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-11-08T03:21:06.616Z",
+  "syncedAt": "2026-11-08T10:52:57.183Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
