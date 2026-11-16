@@ -35,6 +35,24 @@
       }
     },
     {
+      "id": "t3_1xxlxae",
+      "title": "Confused on how to approach my RFE",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xxlxae/confused_on_how_to_approach_my_rfe/",
+      "author": "/u/kelyto30",
+      "publishedAt": "2026-11-16T10:21:26+00:00",
+      "excerpt": "Hi All, I have been preparing my 3 prong RFE. I have gotten a response from ChatGPT and Claude. The chatgpt response looks detailed and sometimes more like scientific research proposal words will “if this is true” or “might” or eg “the results of this research might benefit the US”. Claude uses more of legal term and v…",
+      "topics": [
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xxdb0t",
       "title": "EB2-NIW I-140 Pending for Almost 20 Months — Is Premium Processing Worth It?",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xxdb0t/eb2niw_i140_pending_for_almost_20_months_is/",
@@ -43,6 +61,24 @@
       "excerpt": "Hi everyone! My EB2-NIW priority date is March 28, 2025, and I’ve been waiting almost 20 months for a decision on my I-140. I’m seriously considering upgrading to Premium Processing this week, but I’m still unsure whether it’s worth the extra cost. For those who have been in a similar situation, would you recommend pay…",
       "topics": [
         "approval",
+        "i140",
+        "question"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
+      "id": "t3_1xxi8nh",
+      "title": "What should I aim for as an undergrad?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xxi8nh/what_should_i_aim_for_as_an_undergrad/",
+      "author": "/u/acetyl-bromide",
+      "publishedAt": "2026-11-16T06:27:43+00:00",
+      "excerpt": "In short, I am an undergraduate student majoring in Physics. Interests (very vaguely) lie in Quantum Chemistry & AI Legal Technology, which I feel like lies within US national interest. I also plan to go to graduate school for EE/CS. How many publications are required for a competitive NIW application? What else should…",
+      "topics": [
         "i140",
         "question"
       ],
@@ -208,6 +244,23 @@
       }
     },
     {
+      "id": "t3_1xwafjo",
+      "title": "Don’t file with Ch*n",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xwafjo/dont_file_with_chn/",
+      "author": "/u/Familiar_Cupcake1372",
+      "publishedAt": "2026-11-14T19:04:14+00:00",
+      "excerpt": "I filed my case with Ch*n, and it received an RFE because my petition was poorly and irresponsibly prepared. Later, they dumped everything on me to address those concerns, and it was rejected in the end. I would recommend filing by yourself and not trusting anybody blindly.",
+      "topics": [
+        "i140"
+      ],
+      "signals": {
+        "blockNumber": null,
+        "receiptDate": null,
+        "priorityDate": null,
+        "mentionsCountry75": false
+      }
+    },
+    {
       "id": "t3_1xwiyvc",
       "title": "EB-2 NIW I-140 Premium Processing – Still No Decision",
       "url": "https://www.reddit.com/r/EB2_NIW/comments/1xwiyvc/eb2_niw_i140_premium_processing_still_no_decision/",
@@ -283,14 +336,15 @@
       }
     },
     {
-      "id": "t3_1xwafjo",
-      "title": "Don’t file with Ch*n",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xwafjo/dont_file_with_chn/",
-      "author": "/u/Familiar_Cupcake1372",
-      "publishedAt": "2026-11-14T19:04:14+00:00",
-      "excerpt": "I filed my case with Ch*n, and it received an RFE because my petition was poorly and irresponsibly prepared. Later, they dumped everything on me to address those concerns, and it was rejected in the end. I would recommend filing by yourself and not trusting anybody blindly.",
+      "id": "t3_1xw31y2",
+      "title": "NIW Premium Processing a red flag?",
+      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xw31y2/niw_premium_processing_a_red_flag/",
+      "author": "/u/Independent_Smell256",
+      "publishedAt": "2026-11-14T13:58:52+00:00",
+      "excerpt": "Thinking of submitting next week but not via PP yet. Plan to upgrade to PP by January. Any thoughts about this? Helpful or not?",
       "topics": [
-        "i140"
+        "i140",
+        "question"
       ],
       "signals": {
         "blockNumber": null,
@@ -309,24 +363,6 @@
       "topics": [
         "approval",
         "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xw31y2",
-      "title": "NIW Premium Processing a red flag?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xw31y2/niw_premium_processing_a_red_flag/",
-      "author": "/u/Independent_Smell256",
-      "publishedAt": "2026-11-14T13:58:52+00:00",
-      "excerpt": "Thinking of submitting next week but not via PP yet. Plan to upgrade to PP by January. Any thoughts about this? Helpful or not?",
-      "topics": [
         "i140",
         "question"
       ],
@@ -428,46 +464,9 @@
         "priorityDate": null,
         "mentionsCountry75": false
       }
-    },
-    {
-      "id": "t3_1xvau3g",
-      "title": "I had filed 485 concurrently, and now received a RFE on my 140.",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xvau3g/i_had_filed_485_concurrently_and_now_received_a/",
-      "author": "/u/Rough-Bear-3908",
-      "publishedAt": "2026-11-13T15:29:48+00:00",
-      "excerpt": "I had filed 485 concurrently, and now received a RFE on my 140. If it gets denied, I’ll lose my 485 and all the money spent on that Is there a way ( appealing, filling another 140 at the same time etc,) that can help not losing the concurrently field i485???",
-      "topics": [
-        "i485",
-        "i140",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
-    },
-    {
-      "id": "t3_1xvp22n",
-      "title": "Only medical related endeavor are approved?",
-      "url": "https://www.reddit.com/r/EB2_NIW/comments/1xvp22n/only_medical_related_endeavor_are_approved/",
-      "author": "/u/Paratestar",
-      "publishedAt": "2026-11-14T00:55:50+00:00",
-      "excerpt": "Hello everyone. I'm trying to make the endeavor for my EB-2NIW. Also, I try to read as much as possible this reddit. Most (or almost all), are medical related endeavor. I felt even more discouraged every time I read reddit. I'm trying to do this because of my wife. She was diagnosed with a specific mutation of cancer, …",
-      "topics": [
-        "approval",
-        "question"
-      ],
-      "signals": {
-        "blockNumber": null,
-        "receiptDate": null,
-        "priorityDate": null,
-        "mentionsCountry75": false
-      }
     }
   ],
-  "syncedAt": "2026-11-16T03:49:08.418Z",
+  "syncedAt": "2026-11-16T12:15:07.196Z",
   "sourceUrl": "https://www.reddit.com/r/EB2_NIW/",
   "feedUrl": "https://www.reddit.com/r/EB2_NIW/.rss",
   "postCount": 25
